@@ -2,7 +2,7 @@ from Bio import Entrez
 from Bio import Medline
 
 
-lista_de_termos=['Legionella  pneumophila paris','Legionella  pneumophila lens' ]  # inserir termos que quer pesquisar a aqui
+lista_de_termos=['Legionella pneumophila subsp. pneumophila str. Philadelphia 1', 'Legionella pneumophila pneumophila', 'Legionella pneumophila pneumophila Philadelphia 1'] # inserir termos que quer pesquisar a aqui
 for i in lista_de_termos:
 
     Entrez.email = 'email_aqui'  # NOTA: Fazer mail
