@@ -1,0 +1,69 @@
+#####lpn:lpg0533#####
+ENTRY       lpg0533           CDS       T00199
+NAME        sucB
+DEFINITION  (RefSeq) dihydrolipoamide succinyltransferase
+ORTHOLOGY   K00658  2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00020  Citrate cycle (TCA cycle)
+            lpn00310  Lysine degradation
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+MODULE      lpn_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            lpn_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0533 (sucB)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                lpg0533 (sucB)
+              Amino acid metabolism
+               00310 Lysine degradation
+                lpg0533 (sucB)
+            Enzymes [BR:lpn01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.61  dihydrolipoyllysine-residue succinyltransferase
+                 lpg0533 (sucB)
+POSITION    575283..576512
+MOTIF       Pfam: 2-oxoacid_dh Biotin_lipoyl E3_binding GCV_H Biotin_lipoyl_2 HlyD_3
+DBLINKS     NCBI-ProteinID: YP_094576
+            NCBI-GeneID: 19832099
+            Pasteur: lpg0533
+            UniProt: Q5ZY40
+AASEQ       409
+            MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDIL
+            FNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVR
+            RMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREE
+            KRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMS
+            FFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIE
+            LAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPI
+            VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV
+NTSEQ       1230
+            atgtctattgaagtcaaagtacctgttctacccgagtcagtagctgatgcaacagtggct
+            gcgtggcataagaaagtgggtgataaagtatctcgcgatgagaacctagtggatctggaa
+            acagataaagttgtgcttgaagttccatcacctgtggatggggtattgtctgacattctg
+            tttaataccggagatacggttggttcaggagacttactggcaaaaatttctcaaagtgtt
+            tctgtagaatctcaaaaaactgagaaagaagagaaacctgtcaaaaaagaagaaataaaa
+            atttccgaaagtgaatcagttagcacaaaagaagataaatcaaccagtccggtagtaaga
+            cggatgatggctgaaaatgatttgaaagccgggcagattcaaggtaccggtaaagatggc
+            aggataaccaaagaagacgttttatcttatatagaatctaatagagaaaaagcaaaccaa
+            accgctgaagttcaaaaagaaccttctatgagagcactttcctttggcggcagggaagaa
+            aaacgtgtccctatgacgagactaagagccaagattgcggaacgtttactacaagcacaa
+            cacaacgctgccatgttaaccacttttaacgaagtgaatttgaaggcagttatggacatg
+            cgttctcagtataaggatagttttgaaaaaaaacatggtgtaaaacttggatttatgtct
+            tttttcacaaaagcagtagtagagtcgctgaaacgattcccggccgtgaatgcttccatt
+            gatgggcaagatattgtttatcatggtttttatgatataggaattgctgtttctactgaa
+            agaggtttagttgttccggtaattagagacgctgatcaattaagcatggcagaaattgaa
+            ttagccattaatgatgcggcatcaaaagccagaaccggtaagctgtctatggaagagatg
+            caagggggaacatttaccataaccaacggtggagtattcggttcattattagctactccc
+            attatcaacccaccgcaaacaggtatcttggggatgcataaaattgaggaaagacctatt
+            gtagagaaagggcaaatagtaatccgtcctatgatgtatgttgctttgtcttatgatcat
+            cgtttaattgatggaaaagattctgtacaatttttagtaagtgttaaagagttgttggaa
+            gatccgtctcgacttttacttaatgtttaa
+///

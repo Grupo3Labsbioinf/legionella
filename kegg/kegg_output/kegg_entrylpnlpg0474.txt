@@ -1,0 +1,51 @@
+#####lpn:lpg0474#####
+ENTRY       lpg0474           CDS       T00199
+DEFINITION  (RefSeq) CDP-diacylglycerol--serine O-phosphatidyltransferase
+ORTHOLOGY   K17103  CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00260  Glycine, serine and threonine metabolism
+            lpn00564  Glycerophospholipid metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+MODULE      lpn_M00093  Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                lpg0474
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                lpg0474
+            Enzymes [BR:lpn01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.8  CDP-diacylglycerol---serine O-phosphatidyltransferase
+                 lpg0474
+POSITION    516084..516827
+MOTIF       Pfam: CDP-OH_P_transf DUF2070
+DBLINKS     NCBI-ProteinID: YP_094518
+            NCBI-GeneID: 19832040
+            Pasteur: lpg0474
+            UniProt: Q5ZY98
+AASEQ       247
+            MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIAR
+            LTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFN
+            TQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLR
+            YYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRK
+            QRRNMSK
+NTSEQ       744
+            ttgcgaatgaataaagaaaatcattctgggatttatttgttaccaaatttattaacgact
+            gtcagtttatttgcagcattttattcaatagtggcttccacaaaaggacaatatgaggct
+            gctatagtcgctatgtttataggaatgatcgctgacagtcttgatggacggattgcccgg
+            ctaaccaatacacaaactgagtttggtgctcaatacgatagtttgtctgatatggttact
+            tttggagtagcgccatccttgctgttatataatttaactctgcatcaattaggaaaattt
+            ggttggttggtcgcatttatttatacagcggctgttgcgttgcgtctcgctcggtttaat
+            actcagattggaaaatcagataagcgttatttccagggcctcccatgtccaccggctgca
+            gcagtaatggcttcttttgcttggatctgttttcaaaatgaatgggaaaatttgattgta
+            tctttatttacagctgtcctggccttgattgtttccgtattgatggtgagtaatttacgc
+            tattacagttttaaggaagtggattataagggtaaggttccatttttatatgttttagtg
+            atgattcttttgtttgttgcaattgctgcaaatcctgcaatagtgctttttgcaagttca
+            ggtatttatgctttatcaggccctatgttgacggtgatttcattacataaaatgaggaaa
+            caaagaagaaatatgagcaaatga
+///

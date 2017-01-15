@@ -1,0 +1,54 @@
+#####lpn:lpg0511#####
+ENTRY       lpg0511           CDS       T00199
+NAME        lpxA
+DEFINITION  (RefSeq) UDP-N-acetylglucosamine acyltransferase
+ORTHOLOGY   K00677  UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00540  Lipopolysaccharide biosynthesis
+            lpn01100  Metabolic pathways
+            lpn01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Glycan biosynthesis and metabolism
+               00540 Lipopolysaccharide biosynthesis
+                lpg0511 (lpxA)
+             Human Diseases
+              Drug resistance
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                lpg0511 (lpxA)
+            Enzymes [BR:lpn01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.129  acyl-[acyl-carrier-protein]---UDP-N-acetylglucosamine O-acyltransferase
+                 lpg0511 (lpxA)
+            Lipopolysaccharide biosynthesis proteins [BR:lpn01005]
+             Lipid A
+              lpg0511 (lpxA)
+POSITION    552152..552922
+MOTIF       Pfam: Hexapep Acetyltransf_11 Hexapep_2
+DBLINKS     NCBI-ProteinID: YP_094555
+            NCBI-GeneID: 19832077
+            Pasteur: lpg0511
+            UniProt: Q5ZY61
+AASEQ       256
+            MIDERAMIHPSAKLASGVSIGPGTVIGADVEIGENTWIGPHVVIEGPTVIGKNNKIFQFA
+            SVGDEPQDITYKGEPTRLEIGDNNVIREYCMISRGTVKGGGVTRIGDSNYLMAYSHIGHD
+            CMVGNHIIMVNYAALSGHVTINDYAIIGPYAAVHQFCQVGAYAFIARATYVTKDVLPYVM
+            IAGHTTSACGINTVGLRRRGFSSAAIDCLRRAYKIIFRKGLTVQQAVSELELIQNECPEI
+            IPMIDALNQSTRGIVR
+NTSEQ       771
+            gtgatagatgaaagagcaatgattcacccatcggcgaagctggcaagtggagtgtcaata
+            ggccctggaacagtgataggcgctgatgttgagattggtgaaaatacctggatagggccg
+            catgtagtaattgaaggacctactgtaattggtaaaaacaataagatctttcaatttgcc
+            tccgtaggagatgagccacaagatatcacttacaagggcgagccaactcgtcttgaaatc
+            ggcgataataatgtaatcagagaatattgcatgattagccgaggtactgtcaaaggtgga
+            ggtgtcactcgcattggcgatagcaattatttaatggcctattcacatattggccatgat
+            tgtatggtaggcaatcatatcattatggtgaattatgcagccttatcaggtcatgtcaca
+            attaatgattacgcaattatcggcccgtatgctgcagttcaccaattttgtcaggtagga
+            gcctacgcattcatagcccgagctacctatgtcactaaagacgtattaccctatgttatg
+            attgcaggtcataccacttctgcttgtggaatcaacacggttggtttaagaaggagaggt
+            ttttcttctgctgcgattgattgtttgcgacgtgcatataaaattatctttcgtaaaggg
+            ttaaccgttcaacaggcagtttcagaattagagttgattcaaaatgaatgtcctgaaatt
+            atccctatgattgatgctttgaatcaatccacaagaggcattgtgaggtaa
+///

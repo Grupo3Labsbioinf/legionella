@@ -1,0 +1,53 @@
+#####lpn:lpg0510#####
+ENTRY       lpg0510           CDS       T00199
+NAME        fabZ
+DEFINITION  (RefSeq) (3R)-hydroxymyristoyl-ACP dehydratase
+ORTHOLOGY   K02372  3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00061  Fatty acid biosynthesis
+            lpn00780  Biotin metabolism
+            lpn01100  Metabolic pathways
+            lpn01212  Fatty acid metabolism
+MODULE      lpn_M00083  Fatty acid biosynthesis, elongation
+            lpn_M00572  Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01212 Fatty acid metabolism
+                lpg0510 (fabZ)
+              Lipid metabolism
+               00061 Fatty acid biosynthesis
+                lpg0510 (fabZ)
+              Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                lpg0510 (fabZ)
+            Enzymes [BR:lpn01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.59  3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+                 lpg0510 (fabZ)
+            Lipid biosynthesis proteins [BR:lpn01004]
+             Fatty acid synthase
+              Component type
+               lpg0510 (fabZ)
+POSITION    551703..552155
+MOTIF       Pfam: FabA MaoC_dehydratas
+DBLINKS     NCBI-ProteinID: YP_094554
+            NCBI-GeneID: 19832076
+            Pasteur: lpg0510
+            UniProt: Q5ZY62
+AASEQ       150
+            MNESIDINQIFTLLPHRYPFILVDRVIDYKVMEYLIAIKNVTINENFFTGHFPGNPIMPG
+            VLMLEALAQACAILASLSRQPKEGHEFLHYFAGIDNARFKQVVTPGDQLRLEVRLAGQKR
+            DFWRMHGEAYIGDKLACSADLLSAAKEIKK
+NTSEQ       453
+            atgaacgaatcgatagatataaatcaaatttttactttgttaccacaccgctatccattt
+            attctggttgatagagtgatagattacaaagtcatggaatatttgattgcaattaagaat
+            gtgactattaatgagaacttctttaccggacattttccaggaaatcctattatgcctgga
+            gtattaatgcttgaggctttagctcaggcttgtgccattttagccagtttatctcgtcaa
+            cccaaagaaggacatgagtttttgcattattttgccggtattgacaatgctcggttcaag
+            caagtagtgactcctggggaccaattgcgattagaggtgagattggccggacaaaaaaga
+            gatttttggcgtatgcacggagaagcttatattggtgataaattggcttgttccgcagac
+            ttattaagcgcagcaaaggaaattaaaaagtga
+///

@@ -1,0 +1,62 @@
+#####lpn:lpg0535#####
+ENTRY       lpg0535           CDS       T00199
+NAME        sucD
+DEFINITION  (RefSeq) succinyl CoA synthetase alpha chain
+ORTHOLOGY   K01902  succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00020  Citrate cycle (TCA cycle)
+            lpn00640  Propanoate metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+MODULE      lpn_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            lpn_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0535 (sucD)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                lpg0535 (sucD)
+               00640 Propanoate metabolism
+                lpg0535 (sucD)
+               00660 C5-Branched dibasic acid metabolism
+                lpg0535 (sucD)
+            Enzymes [BR:lpn01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.5  succinate---CoA ligase (ADP-forming)
+                 lpg0535 (sucD)
+POSITION    577814..578689
+MOTIF       Pfam: CoA_binding Ligase_CoA Succ_CoA_lig CoA_binding_2 GFO_IDH_MocA
+DBLINKS     NCBI-ProteinID: YP_094578
+            NCBI-GeneID: 19832101
+            Pasteur: lpg0535
+            UniProt: Q5ZY38
+AASEQ       291
+            MSVLVDKHTKVLCQGFTGKQGTYHTEQALAYGTKMVGGVTPGKGGQMHLGLPVFNTMREA
+            VEETKADASVIYVPAPFCKDSIIEAAEAGIKLIVCITEGVPVLDMLQVKVYIENNTQARL
+            IGPNCPGIITPGECKIGIMPGYIHLPGKVGIVSRSGTLTYEAVKQTTDKGFGQSTCIGIG
+            GDPIPGTSFIDALSLFEKDPKTEAIIMVGEIGGSAEEEAAEFIKSHVKKPVVSYIAGVTA
+            PAGKRMGHAGAIISGGKGTAAEKYAALEAAGVKTVRSPADLGDAIAEVTGW
+NTSEQ       876
+            atgagtgtattagttgataaacatacaaaagtgctatgtcagggctttactggaaagcaa
+            ggtacttatcatacagagcaagcactggcttatggaaccaagatggtggggggggttact
+            ccaggcaaaggtggtcaaatgcatttaggactgcctgtatttaataccatgcgtgaagcc
+            gtcgaggaaaccaaggcagatgccagtgtgatctatgttcctgcaccattttgtaaagat
+            tcaattattgaagcagcagaagcaggtattaaactgattgtttgtattacagagggtgtg
+            cctgtattggatatgctgcaagtaaaagtgtatatagaaaacaatacacaggctcgatta
+            attggtccaaattgtccaggaataattacaccaggtgaatgcaagataggtattatgcct
+            ggctatatccatttacccggaaaagttggaatcgtttcacgttctggaactttaacttac
+            gaagcagtaaaacaaactactgataaagggtttggtcaaagtacctgcataggaataggt
+            ggcgatcctattccaggaaccagctttattgacgctttgtctttatttgaaaaagatcct
+            aaaacagaagctatcatcatggtaggagaaattggtggttcagcagaggaagaggcagct
+            gaattcattaagtctcatgtaaaaaaacctgtagtatcttacatcgctggagtcacagca
+            cctgctggaaagcgtatgggccatgctggagcaattatctctggtgggaaggggaccgca
+            gcagaaaaatacgctgcactggaagcggctggtgtgaaaacagttcgatctcctgctgac
+            ctgggagatgcaatagctgaggtaactggttggtaa
+///

@@ -1,0 +1,92 @@
+#####lpn:lpg0530#####
+ENTRY       lpg0530           CDS       T00199
+NAME        sdhA
+DEFINITION  (RefSeq) succinate dehydrogenase flavoprotein subunit A
+ORTHOLOGY   K00239  succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00020  Citrate cycle (TCA cycle)
+            lpn00190  Oxidative phosphorylation
+            lpn00650  Butanoate metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+            lpn05134  Legionellosis
+MODULE      lpn_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            lpn_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            lpn_M00149  Succinate dehydrogenase, prokaryotes
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0530 (sdhA)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                lpg0530 (sdhA)
+               00650 Butanoate metabolism
+                lpg0530 (sdhA)
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                lpg0530 (sdhA)
+             Human Diseases
+              Infectious diseases
+               05134 Legionellosis
+                lpg0530 (sdhA)
+            Enzymes [BR:lpn01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.5  With a quinone or related compound as acceptor
+                1.3.5.1  succinate dehydrogenase
+                 lpg0530 (sdhA)
+                1.3.5.4  fumarate reductase (quinol)
+                 lpg0530 (sdhA)
+POSITION    569875..571644
+MOTIF       Pfam: FAD_binding_2 Succ_DH_flav_C Pyr_redox_2 GIDA DAO Thi4 HI0933_like Lycopene_cycl FAD_oxidored Pyr_redox_3 DUF4239
+DBLINKS     NCBI-ProteinID: YP_094573
+            NCBI-GeneID: 19832096
+            Pasteur: lpg0530
+            UniProt: Q5ZY43
+AASEQ       589
+            MTVARNRFDAVIIGAGGAGMRAALQMTNSGLKVALLSKVFPTRSHTVSAQGGITAALGNA
+            DEDDWRWHMYDTVKGADYIGDQDCIEYLCKTGPEAVYELEHMGLPFSRMDNGKIYQRQFG
+            GQSKHFGGEQAARTCAAADRTGHALLHTLYQQNLKAKTHVFSEWYALDLVKNSQGRIAGV
+            TAMCMETGEIVFFQTRVCILATGGAGRIFQSTTNAFINTGDGFGMALRAGIPLQDMEMWQ
+            FHPTGIAGAGVLVTEGCRGEGGYLINKDGERFMERYAPRVKDLASRDVVARAMALEIRAG
+            KGFDPKGVDHVKLKLDHLGADLIMSRLPGIRELSMKFAGVDPIVEPIPVVPTCHYSMGGI
+            PTNMHGQVITKTDGKEHVVEGLYAVGECACVSVHGANRLGGNSLLDLVVFGRAAGIHVEE
+            LWQSNQLPDMSYVSEDDVAASLVRYERWENSKDGESHAVIRDEMQRVMQEDFGVFRTGEV
+            MASGLKRLQALRDRLAHAKLDDKSQIFNTERVEAMELDNLMATAYATALSAIARTESRGA
+            HSREDYPKRDDANWIKHTLYFEEGEVIDYRPVNTSPKYVEPFEPKERVY
+NTSEQ       1770
+            atgacagtggcacgtaacagatttgatgcggtaattataggagctggtggtgcaggaatg
+            cgtgctgcactccagatgacaaattctggtttaaaagtagcgttgttatcaaaagtattt
+            ccaacccgctcacatactgtgtcggctcaaggcggtattacagcggctttgggcaatgct
+            gatgaagacgattggcgttggcacatgtatgataccgtgaaaggcgctgattacattggt
+            gatcaggattgtatagagtatttgtgtaaaactggccctgaagcagtttatgaactggag
+            catatggggctacctttttcacgaatggataatggaaaaatttaccaacgtcagtttggt
+            ggccagtcaaaacatttcggtggagaacaagcggcccgtacctgtgctgcggcagataga
+            accgggcatgccttgctgcataccctttatcaacagaatttaaaagctaaaactcatgta
+            tttagtgaatggtatgctctcgatctggtaaaaaactcacaaggaagaattgcaggtgtt
+            actgccatgtgtatggagactggcgagattgtattttttcagactcgagtttgtattttg
+            gcgactgggggagccggtagaatttttcaatcgacaacgaatgcttttatcaatactggc
+            gatggctttggaatggcactaagagctggtatacctcttcaagacatggaaatgtggcaa
+            tttcatccaactggcatagcgggtgctggtgttctggtcacggagggttgccgaggtgaa
+            ggcggctatttaataaacaaagatggtgaacgctttatggagcgttatgctcccagagta
+            aaggacttggcttcccgggatgtggtcgctcgcgctatggctttggaaattcgggcaggg
+            aagggatttgatccaaaaggcgtcgatcatgttaaattaaagcttgatcatctaggcgct
+            gatttgatcatgtctcgcttgcctggtattcgcgagttatcaatgaagtttgccggtgta
+            gatccaattgttgagccgattccagttgttccaacttgccactacagtatgggaggaata
+            cccaccaacatgcatggccaggttataactaaaactgatggcaaagagcatgtggtggag
+            ggattgtatgcggtaggcgaatgtgcctgcgtttcggtgcatggcgccaatcgattaggc
+            ggtaattccttattggatttggttgtgtttggtcgtgcagccgggatacatgttgaagaa
+            ttatggcaatcaaatcaattgcctgatatgtcttatgtgagtgaagacgatgtagcggct
+            tccctggtgcgttatgagcgctgggaaaactcaaaggatggtgaaagccatgcggtaata
+            cgagatgaaatgcaaagagtaatgcaggaagattttggagtattccgtacaggtgaggta
+            atggcttcaggattgaaacgtttacaagctctgcgcgatcgattagcacatgctaaactt
+            gatgataaaagtcaaatttttaatacagaacgcgttgaagctatggaattggataattta
+            atggcaacagcttatgcaacggctttatctgcaattgcgcgaactgaaagcagaggagcg
+            cacagcagggaagattatccaaaacgagatgatgcaaactggattaaacacacattgtat
+            tttgaggaaggtgaggtgatagattatcgtccggttaatacctcacccaagtatgtcgag
+            ccttttgagccgaaagaacgcgtttactaa
+///

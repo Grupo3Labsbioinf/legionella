@@ -1,0 +1,63 @@
+#####lpn:lpg0486#####
+ENTRY       lpg0486           CDS       T00199
+NAME        purA
+DEFINITION  (RefSeq) adenylosuccinate synthetase
+ORTHOLOGY   K01939  adenylosuccinate synthase [EC:6.3.4.4]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00230  Purine metabolism
+            lpn00250  Alanine, aspartate and glutamate metabolism
+            lpn01100  Metabolic pathways
+MODULE      lpn_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Nucleotide metabolism
+               00230 Purine metabolism
+                lpg0486 (purA)
+              Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                lpg0486 (purA)
+            Enzymes [BR:lpn01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.4  adenylosuccinate synthase
+                 lpg0486 (purA)
+POSITION    525922..527217
+MOTIF       Pfam: Adenylsucc_synt
+DBLINKS     NCBI-ProteinID: YP_094530
+            NCBI-GeneID: 19832052
+            Pasteur: lpg0486
+            UniProt: Q5ZY86
+AASEQ       431
+            MGKNVVVLGTQWGDEGKGKIVDLLTQDAQVVVRYQGGHNAGHTLKINGVKTVLRLIPSGM
+            LRPNVTCYIANGVVLSPQALLSEIKELEGNGINVRERLRISLACPLILPYHIALDKARET
+            HMGKSAIGTTGRGIGPAYEDKVARRALRVGDLFHRDRFANKLTELLDYHNFVLTQYFKQP
+            AVDLESLLGESLQWAEELRPMVCDVSACLHEHRKQGENILFEGAQGVYLDIDHGTYPYVT
+            SSNTCVGSVINGAGFGPRYIDYVLGITKAYTTRVGGGPFPTELLDDVGKRIAERGQEFGA
+            VTGRPRRCGWFDAVLLKRSIELNSISGLCVTKLDVLDGLEVLRIAVAYKDRDGNILSRPP
+            LAADDFNDLLPVYEELPGWQESTADVTVMSDLPANARAYLKRIEEILGIPIDMLSTGPER
+            DSTITLRGPFL
+NTSEQ       1296
+            atgggtaagaatgttgttgttttgggtacacaatggggagatgaaggcaaaggcaaaatt
+            gttgatttgctgacacaagatgctcaagtggttgtccgttatcaagggggccataatgca
+            ggccatacattaaaaatcaatggagtaaaaacagtacttcgtttaattccatccgggatg
+            cttcgccctaacgtaacctgctatattgcaaatggtgtggttttatcacctcaggcatta
+            cttagtgaaattaaggagcttgagggtaatggcatcaatgtgagggagcgattacgcatt
+            agcctggcttgccccctgattctcccttaccacattgctttggataaggctcgtgagaca
+            catatgggcaagtctgcaattggaacaacaggtcgtggtataggtcctgcttatgaggat
+            aaagtggctcggcgcgctttaagagtaggtgatttatttcatagagaccgatttgccaat
+            aaattaacagaattattggattatcataattttgtattaacacaatatttcaaacaacca
+            gctgttgatttggaatccctattgggtgagtcattacaatgggctgaagaattaagacca
+            atggtttgcgatgtttctgcatgtttgcatgaacatagaaaacaaggtgaaaatatttta
+            ttcgaaggggcgcaaggtgtttatttagatattgatcatggaacatacccctacgtaact
+            tcttcaaatacctgtgtgggatctgtaattaatggtgcgggatttggtcctcgctatatt
+            gattacgtgttaggcattacaaaagcttacacaactcgagttggcggtggcccattcccc
+            actgaattacttgatgacgttggaaaacgcattgcggaacgaggacaggaattcggcgca
+            gtaactggtagacccagacgttgtgggtggtttgacgctgttttattaaaacgctcgatt
+            gagttaaatagtatttcaggactctgtgttaccaaattggatgttctcgatggcttagag
+            gtattacggattgctgtggcttataaagacagggatggcaatatattatctcgacctcct
+            ctggcagctgatgatttcaacgatttgttaccagtctatgaggagcttcctggttggcag
+            gaatctactgctgatgtgactgtgatgagtgacttacccgccaatgcaagggcttatcta
+            aagcgaattgaagagatattagggattcctattgatatgctatcaacaggacctgaaagg
+            gattcaacaattactttacgaggtccttttctttga
+///

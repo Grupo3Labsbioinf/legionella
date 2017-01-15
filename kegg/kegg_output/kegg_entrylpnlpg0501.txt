@@ -1,0 +1,82 @@
+#####lpn:lpg0501#####
+ENTRY       lpg0501           CDS       T00199
+NAME        pgm
+DEFINITION  (RefSeq) phosphoglyceromutase
+ORTHOLOGY   K15633  2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00010  Glycolysis / Gluconeogenesis
+            lpn00260  Glycine, serine and threonine metabolism
+            lpn00680  Methane metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+            lpn01230  Biosynthesis of amino acids
+MODULE      lpn_M00002  Glycolysis, core module involving three-carbon compounds
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0501 (pgm)
+               01230 Biosynthesis of amino acids
+                lpg0501 (pgm)
+              Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                lpg0501 (pgm)
+              Energy metabolism
+               00680 Methane metabolism
+                lpg0501 (pgm)
+              Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                lpg0501 (pgm)
+            Enzymes [BR:lpn01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.12  phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+                 lpg0501 (pgm)
+POSITION    complement(540905..542449)
+MOTIF       Pfam: iPGM_N Metalloenzyme Phosphodiest PglZ Sulfatase Methyltransf_31 Alk_phosphatase
+DBLINKS     NCBI-ProteinID: YP_094545
+            NCBI-GeneID: 19832067
+            Pasteur: lpg0501
+            UniProt: Q5ZY71
+AASEQ       514
+            MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQM
+            GNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSP
+            GGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATI
+            NSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLI
+            GKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLT
+            TTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQ
+            VATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQC
+            MQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEG
+            SLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP
+NTSEQ       1545
+            atgtcgcataatgctcccctggtactcatgattcttgatggctggggctataacgaaaat
+            gatagatacaatgctattgcaaaagccaatacccctcagtgggatgaatggtggcaaacc
+            tgccctcatattcttttgaaagcctccggcttgcctgttggtttacctgatgagcaaatg
+            ggtaattcagaagttgggcatatgcacattggcgcgggccgagtgatacagcaagatttt
+            actcgcattaatgaggcgataaataacggaaaattcgctaaaaatgctgttttccatgaa
+            gtaattgaccaattaaagaaaacagaaaaatctcttcacatcatggggttactctctccc
+            ggcggagtgcacagtcacgaacaacatttgtttgctttacttgccctttgtaatcaaaaa
+            aaattcagatccgtccatctgcatttgtttcttgatggccgagataccccaccacaaagt
+            gctcttgatagcttgaaatgcctgaatgaagaactggctaaacaccctgttgcaaccatt
+            aattcaatttgcggccgatattatgcgatggatagagacaaacgttgggagagagtagag
+            cctgtttataatttgttaacacaaggcaaaagtgagcgccaatttcctgatgcagaaact
+            gcaatacatttttattacaaaaataaaatttctgatgagtttgttccacccactcttata
+            gggaaagagcattctatacaagatggtgatgctgtcctgtttttcaattttcgtgctgac
+            agagcaaggcaattaacctctacattccttgatccttcgtttaaaggatttgaaagaaaa
+            acactgccaaagctgtcctattttgtctccatgacccaatatgataaaaatttattgacc
+            acgacagcatttccacctgttcctttaaataataccctgggtgaggtcttgtcttctcat
+            ggtctcagccaattacgcattgctgaaactgaaaaatatgctcacgttacttttttcttt
+            aatggcggatgtgaaagtgtttttacaaatgaagaacgtatcatggtaccctctccccaa
+            gtggcaacttatgatctgcaaccagaaatgagtgcgcatgaattaactaaaactctaata
+            gccgccatcaatagccaagattatcatgtcattatttgtaattacgccaatgctgatatg
+            gtgggacatacgggaaattttgaagctactgttcaagctattgagtgccttgatcagtgc
+            atgcagcaggtttggcaagcccttaaaaacaatgggggtaaattattgatcactgctgat
+            catggaaatgctgaggaaatgtttagcgaagcgacaaatcaagctcatacagcacatact
+            agtgaaccggttccttttctttatgtaggtggagggtggcacttcactcattccgaagga
+            agtttaatcgatatagcaccttctttgcttgcattactagggataaccccgcctccggaa
+            atgactggtcgtatccttctggaaaaaaaccatgcgcatccctag
+///

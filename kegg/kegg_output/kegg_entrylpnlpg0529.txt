@@ -1,0 +1,47 @@
+#####lpn:lpg0529#####
+ENTRY       lpg0529           CDS       T00199
+NAME        sdhD
+DEFINITION  (RefSeq) succinate dehydrogenase hydrophobic membrane anchor protein subunit D
+ORTHOLOGY   K00242  succinate dehydrogenase / fumarate reductase, membrane anchor subunit
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00020  Citrate cycle (TCA cycle)
+            lpn00190  Oxidative phosphorylation
+            lpn00650  Butanoate metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+MODULE      lpn_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            lpn_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            lpn_M00149  Succinate dehydrogenase, prokaryotes
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0529 (sdhD)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                lpg0529 (sdhD)
+               00650 Butanoate metabolism
+                lpg0529 (sdhD)
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                lpg0529 (sdhD)
+POSITION    569526..569873
+MOTIF       Pfam: Sdh_cyt
+DBLINKS     NCBI-ProteinID: YP_094572
+            NCBI-GeneID: 19832095
+            Pasteur: lpg0529
+            UniProt: Q5ZY44
+AASEQ       115
+            MVNNVTSLTGNGLKDWLIQRVTAVYFAAYLIFLFGFILANPDLSFSQWHLLFTNKAFQIA
+            TTIGLMALTLHAWIGIWTVTTDYMKCTVIRLSVQLLVVLWLLTQFIWGLMIIWGQ
+NTSEQ       348
+            atggtaaacaatgtcaccagtttaacaggaaatgggttaaaggattggttaattcaacga
+            gttaccgctgtctattttgcagcctatttaatttttttgtttggatttatattggcaaat
+            cctgatttaagtttttctcaatggcatcttttgtttactaacaaggcatttcaaattgca
+            acaacaattggattgatggctttgacattgcatgcctggataggtatttggacagtaact
+            acagattatatgaaatgtactgttatacgtttatcagtgcagttattagttgttttgtgg
+            ctccttactcaatttatctggggccttatgatcatttggggacaatag
+///

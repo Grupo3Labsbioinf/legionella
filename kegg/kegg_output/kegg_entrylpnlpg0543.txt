@@ -1,0 +1,65 @@
+#####lpn:lpg0543#####
+ENTRY       lpg0543           CDS       T00199
+NAME        prsA
+DEFINITION  (RefSeq) ribose-phosphate pyrophosphokinase
+ORTHOLOGY   K00948  ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00030  Pentose phosphate pathway
+            lpn00230  Purine metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+            lpn01230  Biosynthesis of amino acids
+MODULE      lpn_M00005  PRPP biosynthesis, ribose 5P => PRPP
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0543 (prsA)
+               01230 Biosynthesis of amino acids
+                lpg0543 (prsA)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                lpg0543 (prsA)
+              Nucleotide metabolism
+               00230 Purine metabolism
+                lpg0543 (prsA)
+            Enzymes [BR:lpn01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.6  Diphosphotransferases
+                2.7.6.1  ribose-phosphate diphosphokinase
+                 lpg0543 (prsA)
+POSITION    complement(585347..586294)
+MOTIF       Pfam: Pribosyltran_N Pribosyl_synth Pribosyltran UPRTase
+DBLINKS     NCBI-ProteinID: YP_094586
+            NCBI-GeneID: 19832109
+            Pasteur: lpg0543
+            UniProt: Q5ZY30
+AASEQ       315
+            MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTC
+            APANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASV
+            GICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAV
+            AKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNG
+            AKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAI
+            KRVNVEESVSSMFAE
+NTSEQ       948
+            atgtccacgatgatgatttttacagggaatgctaaccctgaattagcactaaaaatttcc
+            tcacatttgcaaatacctattggcaaagccaccgttggtaccttcagcgatggagagact
+            atggttgaaattttagaaaatgtccgaggtaaagatgtttttgtcctccaatcaacttgt
+            gcgcctgcaaataataatttaatggaattgctgattatggcggatgccctgagaagatca
+            tctgctggtcgtattacagctgtagttccttattttggctacgcacgccaagataggcga
+            gtgcgctccgcccgtgttcctatcacagctaaagtggtagcagacatgatggcttcagtt
+            ggaatttgtcgggtccttactgttgatttgcacgcggatcaaatacagggtttcttttat
+            atgccggttgataacgtatactcaactccggtattgctggaagatataaccaaacaaaaa
+            ttaaacaatatcatgatcgtatcgccagatgtcggtggggttgtacgtgccagagcagtt
+            gctaaaagactgaatgacgctgagctgtcgattattgataaacgccgtagtgggccaaat
+            aaatcagaagtaatgcacattattggtgagcccgccaataaaaactgtattattgtagac
+            gacatagtagatactgctggaacactttgtacggctgctcatgaattaaagaaaaacgga
+            gcaaaaagcgtcagagcctacattacacatcctgtgttgtcaggccccgcagttaacaat
+            attaaacattcaggtcttgatgaggtggtagtaactgataccattcctttatcagccgaa
+            gcacaaaactgtgaaaaaatcagagtggtcagtcttgctgatatgttagctcaagcaatc
+            aaacgagtaaatgttgaggagtcagtaagctccatgtttgctgaataa
+///

@@ -1,0 +1,64 @@
+#####lpn:lpg0531#####
+ENTRY       lpg0531           CDS       T00199
+NAME        sdhB
+DEFINITION  (RefSeq) succinate dehydrogenase iron-sulfur subunit
+ORTHOLOGY   K00240  succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00020  Citrate cycle (TCA cycle)
+            lpn00190  Oxidative phosphorylation
+            lpn00650  Butanoate metabolism
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+MODULE      lpn_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            lpn_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            lpn_M00149  Succinate dehydrogenase, prokaryotes
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0531 (sdhB)
+              Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                lpg0531 (sdhB)
+               00650 Butanoate metabolism
+                lpg0531 (sdhB)
+              Energy metabolism
+               00190 Oxidative phosphorylation
+                lpg0531 (sdhB)
+            Enzymes [BR:lpn01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.5  With a quinone or related compound as acceptor
+                1.3.5.1  succinate dehydrogenase
+                 lpg0531 (sdhB)
+                1.3.5.4  fumarate reductase (quinol)
+                 lpg0531 (sdhB)
+POSITION    571657..572379
+MOTIF       Pfam: Fer2_3 Fer4_8 Fer4_17 Fer4_10 Fer4_7 Fer4_9 Fer4_4 Fer4_18 Acetone_carb_G
+DBLINKS     NCBI-ProteinID: YP_094574
+            NCBI-GeneID: 19832097
+            Pasteur: lpg0531
+            UniProt: Q5ZY42
+AASEQ       240
+            MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSC
+            REGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERI
+            EPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQA
+            RRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET
+NTSEQ       723
+            atggctgatagtagaaatttaatcctgtcgatttatcgctataatcctgaggtggatgcc
+            aagccttacatgaaagattatgagatagaaatcccggctaaaagcgatcccatgttactt
+            actttgcttgagcgcttgaaagctgagcaagatccttctattacttacaggcggtcatgt
+            cgagaaggagtatgtggctctgacgggatgaatatcaatgggactaatggattagcttgc
+            attacacatatttcacaattaaaaacagataaaattgtcatacgtcctttaccaggtttt
+            ccagtcattcgtgatttggcagttgatatgacacaattttatcagcaatatgagcgcatt
+            gagccttatttacagaatgatgaagtagcgcctgctcgagagaggttacaatctcctgaa
+            gagcgagcacaattggatggcttgtatgagtgcattttatgcgcttgttgtaccagttca
+            tgtccttcttactggtggaatcctgataaatttgtaggccctgctggacttttacaagca
+            aggcgttttttagcagacagtcgtgataaagcaacgcaacatcgtttggatttattacaa
+            gatcctttcagtgtatttcgttgtcgtactattatgaattgcacgaatgtatgcccgaag
+            ggactcaatccgacgcaagcgattgcaaaaattcgcacgcaaatgttgacgcaggaaacg
+            taa
+///

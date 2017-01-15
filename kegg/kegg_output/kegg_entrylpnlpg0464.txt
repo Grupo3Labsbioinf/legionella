@@ -1,0 +1,46 @@
+#####lpn:lpg0464#####
+ENTRY       lpg0464           CDS       T00199
+NAME        aroQ
+DEFINITION  (RefSeq) 3-dehydroquinate dehydratase
+ORTHOLOGY   K03786  3-dehydroquinate dehydratase II [EC:4.2.1.10]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01130  Biosynthesis of antibiotics
+            lpn01230  Biosynthesis of amino acids
+MODULE      lpn_M00022  Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01230 Biosynthesis of amino acids
+                lpg0464 (aroQ)
+              Amino acid metabolism
+               00400 Phenylalanine, tyrosine and tryptophan biosynthesis
+                lpg0464 (aroQ)
+            Enzymes [BR:lpn01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.10  3-dehydroquinate dehydratase
+                 lpg0464 (aroQ)
+POSITION    complement(506035..506472)
+MOTIF       Pfam: DHquinase_II DNA_photolyase
+DBLINKS     NCBI-ProteinID: YP_094508
+            NCBI-GeneID: 19832030
+            Pasteur: lpg0464
+            UniProt: Q5ZYA8
+AASEQ       145
+            MKKILVLHGPNLNLLGSREPSIYGHASLTQINGDLIQEADNAGIRLSCFQSNAEAELIQA
+            VHQAGIDKINYIIINPAAFTHTSIALRDALSAVAIPFIEVHLSNIFSRETFRHHSYFSDI
+            AVGVISGLGTKGYLLALQAIIKELK
+NTSEQ       438
+            atgaaaaaaattctagtattacatggtcctaatctaaaccttttaggctcccgagaaccg
+            tccatttatggacatgcttcgttaactcaaatcaatggtgatttaatccaggaagcagac
+            aatgcagggattcgactcagctgctttcaaagcaatgctgaagcagagttaattcaagct
+            gtccatcaggctggaattgataaaatcaattacattatcataaatcctgcggcatttact
+            cacacaagcattgctcttagagatgctttaagtgcggttgccatcccatttattgaggtt
+            catttaagtaacattttttcccgtgaaacttttcgtcaccattcctatttctcagatatt
+            gccgttggtgtcattagcggtttggggacgaaagggtatttactggccttacaagcgatt
+            atcaaagaattaaagtag
+///
