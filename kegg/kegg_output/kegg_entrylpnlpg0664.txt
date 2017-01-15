@@ -1,0 +1,55 @@
+#####lpn:lpg0664#####
+ENTRY       lpg0664           CDS       T00199
+NAME        rpe
+DEFINITION  (RefSeq) D-ribulose-5-phosphate-3-epimerase
+ORTHOLOGY   K01783  ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+ORGANISM    lpn  Legionella pneumophila subsp. pneumophila Philadelphia 1
+PATHWAY     lpn00030  Pentose phosphate pathway
+            lpn01100  Metabolic pathways
+            lpn01110  Biosynthesis of secondary metabolites
+            lpn01120  Microbial metabolism in diverse environments
+            lpn01130  Biosynthesis of antibiotics
+            lpn01200  Carbon metabolism
+            lpn01230  Biosynthesis of amino acids
+BRITE       KEGG Orthology (KO) [BR:lpn00001]
+             Metabolism
+              Overview
+               01200 Carbon metabolism
+                lpg0664 (rpe)
+               01230 Biosynthesis of amino acids
+                lpg0664 (rpe)
+              Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                lpg0664 (rpe)
+               00040 Pentose and glucuronate interconversions
+                lpg0664 (rpe)
+            Enzymes [BR:lpn01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.1  ribulose-phosphate 3-epimerase
+                 lpg0664 (rpe)
+POSITION    complement(715277..715930)
+MOTIF       Pfam: Ribul_P_3_epim QRPTase_C His_biosynth TMP-TENI Amidohydro_2 Aldolase
+DBLINKS     NCBI-ProteinID: YP_094700
+            NCBI-GeneID: 19832229
+            Pasteur: lpg0664
+            UniProt: Q5ZXR7
+AASEQ       217
+            MTFQILPSLLSADVTRLGEEVDTVMKAGADFIHFDVMDNHYVPNLTFGPAFCDALIKKFP
+            NLPIDVHLMTTPVDTLIEAFAKAGAKRISIHPDATIHLDRSLQLINNLGCEAGLVLNPAT
+            SIDTLTWCAHNLKFVLVMTVNPGFGGQKLIPEVIPKLSKIRQQHPNLDLCVDGGVTPQNI
+            ASLAHAGANQFVAGSAIFNSSNYSETIKRMREQLASI
+NTSEQ       654
+            atgacattccaaattttaccctctttactgtcagcggacgtgacccgtttaggagaggaa
+            gtagataccgttatgaaagccggcgctgattttattcattttgatgtcatggataaccat
+            tatgtacccaacctgacctttggccccgctttctgtgacgctttaatcaaaaaatttcca
+            aatttgccgattgatgtccatttgatgaccaccccggttgatactctaatcgaagcattt
+            gccaaagcaggtgcgaaacgtatcagtattcatccagatgctactattcatttagacagg
+            agtttgcagttaatcaataaccttggatgtgaagcgggtttagtgctcaacccagctacg
+            tcaatcgacacattaacctggtgtgcccataatctaaaatttgttttggtcatgacagtt
+            aacccaggatttggcggtcaaaaacttatcccggaggttatacccaagctctctaaaatt
+            cggcagcagcacccaaatctcgatctttgtgttgatggtggagtcacaccccagaatatt
+            gcttcattagcacatgccggagctaaccaatttgttgcaggttctgctatattcaatagc
+            agtaattatagtgaaaccattaaacgtatgcgtgaacaattagcaagcatttaa
+///
