@@ -1,0 +1,14 @@
+from Bio.KEGG import REST
+
+# This script collects search terms for all locus tags of interest to allow us to find their entries in the KEGG DB
+# Stores them in a file for later use
+
+entries = []
+for i in range(463, 693+1):
+    locus = 'lpg0' + str(i)
+    search = REST.kegg_find("genes", locus).read()
+    entries.append(search)
+f = open('kegg_entries.txt', 'w')
+for entry in entries:
+    f.write(entry)
+f.close()
