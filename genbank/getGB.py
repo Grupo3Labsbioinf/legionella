@@ -1,7 +1,7 @@
 from Bio import Entrez
 from Bio import SeqIO
 
-Entrez.email = "joaofarinha10@hotmail.com"
+Entrez.email = "labsbiog3@gmail.com"
 
 handle = Entrez.efetch(db="nucleotide", id="NC_002942.5", rettype="gb", retmode="text", seq_start="505536", seq_stop="753100")
 
