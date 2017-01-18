@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_165711</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>376</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_165711</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>376</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248677|ref|WP_010946217.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|52840713|ref|YP_094512.1| lipase A [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627824|gb|AAU26565.1| lipase A [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507225|gb|AEW50749.1| lipase A [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946217</Hit_accession>
+  <Hit_len>283</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>590.497</Hsp_bit-score>
+      <Hsp_score>1521</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>283</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>283</Hsp_identity>
+      <Hsp_positive>283</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>283</Hsp_align-len>
+      <Hsp_qseq>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|505257721|ref|WP_015444823.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella pneumophila] &gt;gi|469493001|gb|AGH54846.1| putative hydrolase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081133|gb|AGN13381.1| lipase A [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771685|emb|CZI67066.1| Tropinesterase [Legionella pneumophila] &gt;gi|998774545|emb|CZH01024.1| Tropinesterase [Legionella pneumophila] &gt;gi|998777521|emb|CZG99083.1| Tropinesterase [Legionella pneumophila] &gt;gi|998783609|emb|CZH33502.1| Tropinesterase [Legionella pneumophila] &gt;gi|998786293|emb|CZG99634.1| Tropinesterase [Legionella pneumophila] &gt;gi|998795715|emb|CZI42550.1| Tropinesterase [Legionella pneumophila] &gt;gi|998798546|emb|CZL71574.1| Tropinesterase [Legionella pneumophila] &gt;gi|998804417|emb|CZK48058.1| Tropinesterase [Legionella pneumophila] &gt;gi|998808958|emb|CZH73784.1| Tropinesterase [Legionella pneumophila] &gt;gi|998810785|emb|CZI20178.1| Tropinesterase [Legionella pneumophila] &gt;gi|998814800|emb|CZG50802.1| Tropinesterase [Legionella pneumophila] &gt;gi|998816681|emb|CZM05351.1| Tropinesterase [Legionella pneumophila] &gt;gi|998819677|emb|CZL98864.1| Tropinesterase [Legionella pneumophila] &gt;gi|998825619|emb|CZK41459.1| Tropinesterase [Legionella pneumophila] &gt;gi|998831315|emb|CZI84356.1| Tropinesterase [Legionella pneumophila] &gt;gi|998834525|emb|CZL39767.1| Tropinesterase [Legionella pneumophila] &gt;gi|998838636|emb|CZJ27913.1| Tropinesterase [Legionella pneumophila] &gt;gi|998840574|emb|CZL86839.1| Tropinesterase [Legionella pneumophila] &gt;gi|998843424|emb|CZK84689.1| Tropinesterase [Legionella pneumophila] &gt;gi|998846430|emb|CZL03340.1| Tropinesterase [Legionella pneumophila] &gt;gi|998850744|emb|CZI23431.1| Tropinesterase [Legionella pneumophila] &gt;gi|998852670|emb|CZL84862.1| Tropinesterase [Legionella pneumophila] &gt;gi|998855848|emb|CZL49970.1| Tropinesterase [Legionella pneumophila] &gt;gi|998858674|emb|CZM19719.1| Tropinesterase [Legionella pneumophila] &gt;gi|998862253|emb|CZK39051.1| Tropinesterase [Legionella pneumophila] &gt;gi|998864701|emb|CZJ84910.1| Tropinesterase [Legionella pneumophila] &gt;gi|998867152|emb|CZJ80980.1| Tropinesterase [Legionella pneumophila] &gt;gi|998870421|emb|CZM39128.1| Tropinesterase [Legionella pneumophila] &gt;gi|998873681|emb|CZK74447.1| Tropinesterase [Legionella pneumophila] &gt;gi|998876389|emb|CZM36888.1| Tropinesterase [Legionella pneumophila] &gt;gi|998879394|emb|CZJ77423.1| Tropinesterase [Legionella pneumophila] &gt;gi|998885846|emb|CZM38320.1| Tropinesterase [Legionella pneumophila] &gt;gi|998888816|emb|CZK46433.1| Tropinesterase [Legionella pneumophila] &gt;gi|998894453|emb|CZK51160.1| Tropinesterase [Legionella pneumophila] &gt;gi|998905364|emb|CZK83414.1| Tropinesterase [Legionella pneumophila] &gt;gi|998908775|emb|CZL57660.1| Tropinesterase [Legionella pneumophila] &gt;gi|998914373|emb|CZL38873.1| Tropinesterase [Legionella pneumophila] &gt;gi|998917779|emb|CZL54320.1| Tropinesterase [Legionella pneumophila] &gt;gi|998920684|emb|CZL59623.1| Tropinesterase [Legionella pneumophila] &gt;gi|998927932|emb|CZL74863.1| Tropinesterase [Legionella pneumophila] &gt;gi|998929849|emb|CZL07844.1| Tropinesterase [Legionella pneumophila] &gt;gi|998932806|emb|CZM05243.1| Tropinesterase [Legionella pneumophila] &gt;gi|998939382|emb|CZK99024.1| Tropinesterase [Legionella pneumophila] &gt;gi|998944999|emb|CZL45486.1| Tropinesterase [Legionella pneumophila] &gt;gi|998948090|emb|CZL21886.1| Tropinesterase [Legionella pneumophila] &gt;gi|998957132|emb|CZM63174.1| Tropinesterase [Legionella pneumophila] &gt;gi|998960406|emb|CZK66244.1| Tropinesterase [Legionella pneumophila] &gt;gi|998963262|emb|CZK71460.1| Tropinesterase [Legionella pneumophila] &gt;gi|998966094|emb|CZM81538.1| Tropinesterase [Legionella pneumophila] &gt;gi|998969439|emb|CZK95798.1| Tropinesterase [Legionella pneumophila] &gt;gi|998972566|emb|CZK79054.1| Tropinesterase [Legionella pneumophila] &gt;gi|998978562|emb|CZL93893.1| Tropinesterase [Legionella pneumophila] &gt;gi|998984484|emb|CZK71811.1| Tropinesterase [Legionella pneumophila] &gt;gi|998987671|emb|CZL78880.1| Tropinesterase [Legionella pneumophila] &gt;gi|998996808|emb|CZK33031.1| Tropinesterase [Legionella pneumophila] &gt;gi|999006482|emb|CZL25500.1| Tropinesterase [Legionella pneumophila] &gt;gi|999011990|emb|CZL77934.1| Tropinesterase [Legionella pneumophila] &gt;gi|999017206|emb|CZL83920.1| Tropinesterase [Legionella pneumophila] &gt;gi|999021533|emb|CZL71080.1| Tropinesterase [Legionella pneumophila] &gt;gi|999024312|emb|CZL06122.1| Tropinesterase [Legionella pneumophila] &gt;gi|999036295|emb|CZL77989.1| Tropinesterase [Legionella pneumophila] &gt;gi|999045502|emb|CZM18499.1| Tropinesterase [Legionella pneumophila] &gt;gi|999060462|emb|CZL65769.1| Tropinesterase [Legionella pneumophila] &gt;gi|999066548|emb|CZJ44547.1| Tropinesterase [Legionella pneumophila] &gt;gi|999075716|emb|CZH07812.1| Tropinesterase [Legionella pneumophila] &gt;gi|999078743|emb|CZK35144.1| Tropinesterase [Legionella pneumophila] &gt;gi|999081829|emb|CZL26354.1| Tropinesterase [Legionella pneumophila] &gt;gi|999087960|emb|CZL17662.1| Tropinesterase [Legionella pneumophila] &gt;gi|999091175|emb|CZL75056.1| Tropinesterase [Legionella pneumophila] &gt;gi|999094356|emb|CZH33718.1| Tropinesterase [Legionella pneumophila] &gt;gi|999097314|emb|CZH41766.1| Tropinesterase [Legionella pneumophila] &gt;gi|999100187|emb|CZM12225.1| Tropinesterase [Legionella pneumophila] &gt;gi|999109474|emb|CZL50834.1| Tropinesterase [Legionella pneumophila] &gt;gi|999112474|emb|CZM01850.1| Tropinesterase [Legionella pneumophila] &gt;gi|999115886|emb|CZK71610.1| Tropinesterase [Legionella pneumophila] &gt;gi|999124983|emb|CZL20347.1| Tropinesterase [Legionella pneumophila] &gt;gi|999130784|emb|CZM17444.1| Tropinesterase [Legionella pneumophila] &gt;gi|999134277|emb|CZL37946.1| Tropinesterase [Legionella pneumophila] &gt;gi|999138433|emb|CZK10477.1| Tropinesterase [Legionella pneumophila] &gt;gi|999140827|emb|CZL83417.1| Tropinesterase [Legionella pneumophila] &gt;gi|999143450|emb|CZL42930.1| Tropinesterase [Legionella pneumophila] &gt;gi|999146435|emb|CZM01297.1| Tropinesterase [Legionella pneumophila] &gt;gi|999155881|emb|CZI31558.1| Tropinesterase [Legionella pneumophila] &gt;gi|999174595|emb|CZL50522.1| Tropinesterase [Legionella pneumophila] &gt;gi|999189944|emb|CZI66851.1| Tropinesterase [Legionella pneumophila] &gt;gi|999193182|emb|CZJ08580.1| Tropinesterase [Legionella pneumophila] &gt;gi|999200018|emb|CZG75164.1| Tropinesterase [Legionella pneumophila] &gt;gi|999202492|emb|CZJ08244.1| Tropinesterase [Legionella pneumophila] &gt;gi|999208665|emb|CZL31983.1| Tropinesterase [Legionella pneumophila] &gt;gi|999218421|emb|CZL88384.1| Tropinesterase [Legionella pneumophila] &gt;gi|999221056|emb|CZI97138.1| Tropinesterase [Legionella pneumophila] &gt;gi|999333850|emb|CZL15587.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002074458|emb|CZR04740.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002077360|emb|CZR11123.1| Tropinesterase [Legionella pneumophila] &gt;gi|1003018329|emb|CZR30281.1| lipase A [Legionella pneumophila] &gt;gi|1003021402|emb|CZR26606.1| lipase A [Legionella pneumophila] &gt;gi|1003024560|emb|CZR30453.1| lipase A [Legionella pneumophila] &gt;gi|1073863640|gb|AOU03591.1| lipase [Legionella pneumophila] &gt;gi|1073866598|gb|AOU06548.1| lipase [Legionella pneumophila] &gt;gi|1073869603|gb|AOU09552.1| alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073872547|gb|AOU12495.1| alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073875529|gb|AOU15476.1| alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073878490|gb|AOU18436.1| alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073881485|gb|AOU21430.1| alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073884447|gb|AOU24391.1| lipase [Legionella pneumophila] &gt;gi|1073887445|gb|AOU27388.1| lipase [Legionella pneumophila] &gt;gi|1073890430|gb|AOU30372.1| lipase [Legionella pneumophila] &gt;gi|1073893395|gb|AOU33336.1| lipase [Legionella pneumophila] &gt;gi|1073896359|gb|AOU36299.1| lipase [Legionella pneumophila] &gt;gi|1073899323|gb|AOU39262.1| lipase [Legionella pneumophila] &gt;gi|1073902274|gb|AOU42212.1| lipase [Legionella pneumophila] &gt;gi|1073905185|gb|AOU45122.1| lipase [Legionella pneumophila] &gt;gi|1073908203|gb|AOU48138.1| lipase [Legionella pneumophila] &gt;gi|1073911258|gb|AOU51190.1| lipase [Legionella pneumophila] &gt;gi|1073914177|gb|AOU54108.1| lipase [Legionella pneumophila] &gt;gi|1073917135|gb|AOU57065.1| lipase [Legionella pneumophila] &gt;gi|1073920101|gb|AOU60030.1| lipase [Legionella pneumophila] &gt;gi|1073923076|gb|AOU63003.1| lipase [Legionella pneumophila] &gt;gi|1073926088|gb|AOU66014.1| lipase [Legionella pneumophila] &gt;gi|1073929068|gb|AOU68977.1| lipase [Legionella pneumophila] &gt;gi|1073935400|gb|AOU82399.1| lipase [Legionella pneumophila] &gt;gi|1073945675|gb|AOU85399.1| lipase [Legionella pneumophila] &gt;gi|1073948638|gb|AOU88361.1| lipase [Legionella pneumophila] &gt;gi|1104001785|emb|SFZ36154.1| Tropinesterase [Legionella pneumophila] &gt;gi|1129967253|gb|APT97612.1| lipase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444823</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>588.186</Hsp_bit-score>
+      <Hsp_score>1515</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119379886|ref|WP_072356020.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356020</Hit_accession>
+  <Hit_len>283</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>585.874</Hsp_bit-score>
+      <Hsp_score>1509</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>283</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>283</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>283</Hsp_align-len>
+      <Hsp_qseq>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIEKLDGGHHIHMEKPEVISRLLAEFYQSIK</Hsp_hseq>
+      <Hsp_midline>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIE+LDGGHHIHMEKPEVISRLLA+FYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1119426358|ref|WP_072401658.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401658</Hit_accession>
+  <Hit_len>283</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>585.104</Hsp_bit-score>
+      <Hsp_score>1507</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>283</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>283</Hsp_align-len>
+      <Hsp_qseq>MMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MMNTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MM TKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1074934399|ref|WP_070074378.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1073932453|gb|AOU72012.1| lipase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_070074378</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>585.104</Hsp_bit-score>
+      <Hsp_score>1507</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCEREIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCER IQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|499533433|ref|WP_011214717.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|53753292|emb|CAH14739.1| hypothetical protein lpl0509 [Legionella pneumophila str. Lens] &gt;gi|998822425|emb|CZH33185.1| Tropinesterase [Legionella pneumophila] &gt;gi|1080002254|gb|AOW52826.1| lipase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080005993|gb|AOW56273.1| lipase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014753|gb|AOW63626.1| lipase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214717</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.719</Hsp_bit-score>
+      <Hsp_score>1506</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|499526466|ref|WP_011213106.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|53750287|emb|CAH11681.1| hypothetical protein lpp0533 [Legionella pneumophila str. Paris] &gt;gi|148282689|gb|ABQ56777.1| MhpC, Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Legionella pneumophila str. Corby] &gt;gi|295647919|gb|ADG23766.1| Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126452|emb|CCD04635.1| MhpC, Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Legionella pneumophila subsp. pneumophila] &gt;gi|536613590|gb|ERB41962.1| lipase [Legionella pneumophila str. 121004] &gt;gi|541995555|gb|ERH41654.1| lipase [Legionella pneumophila str. Leg01/11] &gt;gi|542120018|gb|ERI46408.1| lipase [Legionella pneumophila str. Leg01/20] &gt;gi|761989505|dbj|GAN22568.1| tropinesterase [Legionella pneumophila] &gt;gi|761999088|dbj|GAN28918.1| tropinesterase [Legionella pneumophila] &gt;gi|762002489|dbj|GAN25607.1| tropinesterase [Legionella pneumophila] &gt;gi|998801888|emb|CZI10395.1| Tropinesterase [Legionella pneumophila] &gt;gi|998912109|emb|CZH21795.1| Tropinesterase [Legionella pneumophila] &gt;gi|998923915|emb|CZK21569.1| Tropinesterase [Legionella pneumophila] &gt;gi|998942314|emb|CZK18807.1| Tropinesterase [Legionella pneumophila] &gt;gi|998955164|emb|CZK14828.1| Tropinesterase [Legionella pneumophila] &gt;gi|998975743|emb|CZJ85542.1| Tropinesterase [Legionella pneumophila] &gt;gi|998991225|emb|CZK23136.1| Tropinesterase [Legionella pneumophila] &gt;gi|998994528|emb|CZI20264.1| Tropinesterase [Legionella pneumophila] &gt;gi|999003196|emb|CZI83578.1| Tropinesterase [Legionella pneumophila] &gt;gi|999009333|emb|CZK24926.1| Tropinesterase [Legionella pneumophila] &gt;gi|999018477|emb|CZJ81153.1| Tropinesterase [Legionella pneumophila] &gt;gi|999027482|emb|CZK13091.1| Tropinesterase [Legionella pneumophila] &gt;gi|999031318|emb|CZG91539.1| Tropinesterase [Legionella pneumophila] &gt;gi|999033482|emb|CZK10703.1| Tropinesterase [Legionella pneumophila] &gt;gi|999039968|emb|CZJ81145.1| Tropinesterase [Legionella pneumophila] &gt;gi|999042731|emb|CZJ89742.1| Tropinesterase [Legionella pneumophila] &gt;gi|999049508|emb|CZJ62580.1| Tropinesterase [Legionella pneumophila] &gt;gi|999051936|emb|CZJ82440.1| Tropinesterase [Legionella pneumophila] &gt;gi|999054934|emb|CZK16507.1| Tropinesterase [Legionella pneumophila] &gt;gi|999063923|emb|CZJ88029.1| Tropinesterase [Legionella pneumophila] &gt;gi|999070511|emb|CZJ62931.1| Tropinesterase [Legionella pneumophila] &gt;gi|999073019|emb|CZK15315.1| Tropinesterase [Legionella pneumophila] &gt;gi|999085280|emb|CZK11707.1| Tropinesterase [Legionella pneumophila] &gt;gi|999149921|emb|CZI46859.1| Tropinesterase [Legionella pneumophila] &gt;gi|999159266|emb|CZJ67242.1| Tropinesterase [Legionella pneumophila] &gt;gi|999165632|emb|CZG81319.1| Tropinesterase [Legionella pneumophila] &gt;gi|999168569|emb|CZI43592.1| Tropinesterase [Legionella pneumophila] &gt;gi|999171912|emb|CZI31504.1| Tropinesterase [Legionella pneumophila] &gt;gi|999178273|emb|CZJ54306.1| Tropinesterase [Legionella pneumophila] &gt;gi|999181701|emb|CZG53350.1| Tropinesterase [Legionella pneumophila] &gt;gi|999184389|emb|CZP96828.1| Tropinesterase [Legionella pneumophila] &gt;gi|999187869|emb|CZI96680.1| Tropinesterase [Legionella pneumophila] &gt;gi|999198522|emb|CZP16081.1| Tropinesterase [Legionella pneumophila] &gt;gi|999206256|emb|CZP65044.1| Tropinesterase [Legionella pneumophila] &gt;gi|999212785|emb|CZG80822.1| Tropinesterase [Legionella pneumophila] &gt;gi|999216857|emb|CZI63809.1| Tropinesterase [Legionella pneumophila] &gt;gi|999225269|emb|CZG80648.1| Tropinesterase [Legionella pneumophila] &gt;gi|999228358|emb|CZP10959.1| Tropinesterase [Legionella pneumophila] &gt;gi|999235264|emb|CZP60460.1| Tropinesterase [Legionella pneumophila] &gt;gi|999240226|emb|CZH88718.1| Tropinesterase [Legionella pneumophila] &gt;gi|999244429|emb|CZH78961.1| Tropinesterase [Legionella pneumophila] &gt;gi|999249088|emb|CZG90769.1| Tropinesterase [Legionella pneumophila] &gt;gi|999252437|emb|CZH13920.1| Tropinesterase [Legionella pneumophila] &gt;gi|999256041|emb|CZP81551.1| Tropinesterase [Legionella pneumophila] &gt;gi|999259053|emb|CZP45204.1| Tropinesterase [Legionella pneumophila] &gt;gi|999261609|emb|CZH33495.1| Tropinesterase [Legionella pneumophila] &gt;gi|999265275|emb|CZP08838.1| Tropinesterase [Legionella pneumophila] &gt;gi|999269487|emb|CZO34935.1| Tropinesterase [Legionella pneumophila] &gt;gi|999272289|emb|CZP60291.1| Tropinesterase [Legionella pneumophila] &gt;gi|999274149|emb|CZH26708.1| Tropinesterase [Legionella pneumophila] &gt;gi|999277671|emb|CZP39391.1| Tropinesterase [Legionella pneumophila] &gt;gi|999281298|emb|CZP13770.1| Tropinesterase [Legionella pneumophila] &gt;gi|999283734|emb|CZP63285.1| Tropinesterase [Legionella pneumophila] &gt;gi|999287258|emb|CZI48264.1| Tropinesterase [Legionella pneumophila] &gt;gi|999291051|emb|CZP34030.1| Tropinesterase [Legionella pneumophila] &gt;gi|999293614|emb|CZI45675.1| Tropinesterase [Legionella pneumophila] &gt;gi|999296422|emb|CZP56673.1| Tropinesterase [Legionella pneumophila] &gt;gi|999299509|emb|CZP45163.1| Tropinesterase [Legionella pneumophila] &gt;gi|999302832|emb|CZI37242.1| Tropinesterase [Legionella pneumophila] &gt;gi|999307369|emb|CZH72500.1| Tropinesterase [Legionella pneumophila] &gt;gi|999309433|emb|CZP29308.1| Tropinesterase [Legionella pneumophila] &gt;gi|999312697|emb|CZI55260.1| Tropinesterase [Legionella pneumophila] &gt;gi|999315759|emb|CZI07949.1| Tropinesterase [Legionella pneumophila] &gt;gi|999318741|emb|CZP66568.1| Tropinesterase [Legionella pneumophila] &gt;gi|999322083|emb|CZI00591.1| Tropinesterase [Legionella pneumophila] &gt;gi|999324802|emb|CZH23585.1| Tropinesterase [Legionella pneumophila] &gt;gi|999328685|emb|CZG67099.1| Tropinesterase [Legionella pneumophila] &gt;gi|999331758|emb|CZG55973.1| Tropinesterase [Legionella pneumophila] &gt;gi|999337820|emb|CZP49001.1| Tropinesterase [Legionella pneumophila] &gt;gi|999340358|emb|CZH21288.1| Tropinesterase [Legionella pneumophila] &gt;gi|999344389|emb|CZP82982.1| Tropinesterase [Legionella pneumophila] &gt;gi|999347272|emb|CZP64801.1| Tropinesterase [Legionella pneumophila] &gt;gi|999350268|emb|CZH11670.1| Tropinesterase [Legionella pneumophila] &gt;gi|999353410|emb|CZP66861.1| Tropinesterase [Legionella pneumophila] &gt;gi|999357168|emb|CZP66597.1| Tropinesterase [Legionella pneumophila] &gt;gi|999360031|emb|CZI63766.1| Tropinesterase [Legionella pneumophila] &gt;gi|999363748|emb|CZP54805.1| Tropinesterase [Legionella pneumophila] &gt;gi|999367180|emb|CZP78672.1| Tropinesterase [Legionella pneumophila] &gt;gi|999369877|emb|CZP76308.1| Tropinesterase [Legionella pneumophila] &gt;gi|999373397|emb|CZG55269.1| Tropinesterase [Legionella pneumophila] &gt;gi|999376431|emb|CZJ16890.1| Tropinesterase [Legionella pneumophila] &gt;gi|999379812|emb|CZH70896.1| Tropinesterase [Legionella pneumophila] &gt;gi|999382707|emb|CZI60123.1| Tropinesterase [Legionella pneumophila] &gt;gi|999386224|emb|CZG62367.1| Tropinesterase [Legionella pneumophila] &gt;gi|999389157|emb|CZI58857.1| Tropinesterase [Legionella pneumophila] &gt;gi|999392369|emb|CZP98934.1| Tropinesterase [Legionella pneumophila] &gt;gi|999396845|emb|CZG06536.1| Tropinesterase [Legionella pneumophila] &gt;gi|999398617|emb|CZQ01586.1| Tropinesterase [Legionella pneumophila] &gt;gi|999403058|emb|CZP38799.1| Tropinesterase [Legionella pneumophila] &gt;gi|999405861|emb|CZG69050.1| Tropinesterase [Legionella pneumophila] &gt;gi|999408952|emb|CZH93799.1| Tropinesterase [Legionella pneumophila] &gt;gi|999412800|emb|CZG34629.1| Tropinesterase [Legionella pneumophila] &gt;gi|999415373|emb|CZG85818.1| Tropinesterase [Legionella pneumophila] &gt;gi|999418713|emb|CZG62599.1| Tropinesterase [Legionella pneumophila] &gt;gi|999421908|emb|CZH71751.1| Tropinesterase [Legionella pneumophila] &gt;gi|999425222|emb|CZG73213.1| Tropinesterase [Legionella pneumophila] &gt;gi|999428424|emb|CZG75184.1| Tropinesterase [Legionella pneumophila] &gt;gi|999431586|emb|CZG71096.1| Tropinesterase [Legionella pneumophila] &gt;gi|999434944|emb|CZH97866.1| Tropinesterase [Legionella pneumophila] &gt;gi|999438128|emb|CZG60614.1| Tropinesterase [Legionella pneumophila] &gt;gi|999441124|emb|CZK26893.1| lipase A [Legionella pneumophila] &gt;gi|999444683|emb|CZH79408.1| Tropinesterase [Legionella pneumophila] &gt;gi|999447886|emb|CZG55171.1| Tropinesterase [Legionella pneumophila] &gt;gi|999450686|emb|CZP37477.1| Tropinesterase [Legionella pneumophila] &gt;gi|999457627|emb|CZK24197.1| Tropinesterase [Legionella pneumophila] &gt;gi|999464789|emb|CZM49943.1| Tropinesterase [Legionella pneumophila] &gt;gi|999467813|emb|CZO27364.1| Tropinesterase [Legionella pneumophila] &gt;gi|999469582|emb|CZH01139.1| Tropinesterase [Legionella pneumophila] &gt;gi|999474762|emb|CZM64207.1| Tropinesterase [Legionella pneumophila] &gt;gi|999477219|emb|CZN77095.1| Tropinesterase [Legionella pneumophila] &gt;gi|999480721|emb|CZN02529.1| Tropinesterase [Legionella pneumophila] &gt;gi|999484188|emb|CZN86948.1| Tropinesterase [Legionella pneumophila] &gt;gi|999487153|emb|CZM13313.1| Tropinesterase [Legionella pneumophila] &gt;gi|999490326|emb|CZN81456.1| Tropinesterase [Legionella pneumophila] &gt;gi|999493517|emb|CZM12820.1| Tropinesterase [Legionella pneumophila] &gt;gi|999496312|emb|CZI48844.1| Tropinesterase [Legionella pneumophila] &gt;gi|999500097|emb|CZN75360.1| Tropinesterase [Legionella pneumophila] &gt;gi|999503223|emb|CZO10493.1| Tropinesterase [Legionella pneumophila] &gt;gi|999506309|emb|CZN13981.1| Tropinesterase [Legionella pneumophila] &gt;gi|999509512|emb|CZG49039.1| Tropinesterase [Legionella pneumophila] &gt;gi|999512850|emb|CZN28483.1| Tropinesterase [Legionella pneumophila] &gt;gi|999516062|emb|CZM02159.1| Tropinesterase [Legionella pneumophila] &gt;gi|999518941|emb|CZM82581.1| Tropinesterase [Legionella pneumophila] &gt;gi|999521929|emb|CZP18619.1| Tropinesterase [Legionella pneumophila] &gt;gi|999525301|emb|CZJ05386.1| Tropinesterase [Legionella pneumophila] &gt;gi|999528014|emb|CZI72214.1| Tropinesterase [Legionella pneumophila] &gt;gi|999532297|emb|CZO43935.1| Tropinesterase [Legionella pneumophila] &gt;gi|999535453|emb|CZN38508.1| Tropinesterase [Legionella pneumophila] &gt;gi|999538534|emb|CZM73530.1| Tropinesterase [Legionella pneumophila] &gt;gi|999541978|emb|CZO19137.1| Tropinesterase [Legionella pneumophila] &gt;gi|999544940|emb|CZO59326.1| Tropinesterase [Legionella pneumophila] &gt;gi|999548216|emb|CZN90889.1| Tropinesterase [Legionella pneumophila] &gt;gi|999551528|emb|CZO13346.1| Tropinesterase [Legionella pneumophila] &gt;gi|999554563|emb|CZN33287.1| Tropinesterase [Legionella pneumophila] &gt;gi|999557862|emb|CZO54150.1| Tropinesterase [Legionella pneumophila] &gt;gi|999561129|emb|CZM44247.1| Tropinesterase [Legionella pneumophila] &gt;gi|999564135|emb|CZO69120.1| Tropinesterase [Legionella pneumophila] &gt;gi|999567499|emb|CZM54464.1| Tropinesterase [Legionella pneumophila] &gt;gi|999570699|emb|CZN52291.1| Tropinesterase [Legionella pneumophila] &gt;gi|999573887|emb|CZN94991.1| Tropinesterase [Legionella pneumophila] &gt;gi|999576085|emb|CZI43924.1| Tropinesterase [Legionella pneumophila] &gt;gi|999580379|emb|CZO18742.1| Tropinesterase [Legionella pneumophila] &gt;gi|999583667|emb|CZO40068.1| Tropinesterase [Legionella pneumophila] &gt;gi|999587030|emb|CZM67101.1| Tropinesterase [Legionella pneumophila] &gt;gi|999589935|emb|CZM38704.1| Tropinesterase [Legionella pneumophila] &gt;gi|999593094|emb|CZN43675.1| Tropinesterase [Legionella pneumophila] &gt;gi|999596167|emb|CZO10001.1| Tropinesterase [Legionella pneumophila] &gt;gi|999599487|emb|CZO35742.1| Tropinesterase [Legionella pneumophila] &gt;gi|999602687|emb|CZL99210.1| Tropinesterase [Legionella pneumophila] &gt;gi|999605475|emb|CZN74918.1| Tropinesterase [Legionella pneumophila] &gt;gi|999609012|emb|CZN64745.1| Tropinesterase [Legionella pneumophila] &gt;gi|999611341|emb|CZI65023.1| Tropinesterase [Legionella pneumophila] &gt;gi|999615624|emb|CZM49747.1| Tropinesterase [Legionella pneumophila] &gt;gi|999618607|emb|CZN88440.1| Tropinesterase [Legionella pneumophila] &gt;gi|999621823|emb|CZO83906.1| Tropinesterase [Legionella pneumophila] &gt;gi|999625151|emb|CZN73209.1| Tropinesterase [Legionella pneumophila] &gt;gi|999628350|emb|CZM61213.1| Tropinesterase [Legionella pneumophila] &gt;gi|999631600|emb|CZM60885.1| Tropinesterase [Legionella pneumophila] &gt;gi|999634660|emb|CZN61427.1| Tropinesterase [Legionella pneumophila] &gt;gi|999637988|emb|CZN53638.1| Tropinesterase [Legionella pneumophila] &gt;gi|999641184|emb|CZO81632.1| Tropinesterase [Legionella pneumophila] &gt;gi|999644176|emb|CZO55296.1| Tropinesterase [Legionella pneumophila] &gt;gi|999647667|emb|CZN96621.1| Tropinesterase [Legionella pneumophila] &gt;gi|999650647|emb|CZO03749.1| Tropinesterase [Legionella pneumophila] &gt;gi|999653968|emb|CZO02354.1| Tropinesterase [Legionella pneumophila] &gt;gi|999657165|emb|CZM31555.1| Tropinesterase [Legionella pneumophila] &gt;gi|999660239|emb|CZM66566.1| Tropinesterase [Legionella pneumophila] &gt;gi|999663330|emb|CZN15525.1| Tropinesterase [Legionella pneumophila] &gt;gi|999666695|emb|CZM35842.1| Tropinesterase [Legionella pneumophila] &gt;gi|999669887|emb|CZL82771.1| Tropinesterase [Legionella pneumophila] &gt;gi|999673149|emb|CZM39225.1| Tropinesterase [Legionella pneumophila] &gt;gi|999676281|emb|CZN75858.1| Tropinesterase [Legionella pneumophila] &gt;gi|999679374|emb|CZM81401.1| Tropinesterase [Legionella pneumophila] &gt;gi|999682569|emb|CZM83727.1| Tropinesterase [Legionella pneumophila] &gt;gi|999686256|emb|CZO02142.1| Tropinesterase [Legionella pneumophila] &gt;gi|999689076|emb|CZN29230.1| Tropinesterase [Legionella pneumophila] &gt;gi|999692269|emb|CZN97404.1| Tropinesterase [Legionella pneumophila] &gt;gi|999695486|emb|CZN27263.1| Tropinesterase [Legionella pneumophila] &gt;gi|999698847|emb|CZM13761.1| Tropinesterase [Legionella pneumophila] &gt;gi|999701791|emb|CZM80699.1| Tropinesterase [Legionella pneumophila] &gt;gi|999705026|emb|CZL96819.1| Tropinesterase [Legionella pneumophila] &gt;gi|999708116|emb|CZN55633.1| Tropinesterase [Legionella pneumophila] &gt;gi|999711535|emb|CZM99035.1| Tropinesterase [Legionella pneumophila] &gt;gi|999714631|emb|CZN19532.1| Tropinesterase [Legionella pneumophila] &gt;gi|999718039|emb|CZO47740.1| Tropinesterase [Legionella pneumophila] &gt;gi|999720995|emb|CZM95610.1| Tropinesterase [Legionella pneumophila] &gt;gi|999724514|emb|CZN36205.1| Tropinesterase [Legionella pneumophila] &gt;gi|999727781|emb|CZL97773.1| Tropinesterase [Legionella pneumophila] &gt;gi|999731036|emb|CZO44903.1| Tropinesterase [Legionella pneumophila] &gt;gi|999734124|emb|CZM24390.1| Tropinesterase [Legionella pneumophila] &gt;gi|999737536|emb|CZO72301.1| Tropinesterase [Legionella pneumophila] &gt;gi|999741017|emb|CZM33041.1| Tropinesterase [Legionella pneumophila] &gt;gi|999744045|emb|CZN25442.1| Tropinesterase [Legionella pneumophila] &gt;gi|999747187|emb|CZM23622.1| Tropinesterase [Legionella pneumophila] &gt;gi|999750581|emb|CZL98371.1| Tropinesterase [Legionella pneumophila] &gt;gi|999753777|emb|CZM82726.1| Tropinesterase [Legionella pneumophila] &gt;gi|999756828|emb|CZN12440.1| Tropinesterase [Legionella pneumophila] &gt;gi|999760329|emb|CZM26359.1| Tropinesterase [Legionella pneumophila] &gt;gi|999763326|emb|CZN28732.1| Tropinesterase [Legionella pneumophila] &gt;gi|999766852|emb|CZM46247.1| Tropinesterase [Legionella pneumophila] &gt;gi|999769701|emb|CZN48710.1| Tropinesterase [Legionella pneumophila] &gt;gi|999776165|emb|CZL98504.1| Tropinesterase [Legionella pneumophila] &gt;gi|999778035|emb|CZH31229.1| Tropinesterase [Legionella pneumophila] &gt;gi|999782947|emb|CZH63625.1| Tropinesterase [Legionella pneumophila] &gt;gi|999786364|emb|CZM22645.1| Tropinesterase [Legionella pneumophila] &gt;gi|999789529|emb|CZO65048.1| Tropinesterase [Legionella pneumophila] &gt;gi|999792874|emb|CZO59196.1| Tropinesterase [Legionella pneumophila] &gt;gi|999799759|emb|CZO53611.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002092733|emb|CZQ95029.1| Tropinesterase [Legionella pneumophila] &gt;gi|1003029244|emb|CZR19321.1| lipase A [Legionella pneumophila] &gt;gi|1003036427|emb|CZR17331.1| lipase A [Legionella pneumophila] &gt;gi|1005832240|gb|AMQ26966.1| lipase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431602|gb|AMV13229.1| Tropinesterase [Legionella pneumophila] &gt;gi|1041014510|gb|ANN91571.1| lipase [Legionella pneumophila] &gt;gi|1041017608|gb|ANN94668.1| lipase [Legionella pneumophila] &gt;gi|1103995536|emb|SFZ36459.1| Tropinesterase [Legionella pneumophila] &gt;gi|1103998666|emb|SFZ36187.1| Tropinesterase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213106</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.948</Hsp_bit-score>
+      <Hsp_score>1504</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIEKLDGGHHIHMEKPEVISRLLAEFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIE+LDGGHHIHMEKPEVISRLLA+FYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1080123424|ref|WP_070322148.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella pneumophila] &gt;gi|1080008148|gb|AOW58136.1| lipase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012190|gb|AOW61681.1| lipase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018434|gb|AOW67079.1| lipase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322148</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.563</Hsp_bit-score>
+      <Hsp_score>1503</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKVRIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMK RIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1004017488|ref|WP_061485245.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485245</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.563</Hsp_bit-score>
+      <Hsp_score>1503</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISQLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVIS+LLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|504656261|ref|WP_014843363.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|395129559|emb|CCD07792.1| MhpC, Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Legionella pneumophila subsp. pneumophila] &gt;gi|761992692|dbj|GAN16480.1| tropinesterase [Legionella pneumophila] &gt;gi|761995882|dbj|GAN19586.1| tropinesterase [Legionella pneumophila] &gt;gi|998791200|emb|CZG37966.1| Tropinesterase [Legionella pneumophila] &gt;gi|998892677|emb|CZJ26422.1| Tropinesterase [Legionella pneumophila] &gt;gi|998982424|emb|CZI66245.1| Tropinesterase [Legionella pneumophila] &gt;gi|999107516|emb|CZI62423.1| Tropinesterase [Legionella pneumophila] &gt;gi|999231745|emb|CZI42938.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002081554|emb|CZQ99815.1| Tropinesterase [Legionella pneumophila] &gt;gi|1032656649|gb|ANH11920.1| lipase [Legionella pneumophila] &gt;gi|1032659617|gb|ANH14887.1| lipase [Legionella pneumophila] &gt;gi|1032662584|gb|ANH17853.1| lipase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843363</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.178</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKAWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACK WGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|742353108|ref|WP_038837465.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|21666982|gb|AAM73852.1|AF454863_1 putative lipase LipA [Legionella pneumophila 130b] &gt;gi|998782961|emb|CZI83639.1| Tropinesterase [Legionella pneumophila] &gt;gi|998828267|emb|CZH35997.1| Tropinesterase [Legionella pneumophila] &gt;gi|998883055|emb|CZI86742.1| Tropinesterase [Legionella pneumophila] &gt;gi|998897652|emb|CZK06264.1| Tropinesterase [Legionella pneumophila] &gt;gi|998937979|emb|CZL84557.1| Tropinesterase [Legionella pneumophila] &gt;gi|998951018|emb|CZJ93239.1| Tropinesterase [Legionella pneumophila] &gt;gi|999000038|emb|CZG92749.1| Tropinesterase [Legionella pneumophila] &gt;gi|999058498|emb|CZM31754.1| Tropinesterase [Legionella pneumophila] &gt;gi|999103756|emb|CZI21408.1| Tropinesterase [Legionella pneumophila] &gt;gi|999128450|emb|CZH13737.1| Tropinesterase [Legionella pneumophila] &gt;gi|999152574|emb|CZM80382.1| Tropinesterase [Legionella pneumophila] &gt;gi|999161945|emb|CZM41059.1| Tropinesterase [Legionella pneumophila] &gt;gi|999236759|emb|CZG95544.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002085602|emb|CZQ97805.1| Tropinesterase [Legionella pneumophila] &gt;gi|1002088248|emb|CZQ79007.1| Tropinesterase [Legionella pneumophila] &gt;gi|1104005352|emb|SFZ36088.1| Tropinesterase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837465</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>582.793</Hsp_bit-score>
+      <Hsp_score>1501</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MNTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>M TKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1005410659|ref|WP_061639910.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|998793183|emb|CZI53474.1| Tropinesterase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639910</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>580.867</Hsp_bit-score>
+      <Hsp_score>1496</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKAWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKLLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACK WGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAK LCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|652967254|ref|WP_027220226.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|999247938|emb|CZH58674.1| Tropinesterase [Legionella pneumophila] &gt;gi|999453515|emb|CZI52732.1| Tropinesterase [Legionella pneumophila] &gt;gi|999459978|emb|CZH29471.1| Tropinesterase [Legionella pneumophila] &gt;gi|999773184|emb|CZH91706.1| Tropinesterase [Legionella pneumophila] &gt;gi|999796172|emb|CZI26251.1| Tropinesterase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220226</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>580.867</Hsp_bit-score>
+      <Hsp_score>1496</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDDIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSHKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGTQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_hseq>
+      <Hsp_midline>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFD+IAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLS KQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERG QQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|652970648|ref|WP_027223540.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|1005362748|gb|AMP88617.1| lipase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365749|gb|AMP91526.1| lipase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368737|gb|AMP94513.1| lipase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223540</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.081</Hsp_bit-score>
+      <Hsp_score>1468</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILNIPGLSIACKIWGNPDNPPIVALHGWLDNANSFDDIAKQLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLILIEGLGPFSHPAETACQQLTKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIEKLDGGHHIHMEKPEVISQLLAKFYQSIQ</Hsp_hseq>
+      <Hsp_midline>MKTKIL+IPGLSIACK+WGNPDNPPI+ALHGWLDNANSFD+IA+ LQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSL LIEGLGPFSHPAETACQQL+KYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIE+LDGGHHIHMEKPEVIS+LLAKFYQSI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652976206|ref|WP_027228879.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila] &gt;gi|985765986|gb|KXB27097.1| lipase [Legionella pneumophila] &gt;gi|985767703|gb|KXB28789.1| lipase [Legionella pneumophila] &gt;gi|999119307|emb|CZG77851.1| Tropinesterase [Legionella pneumophila] &gt;gi|999122485|emb|CZH10691.1| Tropinesterase [Legionella pneumophila] &gt;gi|1024341634|gb|KZX35941.1| lipase [Legionella pneumophila] &gt;gi|1108603949|gb|APF02317.1| lipase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606960|gb|APF05327.1| alpha/beta hydrolase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228879</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>569.696</Hsp_bit-score>
+      <Hsp_score>1467</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILNIPGLSIACKVWGNSDNPPIVALHGWLDNANSFDDIAKQLQDDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLTKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKVERLDGGHHIHMEKPEVISQLLAKFYQSIQ</Hsp_hseq>
+      <Hsp_midline>MKTKIL+IPGLSIACKVWGN DNPPI+ALHGWLDNANSFD+IA+ LQ+DYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQL+KYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIK+ERLDGGHHIHMEKPEVIS+LLAKFYQSI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1011913456|ref|WP_062726670.1|</Hit_id>
+  <Hit_def>lipase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726670</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>567.77</Hsp_bit-score>
+      <Hsp_score>1462</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>376</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>279</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>282</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSIK</Hsp_qseq>
+      <Hsp_hseq>MKTKILNIPGLSIACKVWGNPDNPPIVALHGWLDNANSFDDIAKQLQDYYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLTKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTETQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQSVKNIKVERLDGGHHIHMEKPEVISQLLAKFYQSIQ</Hsp_hseq>
+      <Hsp_midline>MKTKIL+IPGLSIACKVWGNPDNPPI+ALHGWLDNANSFD+IA+ LQ+ YYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQL+KYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTE QVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQ+VKNIK+ERLDGGHHIHMEKPEVIS+LLAKFYQSI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|737925574|ref|WP_035890761.1|</Hit_id>
+  <Hit_def>lipase [Legionella norrlandica] &gt;gi|701445231|gb|KGP62627.1| lipase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890761</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>495.738</Hsp_bit-score>
+      <Hsp_score>1275</Hsp_score>
+      <Hsp_evalue>1.61592e-174</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>375</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>281</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSI</Hsp_qseq>
+      <Hsp_hseq>METIMLNIPGLSIACKAWGNPNNPPIIALHGWLDNANSFDDIAQYLQNSYYFIAVDLPGHGHSSHLPQGCVYHFTDGIFTVIEIINALELDKVHLLGHSMGACLGSLAAGVAPNRFLSLGLIEGLGPFSQPAETACKQLSNYMHHLLEKQS-KSKGYNKFEHAALARSIKGYVSMDIAKTLCERGTQEEDGVYYWRHDRRLLSPSPLQLTETQILSCLLEIKVKTYLIWASNGFSFDSEKMKARIQAVKNIKIDRLEGGHHIHMEKPELISKLLEDFYQSL</Hsp_hseq>
+      <Hsp_midline>M+T +L+IPGLSIACK WGNP+NPPI+ALHGWLDNANSFD+IA++LQN YYFIAVDLPGHGHSSHLP GC+YHFTDGIFTV+EIINAL L+K+HLLGHSMGACLGSL AGVAP+RFLSL LIEGLGPFS PAETAC+QLS Y+ +L +KQS K+KGYNKFEHAALARS+KGYVS+DIAK+LCERG Q+E+G+YYWRHDRRLL+PSPLQ+TE Q+LSCL EIK +TYLIWAS GFSFDS+KMKARIQAVKNIKI+RL+GGHHIHMEKPE+IS+LL  FYQS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|654933318|ref|WP_028383672.1|</Hit_id>
+  <Hit_def>lipase [Legionella moravica] &gt;gi|962248454|gb|KTD32678.1| lipase A [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383672</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>456.062</Hsp_bit-score>
+      <Hsp_score>1172</Hsp_score>
+      <Hsp_evalue>8.58629e-159</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MNSLELSIPGLTIACKVWGNPENPPVIALHGWLDNANSFDKLAQYLHHDYYFIAVDLPGHGHSSHLPISSNYHFIDGIFTIIQILDSLKLNKVHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSSPEESACKQLSKYLESLTQKETKKIKGYPEFDRAALARALKGYVSLDIAKSLCERGVKEDKGIYYWRHDRRLLDPSPLRMTEQQILSCLKNIKVKTCLIWASKGFSFDSAQMQKRIKAVKNLKIEHLDGGHHIHMEKPEAVGTLLAEFYR</Hsp_hseq>
+      <Hsp_midline>M +  LSIPGL+IACKVWGNP+NPP++ALHGWLDNANSFD +A++L +DYYFIAVDLPGHGHSSHLP    YHF DGIFT+++I+++L LNK+HLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFS P E+AC+QLSKYL+ L+QK++KK KGY +F+ AALAR++KGYVSLDIAKSLCERG++++ G+YYWRHDRRLL PSPL+MTE Q+LSCL  IK +T LIWASKGFSFDS +M+ RI+AVKN+KIE LDGGHHIHMEKPE +  LLA+FY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966431981|ref|WP_058472414.1|</Hit_id>
+  <Hit_def>lipase [Legionella quateirensis] &gt;gi|962271439|gb|KTD55441.1| lipase A [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472414</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.366</Hsp_bit-score>
+      <Hsp_score>1165</Hsp_score>
+      <Hsp_evalue>9.12919e-158</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MKTLELSIPGLTIACKAWGNPENPPLLALHGWLDNANSFDNLAQYLCNDYYFIAVDLPGHGHSSHLPLSSNYHFIDGIFTIVQIIDALKFQKVHLLGHSMGACLGSLLAGVAPDRFLSLSLIEGLGPFSSPEESACKQLSKYLESLTQTPTKKVKGYPKFDSAALARALKGYVSLDIAKSLCERGVKEDNGVYYWRHDRRLLDPSPLRMTEEQILSCLKNIKVNTCLIWASKGFSFDSEQMQKRIKVIKHLKIEHLEGGHHIHMEKPEAVGTLLANFYR</Hsp_hseq>
+      <Hsp_midline>MKT  LSIPGL+IACK WGNP+NPP+LALHGWLDNANSFDN+A++L NDYYFIAVDLPGHGHSSHLP    YHF DGIFT+V+II+AL   K+HLLGHSMGACLGSL+AGVAPDRFLSLSLIEGLGPFS P E+AC+QLSKYL+ L+Q  +KK KGY KF+ AALAR++KGYVSLDIAKSLCERG++++NG+YYWRHDRRLL PSPL+MTE Q+LSCL  IK  T LIWASKGFSFDS++M+ RI+ +K++KIE L+GGHHIHMEKPE +  LLA FY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966460441|ref|WP_058492870.1|</Hit_id>
+  <Hit_def>lipase [Legionella worsleiensis] &gt;gi|962296506|gb|KTD80143.1| lipase A [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492870</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>431.795</Hsp_bit-score>
+      <Hsp_score>1109</Hsp_score>
+      <Hsp_evalue>2.79906e-149</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>374</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>238</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>275</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQS</Hsp_qseq>
+      <Hsp_hseq>LSIPGLTIACKAWGNPENPPVIALHGWLDNANSFDKLAQLLHHDYYFIAVDLPGHGHSSHLPEGANYHFIDGIFTIIHILDALKAEKVHLLGHSMGACLGSLVAGVAPHRFLSLALIEGLGPFSSPDTSACEQLSQYSTSLTRKVGKKAKGYPKFHSAALARALKGYVSLDIAQSLCERGIKEDKGLYYWRHDRRLLDPSPLRMTEQQIISCLNNIKVKTCLIWASKGFSFNSEQMQNRMKAIKHLTIEHLDGGHHIHMEKPEAVGTLLARFYKT</Hsp_hseq>
+      <Hsp_midline>LSIPGL+IACK WGNP+NPP++ALHGWLDNANSFD +A+ L +DYYFIAVDLPGHGHSSHLP G  YHF DGIFT++ I++AL   K+HLLGHSMGACLGSLVAGVAP RFLSL+LIEGLGPFS P  +AC+QLS+Y   L++K  KKAKGY KF  AALAR++KGYVSLDIA+SLCERGI+++ GLYYWRHDRRLL PSPL+MTE Q++SCL  IK +T LIWASKGFSF+S++M+ R++A+K++ IE LDGGHHIHMEKPE +  LLA+FY++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966440952|ref|WP_058481275.1|</Hit_id>
+  <Hit_def>lipase [Legionella waltersii] &gt;gi|962291866|gb|KTD75564.1| lipase A [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481275</Hit_accession>
+  <Hit_len>285</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>430.254</Hsp_bit-score>
+      <Hsp_score>1105</Hsp_score>
+      <Hsp_evalue>1.39876e-148</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>374</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>280</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQS</Hsp_qseq>
+      <Hsp_hseq>MNTTHLQIPGFTIAYKTWGNSQNPPIIALHGWLDNANSFDEIAKGLQDKYYIVAVDLPGHGHSSHLPAGCIYHFIDGLFIVLEILNALKMKRVHLLGHSMGACLGSLLAGVAPERFLSLSLIEGLGPFSLPAETACKQLTTFMDYLDQKKSSKITGYKAFDHAARARSTKGYVSLEIAKILCERGTMEEDGIYYWRHDRKLLIPSPLKMTEEQVLSCLSEVQCKTLLIWATSGFAFNSDLINARMKAIKHMEVKQLEGGHHIHLEEPEVVTRLLAQFIDS</Hsp_hseq>
+      <Hsp_midline>M T  L IPG +IA K WGN  NPPI+ALHGWLDNANSFD IA+ LQ+ YY +AVDLPGHGHSSHLP GCIYHF DG+F V+EI+NAL + ++HLLGHSMGACLGSL+AGVAP+RFLSLSLIEGLGPFS PAETAC+QL+ ++DYL QK+S K  GY  F+HAA ARS KGYVSL+IAK LCERG  +E+G+YYWRHDR+LL PSPL+MTE QVLSCL+E++ +T LIWA+ GF+F+SD + AR++A+K++++++L+GGHHIH+E+PEV++RLLA+F  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|769980436|ref|WP_045096421.1|</Hit_id>
+  <Hit_def>lipase [Legionella fallonii] &gt;gi|698844054|emb|CEG58023.1| putative lipase LipA [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096421</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.098</Hsp_bit-score>
+      <Hsp_score>1102</Hsp_score>
+      <Hsp_evalue>3.20898e-148</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>375</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>281</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSI</Hsp_qseq>
+      <Hsp_hseq>MNSQELVIPGLSIAYKTWGNPENPPIIALHGWLDNANSFDPLAEYLKNNYYFIAIDFPGHGHSAHLPQSSNYHFIDGIFIIVQIINALKLDKVHLIGHSMGACLASIVGGIAPNRFLSIGLIEGLGPFSHPDESACEQLTTYLDYLTHQEIKKTKGYHEFEHAALARSLKGYVSFEIAKILCQRALVKKHGIYYWRHDKRLLAPSPLRMTEQQILSCLKQISAKTCLIWASKGFSFDSKLMQERIKTVSNLKIMHLDGGHHIHMEQPELVGQLLTDFYLSL</Hsp_hseq>
+      <Hsp_midline>M ++ L IPGLSIA K WGNP+NPPI+ALHGWLDNANSFD +AE+L+N+YYFIA+D PGHGHS+HLP    YHF DGIF +V+IINAL L+K+HL+GHSMGACL S+V G+AP+RFLS+ LIEGLGPFSHP E+AC+QL+ YLDYL+ ++ KK KGY++FEHAALARS+KGYVS +IAK LC+R + +++G+YYWRHD+RLLAPSPL+MTE Q+LSCL +I A+T LIWASKGFSFDS  M+ RI+ V N+KI  LDGGHHIHME+PE++ +LL  FY S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966415347|ref|WP_058458632.1|</Hit_id>
+  <Hit_def>lipase [Fluoribacter bozemanae] &gt;gi|962189857|gb|KTC74959.1| lipase LipA (L, pneumophila) [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458632</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.935</Hsp_bit-score>
+      <Hsp_score>1086</Hsp_score>
+      <Hsp_evalue>8.81718e-146</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MKTLNLTIPGFSIACTAWGNPDKPTILALHGWLDNANSFSPLASYLENDFYFIAVDLPGHGHSSHLPEGCHYHFFDGIFVVIEIINALKLDKVHLLGHSMGACLASLVGGVVPERFTSLSLIEGLGPFSHPAESACQQLREFAHFLAQK-SKKSKGYDSINSAALARAIKGYVSLDIAKILCERSLVEKQGRFYWRHDQRLLVRSPLRMTETQILSCLQEITTKTYLLLSSRGFSFDSEMMNERIKAVRNLTLKKMDGGHHIHMEQPEVISKLLAEF</Hsp_hseq>
+      <Hsp_midline>MKT  L+IPG SIAC  WGNPD P ILALHGWLDNANSF  +A +L+ND+YFIAVDLPGHGHSSHLP GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GV P+RF SLSLIEGLGPFSHPAE+ACQQL ++  +L+QK SKK+KGY+    AALAR++KGYVSLDIAK LCER + ++ G +YWRHD+RLL  SPL+MTE Q+LSCL EI  +TYL+ +S+GFSFDS+ M  RI+AV+N+ ++++DGGHHIHME+PEVIS+LLA+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|518063346|ref|WP_019233554.1|</Hit_id>
+  <Hit_def>lipase [Legionella anisa] &gt;gi|962187556|gb|KTC72682.1| lipase LipA (L, pneumophila) [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233554</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.394</Hsp_bit-score>
+      <Hsp_score>1082</Hsp_score>
+      <Hsp_evalue>3.34802e-145</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MKTLNLTIPGFSIACTIWGNPDKPTILALHGWLDNANSFAPLASYLENDFHFIAVDLPGHGHSSHLPEGCHYHFFDGIFVVIELINALKLDKVHLLGHSMGACLASLVGGVVPERFLSLSLIEGLGPFSHPAETACQQLREFAHFLAQK-NKKSKGYDSINSAALARAFKGYVSLDIAKILCERSLIEKQGQYYWRHDQRLLARSPLRMTETQILSCLQEITAKTYLLLSSRGFSFEPEMMNNRIKAVKNLTLKKMDGGHHIHMEQPEVISKLLAEF</Hsp_hseq>
+      <Hsp_midline>MKT  L+IPG SIAC +WGNPD P ILALHGWLDNANSF  +A +L+ND++FIAVDLPGHGHSSHLP GC YHF DGIF V+E+INAL L+K+HLLGHSMGACL SLV GV P+RFLSLSLIEGLGPFSHPAETACQQL ++  +L+QK +KK+KGY+    AALAR+ KGYVSLDIAK LCER + ++ G YYWRHD+RLLA SPL+MTE Q+LSCL EI A+TYL+ +S+GFSF+ + M  RI+AVKN+ ++++DGGHHIHME+PEVIS+LLA+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|517403986|ref|WP_018576801.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella shakespearei] &gt;gi|962283755|gb|KTD67527.1| lipase A [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576801</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>6.79373e-144</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>374</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>193</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>280</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQS</Hsp_qseq>
+      <Hsp_hseq>MNSRELTIQGLTIAYKTWGSPKNPPIVALHGWLDNANSFDYLAPYLQEHYYFIAIDLPGHGHSSHLPLSSNYHFTDGIFTVVQIIDELEYDKIHLLGHSMGACLASLVGGVAPERLLSLSLIEGLGPFSAPGETASAQLSKYLSHLTQKEEKKAKGYNTFENMALARSLKGYVSLDIAKTLCERGVREEDGLYYWRHDRRLIQPSPLRMTEAQVISCLERIAVKTCLILADKGFSFDSELTQGRIKSIKDLSIVHLEGGHHIHMEQPEHVAKLLAALYKA</Hsp_hseq>
+      <Hsp_midline>M ++ L+I GL+IA K WG+P NPPI+ALHGWLDNANSFD +A +LQ  YYFIA+DLPGHGHSSHLP    YHFTDGIFTVV+II+ L  +K+HLLGHSMGACL SLV GVAP+R LSLSLIEGLGPFS P ETA  QLSKYL +L+QK+ KKAKGYN FE+ ALARS+KGYVSLDIAK+LCERG+++E+GLYYWRHDRRL+ PSPL+MTEAQV+SCL  I  +T LI A KGFSFDS+  + RI+++K++ I  L+GGHHIHME+PE +++LLA  Y++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966504716|ref|WP_058521375.1|</Hit_id>
+  <Hit_def>lipase [Legionella tucsonensis] &gt;gi|962290709|gb|KTD74417.1| lipase LipA (L, pneumophila) [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521375</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.001</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>4.16117e-143</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MKTLNLTIPGFSIACTIWGNPDKPTILALHGWLDNANSFAPLASYLENDFHFIAVDLPGHGYSSHIPEGCHYHFFDGIFVVIEIINALKLDKVHLLGHSMGACLASLVGGVVPERFSSLSLIEGLGPFSHPAETACQQLREFAHFLAQK-SKKSKGYDTINSAALARAFKGYVSLDIAKILCERSLMEKQGRFYWRHDQRLLVRSPLRMTEIQILSCLQEITTKTYLLLSSRGFSFDHEMMNNRIKAVKNLTLKKMDGGHHIHMEQPEVISKLLAEF</Hsp_hseq>
+      <Hsp_midline>MKT  L+IPG SIAC +WGNPD P ILALHGWLDNANSF  +A +L+ND++FIAVDLPGHG+SSH+P GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GV P+RF SLSLIEGLGPFSHPAETACQQL ++  +L+QK SKK+KGY+    AALAR+ KGYVSLDIAK LCER + ++ G +YWRHD+RLL  SPL+MTE Q+LSCL EI  +TYL+ +S+GFSFD + M  RI+AVKN+ ++++DGGHHIHME+PEVIS+LLA+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|489731155|ref|WP_003635271.1|</Hit_id>
+  <Hit_def>lipase [Legionella longbeachae] &gt;gi|269987461|gb|EEZ93716.1| lipase A [Legionella longbeachae D-4968] &gt;gi|288859216|emb|CBJ13150.1| putative lipase LipA (L.pneumophila) [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635271</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>414.846</Hsp_bit-score>
+      <Hsp_score>1065</Hsp_score>
+      <Hsp_evalue>1.62372e-142</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>LKIPGFSIACKAWGNPEKPTILALHGWLDNANSFLPIAPYLENDFYLIAVDLPGHGHSSHLPPGCHYHFFDGIFIVIEILNALQIDKVHLLGHSMGACLASLVGGVLPERFLSLMLIEGLGPFSHPGETACQQLREYAHFLTQK-SKKSKGYDHLESAALARAFKGYVSIDIAKTLCERSLVEKQGRFYWRHDQRLLARSPLRMTEMQILSCLMEIKAKTYLLIANQGFSFDAEIIRDRIRAVRNLTLKKVDGGHHIHMEQPEVVSQLLTDF</Hsp_hseq>
+      <Hsp_midline>L IPG SIACK WGNP+ P ILALHGWLDNANSF  IA +L+ND+Y IAVDLPGHGHSSHLPPGC YHF DGIF V+EI+NAL ++K+HLLGHSMGACL SLV GV P+RFLSL LIEGLGPFSHP ETACQQL +Y  +L+QK SKK+KGY+  E AALAR+ KGYVS+DIAK+LCER + ++ G +YWRHD+RLLA SPL+MTE Q+LSCL EIKA+TYL+ A++GFSFD++ ++ RI+AV+N+ ++++DGGHHIHME+PEV+S+LL  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966494011|ref|WP_058510799.1|</Hit_id>
+  <Hit_def>lipase [Legionella steelei] &gt;gi|962284966|gb|KTD68732.1| lipase LipA (L, pneumophila) [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058510799</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.69</Hsp_bit-score>
+      <Hsp_score>1062</Hsp_score>
+      <Hsp_evalue>3.39615e-142</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MNTLTLSIPGFSIACKIWGNPDKPTILALHGWLDNANSFAPLATYLESDFQVVAVDLPGHGHSSHLPEGCHYHFFDGIFIVIEIINALKLDKVHLLGHSMGACLASLVGGVAPERFLSLSLIEGLGPFSNPAETACQQLREYAHVLSQK-SKESKGYDHINSAALARAFKGYVSLDIAKILCERSLLENKGKFYWRHDQRLLVRSPLRMTETQILSCLREITAKTYLLLSSNGFSFDADIMNQRVQAVKDLTLKKMEGGHHIHMEQPEVISKLLASF</Hsp_hseq>
+      <Hsp_midline>M T  LSIPG SIACK+WGNPD P ILALHGWLDNANSF  +A +L++D+  +AVDLPGHGHSSHLP GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GVAP+RFLSLSLIEGLGPFS+PAETACQQL +Y   LSQK SK++KGY+    AALAR+ KGYVSLDIAK LCER + +  G +YWRHD+RLL  SPL+MTE Q+LSCL EI A+TYL+ +S GFSFD+D M  R+QAVK++ +++++GGHHIHME+PEVIS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1113342824|gb|OJW06685.1|</Hit_id>
+  <Hit_def>alpha/beta hydrolase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW06685</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>412.92</Hsp_bit-score>
+      <Hsp_score>1060</Hsp_score>
+      <Hsp_evalue>7.46255e-142</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MNTLTLSIPGFSIACKIWGNPDKPTILALHGWLDNANSFAPLATYLESDFQVVAVDLPGHGHSSHLPEGCHYHFFDGIFIVIEIINALKLDKVHLLGHSMGACLASLVGGVAPERFLSLSLIEGLGPFSNPAETACQQLREYAHVLSQK-SKESKGYDHINSAALARAFKGYVSLDIAKILCERSLLENKGKFYWRHDQRLLVRSPLRMTETQILSCLREITAKTYLLLSSNGFSFDADIMNQRVQAVKGLTLKKMEGGHHIHMEQPEVISKLLASF</Hsp_hseq>
+      <Hsp_midline>M T  LSIPG SIACK+WGNPD P ILALHGWLDNANSF  +A +L++D+  +AVDLPGHGHSSHLP GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GVAP+RFLSLSLIEGLGPFS+PAETACQQL +Y   LSQK SK++KGY+    AALAR+ KGYVSLDIAK LCER + +  G +YWRHD+RLL  SPL+MTE Q+LSCL EI A+TYL+ +S GFSFD+D M  R+QAVK + +++++GGHHIHME+PEVIS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|498340490|ref|WP_010654646.1|</Hit_id>
+  <Hit_def>lipase [Fluoribacter dumoffii] &gt;gi|962206029|gb|KTC90966.1| lipase LipA (L, pneumophila) [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654646</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>412.92</Hsp_bit-score>
+      <Hsp_score>1060</Hsp_score>
+      <Hsp_evalue>9.01203e-142</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>374</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>280</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQS</Hsp_qseq>
+      <Hsp_hseq>MKNLTLKIPGFSIACKVWGNPDKPAILALHGWLDNANSFAPLASYLKNDFYFVAVDLPGHGHSSHLPEGCHYHFFDGIFIVIEVLNALKIDKVHLLGHSMGACLASLVGGVVPERFHSLVLIEGLGPFSHPAETACEQLREYAHYLT-RENKKPKGYDHINSAALARAFKGYVSLDIAKILCERGLIEQKGKFYWRHDSRLLVRSPLRMTEEQILSCLQEITAKTFLLLSSRGFAFDTEQINNRIKAVKNLVLKKLDGGHHIHMEEPEVISKLLAEFMRT</Hsp_hseq>
+      <Hsp_midline>MK   L IPG SIACKVWGNPD P ILALHGWLDNANSF  +A +L+ND+YF+AVDLPGHGHSSHLP GC YHF DGIF V+E++NAL ++K+HLLGHSMGACL SLV GV P+RF SL LIEGLGPFSHPAETAC+QL +Y  YL+ +++KK KGY+    AALAR+ KGYVSLDIAK LCERG+ ++ G +YWRHD RLL  SPL+MTE Q+LSCL EI A+T+L+ +S+GF+FD++++  RI+AVKN+ +++LDGGHHIHME+PEVIS+LLA+F ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966500594|ref|WP_058517267.1|</Hit_id>
+  <Hit_def>lipase [Legionella parisiensis] &gt;gi|962255927|gb|KTD40064.1| lipase LipA (L, pneumophila) [Legionella parisiensis] &gt;gi|1069293493|gb|OEH48819.1| Tropinesterase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517267</Hit_accession>
+  <Hit_len>282</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>411.379</Hsp_bit-score>
+      <Hsp_score>1056</Hsp_score>
+      <Hsp_evalue>3.15161e-141</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MKPFNLIIPGFSIACTTWGNPDKPAILALHGWLDNANSFAPLASYLENDFYLIAVDLPGHGHSSHLPEGCHYHFFDGIFLVIEIINALKLDKVHLLGHSMGACLASLVGGVVPERFISLSLIEGLGPFSHPAESACQQLREFTHFLT-KKSKKSKGYDSINSAALARAFKGYVSLDIAKTLCERSLVEKQGRFYWRHDQRLLVRSPLRLTETQILSCLQEITAKTYLLLSSRGFSFDHEMMNDRIKAVKTLTLKKMDGGHHIHMEQPEVISKLLAEF</Hsp_hseq>
+      <Hsp_midline>MK   L IPG SIAC  WGNPD P ILALHGWLDNANSF  +A +L+ND+Y IAVDLPGHGHSSHLP GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GV P+RF+SLSLIEGLGPFSHPAE+ACQQL ++  +L+ K+SKK+KGY+    AALAR+ KGYVSLDIAK+LCER + ++ G +YWRHD+RLL  SPL++TE Q+LSCL EI A+TYL+ +S+GFSFD + M  RI+AVK + ++++DGGHHIHME+PEVIS+LLA+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|654930625|ref|WP_028380994.1|</Hit_id>
+  <Hit_def>lipase [Legionella cherrii] &gt;gi|962197387|gb|KTC82431.1| lipase LipA (L, pneumophila) [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380994</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>410.994</Hsp_bit-score>
+      <Hsp_score>1055</Hsp_score>
+      <Hsp_evalue>3.64261e-141</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MKMLTLAIPGFSIACKIWGNPDKPTILALHGWLDNANSFAPLAPYLENDFHFVAVDLPGHGHSSHLPKGCHYHFFDGIFIVIELINALKLDKVHLLGHSMGACLASLVGGVVPERFLSLCLIEGLGPFSHPAETACQQLREYAHFLVQK-NKKPKGYDHINSAALARAFKGYVSLDIAKILCERSLIEKKGKFYWRHDQRLLERSPLRMTETQILSCLQEITAKTYLLLSSRGFAFDTEIINTRIKTVKNLTLKKMDGGHHIHMEQPEVISKLLADF</Hsp_hseq>
+      <Hsp_midline>MK   L+IPG SIACK+WGNPD P ILALHGWLDNANSF  +A +L+ND++F+AVDLPGHGHSSHLP GC YHF DGIF V+E+INAL L+K+HLLGHSMGACL SLV GV P+RFLSL LIEGLGPFSHPAETACQQL +Y  +L QK +KK KGY+    AALAR+ KGYVSLDIAK LCER + ++ G +YWRHD+RLL  SPL+MTE Q+LSCL EI A+TYL+ +S+GF+FD++ +  RI+ VKN+ ++++DGGHHIHME+PEVIS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|962220912|gb|KTD05574.1|</Hit_id>
+  <Hit_def>lipase LipA (L, pneumophila) [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>KTD05574</Hit_accession>
+  <Hit_len>293</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>409.838</Hsp_bit-score>
+      <Hsp_score>1052</Hsp_score>
+      <Hsp_evalue>1.97116e-140</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>288</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>280</Hsp_align-len>
+      <Hsp_qseq>INMMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>INKMNTLNLNIPGFSLACKTWGTPDKPTILALHGWLDNANSFAPLAPYLENDFHFIAVDLPGHGYSSHLPEGCHYHFFDGIFVVIELINALKLDKLHLLGHSMGACLASLVGGVIPERFLSLSLIEGLGPFSHPAETACQQLRDYACFLAQ-QRKKSKGYDSINSAALARAFKGYVSLDIAKILCERSLVEKHGKFYWRHDPRLLVRSPLRMTEPQVLSCLQEITAKTCLILSSRGFSFDTEIIANRIKAVKNLTIKKMDGGHHVHMERPEVISKLLADF</Hsp_hseq>
+      <Hsp_midline>IN M T  L+IPG S+ACK WG PD P ILALHGWLDNANSF  +A +L+ND++FIAVDLPGHG+SSHLP GC YHF DGIF V+E+INAL L+KLHLLGHSMGACL SLV GV P+RFLSLSLIEGLGPFSHPAETACQQL  Y  +L+Q Q KK+KGY+    AALAR+ KGYVSLDIAK LCER + +++G +YWRHD RLL  SPL+MTE QVLSCL EI A+T LI +S+GFSFD++ +  RI+AVKN+ I+++DGGHH+HME+PEVIS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|653017689|ref|WP_027269653.1|</Hit_id>
+  <Hit_def>lipase [Legionella sainthelensi] &gt;gi|962270978|gb|KTD54981.1| lipase LipA (L, pneumophila) [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269653</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>407.527</Hsp_bit-score>
+      <Hsp_score>1046</Hsp_score>
+      <Hsp_evalue>9.01516e-140</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>374</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>275</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQS</Hsp_qseq>
+      <Hsp_hseq>LKIPGFSIACKTWGHPEKPTILALHGWLDNANSFIPIAPYLENDFYLIAVDLPGHGHSSHLPQGCHYHFFDGIFIIIEILNALKIDRVHLLGHSMGACLASLLGGVIPERFLSLILIEGLGPFSHPGETACQQLREYAHFLTQKNEKKSKGYEHLENAALARAFKGYVSLDIAKTLCERSLVEKRGKFYWRHDQRLLARSPLRMTEMQILSCLKEITAKTYLLIANQGFSFDAEITQNRIKTVRNLTLKRIDGGHHIHMEQPEVVSQLLTDFMNT</Hsp_hseq>
+      <Hsp_midline>L IPG SIACK WG+P+ P ILALHGWLDNANSF  IA +L+ND+Y IAVDLPGHGHSSHLP GC YHF DGIF ++EI+NAL ++++HLLGHSMGACL SL+ GV P+RFLSL LIEGLGPFSHP ETACQQL +Y  +L+QK  KK+KGY   E+AALAR+ KGYVSLDIAK+LCER + ++ G +YWRHD+RLLA SPL+MTE Q+LSCL EI A+TYL+ A++GFSFD++  + RI+ V+N+ ++R+DGGHHIHME+PEV+S+LL  F  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966498850|ref|WP_058515616.1|</Hit_id>
+  <Hit_def>lipase [Legionella santicrucis] &gt;gi|962269294|gb|KTD53308.1| lipase LipA (L, pneumophila) [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515616</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>406.757</Hsp_bit-score>
+      <Hsp_score>1044</Hsp_score>
+      <Hsp_evalue>2.13817e-139</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>LKIPGFSIACKTWGHPQKPTILALHGWLDNANSFLPLASYLENDFYLIAVDLPGHGHSSHLPKGCHYHFFDGIFIVIEILNALKIDKVHLLGHSMGACLASLVGGVIPERFLSLILIEGLGPFSHPGETACQQLREYAHFLTQK-SKKSKGYAHLESAALARAFKGYVSIDIAKTLCERSLVEKRGKYYWRHDQRLLARSPLRMTETQILSCLKEITAKTYLLIANQGFSFDAEITKNRIKTVRNLILKKMDGGHHIHMEQPEVVSQLLADF</Hsp_hseq>
+      <Hsp_midline>L IPG SIACK WG+P  P ILALHGWLDNANSF  +A +L+ND+Y IAVDLPGHGHSSHLP GC YHF DGIF V+EI+NAL ++K+HLLGHSMGACL SLV GV P+RFLSL LIEGLGPFSHP ETACQQL +Y  +L+QK SKK+KGY   E AALAR+ KGYVS+DIAK+LCER + ++ G YYWRHD+RLLA SPL+MTE Q+LSCL EI A+TYL+ A++GFSFD++  K RI+ V+N+ ++++DGGHHIHME+PEV+S+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966436865|ref|WP_058477233.1|</Hit_id>
+  <Hit_def>lipase [Legionella steigerwaltii] &gt;gi|962293639|gb|KTD77314.1| lipase LipA (L, pneumophila) [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477233</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>405.986</Hsp_bit-score>
+      <Hsp_score>1042</Hsp_score>
+      <Hsp_evalue>3.40287e-139</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>187</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MNTLTLTIPGFSIACKAWGNPDKPTILALHGWLDNANSFAPLAPYLENNFHFVAVDLPGHGHSSHLPEGCHYHFFDGIFVVIEIINALKLDKVHLLGHSMGACLASLVGGVVPERFLSLSLIEGLGPFSNPAETACQQLREYAHFLAQK-GKDSKGYDHIDSAALARAFKGYVSLDIAKILCERSLIEKKGKFYWRHDQRLLERSPLRMTETQILSCLQEITAKTYLLLSSRGFAFDTEIIDNRIKAVEKLTLKKMDGGHHIHMEQPEIISKLLADF</Hsp_hseq>
+      <Hsp_midline>M T  L+IPG SIACK WGNPD P ILALHGWLDNANSF  +A +L+N+++F+AVDLPGHGHSSHLP GC YHF DGIF V+EIINAL L+K+HLLGHSMGACL SLV GV P+RFLSLSLIEGLGPFS+PAETACQQL +Y  +L+QK  K +KGY+  + AALAR+ KGYVSLDIAK LCER + ++ G +YWRHD+RLL  SPL+MTE Q+LSCL EI A+TYL+ +S+GF+FD++ +  RI+AV+ + ++++DGGHHIHME+PE+IS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966423646|ref|WP_058466792.1|</Hit_id>
+  <Hit_def>lipase [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466792</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>406.371</Hsp_bit-score>
+      <Hsp_score>1043</Hsp_score>
+      <Hsp_evalue>3.49691e-139</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>193</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MNTLNLNIPGFSLACKTWGTPDKPTILALHGWLDNANSFAPLAPYLENDFHFIAVDLPGHGYSSHLPEGCHYHFFDGIFVVIELINALKLDKLHLLGHSMGACLASLVGGVIPERFLSLSLIEGLGPFSHPAETACQQLRDYACFLAQ-QRKKSKGYDSINSAALARAFKGYVSLDIAKILCERSLVEKHGKFYWRHDPRLLVRSPLRMTEPQVLSCLQEITAKTCLILSSRGFSFDTEIIANRIKAVKNLTIKKMDGGHHVHMERPEVISKLLADF</Hsp_hseq>
+      <Hsp_midline>M T  L+IPG S+ACK WG PD P ILALHGWLDNANSF  +A +L+ND++FIAVDLPGHG+SSHLP GC YHF DGIF V+E+INAL L+KLHLLGHSMGACL SLV GV P+RFLSLSLIEGLGPFSHPAETACQQL  Y  +L+Q Q KK+KGY+    AALAR+ KGYVSLDIAK LCER + +++G +YWRHD RLL  SPL+MTE QVLSCL EI A+T LI +S+GFSFD++ +  RI+AVKN+ I+++DGGHH+HME+PEVIS+LLA F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966468552|ref|WP_058499878.1|</Hit_id>
+  <Hit_def>lipase [Legionella gratiana] &gt;gi|962221337|gb|KTD05997.1| lipase LipA (L, pneumophila) [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499878</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.208</Hsp_bit-score>
+      <Hsp_score>1027</Hsp_score>
+      <Hsp_evalue>8.63489e-137</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>375</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSI</Hsp_qseq>
+      <Hsp_hseq>LKIPGFSIACKTWGHPEKPTILALHGWLDNANSFLPLASYLENDFYLIAVDLPGHGHSSHLPKGCHYHFFDGIFIVIEILNALKLDKVHLLGHSMGACLASLIGGVIPERFLSLMLIEGLGPFSHPGETACQQLSEYAHFLALK-SKKSKGYEHLESAALARAFKGYVSIDIAKMLCERSLIEKRGRFYWRHDQRLLVRSPLRMTETQILSCLKEITAKTYLLIANQGFSFDTEITNNRINTVRNLTLKKIDGGHHIHMEQPEVVSQLLTDFMINI</Hsp_hseq>
+      <Hsp_midline>L IPG SIACK WG+P+ P ILALHGWLDNANSF  +A +L+ND+Y IAVDLPGHGHSSHLP GC YHF DGIF V+EI+NAL L+K+HLLGHSMGACL SL+ GV P+RFLSL LIEGLGPFSHP ETACQQLS+Y  +L+ K SKK+KGY   E AALAR+ KGYVS+DIAK LCER + ++ G +YWRHD+RLL  SPL+MTE Q+LSCL EI A+TYL+ A++GFSFD++    RI  V+N+ ++++DGGHHIHME+PEV+S+LL  F  +I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966421908|ref|WP_058465109.1|</Hit_id>
+  <Hit_def>lipase [Legionella cincinnatiensis] &gt;gi|962198851|gb|KTC83861.1| lipase LipA (L, pneumophila) [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465109</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.823</Hsp_bit-score>
+      <Hsp_score>1026</Hsp_score>
+      <Hsp_evalue>1.25212e-136</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>LSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>LKIPGFSIACKTWGHPEKPTILALHGWLDNANSFLPLASFLENDFYLIAVDLPGHGHSSHLPQGCHYHFFDGIFIVIEILNALKIDKVHLLGHSMGACLASLIGGVIPERFLSLILIEGLGPFSHPGETACQQLRDYAHFLTQK-SKKSKGYDHLESAALARAFKGYVSMDIAKTLCERSLVEKRGKFYWRHDPRLLARSPLRMTETQILSCLKEITAKTYLLIANQGFSFDAEITKNRINTVKNLTLKKMNGGHHIHMEQPEVVGQLLTDF</Hsp_hseq>
+      <Hsp_midline>L IPG SIACK WG+P+ P ILALHGWLDNANSF  +A  L+ND+Y IAVDLPGHGHSSHLP GC YHF DGIF V+EI+NAL ++K+HLLGHSMGACL SL+ GV P+RFLSL LIEGLGPFSHP ETACQQL  Y  +L+QK SKK+KGY+  E AALAR+ KGYVS+DIAK+LCER + ++ G +YWRHD RLLA SPL+MTE Q+LSCL EI A+TYL+ A++GFSFD++  K RI  VKN+ +++++GGHHIHME+PEV+ +LL  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|671587411|ref|WP_031563654.1|</Hit_id>
+  <Hit_def>lipase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563654</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.667</Hsp_bit-score>
+      <Hsp_score>1023</Hsp_score>
+      <Hsp_evalue>3.29487e-136</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>371</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>187</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKF</Hsp_qseq>
+      <Hsp_hseq>MDTIKLTIPGFSIACRTWGNPQKPPVLALHGWLDNANSFAPLASYLENDFYFIAVDLPGHGHSSHLPEGCHYHFFDGIFVVIEIINALHIEKVHLLGHSMGACLASLVGGVIPERLSSLSLIEGLGPFSLPEETACQQLKEFTHLLNQKD-KQTKGYDSINNAALARSFKGYVSFDIAKILCERSLIDRDGKFYWRHDPRLLVRSPLRMTEKQILSCLEEITVKTYLILSSNGFSFDPEITHNRIEAVKNLTVKKMDGGHHIHMEKPEAVSKLLAKF</Hsp_hseq>
+      <Hsp_midline>M T  L+IPG SIAC+ WGNP  PP+LALHGWLDNANSF  +A +L+ND+YFIAVDLPGHGHSSHLP GC YHF DGIF V+EIINAL + K+HLLGHSMGACL SLV GV P+R  SLSLIEGLGPFS P ETACQQL ++   L+QK  K+ KGY+   +AALARS KGYVS DIAK LCER +   +G +YWRHD RLL  SPL+MTE Q+LSCL EI  +TYLI +S GFSFD +    RI+AVKN+ ++++DGGHHIHMEKPE +S+LLAKF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966516690|ref|WP_058533184.1|</Hit_id>
+  <Hit_def>lipase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533184</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>381.719</Hsp_bit-score>
+      <Hsp_score>979</Hsp_score>
+      <Hsp_evalue>1.59656e-129</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFY</Hsp_qseq>
+      <Hsp_hseq>MQEITLTIPGFSIAAKVWGNSKNPPILALHGWLDNANSFAPLAPYLQNDFYLIAVDLPGHGLSSHLPPGCNYHFFDGIFIIIAIINALKLERVHLLGHSMGACMSSLMAGVAPERLHSLYLIEALGPFSSPAQTACSQLTDYAQFLNHTH-RLPKGYDQFESAALARSQKGYVSMDIARILCERGLIEKKGRFYWRHDRRLIAPTPLRMTEEQVLSCLQNISVKTHLLLSNEGFAFDVDIMENRIKAVKNMVVERLAGGHHIHMEKPELIGKLLIEFY</Hsp_hseq>
+      <Hsp_midline>M+   L+IPG SIA KVWGN  NPPILALHGWLDNANSF  +A +LQND+Y IAVDLPGHG SSHLPPGC YHF DGIF ++ IINAL L ++HLLGHSMGAC+ SL+AGVAP+R  SL LIE LGPFS PA+TAC QL+ Y  +L+    +  KGY++FE AALARS KGYVS+DIA+ LCERG+ ++ G +YWRHDRRL+AP+PL+MTE QVLSCL  I  +T+L+ +++GF+FD D M+ RI+AVKN+ +ERL GGHHIHMEKPE+I +LL +FY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|493927692|ref|WP_006872428.1|</Hit_id>
+  <Hit_def>lipase [Legionella drancourtii] &gt;gi|363536145|gb|EHL29591.1| hypothetical protein LDG_8555 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872428</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>381.333</Hsp_bit-score>
+      <Hsp_score>978</Hsp_score>
+      <Hsp_evalue>1.86923e-129</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>278</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>177</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MHEIIIQIPGFSIAGKTWGSPENPPILALHGWLDNANSFAPLAPYLQDDFYFIAADLPGHGYSSHIPAGCNYHFFDAIFIIIELINALQLGKVHLLGHSMGACISSLLAGVAPQLLRSLYLIEALGPFSAPAETTCQQLAAYAQFLNQP-SKKSKSYEHFEKAVVARSAKGYVSMDIAQILCERALIQTAGRYHWRHDPKLLVTSPLRMTEEQILSCLRQISSKTVLLLSNEGFSFDAEIMANRIKTVNNLIVERLDGGHHIHMEKPEVVAQLLADFYH</Hsp_hseq>
+      <Hsp_midline>M   I+ IPG SIA K WG+P+NPPILALHGWLDNANSF  +A +LQ+D+YFIA DLPGHG+SSH+P GC YHF D IF ++E+INAL L K+HLLGHSMGAC+ SL+AGVAP    SL LIE LGPFS PAET CQQL+ Y  +L+Q  SKK+K Y  FE A +ARS KGYVS+DIA+ LCER + Q  G Y+WRHD +LL  SPL+MTE Q+LSCL +I ++T L+ +++GFSFD++ M  RI+ V N+ +ERLDGGHHIHMEKPEV+++LLA FY </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966472009|ref|WP_058502924.1|</Hit_id>
+  <Hit_def>lipase [Legionella israelensis] &gt;gi|962229831|gb|KTD14428.1| lipase A [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502924</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>363.229</Hsp_bit-score>
+      <Hsp_score>931</Hsp_score>
+      <Hsp_evalue>3.26948e-122</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>375</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>169</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>281</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQSI</Hsp_qseq>
+      <Hsp_hseq>MKEFNLTIPGLTIACKSWGSPESPPVLALHGWLDNANTFDKLAPFLEKKFYLIAVDLPGHGMSSHLAEGCHYHFIDGIFAVVNIINALGFEKIHLLGHSMGACLASLAGGVAADKILSLSLIEGLGPFTSSPDTANIQLSDYIKHQILTDKKPVRGYKSVEKAAEARAKRGHVSIEAARILCKRGIKKENHLYYWQHDRRLLIPSPLRMTEEQVLSCLKAIIVKTCLIWASEGYSFNLETMETRMKVVKQLQTHQLKGGHHIHMEKPQGVAKRLLSFYQNL</Hsp_hseq>
+      <Hsp_midline>MK   L+IPGL+IACK WG+P++PP+LALHGWLDNAN+FD +A  L+  +Y IAVDLPGHG SSHL  GC YHF DGIF VV IINALG  K+HLLGHSMGACL SL  GVA D+ LSLSLIEGLGPF+   +TA  QLS Y+ +      K  +GY   E AA AR+ +G+VS++ A+ LC+RGI++EN LYYW+HDRRLL PSPL+MTE QVLSCL  I  +T LIWAS+G+SF+ + M+ R++ VK ++  +L GGHHIHMEKP+ +++ L  FYQ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|683290124|emb|CEE12485.1|</Hit_id>
+  <Hit_def>Tropinesterase [Legionella massiliensis] &gt;gi|685072494|emb|CDZ76747.1| Tropinesterase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>CEE12485</Hit_accession>
+  <Hit_len>292</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.91</Hsp_bit-score>
+      <Hsp_score>912</Hsp_score>
+      <Hsp_evalue>2.96366e-119</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>290</Hsp_align-len>
+      <Hsp_qseq>IERSORIGINMMKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>INKGSLFVILAMDSTTLTIPGFTIGYKTWGNPALPPMLALHGWLDNANSFDLLAPYLEKQFYFIAIDFPGHGYSSHLSEGCYYHFSDGIFNILQVIKALGLGQIHLLGHSMGACLASLIAGVVPEQILSMALIEGLGPFSNPDFSCRDQLSRYSQLISKEANKSAKPYQSLEQAALARAKRGYLSKELAAILAQRGLEEKEEQFYWRHDRRLLLTSPLTMTEGQVLSCLKGIRAKSCLIWASQGFGFDSNIMSERVKTVNDLQIYHLEGGHHIHMEQPGAVAQCLAQFYQ</Hsp_hseq>
+      <Hsp_midline>I +     I  M +  L+IPG +I  K WGNP  PP+LALHGWLDNANSFD +A +L+  +YFIA+D PGHG+SSHL  GC YHF+DGIF ++++I ALGL ++HLLGHSMGACL SL+AGV P++ LS++LIEGLGPFS+P  +   QLS+Y   +S++ +K AK Y   E AALAR+ +GY+S ++A  L +RG++++   +YWRHDRRLL  SPL MTE QVLSCL  I+A++ LIWAS+GF FDS+ M  R++ V +++I  L+GGHHIHME+P  +++ LA+FYQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|762037812|ref|WP_043873750.1|</Hit_id>
+  <Hit_def>lipase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873750</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.525</Hsp_bit-score>
+      <Hsp_score>911</Hsp_score>
+      <Hsp_evalue>3.41291e-119</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MDSTTLTIPGFTIGYKTWGNPALPPMLALHGWLDNANSFDLLAPYLEKQFYFIAIDFPGHGYSSHLSEGCYYHFSDGIFNILQVIKALGLGQIHLLGHSMGACLASLIAGVVPEQILSMALIEGLGPFSNPDFSCRDQLSRYSQLISKEANKSAKPYQSLEQAALARAKRGYLSKELAAILAQRGLEEKEEQFYWRHDRRLLLTSPLTMTEGQVLSCLKGIRAKSCLIWASQGFGFDSNIMSERVKTVNDLQIYHLEGGHHIHMEQPGAVAQCLAQFYQ</Hsp_hseq>
+      <Hsp_midline>M +  L+IPG +I  K WGNP  PP+LALHGWLDNANSFD +A +L+  +YFIA+D PGHG+SSHL  GC YHF+DGIF ++++I ALGL ++HLLGHSMGACL SL+AGV P++ LS++LIEGLGPFS+P  +   QLS+Y   +S++ +K AK Y   E AALAR+ +GY+S ++A  L +RG++++   +YWRHDRRLL  SPL MTE QVLSCL  I+A++ LIWAS+GF FDS+ M  R++ V +++I  L+GGHHIHME+P  +++ LA+FYQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966401264|ref|WP_058444859.1|</Hit_id>
+  <Hit_def>lipase [Legionella feeleii] &gt;gi|962216484|gb|KTD01245.1| lipase A [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444859</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>353.599</Hsp_bit-score>
+      <Hsp_score>906</Hsp_score>
+      <Hsp_evalue>2.0435e-118</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFY</Hsp_qseq>
+      <Hsp_hseq>MKTFTVTIPGFTIAGKAWGNPERPPMLALHGWLDNANSFDLLAPYLEKEFYLLAIDLPGHGHSSHLPEGCYYHFSDGIFTCLQIIHALGFKHFHLLGHSMGACLASLIAGVAAEQVLSLILIEGLGPFSQPEQTCRKQLAQYINHL-KGENKEAKPYQSLDLAAQARAKRGYLSLDYAKIICQRGVVKRKESFYWRHDRRLLNPTPLYMTEGQILSCLQGITARSLLILADNGFVFKDFDMQERIKAVKDLQINQMQGGHHIHMEQPDAIAQRLVEFY</Hsp_hseq>
+      <Hsp_midline>MKT  ++IPG +IA K WGNP+ PP+LALHGWLDNANSFD +A +L+ ++Y +A+DLPGHGHSSHLP GC YHF+DGIFT ++II+ALG    HLLGHSMGACL SL+AGVA ++ LSL LIEGLGPFS P +T  +QL++Y+++L + ++K+AK Y   + AA AR+ +GY+SLD AK +C+RG+ +    +YWRHDRRLL P+PL MTE Q+LSCL  I A++ LI A  GF F    M+ RI+AVK+++I ++ GGHHIHME+P+ I++ L +FY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966407043|ref|WP_058450449.1|</Hit_id>
+  <Hit_def>lipase [Legionella jamestowniensis] &gt;gi|962223780|gb|KTD08430.1| lipase A [Legionella jamestowniensis] &gt;gi|1097331330|emb|SFL50957.1| Pimeloyl-ACP methyl ester carboxylesterase [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450449</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>353.214</Hsp_bit-score>
+      <Hsp_score>905</Hsp_score>
+      <Hsp_evalue>2.73841e-118</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>208</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFY</Hsp_qseq>
+      <Hsp_hseq>MNTFTVTIPGFSIGGKAYGNPDLPPMLALHGWLDNANSFDLLAPYLEKHFHLLAIDLPGHGHSSHLPEGCYYHFTDGIFTTLEIINALQLRQVHLLGHSMGACLASLIAGVAPEKILSLVLIEGLGPFSKPEETCRDQMAQYLTYMSRNE-KASKPYSSLIQAAQARAKRGYLSLEHAQILCQRGTREENGSIYWRHDRRLLTPTSLRMTEKQILSCLRNILAKTCLIWGQASSVFDDYDMGTRTNAVANLKTHRLPGGHHVHMEYPDAVARCLREFY</Hsp_hseq>
+      <Hsp_midline>M T  ++IPG SI  K +GNPD PP+LALHGWLDNANSFD +A +L+  ++ +A+DLPGHGHSSHLP GC YHFTDGIFT +EIINAL L ++HLLGHSMGACL SL+AGVAP++ LSL LIEGLGPFS P ET   Q+++YL Y+S+ + K +K Y+    AA AR+ +GY+SL+ A+ LC+RG ++ENG  YWRHDRRLL P+ L+MTE Q+LSCL  I A+T LIW      FD   M  R  AV N+K  RL GGHH+HME P+ ++R L +FY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966398502|ref|WP_058442400.1|</Hit_id>
+  <Hit_def>lipase [Legionella brunensis] &gt;gi|962193056|gb|KTC78123.1| lipase A [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442400</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>350.903</Hsp_bit-score>
+      <Hsp_score>899</Hsp_score>
+      <Hsp_evalue>2.48642e-117</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>278</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MKTFNVAIPGFTIAGKAFGNPNRPPMLALHGWLDNANSFDLLAPYLEKQFYLLAIDLPGHGHSSHLPEGCYYHFTDGIFSILEVMKALQLKQVHLLGHSMGACLASLIAGVAPEKILSMILIEGLGPFSKPEEACCEQLAQYLQHTSIKE-KEAKPYSSMHLAAQARAKRGYLSLEHAEILCQRGTLEQNNAVYWRHDRRLLTPTPLRMTEGQILSCLRGITAKSCLIWAKDSSVFNEYDIKTRCNAVANLKVYQLPGGHHLHMEYPEALARCLTEFYE</Hsp_hseq>
+      <Hsp_midline>MKT  ++IPG +IA K +GNP+ PP+LALHGWLDNANSFD +A +L+  +Y +A+DLPGHGHSSHLP GC YHFTDGIF+++E++ AL L ++HLLGHSMGACL SL+AGVAP++ LS+ LIEGLGPFS P E  C+QL++YL + S K+ K+AK Y+    AA AR+ +GY+SL+ A+ LC+RG  ++N   YWRHDRRLL P+PL+MTE Q+LSCL  I A++ LIWA     F+   +K R  AV N+K+ +L GGHH+HME PE ++R L +FY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|1046230760|ref|WP_065621267.1|</Hit_id>
+  <Hit_def>lipase [Legionella jamestowniensis] &gt;gi|1045920135|gb|OCH97102.1| lipase [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065621267</Hit_accession>
+  <Hit_len>279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>350.517</Hsp_bit-score>
+      <Hsp_score>898</Hsp_score>
+      <Hsp_evalue>2.76788e-117</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFY</Hsp_qseq>
+      <Hsp_hseq>MNTFTVTIPGFSIGGKAYGNPDLPPMLALHGWLDNANSFDLLAPYLEKHFHLLAIDLPGHGHSSHLPEGCYYHFSDGIFTTLEIINALQLRQVHLLGHSMGACLASLIAGVTPEKILSLVLIEGLGPFSKPEETCRDQMAQYITYTSRNE-KNPKPYPSLMQAAQARAKRGYLSLEHAQILCQRGTREENGSIYWRHDRRLLTPTPLRMTEKQILSCLRNILAKTCLIWGQASSVFDDYDMDTRTNAVANLKTHRLPGGHHVHMEYPDAVARCLREFY</Hsp_hseq>
+      <Hsp_midline>M T  ++IPG SI  K +GNPD PP+LALHGWLDNANSFD +A +L+  ++ +A+DLPGHGHSSHLP GC YHF+DGIFT +EIINAL L ++HLLGHSMGACL SL+AGV P++ LSL LIEGLGPFS P ET   Q+++Y+ Y S+ + K  K Y     AA AR+ +GY+SL+ A+ LC+RG ++ENG  YWRHDRRLL P+PL+MTE Q+LSCL  I A+T LIW      FD   M  R  AV N+K  RL GGHH+HME P+ ++R L +FY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|654921580|ref|WP_028372140.1|</Hit_id>
+  <Hit_def>lipase [Legionella lansingensis] &gt;gi|962239385|gb|KTD23865.1| lipase A [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372140</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.977</Hsp_bit-score>
+      <Hsp_score>894</Hsp_score>
+      <Hsp_evalue>1.34904e-116</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>373</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>279</Hsp_align-len>
+      <Hsp_qseq>MKTKILSIPGLSIACKVWGNPDNPPILALHGWLDNANSFDNIAEHLQNDYYFIAVDLPGHGHSSHLPPGCIYHFTDGIFTVVEIINALGLNKLHLLGHSMGACLGSLVAGVAPDRFLSLSLIEGLGPFSHPAETACQQLSKYLDYLSQKQSKKAKGYNKFEHAALARSVKGYVSLDIAKSLCERGIQQENGLYYWRHDRRLLAPSPLQMTEAQVLSCLTEIKAQTYLIWASKGFSFDSDKMKARIQAVKNIKIERLDGGHHIHMEKPEVISRLLAKFYQ</Hsp_qseq>
+      <Hsp_hseq>MTSFTVSIPGFTIAGKAWGKPDCAPMLALHGWLDNANSFDLLAPYLADKFYLLAIDLPGHGYSSHLPEGCHYHFTDGIFTILEIINALKLKQVHLLGHSMGACLASLVAGVAPEKILSMALIEGLGPFSKPEETCRNQLAQYSQHLFKAQSKSAKPYPSITSAAQARAKRGYLSLQHAEILCQRGTHEQHGRIYWRHDKRLLTPTSMRMTEGQILSCLRNITAKSCLIWAENTSVFDGYDMNTRIKAVANLKTHYLKGGHHLHMEEPGAVAQCLAEFYE</Hsp_hseq>
+      <Hsp_midline>M +  +SIPG +IA K WG PD  P+LALHGWLDNANSFD +A +L + +Y +A+DLPGHG+SSHLP GC YHFTDGIFT++EIINAL L ++HLLGHSMGACL SLVAGVAP++ LS++LIEGLGPFS P ET   QL++Y  +L + QSK AK Y     AA AR+ +GY+SL  A+ LC+RG  +++G  YWRHD+RLL P+ ++MTE Q+LSCL  I A++ LIWA     FD   M  RI+AV N+K   L GGHH+HME+P  +++ LA+FY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

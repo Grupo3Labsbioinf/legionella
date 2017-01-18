@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_54889</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>319</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_54889</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>319</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248689|ref|WP_010946229.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|52840726|ref|YP_094525.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|81603529|sp|Q5ZY91.1|TRMB_LEGPH RecName: Full=tRNA (guanine-N(7)-)-methyltransferase; AltName: Full=tRNA (guanine(46)-N(7))-methyltransferase; AltName: Full=tRNA(m7G46)-methyltransferase &gt;gi|52627837|gb|AAU26578.1| S-adenosylmethionine-dependent methyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507238|gb|AEW50762.1| S-adenosylmethionine-dependent methyltransferase [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946229</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>7.56573e-170</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>226</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>226</Hsp_align-len>
+      <Hsp_qseq>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|505257713|ref|WP_015444815.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|469492983|gb|AGH54828.1| tRNA (guanine46-N7-)-methyltransferase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081146|gb|AGN13394.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771673|emb|CZI66739.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998774533|emb|CZH00567.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998777509|emb|CZG98635.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998782974|emb|CZI84115.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998783621|emb|CZH33856.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998786281|emb|CZG99143.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998795727|emb|CZI42948.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998798534|emb|CZL71131.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998804405|emb|CZK47672.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998808946|emb|CZH73491.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998810773|emb|CZI19530.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998814787|emb|CZG50446.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998816669|emb|CZM04790.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998819689|emb|CZL99259.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998822438|emb|CZH33605.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998825607|emb|CZK41057.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998828280|emb|CZH36451.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998831327|emb|CZI84810.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998834513|emb|CZL39219.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998838649|emb|CZJ28446.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998840562|emb|CZL86354.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998843412|emb|CZK84189.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998846418|emb|CZL03009.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998850732|emb|CZI22867.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998852682|emb|CZL85400.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998855860|emb|CZL50392.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998858662|emb|CZM19218.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998862265|emb|CZK39530.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998864714|emb|CZJ85597.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998867164|emb|CZJ81436.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998870433|emb|CZM39524.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998873669|emb|CZK74015.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998876377|emb|CZM36467.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998879382|emb|CZJ76809.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998883042|emb|CZI86261.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998885834|emb|CZM37790.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998888828|emb|CZK46930.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998894441|emb|CZK50711.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998897665|emb|CZK06807.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998905352|emb|CZK82670.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998908787|emb|CZL58216.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998914361|emb|CZL38328.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998917791|emb|CZL54863.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998920671|emb|CZL59242.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998927944|emb|CZL75268.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998929837|emb|CZL07501.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998932794|emb|CZM04867.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998937992|emb|CZL85204.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998939394|emb|CZK99372.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998944987|emb|CZL44958.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998948078|emb|CZL21235.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998951031|emb|CZJ93863.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998957144|emb|CZM63740.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998960418|emb|CZK66749.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998963250|emb|CZK70981.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998966082|emb|CZM81000.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998969427|emb|CZK95223.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998972578|emb|CZK79454.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998978550|emb|CZL93496.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998984472|emb|CZK71271.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998987659|emb|CZL78502.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998996796|emb|CZK32659.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999000051|emb|CZG93215.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999006469|emb|CZL24975.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999011978|emb|CZL77610.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999017218|emb|CZL84486.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999021521|emb|CZL70456.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999024300|emb|CZL05728.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999036283|emb|CZL77657.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999045490|emb|CZM18125.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999058485|emb|CZM31324.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999060450|emb|CZL65234.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999066535|emb|CZJ44217.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999075728|emb|CZH08189.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999078731|emb|CZK34690.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999081817|emb|CZL25942.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999087948|emb|CZL17182.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999091163|emb|CZL74398.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999094368|emb|CZH34062.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999097326|emb|CZH42174.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999100199|emb|CZM12588.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999103743|emb|CZI20973.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999109486|emb|CZL51219.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999112461|emb|CZM01430.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999115898|emb|CZK72102.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999124970|emb|CZL19907.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999128463|emb|CZH14377.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999130772|emb|CZM17002.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999134289|emb|CZL38362.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999138445|emb|CZK10941.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999140839|emb|CZL84017.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999143463|emb|CZL43535.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999146423|emb|CZM00783.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999152587|emb|CZM80993.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999155893|emb|CZI31977.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999161932|emb|CZM40651.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999174607|emb|CZL50905.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999189932|emb|CZI66523.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999193194|emb|CZJ09116.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999200030|emb|CZG75539.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999202504|emb|CZJ08778.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999208678|emb|CZL32366.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999218433|emb|CZL88977.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999221044|emb|CZI96752.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999225282|emb|CZG81294.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999236746|emb|CZG95082.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999247925|emb|CZH58116.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999333862|emb|CZL15985.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999454020|emb|CZI19620.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999460484|emb|CZG98625.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999773171|emb|CZH91244.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999796159|emb|CZI25575.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002074470|emb|CZR04845.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002077372|emb|CZR11156.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002085589|emb|CZQ97704.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002088261|emb|CZQ79020.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1003018342|emb|CZR30323.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|1003021415|emb|CZR26665.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|1003024547|emb|CZR30406.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|1073863652|gb|AOU03603.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073866610|gb|AOU06560.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073869615|gb|AOU09564.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073872559|gb|AOU12507.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073875541|gb|AOU15488.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073878502|gb|AOU18448.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073881497|gb|AOU21442.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073884459|gb|AOU24403.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073887457|gb|AOU27400.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073890442|gb|AOU30384.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073893407|gb|AOU33348.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073896371|gb|AOU36311.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073899335|gb|AOU39274.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073902286|gb|AOU42224.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073905197|gb|AOU45134.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073908215|gb|AOU48150.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073911270|gb|AOU51202.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073914189|gb|AOU54120.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073917147|gb|AOU57077.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073920113|gb|AOU60042.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073923088|gb|AOU63015.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073926100|gb|AOU66026.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073929080|gb|AOU68989.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073932465|gb|AOU72024.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073935412|gb|AOU82411.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073945687|gb|AOU85411.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1073948650|gb|AOU88373.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1104001798|emb|SFZ36220.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1104005365|emb|SFZ36151.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1129967265|gb|APT97624.1| tRNA (guanine-N7)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444815</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>476.863</Hsp_bit-score>
+      <Hsp_score>1226</Hsp_score>
+      <Hsp_evalue>7.61906e-169</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>225</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499533440|ref|WP_011214724.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|81822446|sp|Q5WZ61.1|TRMB_LEGPL RecName: Full=tRNA (guanine-N(7)-)-methyltransferase; AltName: Full=tRNA (guanine(46)-N(7))-methyltransferase; AltName: Full=tRNA(m7G46)-methyltransferase &gt;gi|53753304|emb|CAH14751.1| hypothetical protein lpl0521 [Legionella pneumophila str. Lens] &gt;gi|1080002242|gb|AOW52814.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006005|gb|AOW56285.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008136|gb|AOW58124.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012202|gb|AOW61693.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014741|gb|AOW63614.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018446|gb|AOW67091.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214724</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.781</Hsp_bit-score>
+      <Hsp_score>1218</Hsp_score>
+      <Hsp_evalue>1.207e-167</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVAHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVV HDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1119379892|ref|WP_072356026.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356026</Hit_accession>
+  <Hit_len>238</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>472.626</Hsp_bit-score>
+      <Hsp_score>1215</Hsp_score>
+      <Hsp_evalue>4.66159e-167</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIK</Hsp_hseq>
+      <Hsp_midline>MMQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHE+QISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|499526472|ref|WP_011213112.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|81822640|sp|Q5X7R0.1|TRMB_LEGPA RecName: Full=tRNA (guanine-N(7)-)-methyltransferase; AltName: Full=tRNA (guanine(46)-N(7))-methyltransferase; AltName: Full=tRNA(m7G46)-methyltransferase &gt;gi|53750299|emb|CAH11693.1| hypothetical protein lpp0545 [Legionella pneumophila str. Paris] &gt;gi|395126465|emb|CCD04648.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella pneumophila subsp. pneumophila] &gt;gi|536613602|gb|ERB41974.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila str. 121004] &gt;gi|541995566|gb|ERH41665.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila str. Leg01/11] &gt;gi|541997358|gb|ERH43404.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila str. Leg01/53] &gt;gi|542121147|gb|ERI47480.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila str. Leg01/20] &gt;gi|762002502|dbj|GAN25620.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998791212|emb|CZG38603.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998923777|emb|CZK26500.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998943847|emb|CZJ51524.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998954384|emb|CZK62831.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998975555|emb|CZJ91950.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998992779|emb|CZJ45473.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999009011|emb|CZK44258.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999018173|emb|CZJ85648.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999027288|emb|CZK23061.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999030611|emb|CZH25522.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999033238|emb|CZK19656.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999039444|emb|CZJ94390.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999042490|emb|CZK06297.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999048477|emb|CZK00389.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999051620|emb|CZJ93980.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999054501|emb|CZK27420.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999063732|emb|CZK03749.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999070525|emb|CZJ63454.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999072744|emb|CZK29780.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999085040|emb|CZK32741.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999171899|emb|CZI31014.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999181688|emb|CZG52893.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999184375|emb|CZP96606.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999187856|emb|CZI96390.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999198508|emb|CZP15418.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999206241|emb|CZP64537.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999212772|emb|CZG80162.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999216870|emb|CZI64343.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999228344|emb|CZP10352.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999235249|emb|CZP59942.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999240241|emb|CZH89211.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999244414|emb|CZH78287.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999248821|emb|CZH09695.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999252037|emb|CZH38625.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999256026|emb|CZP81075.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999259068|emb|CZP45617.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999261345|emb|CZH43152.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999265261|emb|CZP08422.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999269473|emb|CZO34553.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999272275|emb|CZP59798.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999274843|emb|CZG81329.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999277657|emb|CZP38796.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999281312|emb|CZP14351.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999283720|emb|CZP62931.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999291037|emb|CZP33603.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999296436|emb|CZP57022.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999299523|emb|CZP45734.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999307355|emb|CZH72053.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999309419|emb|CZP28754.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999315773|emb|CZI08435.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999318727|emb|CZP66254.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999322069|emb|CZI00079.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999324392|emb|CZH31662.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999328672|emb|CZG66507.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999331773|emb|CZG56548.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999337806|emb|CZP48601.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999340129|emb|CZH27638.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999344403|emb|CZP83294.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999347258|emb|CZP64467.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999349658|emb|CZH39447.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999353424|emb|CZP67322.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999357182|emb|CZP66894.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999360018|emb|CZI63241.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999363762|emb|CZP55156.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999367166|emb|CZP78317.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999369891|emb|CZP76612.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999373410|emb|CZG55737.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999376444|emb|CZJ17293.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999379799|emb|CZH70596.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999382694|emb|CZI59577.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999386237|emb|CZG62862.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999389144|emb|CZI58298.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999392355|emb|CZP98737.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999396858|emb|CZG07218.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999398603|emb|CZQ01446.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999403072|emb|CZP39411.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999405874|emb|CZG69760.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999408939|emb|CZH93171.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999412787|emb|CZG34208.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999415386|emb|CZG86446.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999418726|emb|CZG63067.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999421921|emb|CZH72043.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999425235|emb|CZG73704.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999428411|emb|CZG74579.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999431599|emb|CZG71655.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999434957|emb|CZH98534.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999438141|emb|CZG61041.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999441137|emb|CZK27435.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|999444670|emb|CZH78799.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999447873|emb|CZG54752.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999450672|emb|CZP37102.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999457614|emb|CZK23605.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999464803|emb|CZM50567.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999467827|emb|CZO27960.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999469362|emb|CZH08440.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999474748|emb|CZM63599.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999477205|emb|CZN76527.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999480707|emb|CZN01941.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999484202|emb|CZN87525.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999487139|emb|CZM12886.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999490312|emb|CZN80838.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999493503|emb|CZM12342.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999496299|emb|CZI48380.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999500083|emb|CZN74925.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999503209|emb|CZO09766.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999506323|emb|CZN14556.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999509526|emb|CZG49645.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999512864|emb|CZN28928.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999516048|emb|CZM01702.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999518955|emb|CZM82975.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999521915|emb|CZP18030.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999525314|emb|CZJ05902.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999528027|emb|CZI72808.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999532311|emb|CZO44502.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999535467|emb|CZN38926.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999538548|emb|CZM74104.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999541992|emb|CZO19565.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999544954|emb|CZO59814.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999548202|emb|CZN90523.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999551514|emb|CZO12757.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999554549|emb|CZN32785.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999557876|emb|CZO54584.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999561115|emb|CZM43621.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999564121|emb|CZO68490.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999567485|emb|CZM53971.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999570685|emb|CZN51838.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999573873|emb|CZN94325.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999576072|emb|CZI43518.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999580365|emb|CZO18197.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999583653|emb|CZO39530.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999587016|emb|CZM66489.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999589949|emb|CZM39127.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999593108|emb|CZN44116.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999596181|emb|CZO10448.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999599501|emb|CZO36237.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999602673|emb|CZL98575.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999605461|emb|CZN74395.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999608998|emb|CZN64386.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999611328|emb|CZI64487.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999615610|emb|CZM49117.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999618621|emb|CZN89114.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999621809|emb|CZO83391.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999625137|emb|CZN72735.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999628364|emb|CZM61684.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999631586|emb|CZM60434.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999634646|emb|CZN60844.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999637974|emb|CZN53017.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999641170|emb|CZO81028.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999644162|emb|CZO54715.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999647653|emb|CZN95977.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999650661|emb|CZO04136.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999653954|emb|CZO01948.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999657151|emb|CZM31012.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999660225|emb|CZM66117.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999663344|emb|CZN16041.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999666709|emb|CZM36461.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999669901|emb|CZL83239.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999673135|emb|CZM38810.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999676295|emb|CZN76521.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999679360|emb|CZM80735.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999682555|emb|CZM83273.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999686242|emb|CZO01630.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999689090|emb|CZN29677.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999692283|emb|CZN97941.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999695500|emb|CZN27809.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999698833|emb|CZM13331.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999701777|emb|CZM80059.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999705012|emb|CZL96248.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999708130|emb|CZN56000.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999711549|emb|CZM99699.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999714645|emb|CZN20158.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999718025|emb|CZO47231.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999720981|emb|CZM94996.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999724500|emb|CZN35607.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999727795|emb|CZL98217.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999731022|emb|CZO44483.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999734138|emb|CZM24728.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999737522|emb|CZO71744.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999741003|emb|CZM32690.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999744059|emb|CZN25817.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999747201|emb|CZM24062.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999750567|emb|CZL97673.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999753763|emb|CZM82283.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999756814|emb|CZN11886.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999760315|emb|CZM25757.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999763340|emb|CZN29144.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999766866|emb|CZM46834.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999769715|emb|CZN49232.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999776179|emb|CZL98921.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999777444|emb|CZH48059.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999782933|emb|CZH63353.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999786378|emb|CZM23230.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999789543|emb|CZO65672.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999792888|emb|CZO59631.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999799773|emb|CZO54302.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1003029230|emb|CZR19263.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|1003031809|emb|CZR29217.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1003036413|emb|CZR17235.1| tRNA (m7G46) methyltransferase%2C SAM-dependent [Legionella pneumophila] &gt;gi|1005832253|gb|AMQ26979.1| tRNA (guanine-N7)-methyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431616|gb|AMV13243.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1041014523|gb|ANN91584.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1041017620|gb|ANN94680.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1103998681|emb|SFZ36239.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213112</Hit_accession>
+  <Hit_len>237</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>470.315</Hsp_bit-score>
+      <Hsp_score>1209</Hsp_score>
+      <Hsp_evalue>4.54093e-166</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHE+QISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1005410654|ref|WP_061639906.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|998793171|emb|CZI53042.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639906</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>469.159</Hsp_bit-score>
+      <Hsp_score>1206</Hsp_score>
+      <Hsp_evalue>6.38512e-166</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQITNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+QI+NVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504656264|ref|WP_014843366.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|395129571|emb|CCD07804.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella pneumophila subsp. pneumophila] &gt;gi|761992704|dbj|GAN16492.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|761995894|dbj|GAN19598.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998892665|emb|CZJ25893.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998982412|emb|CZI65783.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999107528|emb|CZI62948.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999231757|emb|CZI43438.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002081566|emb|CZQ99951.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843366</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.463</Hsp_bit-score>
+      <Hsp_score>1199</Hsp_score>
+      <Hsp_evalue>7.19936e-165</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHECQITNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE QI+NVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|500490080|ref|WP_011945640.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|166988139|sp|A5IHB4.1|TRMB_LEGPC RecName: Full=tRNA (guanine-N(7)-)-methyltransferase; AltName: Full=tRNA (guanine(46)-N(7))-methyltransferase; AltName: Full=tRNA(m7G46)-methyltransferase &gt;gi|148282676|gb|ABQ56764.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila str. Corby] &gt;gi|295647932|gb|ADG23779.1| S-adenosylmethionine-dependent methyltransferase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989517|dbj|GAN22580.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|761999041|dbj|GAN28930.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998801875|emb|CZI09942.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998912122|emb|CZH22266.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|998994541|emb|CZI20888.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999003183|emb|CZI83105.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999159279|emb|CZJ67689.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999165645|emb|CZG81787.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999178286|emb|CZJ54662.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999287245|emb|CZI47621.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999293627|emb|CZI46074.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999302844|emb|CZI37621.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999312684|emb|CZI54651.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1002092746|emb|CZQ95184.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1032656661|gb|ANH11932.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1032659629|gb|ANH14899.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|1032662596|gb|ANH17865.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945640</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.463</Hsp_bit-score>
+      <Hsp_score>1199</Hsp_score>
+      <Hsp_evalue>8.67411e-165</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>219</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQITNVRVVVHDAVDVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+QI+NVRVVVHDAV+VLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1004017622|ref|WP_061485344.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485344</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.537</Hsp_bit-score>
+      <Hsp_score>1194</Hsp_score>
+      <Hsp_evalue>4.34545e-164</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPRCNYLGIEVHKAGVGSLVADLHEHQITNVRVVVHDAVDVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNP+CNYLGIEVHKAGVGSLVADLHE+QI+NVRVVVHDAV+VLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1006677902|ref|WP_061821123.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila] &gt;gi|999149934|emb|CZI47440.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999168582|emb|CZI44162.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061821123</Hit_accession>
+  <Hit_len>237</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.922</Hsp_bit-score>
+      <Hsp_score>1195</Hsp_score>
+      <Hsp_evalue>5.34356e-164</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQITNVRVVVHDAVDVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+QI+NVRVVVHDAV+VLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1011913462|ref|WP_062726676.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726676</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>460.299</Hsp_bit-score>
+      <Hsp_score>1183</Hsp_score>
+      <Hsp_evalue>2.17525e-162</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>215</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQVTNVRVVMHDAVEVLQTKIQENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLAKKIRPSGFIHCATDWEDYAEHILNVLSSDSALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+Q++NVRVV+HDAVEVLQTKI ENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQML KKIRPSGFIHCATDWEDYAEHILNVLSS+SALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|652970659|ref|WP_027223551.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella pneumophila] &gt;gi|1005362760|gb|AMP88629.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pascullei] &gt;gi|1005365761|gb|AMP91538.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pascullei] &gt;gi|1005368749|gb|AMP94525.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223551</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>459.914</Hsp_bit-score>
+      <Hsp_score>1182</Hsp_score>
+      <Hsp_evalue>3.44701e-162</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKEFGRHDADTIVEIGFGMGTSLFTMAMNNPRCNYLGIEVHKAGVGSLVADLHEHQINNVRVVMHDAVEVLQTKIQENSLSGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAKEFGRHDADTIVEIGFGMGTSLF MAMNNP+CNYLGIEVHKAGVGSLVADLHE+QI+NVRVV+HDAVEVLQTKI ENSL+GVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1004049818|ref|WP_061504431.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061504431</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>459.529</Hsp_bit-score>
+      <Hsp_score>1181</Hsp_score>
+      <Hsp_evalue>4.84184e-162</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>215</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKAFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQVTNVRVVMHDAVEVLQTKIQENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLAKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAK FGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+Q++NVRVV+HDAVEVLQTKI ENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQML KKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|652976199|ref|WP_027228872.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella pneumophila] &gt;gi|985765975|gb|KXB27086.1| tRNA (guanine-N7)-methyltransferase [Legionella pneumophila] &gt;gi|985767715|gb|KXB28801.1| tRNA (guanine-N7)-methyltransferase [Legionella pneumophila] &gt;gi|999119294|emb|CZG77332.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|999122498|emb|CZH11351.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila] &gt;gi|1024341646|gb|KZX35953.1| tRNA (guanine-N7)-methyltransferase [Legionella pneumophila] &gt;gi|1108603961|gb|APF02329.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. fraseri] &gt;gi|1108606972|gb|APF05339.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228872</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>458.373</Hsp_bit-score>
+      <Hsp_score>1178</Hsp_score>
+      <Hsp_evalue>1.59742e-161</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKAFGRHDADTIVEIGFGMGTSLFTMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQVTNVRVVMHDAVEVLQTKIQENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLAKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAK FGRHDADTIVEIGFGMGTSLF MAMNNPQCNYLGIEVHKAGVGSLVADLHE+Q++NVRVV+HDAVEVLQTKI ENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQML KKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|654927525|ref|WP_028378017.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378017</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.988</Hsp_bit-score>
+      <Hsp_score>1177</Hsp_score>
+      <Hsp_evalue>2.05759e-161</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPSPWNFAKAFGRHDADTIVEIGFGMGTSLFTMAINNPQCNYLGIEVHKAGVGSLVADLHEHQVTNVRVVMHDAVEVLQTKIQENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLAKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFEQRGERLGHGVWDLVFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSP+PWNFAK FGRHDADTIVEIGFGMGTSLF MA+NNPQCNYLGIEVHKAGVGSLVADLHE+Q++NVRVV+HDAVEVLQTKI ENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQML KKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFE RGERLGHGVWDLVFIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|737924670|ref|WP_035889924.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella norrlandica] &gt;gi|701445683|gb|KGP63055.1| tRNA (guanine-N7)-methyltransferase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889924</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.869</Hsp_bit-score>
+      <Hsp_score>1104</Hsp_score>
+      <Hsp_evalue>3.65707e-150</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLQNYELKFDEPSPWDFAKEFGRDDADTIVEIGFGMGTSLFTMAVNNPQCNYIGIEVHKAGVGSLIADLHDHQMTNVRVVIHDAVEVLQTKIKANSLAGVQIFFPDPWHKKRHHKRRLIQSEFIKMLVKKIRQGGFIHCATDWQDYAEHILNVLSSEPALYNQQSNGGYSPRPDSRPLTKFEQRGERLGHGVWDLIFIK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWL++YELKFD P+PW+FAKEFGR DADTIVEIGFGMGTSLF MA+NNPQCNY+GIEVHKAGVGSL+ADLH++Q++NVRVV+HDAVEVLQTKI  NSLAGVQIFFPDPWHKKRHHKRRLIQSEFI+MLVKKIR  GFIHCATDW+DYAEHILNVLSSE AL+NQQ  GGYSPRPDSRPLTKFE RGERLGHGVWDL+FIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|966500606|ref|WP_058517279.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella parisiensis] &gt;gi|962255941|gb|KTD40078.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella parisiensis] &gt;gi|1069293508|gb|OEH48834.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517279</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>378.252</Hsp_bit-score>
+      <Hsp_score>970</Hsp_score>
+      <Hsp_evalue>6.54578e-130</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQRQGLDFWLKNYELTVDG-TPWNLSKEFGR-TADTVIEIGFGMGASLLAMAKNNPELNYIGIEVHQAGVGSLAADLHEYKLLNVRIVAHDAVEVFRTKLLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLTKKIKPGGFIHCATDWQDYAEHMLEVLSTEMTLQNTQKEGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQ+QGLD WL++YEL  D  TPWN +KEFGR  ADT++EIGFGMG SL AMA NNP+ NY+GIEVH+AGVGSL ADLHEY++ NVR+V HDAVEV +TK+ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+P GFIHCATDW+DYAEH+L VLS+E  L N QKEGGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|518063357|ref|WP_019233565.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella anisa] &gt;gi|962187544|gb|KTC72670.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233565</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.481</Hsp_bit-score>
+      <Hsp_score>968</Hsp_score>
+      <Hsp_evalue>1.08301e-129</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>175</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQRQGLDFWLKDYELTVDG-SPWSLSEEFVR-TADTVVEIGFGMGASLLAMAKNNPELNYIGIEVHQAGVGSLAADLHEYQISNVRIVAHDAVEVFRTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLAKKIKPGGFIHCATDWQDYAEHILDVLSTEPTLKNTQKEGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQ+QGLD WL+DYEL  D  +PW+ ++EF R  ADT+VEIGFGMG SL AMA NNP+ NY+GIEVH+AGVGSL ADLHEYQISNVR+V HDAVEV +T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+P GFIHCATDW+DYAEHIL+VLS+E  L N QKEGGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966415337|ref|WP_058458622.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Fluoribacter bozemanae] &gt;gi|962189845|gb|KTC74947.1| tRNA (m7G46) methyltransferase, SAM-dependent [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458622</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.941</Hsp_bit-score>
+      <Hsp_score>964</Hsp_score>
+      <Hsp_evalue>5.18079e-129</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>173</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQRQGLDLWLKDYELTVDG-SPWNVSQEFDR-TADTVIEIGFGMGASLLAMAKNNPELNYIGIEVHQAGVGSLAADLHEYQLSNVRIVAHDAVEVFRTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLTKKIKPGGFIHCATDWQDYAEHMLEVLSTEPTLQNTQKEGGYSPRPLSRPLTKFEQRGERLGYGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQ+QGLDLWL+DYEL  D  +PWN ++EF R  ADT++EIGFGMG SL AMA NNP+ NY+GIEVH+AGVGSL ADLHEYQ+SNVR+V HDAVEV +T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+P GFIHCATDW+DYAEH+L VLS+E  L N QKEGGYSPRP SRPLTKFE RGERLG+GVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|769980425|ref|WP_045096410.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella fallonii] &gt;gi|698844041|emb|CEG58010.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096410</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>372.474</Hsp_bit-score>
+      <Hsp_score>955</Hsp_score>
+      <Hsp_evalue>1.16934e-127</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQQQGLDLWLQHYELTV-SNEPWSLDKEFGR-SADTVVEIGFGMGTSLLSMAKDNPQNNYIGIEVHKAGVGSLAADLHEYQLSNVRIVAHDAVEVLQAQVEDNSLAGVQIFFPDPWHKKRHHKRRLIQPEFIQLVSKKMKQGGFIHCATDWQEYAEHILDVLSAEPMLRNQNLAGGYSPRPDSRPLTKFERRGERLGHGVWDLIFIK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQQQGLDLWL+ YEL   S  PW+  KEFGR  ADT+VEIGFGMGTSL +MA +NPQ NY+GIEVHKAGVGSL ADLHEYQ+SNVR+V HDAVEVLQ ++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ++ KK++  GFIHCATDW++YAEHIL+VLS+E  L NQ   GGYSPRPDSRPLTKFE RGERLGHGVWDL+FIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|517403998|ref|WP_018576812.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella shakespearei] &gt;gi|962283743|gb|KTD67515.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576812</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>371.318</Hsp_bit-score>
+      <Hsp_score>952</Hsp_score>
+      <Hsp_evalue>2.89273e-127</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>176</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MHRKIKSYVLRAGRISNRQQQGLELWLKDYELPMKD-CPWNLADEFQR-SADTVVEIGFGMGTSLFTMAQNNPDLNYLGIEVHRAGVGSLVADLHDHQLENVRVVAHDAVEVFQNHLEDNSLAGVQIFFPDPWHKKRHHKRRLIQPEFIQLLVSKIRQGGFIHCATDWQEYAEHILEVLSGEPALVNSQPDGGYSPKPDSRPLTKFEQRGERLGHGVWDLLFVKK</Hsp_hseq>
+      <Hsp_midline>M RKIKSYVLRAGRISNRQQQGL+LWL+DYEL      PWN A EF R  ADT+VEIGFGMGTSLF MA NNP  NYLGIEVH+AGVGSLVADLH++Q+ NVRVV HDAVEV Q  + +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+LV KIR  GFIHCATDW++YAEHIL VLS E AL N Q +GGYSP+PDSRPLTKFE RGERLGHGVWDL+F+KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654933329|ref|WP_028383683.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella moravica] &gt;gi|962248466|gb|KTD32690.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383683</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>370.163</Hsp_bit-score>
+      <Hsp_score>949</Hsp_score>
+      <Hsp_evalue>1.02959e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MHRKIKSYVLRAGRVSNRQQQGLDLWLKDFEITMDN-EPLDLSKEFNR-AADTVVEIGFGMGTSLLTMAKSNPQINYLGIEVHKAGVGSLVADLHDHQLSNVRIMAHDAVEVFQTQLADDSLAGVQIFFPDPWHKKRHHKRRLIQPEFIRLLVQKIRKGGFIHCATDWMEYAEHMLEVLTAEPALKNQQDNGGYSPKPDSRPLTKFELRGERLGHGVWDLIFIKQ</Hsp_hseq>
+      <Hsp_midline>M RKIKSYVLRAGR+SNRQQQGLDLWL+D+E+  D+  P + +KEF R  ADT+VEIGFGMGTSL  MA +NPQ NYLGIEVHKAGVGSLVADLH++Q+SNVR++ HDAVEV QT++ ++SLAGVQIFFPDPWHKKRHHKRRLIQ EFI++LV+KIR  GFIHCATDW +YAEH+L VL++E AL NQQ  GGYSP+PDSRPLTKFELRGERLGHGVWDL+FIK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966440823|ref|WP_058481146.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella waltersii] &gt;gi|962291880|gb|KTD75578.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481146</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>369.777</Hsp_bit-score>
+      <Hsp_score>948</Hsp_score>
+      <Hsp_evalue>1.27088e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQQQGLDSWLQDYELSVDTVSVWNLAEVFGRH-VDTVVEIGFGMGASLLQMAINNPQTNYIGIEVHKAGVGSLAADLHEHQLTNVRIAAADAVEVFEKKIQENSLSGIQVFFPDPWHKKRHNKRRLIQPDFIALLVNKLKRGGFIHCATDWQDYAEHMLQVLSAESHLYNQQIDGDYSPRPDSRPLTKFERRGERLGHGVWDLIFIKK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQQQGLD WL+DYEL  D+ + WN A+ FGRH  DT+VEIGFGMG SL  MA+NNPQ NY+GIEVHKAGVGSL ADLHE+Q++NVR+   DAVEV + KI ENSL+G+Q+FFPDPWHKKRH+KRRLIQ +FI +LV K++  GFIHCATDW+DYAEH+L VLS+ES L+NQQ +G YSPRPDSRPLTKFE RGERLGHGVWDL+FIKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966504705|ref|WP_058521364.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella tucsonensis] &gt;gi|962290697|gb|KTD74405.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521364</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>369.007</Hsp_bit-score>
+      <Hsp_score>946</Hsp_score>
+      <Hsp_evalue>3.05814e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>193</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQRQGLDFWLKNYELTVDG-CPWNLSEEFDR-TADTVVEIGFGMGASLLAMAKNNPALNYIGIEVHQAGVGSLAADLHEYQLSNVRIVAHDAVETFRTQLLDDSLAGVQIFFPDPWHKKRHHKRRLIQQEFIQLLTKKIKPGGFIHCATDWQDYAEHILEVLSTEPVLQNTQKEGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGLD WL++YEL  D   PWN ++EF R  ADT+VEIGFGMG SL AMA NNP  NY+GIEVH+AGVGSL ADLHEYQ+SNVR+V HDAVE  +T++ ++SLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+P GFIHCATDW+DYAEHIL VLS+E  L N QKEGGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|750235127|ref|WP_040536255.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella drancourtii]</Hit_def>
+  <Hit_accession>WP_040536255</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>368.622</Hsp_bit-score>
+      <Hsp_score>945</Hsp_score>
+      <Hsp_evalue>3.54601e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MHRRIKSYVLRAGRVSNRQQQGLDLWIKDYELAM-TGSQWNLAKEFGR-NADTVVEIGFGMGTSLLAMAQNNPQLNYLGMEVHQAGVGSLAADLHDHQVTNVRIVAHDAVEAFRMQLADNSLAGVQIFFPDPWHKKRHHKRRLIQTEFIYLLTQKIKPGGFIHCATDWQEYAEHMLTVLTAEPALHNSQINGGYSPKPESRPLTKFEQRGERLGHGVWDLIFIK</Hsp_hseq>
+      <Hsp_midline>M R+IKSYVLRAGR+SNRQQQGLDLW++DYEL   + + WN AKEFGR +ADT+VEIGFGMGTSL AMA NNPQ NYLG+EVH+AGVGSL ADLH++Q++NVR+V HDAVE  + ++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ+EFI +L +KI+P GFIHCATDW++YAEH+L VL++E AL N Q  GGYSP+P+SRPLTKFE RGERLGHGVWDL+FIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966423429|ref|WP_058466575.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Fluoribacter gormanii] &gt;gi|962220900|gb|KTD05562.1| tRNA (m7G46) methyltransferase, SAM-dependent [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466575</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>368.237</Hsp_bit-score>
+      <Hsp_score>944</Hsp_score>
+      <Hsp_evalue>5.37139e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQRQGLDHWFKNYELSVGG-TPWNLAEEFHR-IADTVVEIGFGMGASLLTMAQNNPELNYIGIEVHQAGVGSLAADLHKYQLSNVRIVAHDAVEVFRTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLAKKIKPGGFIHCATDWQDYAEHMLDVLSTETTLQNTRKEGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQ+QGLD W ++YEL     TPWN A+EF R  ADT+VEIGFGMG SL  MA NNP+ NY+GIEVH+AGVGSL ADLH+YQ+SNVR+V HDAVEV +T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+P GFIHCATDW+DYAEH+L+VLS+E+ L N +KEGGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966516702|ref|WP_058533196.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533196</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.696</Hsp_bit-score>
+      <Hsp_score>940</Hsp_score>
+      <Hsp_evalue>1.77169e-125</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MHRKIKSYVLRAGRVSNRQQQGLDLWVKDYALSM-TDSPWNLTEVFGR-EADTIVEIGFGMGTSLLHMAQNNPELNYIGIEVHQAGVGGLAADLHDHQVTNVRIVAHDAVEAFQTQIADNSLAGIQIFFPDPWHKKRHHKRRLIQSEFIQLLTQKIKKGGFIHCATDWQEYAEHMLEVLSTASGLHNSQAEGGYSPKPESRPLTKFEQRGERLGHGVWDLIFLK</Hsp_hseq>
+      <Hsp_midline>M RKIKSYVLRAGR+SNRQQQGLDLW++DY L   + +PWN  + FGR +ADTIVEIGFGMGTSL  MA NNP+ NY+GIEVH+AGVG L ADLH++Q++NVR+V HDAVE  QT+I +NSLAG+QIFFPDPWHKKRHHKRRLIQSEFIQ+L +KI+  GFIHCATDW++YAEH+L VLS+ S L N Q EGGYSP+P+SRPLTKFE RGERLGHGVWDL+F+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|498340478|ref|WP_010654634.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Fluoribacter dumoffii] &gt;gi|962206016|gb|KTC90953.1| tRNA (m7G46) methyltransferase, SAM-dependent [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654634</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>366.696</Hsp_bit-score>
+      <Hsp_score>940</Hsp_score>
+      <Hsp_evalue>2.59677e-125</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRTSNRQRQGLELWLKDYQLNVDG-KPWNLTAEFSR-TADTVVEIGFGMGTSLLAMAQNNPELNYLGIEVHLAGVGSLAADLHEHHLTNVRIVAHDAVEVFRTQLPDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIELVSKKIKPGGFIHCATDWQEYAEHMLDVLSAEPALKNSQENGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR SNRQ+QGL+LWL+DY+L  D   PWN   EF R  ADT+VEIGFGMGTSL AMA NNP+ NYLGIEVH AGVGSL ADLHE+ ++NVR+V HDAVEV +T++P+NSLAGVQIFFPDPWHKKRHHKRRLIQ EFI+++ KKI+P GFIHCATDW++YAEH+L+VLS+E AL N Q+ GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966494000|ref|WP_058510788.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella steelei] &gt;gi|962284954|gb|KTD68720.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella steelei] &gt;gi|1113342836|gb|OJW06697.1| tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510788</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>365.925</Hsp_bit-score>
+      <Hsp_score>938</Hsp_score>
+      <Hsp_evalue>4.95242e-125</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQRQGLELWLKDYELTVDD-NPWSLVGEFAR-NADTVVEIGFGMGASLLTMAKNNPTCNYIGIEVHLAGVGSLAADLHEQQLSNVRIVAHDAVEVFRKQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLIQKLKPGGFIHCATDWQEYAEHILDVLSTEPALKNSQEEGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFTKR</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGL+LWL+DYEL  D   PW+   EF R +ADT+VEIGFGMG SL  MA NNP CNY+GIEVH AGVGSL ADLHE Q+SNVR+V HDAVEV + ++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L++K++P GFIHCATDW++YAEHIL+VLS+E AL N Q+EGGYSPRP SRPLTKFE RGERLGHGVWDL+F K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|653017698|ref|WP_027269662.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella sainthelensi] &gt;gi|962270966|gb|KTD54969.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269662</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>365.155</Hsp_bit-score>
+      <Hsp_score>936</Hsp_score>
+      <Hsp_evalue>8.67522e-125</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>173</Hsp_identity>
+      <Hsp_positive>193</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRVSNRQCQGLDLWLKDYELTV-SGTPWDLYKEFTR-SADTIVEIGFGMGASLLTMAKNNPELNYIGIEVHRAGVGSLAADLHEHQLTNVRIVSHDAVEVFHTQVLDNSLAGVQIFFPDPWHKKRHHKRRLIQPAFIQLLVQKIRPGGFIHCATDWQEYAEHMLHVLSMEQALRNLQTDGGYSPRPISRPLTKFENRGERLGHGVWDLVFTK</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGR+SNRQ QGLDLWL+DYEL   S TPW+  KEF R  ADTIVEIGFGMG SL  MA NNP+ NY+GIEVH+AGVGSL ADLHE+Q++NVR+V HDAVEV  T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ  FIQ+LV+KIRP GFIHCATDW++YAEH+L+VLS E AL N Q +GGYSPRP SRPLTKFE RGERLGHGVWDLVF K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|671587436|ref|WP_031563671.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563671</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>364.77</Hsp_bit-score>
+      <Hsp_score>935</Hsp_score>
+      <Hsp_evalue>1.1598e-124</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQRQGLDLWLQNYELTVNG-TPWDLTKEFD-HTADTVIEIGFGMGASLLTMAKNNPEKNYIGVEVHLAGVGSLAADLHEYQLSNVRIVVHDAVEVLRTQFLDNSLAGVQIFFPDPWHKKRHHKRRLIQKEFIQLLAQKLKPGGFIHCATDWQDYAEYMLAILSTEPSLQNTQNDGGFSPRPLSRPLTKFEQRGQRLGHGVWDLIFIKR</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGLDLWL++YEL  +  TPW+  KEF  H ADT++EIGFGMG SL  MA NNP+ NY+G+EVH AGVGSL ADLHEYQ+SNVR+VVHDAVEVL+T+  +NSLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L +K++P GFIHCATDW+DYAE++L +LS+E +L N Q +GG+SPRP SRPLTKFE RG+RLGHGVWDL+FIK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966436876|ref|WP_058477244.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella steigerwaltii] &gt;gi|962293652|gb|KTD77327.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477244</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>363.614</Hsp_bit-score>
+      <Hsp_score>932</Hsp_score>
+      <Hsp_evalue>3.83228e-124</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQRQGLEIWLKDYELIVDG-GPWNLADEFVR-NADTVVEIGFGMGASLLAMAKNNPALNYIGIEVHLAGVGSLAADLHEHQLSNVRVVAHDAVEVFRTQLLDNSLAGIQIFFPDPWHKKRHHKRRLIQKEFIHLVTKKLKPGGFIHCATDWQEYAEHMLDVLSAEPALKNSQQDGGYSPRPLSRPLTKFEQRGERLGHGVWDLIFIK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGL++WL+DYEL  D   PWN A EF R +ADT+VEIGFGMG SL AMA NNP  NY+GIEVH AGVGSL ADLHE+Q+SNVRVV HDAVEV +T++ +NSLAG+QIFFPDPWHKKRHHKRRLIQ EFI ++ KK++P GFIHCATDW++YAEH+L+VLS+E AL N Q++GGYSPRP SRPLTKFE RGERLGHGVWDL+FIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966431989|ref|WP_058472422.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella quateirensis] &gt;gi|962271451|gb|KTD55453.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472422</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>362.844</Hsp_bit-score>
+      <Hsp_score>930</Hsp_score>
+      <Hsp_evalue>6.84986e-124</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MHRKIKSYVLRAGRVSNRQQQGLDLWLKDYELPMGNDT-LDLAQQFHR-IADTVVEIGFGMGTSLLTMAKNNPQINYLGIEVHKAGVGSLVADLHDHQLSNVRIMAHDAVEVFQTQLNDDSLAGVQIFFPDPWHKKRHHKRRLIQPEFIQLLAKKIRKGGFIHCATDWMEYAEHMLEVLSAEPTLINQQVTGGYSPKPESRPLTKFELRGERLGHGVWDLIFNK</Hsp_hseq>
+      <Hsp_midline>M RKIKSYVLRAGR+SNRQQQGLDLWL+DYEL   + T  + A++F R  ADT+VEIGFGMGTSL  MA NNPQ NYLGIEVHKAGVGSLVADLH++Q+SNVR++ HDAVEV QT++ ++SLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKIR  GFIHCATDW +YAEH+L VLS+E  L NQQ  GGYSP+P+SRPLTKFELRGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|963702368|ref|WP_058387407.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella cherrii] &gt;gi|962197400|gb|KTC82444.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058387407</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>362.073</Hsp_bit-score>
+      <Hsp_score>928</Hsp_score>
+      <Hsp_evalue>1.83219e-123</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>193</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQNQGLELWLKDYELAVDG-NPWNLAAAFNR-NADTVVEIGFGMGASLLAMAKNNPEINYIGIEVHLAGVGSLAADLHEHQLSNVRIVAHDAVEVFRTQLLDNSLGGVQIFFPDPWHKKRHHKRRLIQKEFIQLVTKKLKPGGFIHCATDWQEYAEHMLDVLSTEPALKNSQHDGGYSPRPLSRPLTKFEQRGERLGHGVWDLMFNK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ QGL+LWL+DYEL  D   PWN A  F R +ADT+VEIGFGMG SL AMA NNP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V HDAVEV +T++ +NSL GVQIFFPDPWHKKRHHKRRLIQ EFIQ++ KK++P GFIHCATDW++YAEH+L+VLS+E AL N Q +GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|654930637|ref|WP_028381006.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381006</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>359.762</Hsp_bit-score>
+      <Hsp_score>922</Hsp_score>
+      <Hsp_evalue>1.17691e-122</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>193</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRRIKSYVLRAGRVSNRQNQGLELWLKDYELAVDG-NPWNLAAAFNR-NADTVVEIGFGMGASLLAMAKSNPEINYIGIEVHLAGVGSLAADLHEHQLSNVRIVAHDAVEVFRTQLLDNSLGGVQIFFPDPWHKKRHHKRRLIQKEFIQLVTKKLKPGGFIHCATDWQEYAEHMLDVLSTEPALKNSQHDGGYSPRPLSRPLTKFEQRGERLGHGVWDLMFNK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ QGL+LWL+DYEL  D   PWN A  F R +ADT+VEIGFGMG SL AMA +NP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V HDAVEV +T++ +NSL GVQIFFPDPWHKKRHHKRRLIQ EFIQ++ KK++P GFIHCATDW++YAEH+L+VLS+E AL N Q +GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966460450|ref|WP_058492879.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella worsleiensis] &gt;gi|962296518|gb|KTD80155.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492879</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>358.992</Hsp_bit-score>
+      <Hsp_score>920</Hsp_score>
+      <Hsp_evalue>2.22222e-122</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MHRKIKSYVLRAGRVSNRQQQGLDLWLAEYEIPMNN-QPLDLSKEFNR-TAETVVEIGFGMGTSLLTMAKNNPQTNYLGIEVHKAGVGSLVADLHDHQLTNVRIMAHDAVEVFQTKLSDESLAGVQIFFPDPWHKKRHHKRRLIQPEFIQLLTKKIKKGGFIHCATDWMEYATHMLEVLNGEPTLVNQHANGGYSPKPESRPLTKFELRGERLGHGVWDLIFHKK</Hsp_hseq>
+      <Hsp_midline>M RKIKSYVLRAGR+SNRQQQGLDLWL +YE+  ++  P + +KEF R  A+T+VEIGFGMGTSL  MA NNPQ NYLGIEVHKAGVGSLVADLH++Q++NVR++ HDAVEV QTK+ + SLAGVQIFFPDPWHKKRHHKRRLIQ EFIQ+L KKI+  GFIHCATDW +YA H+L VL+ E  L NQ   GGYSP+P+SRPLTKFELRGERLGHGVWDL+F KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966422731|ref|WP_058465932.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella cincinnatiensis] &gt;gi|962197735|gb|KTC82774.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465932</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.836</Hsp_bit-score>
+      <Hsp_score>917</Hsp_score>
+      <Hsp_evalue>6.23026e-122</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRQIKSYVLRAGRVSNRQRQGLELWLKNYELTV-SGSPWDLNNEFTR-SADTIVEIGFGMGASLLAMAKNNPELNYIGIEVHLAGVGSLAADLHEHQLSNVRIVANDAVEVFHTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQTAFIQLLVQKIRPGGFIHCATDWQEYAEHMLHVLSMEQALRNLQTDGGYSPRPLSRPLTKFENRGERLGHGIWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGL+LWL++YEL   S +PW+   EF R  ADTIVEIGFGMG SL AMA NNP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V +DAVEV  T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ+ FIQ+LV+KIRP GFIHCATDW++YAEH+L+VLS E AL N Q +GGYSPRP SRPLTKFE RGERLGHG+WDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966468562|ref|WP_058499888.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499888</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.066</Hsp_bit-score>
+      <Hsp_score>915</Hsp_score>
+      <Hsp_evalue>1.28262e-121</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRQIKSYVLRAGRISSRQRQGLDLWLKDYELTV-SEYPWDLNNEFAR-SADTVVEIGFGMGASLLTMAKNNPEVNYIGIEVHLAGVGSLAADLHEHQLSNVRIVAYDAVEVFHTQLFNDSLAGVQIFFPDPWHKKRHHKRRLIQTAFIQLLVKKIKPGGFIHCATDWQEYAEHMLHVLSIEPSLRNTQKDGGYSPRPLSRPLTKFESRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGRIS+RQ+QGLDLWL+DYEL   S  PW+   EF R  ADT+VEIGFGMG SL  MA NNP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V +DAVEV  T++  +SLAGVQIFFPDPWHKKRHHKRRLIQ+ FIQ+LVKKI+P GFIHCATDW++YAEH+L+VLS E +L N QK+GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|962221349|gb|KTD06009.1|</Hit_id>
+  <Hit_def>tRNA (m7G46) methyltransferase, SAM-dependent [Legionella gratiana]</Hit_def>
+  <Hit_accession>KTD06009</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.066</Hsp_bit-score>
+      <Hsp_score>915</Hsp_score>
+      <Hsp_evalue>1.50224e-121</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRQIKSYVLRAGRISSRQRQGLDLWLKDYELTV-SEYPWDLNNEFAR-SADTVVEIGFGMGASLLTMAKNNPEVNYIGIEVHLAGVGSLAADLHEHQLSNVRIVAYDAVEVFHTQLFNDSLAGVQIFFPDPWHKKRHHKRRLIQTAFIQLLVKKIKPGGFIHCATDWQEYAEHMLHVLSIEPSLRNTQKDGGYSPRPLSRPLTKFESRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGRIS+RQ+QGLDLWL+DYEL   S  PW+   EF R  ADT+VEIGFGMG SL  MA NNP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V +DAVEV  T++  +SLAGVQIFFPDPWHKKRHHKRRLIQ+ FIQ+LVKKI+P GFIHCATDW++YAEH+L+VLS E +L N QK+GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966498840|ref|WP_058515606.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella santicrucis] &gt;gi|962269282|gb|KTD53296.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515606</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.525</Hsp_bit-score>
+      <Hsp_score>911</Hsp_score>
+      <Hsp_evalue>4.76705e-121</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MLRQIKSYVLRAGRVSNRQRQGLELWLKDYELTV-SGGPWDLNKEFTR-SADTIVEIGFGMGASLLTMAKTNPELNYIGIEVHLAGVGSLAADLHEHQLSNVRIVANDAVEVFHTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQTAFIQLLVQKIRPGGFIHCATDWQEYAEHMLHVLSTEQALRNTQIDGGYSPRPLSRPLTKFENRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>M R+IKSYVLRAGR+SNRQ+QGL+LWL+DYEL   S  PW+  KEF R  ADTIVEIGFGMG SL  MA  NP+ NY+GIEVH AGVGSL ADLHE+Q+SNVR+V +DAVEV  T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ+ FIQ+LV+KIRP GFIHCATDW++YAEH+L+VLS+E AL N Q +GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|489731215|ref|WP_003635331.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella longbeachae] &gt;gi|269987475|gb|EEZ93730.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella longbeachae D-4968] &gt;gi|288859203|emb|CBJ13135.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635331</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>355.525</Hsp_bit-score>
+      <Hsp_score>911</Hsp_score>
+      <Hsp_evalue>6.61888e-121</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MQRQIKSYVLRAGRLSNRQRQGLDLWLKDYELTV-SGNPWDLDKEFSR-SADTIVEIGFGMGASLLTMAKNNPELNYVGIEVHLAGVGSLAADLHEHQLTNVRIVPNDAVKVFNTQLLDNSLAGVQIFFPDPWHKKRHHKRRLIQTAFIQLLAQKIRPGGFIHCATDWQEYAEHMLHVLSMEQSLKNLQTDGGYSPRPLSRPLTKFENRGERLGHGVWDLIFTK</Hsp_hseq>
+      <Hsp_midline>MQR+IKSYVLRAGR+SNRQ+QGLDLWL+DYEL   S  PW+  KEF R  ADTIVEIGFGMG SL  MA NNP+ NY+GIEVH AGVGSL ADLHE+Q++NVR+V +DAV+V  T++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ+ FIQ+L +KIRP GFIHCATDW++YAEH+L+VLS E +L N Q +GGYSPRP SRPLTKFE RGERLGHGVWDL+F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|363536169|gb|EHL29615.1|</Hit_id>
+  <Hit_def>tRNA (guanine-N(7)-)-methyltransferase [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>EHL29615</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>353.214</Hsp_bit-score>
+      <Hsp_score>905</Hsp_score>
+      <Hsp_evalue>3.22582e-120</Hsp_evalue>
+      <Hsp_query-from>104</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>213</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>LRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MRAGRVSNRQQQGLDLWIKDYELAM-TGSQWNLAKEFGR-NADTVVEIGFGMGTSLLAMAQNNPQLNYLGMEVHQAGVGSLAADLHDHQVTNVRIVAHDAVEAFRMQLADNSLAGVQIFFPDPWHKKRHHKRRLIQTEFIYLLTQKIKPGGFIHCATDWQEYAEHMLTVLTAEPALHNSQINGGYSPKPESRPLTKFEQRGERLGHGVWDLIFIK</Hsp_hseq>
+      <Hsp_midline>+RAGR+SNRQQQGLDLW++DYEL   + + WN AKEFGR +ADT+VEIGFGMGTSL AMA NNPQ NYLG+EVH+AGVGSL ADLH++Q++NVR+V HDAVE  + ++ +NSLAGVQIFFPDPWHKKRHHKRRLIQ+EFI +L +KI+P GFIHCATDW++YAEH+L VL++E AL N Q  GGYSP+P+SRPLTKFE RGERLGHGVWDL+FIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|654938356|ref|WP_028388598.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388598</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>342.428</Hsp_bit-score>
+      <Hsp_score>877</Hsp_score>
+      <Hsp_evalue>8.07849e-116</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>188</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRTIKSFVLRAGRVSNRQQQALDHWLDHYELTLED-SPWDLQRVFTR-EAPAIVEIGFGMGASLLTMARQQPEHNFIGIEVHKAGIGSLVADLHDHEITNVRIVTHDAVDVLKHHLADNSLTGVQIFFPDPWHKKRHHKRRLIQPEFISLLVKKIKPGGFIHCATDWQDYAEHMLAVLSAETGLVNSQSEGGYSPRPLSRPLTKFEERGKRLGHGVWDLIYIRR</Hsp_hseq>
+      <Hsp_midline>MQR IKS+VLRAGR+SNRQQQ LD WL+ YEL  +  +PW+  + F R +A  IVEIGFGMG SL  MA   P+ N++GIEVHKAG+GSLVADLH+++I+NVR+V HDAV+VL+  + +NSL GVQIFFPDPWHKKRHHKRRLIQ EFI +LVKKI+P GFIHCATDW+DYAEH+L VLS+E+ L N Q EGGYSPRP SRPLTKFE RG+RLGHGVWDL++I++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1103995550|emb|SFZ36527.1|</Hit_id>
+  <Hit_def>tRNA (guanine-N(7)-)-methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>SFZ36527</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>2.71579e-110</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>254</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>160</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>157</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>160</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSG</Hsp_qseq>
+      <Hsp_hseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEHQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKNQAIG</Hsp_hseq>
+      <Hsp_midline>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHE+QISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKK +  G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1113575527|gb|OJY35265.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY35265</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>3.53215e-110</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>226</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFN-QQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MHRRIKSYVLRTGRVSNRQQQGLDLWIKDYNLPL-SDKPWDFTEIFGR-SGDVIVEIGFGMGASLLTMAQQQPDCNFLGIEVHQAGVGSLAADLHDHQIKNVRIIAQDAVQILQTQIPDESLAGIQIFFPDPWPKKRHHKRRLIQTEFVHLLTLKLKKSGFIHCATDWQEYAVHMLEVLSTNRSLKNLSPQEDGYIPRPETRPLTKFEQRGTRLGHGVWDLLFIKE</Hsp_hseq>
+      <Hsp_midline>M R+IKSYVLR GR+SNRQQQGLDLW++DY L   S  PW+F + FGR   D IVEIGFGMG SL  MA   P CN+LGIEVH+AGVGSL ADLH++QI NVR++  DAV++LQT+IP+ SLAG+QIFFPDPW KKRHHKRRLIQ+EF+ +L  K++ SGFIHCATDW++YA H+L VLS+  +L N   +E GY PRP++RPLTKFE RG RLGHGVWDL+FIK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966472711|ref|WP_058503474.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella nautarum] &gt;gi|962254738|gb|KTD38900.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503474</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.324</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>1.20678e-108</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>180</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRTIKSFVLRGGRVSNRQQLALDHFLPDYELTL-AATPWDLSAVFKR-EAKTVVEIGFGMGASLVAMAQQQPELNFIGIEVHRAGVGSLVADLHDQKMTNVRVVSHDAVEVFKHHFISNSLAGIQIFFPDPWHKKRHHKRRLVQSELIKLLVDRLQVGGFIHCATDWQDYAEHMQTVLSQEVLLMNTQADGGFSPRPDTRPLTKFEQRGNRLGHGVWDLIYTKK</Hsp_hseq>
+      <Hsp_midline>MQR IKS+VLR GR+SNRQQ  LD +L DYEL   + TPW+ +  F R +A T+VEIGFGMG SL AMA   P+ N++GIEVH+AGVGSLVADLH+ +++NVRVV HDAVEV +     NSLAG+QIFFPDPWHKKRHHKRRL+QSE I++LV +++  GFIHCATDW+DYAEH+  VLS E  L N Q +GG+SPRPD+RPLTKFE RG RLGHGVWDL++ KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966465342|ref|WP_058496703.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella drozanskii] &gt;gi|962201138|gb|KTC86127.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058496703</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.939</Hsp_bit-score>
+      <Hsp_score>829</Hsp_score>
+      <Hsp_evalue>1.90021e-108</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MQRTIKSFVLRGGRVSNRQQLALDHFLSDYELALPS-TPWDLSAVFKR-EAKTVVEIGFGMGASLVAMAQQQPELNFIGIEVHRAGVGSLVADLHDQEMTNVRVVSHDAVEVFKHYFMSDSLAGIQIFFPDPWHKKRHHKRRLVQSEFIKLLVDRLQVGGFIHCATDWQDYAEHMQTVLSQETLLINTQADGGFSPRPNTRPLTKFEQRGNRLGHGVWDLIYTKQ</Hsp_hseq>
+      <Hsp_midline>MQR IKS+VLR GR+SNRQQ  LD +L DYEL   S TPW+ +  F R +A T+VEIGFGMG SL AMA   P+ N++GIEVH+AGVGSLVADLH+ +++NVRVV HDAVEV +     +SLAG+QIFFPDPWHKKRHHKRRL+QSEFI++LV +++  GFIHCATDW+DYAEH+  VLS E+ L N Q +GG+SPRP++RPLTKFE RG RLGHGVWDL++ K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|769989223|ref|WP_045105174.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella hackeliae] &gt;gi|731151137|emb|CEK09683.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella hackeliae] &gt;gi|962225544|gb|KTD10188.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105174</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.013</Hsp_bit-score>
+      <Hsp_score>824</Hsp_score>
+      <Hsp_evalue>8.61246e-108</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>RKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>RTIKSFVLRGGRISNRQQQALDLWLKDYELPL-TDSPWNFEQLFARQ-AETIVEIGFGMGASLLAMAEQFPERNFVGIEVHQAGVGSLAADLHERSVNNVRIVAHDAVEVFKHHIAKESLTGVQIFFPDPWPKKRHHKRRLIQPEFVKLLTERIKTGGFIHCATDWQEYADHMLDVLSKESSLENMQQQGGFSPRPETRPLTKFEQRGNKLGHGVWDLIYKK</Hsp_hseq>
+      <Hsp_midline>R IKS+VLR GRISNRQQQ LDLWL+DYEL   + +PWNF + F R  A+TIVEIGFGMG SL AMA   P+ N++GIEVH+AGVGSL ADLHE  ++NVR+V HDAVEV +  I + SL GVQIFFPDPW KKRHHKRRLIQ EF+++L ++I+  GFIHCATDW++YA+H+L+VLS ES+L N Q++GG+SPRP++RPLTKFE RG +LGHGVWDL++ K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|644964419|ref|WP_025385174.1|</Hit_id>
+  <Hit_def>tRNA (guanine(46)-N(7))-methyltransferase [Legionella oakridgensis] &gt;gi|570284179|gb|AHE66366.1| tRNA guanine-N7--methyltransferase [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570702964|gb|ETO93872.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella oakridgensis RV-2-2007] &gt;gi|962259887|gb|KTD44007.1| tRNA (guanine-N(7)-)-methyltransferase [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385174</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.857</Hsp_bit-score>
+      <Hsp_score>821</Hsp_score>
+      <Hsp_evalue>2.84538e-107</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIK</Hsp_qseq>
+      <Hsp_hseq>MHRTIKSYVLRAGRVSNRQQLALEQWLKDYAL-FPSELVWNLTEEFGR-EAETIVEIGFGMGSSLLAMAKERPEVNFIGIEVHKAGIGSLVADLHDHALNNVRIAPFDATEVIETCLMDDVLAGVQIFFPDPWPKKRHHKRRLIQTDFIHRLVKKIKPGGFIHCATDWQDYAEHMLTVFMAEPSLRNQQAQGGFVPRPDTRPLTKFEQRGHKLGHKVWDLMFIR</Hsp_hseq>
+      <Hsp_midline>M R IKSYVLRAGR+SNRQQ  L+ WL+DY L F S   WN  +EFGR +A+TIVEIGFGMG+SL AMA   P+ N++GIEVHKAG+GSLVADLH++ ++NVR+   DA EV++T + ++ LAGVQIFFPDPW KKRHHKRRLIQ++FI  LVKKI+P GFIHCATDW+DYAEH+L V  +E +L NQQ +GG+ PRPD+RPLTKFE RG +LGH VWDL+FI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966509862|ref|WP_058526453.1|</Hit_id>
+  <Hit_def>tRNA (guanosine(46)-N7)-methyltransferase TrmB [Legionella erythra] &gt;gi|962213394|gb|KTC98263.1| tRNA (m7G46) methyltransferase, SAM-dependent [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526453</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>319.701</Hsp_bit-score>
+      <Hsp_score>818</Hsp_score>
+      <Hsp_evalue>6.37526e-107</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>MQRKIKSYVLRAGRISNRQQQGLDLWLEDYELKFDSPTPWNFAKEFGRHDADTIVEIGFGMGTSLFAMAMNNPQCNYLGIEVHKAGVGSLVADLHEYQISNVRVVVHDAVEVLQTKIPENSLAGVQIFFPDPWHKKRHHKRRLIQSEFIQMLVKKIRPSGFIHCATDWEDYAEHILNVLSSESALFNQQKEGGYSPRPDSRPLTKFELRGERLGHGVWDLVFIKK</Hsp_qseq>
+      <Hsp_hseq>MKRTIKSFVLRAGRTSNRQQQGLDQWLPAYELPLDG-SLWDWRTLFNR-EADTVVEIGFGMGASLLAMALRHPDINFVGIEVHRAGLGSLAADLHEQGLTNVRLVAMDAVEVIKTRIADASLAGIQVFFPDPWPKKRHHKRRLIQPDFVSLLAAKLQKGGFLHCATDWQDYADHMLAVLDKEPALINQQAGGGFSPRPETRPLTKFEQRGQRLGHGVWDLIYTKK</Hsp_hseq>
+      <Hsp_midline>M+R IKS+VLRAGR SNRQQQGLD WL  YEL  D  + W++   F R +ADT+VEIGFGMG SL AMA+ +P  N++GIEVH+AG+GSL ADLHE  ++NVR+V  DAVEV++T+I + SLAG+Q+FFPDPW KKRHHKRRLIQ +F+ +L  K++  GF+HCATDW+DYA+H+L VL  E AL NQQ  GG+SPRP++RPLTKFE RG+RLGHGVWDL++ KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

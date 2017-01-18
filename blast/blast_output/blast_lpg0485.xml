@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_199469</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>340</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_199469</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>340</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248683|ref|WP_010946223.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|52840719|ref|YP_094518.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627830|gb|AAU26571.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507231|gb|AEW50755.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946223</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>508.064</Hsp_bit-score>
+      <Hsp_score>1307</Hsp_score>
+      <Hsp_evalue>1.73271e-180</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>247</Hsp_align-len>
+      <Hsp_qseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379888|ref|WP_072356022.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356022</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>505.368</Hsp_bit-score>
+      <Hsp_score>1300</Hsp_score>
+      <Hsp_evalue>1.75076e-179</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>247</Hsp_align-len>
+      <Hsp_qseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|505257716|ref|WP_015444818.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|469492991|gb|AGH54836.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081139|gb|AGN13387.1| phosphatidylserine synthase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771679|emb|CZI66922.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998774539|emb|CZH00806.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998777515|emb|CZG98851.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998783615|emb|CZH33688.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998786287|emb|CZG99411.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998795721|emb|CZI42733.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998798540|emb|CZL71336.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998804411|emb|CZK47882.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998808952|emb|CZH73631.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998810779|emb|CZI19897.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998814793|emb|CZG50603.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998816675|emb|CZM05072.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998819683|emb|CZL99049.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998825613|emb|CZK41253.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998831321|emb|CZI84567.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998834519|emb|CZL39472.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998838643|emb|CZJ28191.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998840568|emb|CZL86584.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998843418|emb|CZK84447.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998846424|emb|CZL03161.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998850738|emb|CZI23165.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998852676|emb|CZL85108.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998855854|emb|CZL50184.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998858668|emb|CZM19502.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998862259|emb|CZK39257.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998864708|emb|CZJ85282.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998867158|emb|CZJ81193.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998870427|emb|CZM39340.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998873675|emb|CZK74243.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998876383|emb|CZM36688.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998879388|emb|CZJ77147.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998885840|emb|CZM38062.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998888822|emb|CZK46698.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998894447|emb|CZK50947.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998905358|emb|CZK82949.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998908781|emb|CZL57941.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998914367|emb|CZL38610.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998917785|emb|CZL54569.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998920677|emb|CZL59421.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998927938|emb|CZL75059.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998929843|emb|CZL07665.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998932800|emb|CZM05056.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998939388|emb|CZK99204.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998944993|emb|CZL45276.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998948084|emb|CZL21502.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998957138|emb|CZM63424.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998960412|emb|CZK66487.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998963256|emb|CZK71212.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998966088|emb|CZM81255.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998969433|emb|CZK95519.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998972572|emb|CZK79239.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998978556|emb|CZL93715.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998984478|emb|CZK71524.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998987665|emb|CZL78695.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998996802|emb|CZK32840.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999006475|emb|CZL25227.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999011984|emb|CZL77784.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999017212|emb|CZL84202.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999021527|emb|CZL70753.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999024306|emb|CZL05953.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999036289|emb|CZL77818.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999045496|emb|CZM18309.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999060456|emb|CZL65524.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999066541|emb|CZJ44362.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999075722|emb|CZH07998.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999078737|emb|CZK34898.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999081823|emb|CZL26158.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999087954|emb|CZL17421.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999091169|emb|CZL74735.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999094362|emb|CZH33903.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999097320|emb|CZH41993.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999100193|emb|CZM12396.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999109480|emb|CZL51057.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999112467|emb|CZM01642.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999115892|emb|CZK71874.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999124976|emb|CZL20133.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999130778|emb|CZM17238.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999134283|emb|CZL38158.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999138439|emb|CZK10705.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999140833|emb|CZL83721.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999143457|emb|CZL43240.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999146429|emb|CZM01044.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999155887|emb|CZI31777.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999174601|emb|CZL50727.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999189938|emb|CZI66692.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999193188|emb|CZJ08832.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999200024|emb|CZG75353.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999202498|emb|CZJ08506.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999208672|emb|CZL32183.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999218427|emb|CZL88676.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999221050|emb|CZI96950.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999333856|emb|CZL15784.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002074464|emb|CZR04789.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002077366|emb|CZR11139.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003018336|emb|CZR30302.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003021409|emb|CZR26633.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003024553|emb|CZR30425.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073863646|gb|AOU03597.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073866604|gb|AOU06554.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073869609|gb|AOU09558.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073872553|gb|AOU12501.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073875535|gb|AOU15482.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073878496|gb|AOU18442.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073881491|gb|AOU21436.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073884453|gb|AOU24397.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073887451|gb|AOU27394.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073890436|gb|AOU30378.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073893401|gb|AOU33342.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073896365|gb|AOU36305.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073899329|gb|AOU39268.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073902280|gb|AOU42218.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073905191|gb|AOU45128.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073908209|gb|AOU48144.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073911264|gb|AOU51196.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073914183|gb|AOU54114.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073917141|gb|AOU57071.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073920107|gb|AOU60036.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073923082|gb|AOU63009.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073926094|gb|AOU66020.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073929074|gb|AOU68983.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073932459|gb|AOU72018.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073935406|gb|AOU82405.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073945681|gb|AOU85405.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1073948644|gb|AOU88367.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1104001792|emb|SFZ36191.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1129967259|gb|APT97618.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444818</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.442</Hsp_bit-score>
+      <Hsp_score>1295</Hsp_score>
+      <Hsp_evalue>9.39798e-179</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>245</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|499526470|ref|WP_011213110.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|53750293|emb|CAH11687.1| hypothetical protein lpp0539 [Legionella pneumophila str. Paris] &gt;gi|53753298|emb|CAH14745.1| hypothetical protein lpl0515 [Legionella pneumophila str. Lens] &gt;gi|148282683|gb|ABQ56771.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila str. Corby] &gt;gi|295647925|gb|ADG23772.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126458|emb|CCD04641.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|395129565|emb|CCD07798.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|536613596|gb|ERB41968.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila str. 121004] &gt;gi|541995560|gb|ERH41659.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila str. Leg01/11] &gt;gi|541997352|gb|ERH43398.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila str. Leg01/53] &gt;gi|542121142|gb|ERI47475.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila str. Leg01/20] &gt;gi|761989511|dbj|GAN22574.1| phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|761992698|dbj|GAN16486.1| phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|761995888|dbj|GAN19592.1| phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|761999052|dbj|GAN28924.1| phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|762002496|dbj|GAN25614.1| phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|998782968|emb|CZI83902.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998791206|emb|CZG38284.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998793177|emb|CZI53252.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998801881|emb|CZI10169.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998822432|emb|CZH33413.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998828274|emb|CZH36247.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998883048|emb|CZI86476.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998892671|emb|CZJ26158.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998897659|emb|CZK06563.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998912116|emb|CZH22024.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998923922|emb|CZK21839.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998937986|emb|CZL84924.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998942321|emb|CZK18993.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998951025|emb|CZJ93533.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998955157|emb|CZK14567.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998975750|emb|CZJ85767.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998982418|emb|CZI66012.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998991232|emb|CZK23424.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|998994535|emb|CZI20593.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999000045|emb|CZG92990.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999003189|emb|CZI83339.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999009326|emb|CZK24658.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999018484|emb|CZJ81395.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999027475|emb|CZK12792.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999031325|emb|CZG91825.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999033475|emb|CZK10500.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999039975|emb|CZJ81399.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999042724|emb|CZJ89437.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999049515|emb|CZJ62815.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999051943|emb|CZJ82683.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999054941|emb|CZK16769.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999058491|emb|CZM31513.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999063916|emb|CZJ87759.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999070518|emb|CZJ63206.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999073012|emb|CZK15079.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999085273|emb|CZK11430.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999103749|emb|CZI21165.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999107522|emb|CZI62752.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999128457|emb|CZH14092.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999149928|emb|CZI47169.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999152581|emb|CZM80708.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999159273|emb|CZJ67474.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999161938|emb|CZM40848.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999165639|emb|CZG81573.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999168576|emb|CZI43890.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999171905|emb|CZI31272.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999178280|emb|CZJ54487.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999181694|emb|CZG53116.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999184382|emb|CZP96719.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999187862|emb|CZI96533.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999198515|emb|CZP15752.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999206249|emb|CZP64798.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999212778|emb|CZG80477.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999216864|emb|CZI64092.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999225276|emb|CZG80975.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999228351|emb|CZP10653.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999231751|emb|CZI43206.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999235257|emb|CZP60225.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999236752|emb|CZG95302.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999240233|emb|CZH88928.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999244422|emb|CZH78664.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999249081|emb|CZG90524.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999252430|emb|CZH13584.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999256034|emb|CZP81336.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999259060|emb|CZP45384.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999261616|emb|CZH33712.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999265268|emb|CZP08634.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999269480|emb|CZO34757.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999272282|emb|CZP60045.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999274156|emb|CZH26935.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999277664|emb|CZP39124.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999281305|emb|CZP14062.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999283727|emb|CZP63119.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999287251|emb|CZI47907.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999291044|emb|CZP33820.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999293621|emb|CZI45888.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999296429|emb|CZP56850.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999299516|emb|CZP45432.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999302838|emb|CZI37422.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999307362|emb|CZH72283.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999309426|emb|CZP29027.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999312690|emb|CZI54911.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999315766|emb|CZI08195.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999318734|emb|CZP66423.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999322076|emb|CZI00323.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999324809|emb|CZH23856.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999328678|emb|CZG66768.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999331765|emb|CZG56300.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999337813|emb|CZP48806.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999340365|emb|CZH21512.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999344396|emb|CZP83137.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999347265|emb|CZP64633.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999350261|emb|CZH11306.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999353417|emb|CZP67082.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999357175|emb|CZP66762.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999360024|emb|CZI63480.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999363755|emb|CZP54982.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999367173|emb|CZP78496.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999369884|emb|CZP76448.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999373404|emb|CZG55521.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999376438|emb|CZJ17102.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999379805|emb|CZH70744.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999382700|emb|CZI59878.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999386231|emb|CZG62630.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999389150|emb|CZI58571.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999392362|emb|CZP98830.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999396852|emb|CZG06834.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999398610|emb|CZQ01514.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999403065|emb|CZP39119.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999405868|emb|CZG69413.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999408945|emb|CZH93463.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999412793|emb|CZG34402.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999415380|emb|CZG86125.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999418720|emb|CZG62858.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999421915|emb|CZH71907.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999425229|emb|CZG73488.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999428417|emb|CZG74875.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999431593|emb|CZG71364.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999434951|emb|CZH98227.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999438135|emb|CZG60847.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999441131|emb|CZK27149.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999444676|emb|CZH79110.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999447879|emb|CZG54961.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999450679|emb|CZP37303.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999457620|emb|CZK23901.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999464796|emb|CZM50251.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999467820|emb|CZO27650.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999469589|emb|CZH01357.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999474755|emb|CZM63910.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999477212|emb|CZN76828.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999480714|emb|CZN02252.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999484195|emb|CZN87253.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999487146|emb|CZM13102.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999490319|emb|CZN81144.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999493510|emb|CZM12581.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999496305|emb|CZI48633.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999500090|emb|CZN75162.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999503216|emb|CZO10044.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999506316|emb|CZN14237.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999509519|emb|CZG49351.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999512857|emb|CZN28696.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999516055|emb|CZM01923.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999518948|emb|CZM82781.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999521922|emb|CZP18322.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999525308|emb|CZJ05656.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999528021|emb|CZI72554.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999532304|emb|CZO44209.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999535460|emb|CZN38728.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999538541|emb|CZM73814.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999541985|emb|CZO19356.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999544947|emb|CZO59565.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999548209|emb|CZN90709.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999551521|emb|CZO13036.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999554556|emb|CZN33038.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999557869|emb|CZO54371.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999561122|emb|CZM43949.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999564128|emb|CZO68821.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999567492|emb|CZM54224.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999570692|emb|CZN52018.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999573880|emb|CZN94650.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999576078|emb|CZI43708.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999580372|emb|CZO18455.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999583660|emb|CZO39781.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999587023|emb|CZM66829.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999589942|emb|CZM38909.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999593101|emb|CZN43892.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999596174|emb|CZO10221.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999599494|emb|CZO35976.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999602680|emb|CZL98880.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999605468|emb|CZN74642.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999609005|emb|CZN64548.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999611334|emb|CZI64724.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999615617|emb|CZM49419.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999618614|emb|CZN88795.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999621816|emb|CZO83655.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999625144|emb|CZN72999.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999628357|emb|CZM61446.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999631593|emb|CZM60648.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999634653|emb|CZN61134.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999637981|emb|CZN53337.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999641177|emb|CZO81332.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999644169|emb|CZO55010.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999647660|emb|CZN96335.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999650654|emb|CZO03941.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999653961|emb|CZO02162.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999657158|emb|CZM31286.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999660232|emb|CZM66342.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999663337|emb|CZN15771.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999666702|emb|CZM36151.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999669894|emb|CZL83004.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999673142|emb|CZM38996.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999676288|emb|CZN76191.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999679367|emb|CZM81087.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999682562|emb|CZM83501.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999686249|emb|CZO01896.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999689083|emb|CZN29454.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999692276|emb|CZN97692.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999695493|emb|CZN27542.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999698840|emb|CZM13546.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999701784|emb|CZM80368.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999705019|emb|CZL96529.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999708123|emb|CZN55838.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999711542|emb|CZM99321.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999714638|emb|CZN19836.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999718032|emb|CZO47484.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999720988|emb|CZM95330.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999724507|emb|CZN35886.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999727788|emb|CZL98006.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999731029|emb|CZO44733.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999734131|emb|CZM24577.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999737529|emb|CZO72080.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999741010|emb|CZM32870.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999744052|emb|CZN25620.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999747194|emb|CZM23852.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999750574|emb|CZL98056.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999753770|emb|CZM82515.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999756821|emb|CZN12174.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999760322|emb|CZM26055.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999763333|emb|CZN28950.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999766859|emb|CZM46557.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999769708|emb|CZN48968.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999776172|emb|CZL98704.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999778042|emb|CZH31423.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999782940|emb|CZH63488.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999786371|emb|CZM22935.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999789536|emb|CZO65367.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999792881|emb|CZO59437.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999799766|emb|CZO53971.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002081560|emb|CZQ99882.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002085595|emb|CZQ97752.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002088255|emb|CZQ79014.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1002092740|emb|CZQ95113.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003029237|emb|CZR19294.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003031805|emb|CZR29192.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1003036420|emb|CZR17284.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1005832246|gb|AMQ26972.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431609|gb|AMV13236.1| Phosphatidylcholine synthase [Legionella pneumophila] &gt;gi|1032656655|gb|ANH11926.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1032659623|gb|ANH14893.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1032662590|gb|ANH17859.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1041014516|gb|ANN91577.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1041017614|gb|ANN94674.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1080002248|gb|AOW52820.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080005999|gb|AOW56279.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008142|gb|AOW58130.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012196|gb|AOW61687.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014747|gb|AOW63620.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018440|gb|AOW67085.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1103995543|emb|SFZ36496.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1103998673|emb|SFZ36209.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1104005359|emb|SFZ36126.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213110</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>501.13</Hsp_bit-score>
+      <Hsp_score>1289</Hsp_score>
+      <Hsp_evalue>8.69799e-178</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>244</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|653012681|ref|WP_027264784.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264784</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.975</Hsp_bit-score>
+      <Hsp_score>1286</Hsp_score>
+      <Hsp_evalue>2.49126e-177</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>244</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISVHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVIS+HKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652967251|ref|WP_027220223.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999247932|emb|CZH58438.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999453521|emb|CZI52974.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999459984|emb|CZH29649.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999773178|emb|CZH91499.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999796166|emb|CZI25941.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220223</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.204</Hsp_bit-score>
+      <Hsp_score>1284</Hsp_score>
+      <Hsp_evalue>4.75642e-177</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>244</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNISK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRN+SK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1011913460|ref|WP_062726674.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726674</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>495.352</Hsp_bit-score>
+      <Hsp_score>1274</Hsp_score>
+      <Hsp_evalue>1.27455e-175</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>241</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKEHHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPGAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMNK</Hsp_hseq>
+      <Hsp_midline>MNKE+HSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPP AAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNM+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|652970654|ref|WP_027223546.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1005362754|gb|AMP88623.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365755|gb|AMP91532.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368743|gb|AMP94519.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223546</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.197</Hsp_bit-score>
+      <Hsp_score>1271</Hsp_score>
+      <Hsp_evalue>4.1634e-175</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLNQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPGAAVMASFAWICFQNEWENLIISLFTAVLALIVSVLMVSNLRYYSFKEVDFKGKVPFLYVLVMILLFVAIAANPGIVLFASSGVYALSGPMLTVISLHKMRKQRRNMSK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL+QLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPP AAVMASFAWICFQNEWENLI+SLFTAVLALIVSVLMVSNLRYYSFKEVD+KGKVPFLYVLVMILLFVAIAANP IVLFASSG+YALSGPMLTVISLHKMRKQRRNMSK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|652976201|ref|WP_027228874.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|985765981|gb|KXB27092.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|985767709|gb|KXB28795.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999119300|emb|CZG77571.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|999122492|emb|CZH11027.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1024341640|gb|KZX35947.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila] &gt;gi|1108603955|gb|APF02323.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606966|gb|APF05333.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228874</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>492.271</Hsp_bit-score>
+      <Hsp_score>1266</Hsp_score>
+      <Hsp_evalue>2.43115e-174</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>240</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKEHHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLNQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPGAAVMASFAWICFQNEWANLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMNK</Hsp_hseq>
+      <Hsp_midline>MNKE+HSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL+QLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPP AAVMASFAWICFQNEW NLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNM+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|737925569|ref|WP_035890756.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella norrlandica] &gt;gi|701445225|gb|KGP62621.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890756</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>476.093</Hsp_bit-score>
+      <Hsp_score>1224</Hsp_score>
+      <Hsp_evalue>5.88663e-168</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKDNHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAVIAMFVGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLNQLGKFGWLVAFVYTAAVALRLARFNTQIGKSDKRYFQGLPCPPSAAVMASFAWICFQNEWSNLIISLLTAGLALITAVLMVSNLRYYSFKEVDFKGKVPFLYVLVMIILFVAIAADPAIILFISSGIYALSGPMLTVISLHKMRKQRRNMNK</Hsp_hseq>
+      <Hsp_midline>MNK+NHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAA++AMF+GMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL+QLGKFGWLVAF+YTAAVALRLARFNTQIGKSDKRYFQGLPCPP+AAVMASFAWICFQNEW NLI+SL TA LALI +VLMVSNLRYYSFKEVD+KGKVPFLYVLVMI+LFVAIAA+PAI+LF SSGIYALSGPMLTVISLHKMRKQRRNM+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|966432019|ref|WP_058472452.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella quateirensis] &gt;gi|962271445|gb|KTD55447.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472452</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.483</Hsp_bit-score>
+      <Hsp_score>1103</Hsp_score>
+      <Hsp_evalue>1.82083e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MKKESHSGIYLLPNILTTASLFAAFYSLVSSMKGQYEAAVIAMFIGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLMLYNLTLSQLGKFGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFAWICYQNEWHNLFISVLTAVFALFASVLMVSNLRYYSFKEVDFKGKVPFLYVLVLIILFVAIALNPSIVLFAGFSIYALSGPVLTLIYVQKMRKQRRAGNK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPN+LTT SLFAAFYS+V+S KGQYEAA++AMFIGMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSL+LYNLTL QLGKFGWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASFAWIC+QNEW NL +S+ TAV AL  SVLMVSNLRYYSFKEVD+KGKVPFLYVLV+I+LFVAIA NP+IVLFA   IYALSGP+LT+I + KMRKQRR  +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|654933324|ref|WP_028383678.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella moravica] &gt;gi|962248460|gb|KTD32684.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383678</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>427.557</Hsp_bit-score>
+      <Hsp_score>1098</Hsp_score>
+      <Hsp_evalue>8.81177e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MKKEHHSGIYLLPNILTTASLFAAFYSLVSSMKGQYEAAVIAMFVGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLSQLGKFGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFAWICFQNEWQNLFISILTAVFALSASVLMVSNLRYYSFKEVDFKGKVPFLYVLVLIILFVAIALNPSIVLFGGFIIYALSGPVLTLIYVQKKRKQRREGSK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPN+LTT SLFAAFYS+V+S KGQYEAA++AMF+GMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL QLGKFGWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASFAWICFQNEW+NL +S+ TAV AL  SVLMVSNLRYYSFKEVD+KGKVPFLYVLV+I+LFVAIA NP+IVLF    IYALSGP+LT+I + K RKQRR  SK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966460446|ref|WP_058492875.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella worsleiensis] &gt;gi|962296512|gb|KTD80149.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492875</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>427.557</Hsp_bit-score>
+      <Hsp_score>1098</Hsp_score>
+      <Hsp_evalue>9.51373e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MKKESHSGIYLLPNILTTASLFAAFYSLVSSMKGQYEAAVVAMFIGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLSQLGKFGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFAWICFQNEWQNLFVSVLTAVFAVSASVLMVSNLRYYSFKEVDFKGKVPFLYVLLLIILFVAIALNPSIVLFCGFSIYGLSGPVMTLICVQKMRKQRRDASK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPN+LTT SLFAAFYS+V+S KGQYEAA+VAMFIGMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL QLGKFGWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASFAWICFQNEW+NL VS+ TAV A+  SVLMVSNLRYYSFKEVD+KGKVPFLYVL++I+LFVAIA NP+IVLF    IY LSGP++T+I + KMRKQRR+ SK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966440817|ref|WP_058481140.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella waltersii] &gt;gi|962291874|gb|KTD75572.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481140</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.091</Hsp_bit-score>
+      <Hsp_score>1089</Hsp_score>
+      <Hsp_evalue>2.29485e-147</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVSSMKGRYEEAVIAMFVGMVADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLMLFNLTLSQLGKFGWLVAFIYTAAVALRLARFNTQIGIADKSYFQGLPCPPAAAVVSAFAWLCIEHGWRGYFISTLTAVLALTLSVLMVSNLRYYSFKEVDFKGKVPFIYVLIMIILFVAIAADPATVLFIGSAVYGLSGPMLTVVSLHKVRKQRRAANK</Hsp_hseq>
+      <Hsp_midline>MNKENHSGIYLLPNLLTTVSLFAAFYSIV+S KG+YE A++AMF+GM+ADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSL+L+NLTL QLGKFGWLVAFIYTAAVALRLARFNTQIG +DK YFQGLPCPPAAAV+++FAW+C ++ W    +S  TAVLAL +SVLMVSNLRYYSFKEVD+KGKVPF+YVL+MI+LFVAIAA+PA VLF  S +Y LSGPMLTV+SLHK+RKQRR  +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|769980430|ref|WP_045096415.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella fallonii] &gt;gi|698844047|emb|CEG58016.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096415</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>418.698</Hsp_bit-score>
+      <Hsp_score>1075</Hsp_score>
+      <Hsp_evalue>2.70301e-145</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLLTTASLFAAFYSLVSSMKGQYEAAVIAMFIGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLSHLGKFGWLVAFVYTAAVALRLARFNTQLGTADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNMFISLLTAILALLASVLMVSNLRYYSFKEIDFKGKVPFLYVLIVIILFVAIAANPAIVLFGGFSIYALSGPMLTFISLQRMKKERGNSHK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNLLTT SLFAAFYS+V+S KGQYEAA++AMFIGMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL  LGKFGWLVAF+YTAAVALRLARFNTQ+G +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ +SL TA+LAL+ SVLMVSNLRYYSFKE+D+KGKVPFLYVL++I+LFVAIAANPAIVLF    IYALSGPMLT ISL +M+K+R N  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966423434|ref|WP_058466580.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Fluoribacter gormanii] &gt;gi|962220906|gb|KTD05568.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466580</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>412.149</Hsp_bit-score>
+      <Hsp_score>1058</Hsp_score>
+      <Hsp_evalue>1.3227e-142</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRVARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSQLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFAWLCHQNEWQNMFVAILTAILSLVVSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSVVLFVGFTVYALSGLLMTLLALQKMRKQRKNSEK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGR+ARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASFAW+C QNEW+N+ V++ TA+L+L+VS LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF    +YALSG ++T+++L KMRKQR+N  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|648562148|ref|WP_026253899.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella shakespearei] &gt;gi|962283749|gb|KTD67521.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_026253899</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>410.609</Hsp_bit-score>
+      <Hsp_score>1054</Hsp_score>
+      <Hsp_evalue>5.55452e-142</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>193</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKENHSGIYLLPNLLTTASLFAAFYSIVSSMKGQYEAAVVAMFIGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLFNFTLSQLGKFGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFVWLCYQHEWQNILISILTSILALSASILMVSNLRYYSFKEVDFKGKVPFLYVLVFIILIVVIFLNPPIVLFVGFSLFALSGPVCTLLSLRKMRKQRNKSDK</Hsp_hseq>
+      <Hsp_midline>M KENHSGIYLLPNLLTT SLFAAFYSIV+S KGQYEAA+VAMFIGMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLL+N TL QLGKFGWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASF W+C+Q+EW+N+++S+ T++LAL  S+LMVSNLRYYSFKEVD+KGKVPFLYVLV I+L V I  NP IVLF    ++ALSGP+ T++SL KMRKQR    K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|518063352|ref|WP_019233560.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella anisa] &gt;gi|962187550|gb|KTC72676.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233560</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>409.838</Hsp_bit-score>
+      <Hsp_score>1052</Hsp_score>
+      <Hsp_evalue>1.01318e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEAAIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSQLGKVGWLVAFVYTAAVALRLARFNTQIETADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNMFVAVLTAILSLTTSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIVLFVAIAANPSVVLFVGFTVYALSGLLMTLFALHKVRKQRKHSDK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EAAI+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQI  +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ V++ TA+L+L  S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF    +YALSG ++T+ +LHK+RKQR++  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966504710|ref|WP_058521369.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella tucsonensis] &gt;gi|962290703|gb|KTD74411.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521369</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>409.453</Hsp_bit-score>
+      <Hsp_score>1051</Hsp_score>
+      <Hsp_evalue>1.2204e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKENHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSQLGKIGWLVAFVYTAAVALRLARFNTQIETADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNMFVALLTALLSLITSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSVVLFVGFTAYALSGLFMTLFALHKVRKQRKYSEK</Hsp_hseq>
+      <Hsp_midline>M KENHSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQI  +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ V+L TA+L+LI S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF     YALSG  +T+ +LHK+RKQR+   K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966415341|ref|WP_058458626.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Fluoribacter bozemanae] &gt;gi|962189851|gb|KTC74953.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458626</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>408.683</Hsp_bit-score>
+      <Hsp_score>1049</Hsp_score>
+      <Hsp_evalue>2.35356e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTDFGAQYDSLSDMVTFGVAPSLLVYNLMLSQLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNMFVAVLTAILSLTTSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSVVLFVSFTVYALSGLFMTLFALHKVRKQRKHSEK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQT+FGAQYDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ V++ TA+L+L  S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF S  +YALSG  +T+ +LHK+RKQR++  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|489731172|ref|WP_003635288.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella longbeachae] &gt;gi|269987469|gb|EEZ93724.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella longbeachae D-4968] &gt;gi|288859210|emb|CBJ13142.1| putative CDP-diacylglycerol-serine O-phosphatidyltransferase (Phosphatidylserine synthase) [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635288</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>408.297</Hsp_bit-score>
+      <Hsp_score>1048</Hsp_score>
+      <Hsp_evalue>3.98016e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKDSHSGIYLLPNLFTTASLFAAFYSLVASMKGQYEASIIAIFIGMIADGLDGRIARLTHTQTAFGAEYDSLSDMVTFGVAPSLLVYNLFLSHLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNIFVAVLTAILSLITSTLMVSNIRYYSFKEVDFKGKVPFLYVLLMIILFVAIAAEPSLVLFVGFTIYAISGLIMTLIFLHKVRKQRRNMEK</Hsp_hseq>
+      <Hsp_midline>M K++HSGIYLLPNL TT SLFAAFYS+VAS KGQYEA+I+A+FIGMIAD LDGRIARLT+TQT FGA+YDSLSDMVTFGVAPSLL+YNL L  LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ V++ TA+L+LI S LMVSN+RYYSFKEVD+KGKVPFLYVL+MI+LFVAIAA P++VLF    IYA+SG ++T+I LHK+RKQRRNM K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|671587429|ref|WP_031563667.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563667</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>407.527</Hsp_bit-score>
+      <Hsp_score>1046</Hsp_score>
+      <Hsp_evalue>7.42773e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTNTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSHLGKVGWLVAFVYTAAVALRLARFNTQIETADRKYFQGLPCPPAAAVMASFAWICYQNEWQNLFIAVFSAILSLTMSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSLVLFVSFTAYALSGLLITLVALNKMRKHRKHQEK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLTNTQTEFGA+YDSLSDMVTFGVAPSLL+YNL L  LGK GWLVAF+YTAAVALRLARFNTQI  +D++YFQGLPCPPAAAVMASFAWIC+QNEW+NL +++F+A+L+L +S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF S   YALSG ++T+++L+KMRK R++  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966468558|ref|WP_058499884.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella gratiana] &gt;gi|962221343|gb|KTD06003.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499884</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>407.142</Hsp_bit-score>
+      <Hsp_score>1045</Hsp_score>
+      <Hsp_evalue>1.12588e-140</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKDSHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTAFGAQYDSLSDMVTFGVAPSLLVYNLTLSRLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPSAAVMASFAWLCYQNEWQNMFVALLTAALSLITSALMVSNIRYYSFKEVDFKGKVPFLYVLVMIILFVAIAADPSLVLFVGFTIYAISGLFKTLIVLQKMRKQRRNTDK</Hsp_hseq>
+      <Hsp_midline>M K++HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQT FGAQYDSLSDMVTFGVAPSLL+YNLTL +LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAVMASFAW+C+QNEW+N+ V+L TA L+LI S LMVSN+RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAA+P++VLF    IYA+SG   T+I L KMRKQRRN  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|653017694|ref|WP_027269658.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella sainthelensi] &gt;gi|962270972|gb|KTD54975.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269658</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>404.445</Hsp_bit-score>
+      <Hsp_score>1038</Hsp_score>
+      <Hsp_evalue>1.36541e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKDSHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTAFGAEYDSLSDMVTFGVAPSLLVYNLILSHLGKVGWLVAFVYTAAVALRLARFNTQLETADKKYFQGLPCPPSAAVMASFAWLCYQHEWQNVFVAVLTAILSLIASTLMVSNIRYYSFKEVDFKGKVPFLYVLVMIILFVAIAADPSFVLFVGFTIYAISGVIMTLIVLHKVRKQRRNLEK</Hsp_hseq>
+      <Hsp_midline>M K++HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQT FGA+YDSLSDMVTFGVAPSLL+YNL L  LGK GWLVAF+YTAAVALRLARFNTQ+  +DK+YFQGLPCPP+AAVMASFAW+C+Q+EW+N+ V++ TA+L+LI S LMVSN+RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAA+P+ VLF    IYA+SG ++T+I LHK+RKQRRN+ K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966422727|ref|WP_058465928.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella cincinnatiensis] &gt;gi|962197729|gb|KTC82768.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465928</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>404.06</Hsp_bit-score>
+      <Hsp_score>1037</Hsp_score>
+      <Hsp_evalue>1.60902e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKDSHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTAFGAQYDSLSDMVTFGVAPSLLVYNLILNHLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPSAAVMASFAWLCYQHEWQNIFVAVLTAFLSLITSTLMVSNIRYYSFKEVDFKGKVPFLYVLVMIILFVAIAADPSLVLFIGFTIYAISGLIMTLIVLQKVRKQRRNMEK</Hsp_hseq>
+      <Hsp_midline>M K++HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQT FGAQYDSLSDMVTFGVAPSLL+YNL L+ LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAVMASFAW+C+Q+EW+N+ V++ TA L+LI S LMVSN+RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAA+P++VLF    IYA+SG ++T+I L K+RKQRRNM K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966498844|ref|WP_058515610.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella santicrucis] &gt;gi|962269288|gb|KTD53302.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515610</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>403.29</Hsp_bit-score>
+      <Hsp_score>1035</Hsp_score>
+      <Hsp_evalue>3.61656e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>187</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKDSHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTAFGAQYDSLSDMVTFGVAPSLLAYNLILSHLGKVGWLVAFVYTAAVALRLARFNTQLETADKKYFQGLPCPPSAAVIASFAWLCYQHEWQNIFVALLTAILSLITSTLMVSNIRYYSFKEVDFKGKVPFLYVLVMIILFVAIAADPSLVLFVGFTIYAISGLIMTLIVLQKVRKQRRNMEK</Hsp_hseq>
+      <Hsp_midline>M K++HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQT FGAQYDSLSDMVTFGVAPSLL YNL L  LGK GWLVAF+YTAAVALRLARFNTQ+  +DK+YFQGLPCPP+AAV+ASFAW+C+Q+EW+N+ V+L TA+L+LI S LMVSN+RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAA+P++VLF    IYA+SG ++T+I L K+RKQRRNM K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966500600|ref|WP_058517273.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella parisiensis] &gt;gi|962255933|gb|KTD40070.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella parisiensis] &gt;gi|1069293500|gb|OEH48826.1| hypothetical protein lpari_00226 [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517273</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>403.29</Hsp_bit-score>
+      <Hsp_score>1035</Hsp_score>
+      <Hsp_evalue>3.81998e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSQLGKVGWLVAFVYTAAVALRLARFNTQIETADKRYFQGLPCPSSAAVIASFAWLCYQNEWQNMFVALLTAVLSLTTSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSVVIFVAFTAYALSGLVMTLFALHKVRKQRKHSEK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQI  +DKRYFQGLPCP +AAV+ASFAW+C+QNEW+N+ V+L TAVL+L  S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++V+F +   YALSG ++T+ +LHK+RKQR++  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1113575534|gb|OJY35272.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY35272</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>403.29</Hsp_bit-score>
+      <Hsp_score>1035</Hsp_score>
+      <Hsp_evalue>4.55393e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MVKENHSGIYLLPNLFTTASLFAAFYSIVASTKGQFETAVIAIFIGMIADGLDGRIARLTNTQTAFGAQYDSLSDMVTFGVAPSLLLYNLTLSQLGKVGWLIAFVYTAAVALRLARFNTQIETDDKRYFQGLPCPSSAAIVASFTWLCSQNDWHNMVVATLTAVLTLMVSVLMVSNFRYYSFKQVDFKGKVPFLYILLMIVLFVAIAANPAWVIFITFSAYGVSGLIVTLVTLHKMRKQRRLIEK</Hsp_hseq>
+      <Hsp_midline>M KENHSGIYLLPNL TT SLFAAFYSIVASTKGQ+E A++A+FIGMIAD LDGRIARLTNTQT FGAQYDSLSDMVTFGVAPSLLLYNLTL QLGK GWL+AF+YTAAVALRLARFNTQI   DKRYFQGLPCP +AA++ASF W+C QN+W N++V+  TAVL L+VSVLMVSN RYYSFK+VD+KGKVPFLY+L+MI+LFVAIAANPA V+F +   Y +SG ++T+++LHKMRKQRR + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|493927699|ref|WP_006872435.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella drancourtii] &gt;gi|363536152|gb|EHL29598.1| CDP-diacylglycerol-serine-O-phosphatidyltransferase [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872435</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.593</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>4.04063e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>337</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>242</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>242</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRN</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEVAVVAIFIGMIADGLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLSHLGKVGWLVAFVYTAAVALRLARFNTQLETADNRYFQGLPCPPSAAVLASFAWLCYQNDWHNMFVSIFAAILSLVASVLMVSNFRYYSFKEVDFKGKVPFLYVLVMIVLFVAIAANPSWVIFVAFSAYALSGLALTLFILNKVRKQRKK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+E A+VA+FIGMIAD LDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTL  LGK GWLVAF+YTAAVALRLARFNTQ+  +D RYFQGLPCPP+AAV+ASFAW+C+QN+W N+ VS+F A+L+L+ SVLMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP+ V+F +   YALSG  LT+  L+K+RKQR+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966516696|ref|WP_058533190.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533190</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.208</Hsp_bit-score>
+      <Hsp_score>1027</Hsp_score>
+      <Hsp_evalue>5.41412e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKENRSGIYLLPNLFTTASLFAAFYSLVASMKGQYEAAVIAIFIGMIADGLDGRIARLTNTQSEFGAQYDSLSDLVTFGVAPSLLMYNLSLSHLGKVGWLVAFVYTAAVALRLARFNTQLDIADKRYFQGLPCPPSAAVMASFAWLCYQNDWYNMFVAVITAIMSLVASALMVSNFRYYSFKEVDFKGKVPFLYVLVMIVLFVAIAANPSWVIFIGFGLYAFSGLIITLWAVHKVRKQRKHIEK</Hsp_hseq>
+      <Hsp_midline>M KEN SGIYLLPNL TT SLFAAFYS+VAS KGQYEAA++A+FIGMIAD LDGRIARLTNTQ+EFGAQYDSLSD+VTFGVAPSLL+YNL+L  LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAVMASFAW+C+QN+W N+ V++ TA+++L+ S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP+ V+F   G+YA SG ++T+ ++HK+RKQR+++ K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966494005|ref|WP_058510793.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella steelei] &gt;gi|962284960|gb|KTD68726.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella steelei] &gt;gi|1113342830|gb|OJW06691.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510793</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.053</Hsp_bit-score>
+      <Hsp_score>1024</Hsp_score>
+      <Hsp_evalue>2.03027e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>335</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQR</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTNTQTEFGAEYDSLSDMVTFGVAPSLLMYNLILSQLGKVGWLVAFVYTAAVALRLARFNTQLEIADKRYFQGLPCPPAAAVMASFSWLCYQHDWQNIFVAILAAILSLIASGLMVSNFRYYSFKEVDFKGKVPFIYVLVMIILFVAIAANPSLVLFVGFTIYALSGLLMTLLALQKMRKKK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLTNTQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASF+W+C+Q++W+N+ V++  A+L+LI S LMVSN RYYSFKEVD+KGKVPF+YVLVMI+LFVAIAANP++VLF    IYALSG ++T+++L KMRK++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966436872|ref|WP_058477240.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella steigerwaltii] &gt;gi|962293646|gb|KTD77321.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477240</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.282</Hsp_bit-score>
+      <Hsp_score>1022</Hsp_score>
+      <Hsp_evalue>4.09984e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLLYNLMLSQLGKVGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPSAAVIASFSWLCYQHDWENMFVTILAAILSLIASGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSLVLFVGFTIYALSGLFMTLLALQKMRKKKSKEMK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLLLYNL L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPP+AAV+ASF+W+C+Q++WEN+ V++  A+L+LI S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF    IYALSG  +T+++L KMRK++    K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|654930632|ref|WP_028381001.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381001</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.282</Hsp_bit-score>
+      <Hsp_score>1022</Hsp_score>
+      <Hsp_evalue>4.19055e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSQLGKIGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFSWLCYQHNWQNMFVSLLAAILSLIASGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSLVLFVGFTIYALSGLFMTLLALQKMRRKKSKEMK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASF+W+C+Q+ W+N+ VSL  A+L+LI S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF    IYALSG  +T+++L KMR+++    K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|498340483|ref|WP_010654639.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Fluoribacter dumoffii] &gt;gi|962206022|gb|KTC90959.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654639</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.512</Hsp_bit-score>
+      <Hsp_score>1020</Hsp_score>
+      <Hsp_evalue>7.56668e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQR-RNMSK</Hsp_qseq>
+      <Hsp_hseq>MKKESHSGIYLLPNLFTTASLFAAFYSIVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLFYSLILSQLGKLGWLVAFVYTAAVALRLARFNTQLEIADKRYFQGLPCPTAAAVMASFSWLCYQHEWQNLFVTILAAILSLILSGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSLVLFVSFTLYALSGLLMTLLALQKMRRKKSREMKQ</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYSIVAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL Y+L L QLGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCP AAAVMASF+W+C+Q+EW+NL V++  A+L+LI+S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF S  +YALSG ++T+++L KMR+++ R M +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|963702365|ref|WP_058387406.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella cherrii] &gt;gi|962197394|gb|KTC82438.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058387406</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>396.356</Hsp_bit-score>
+      <Hsp_score>1017</Hsp_score>
+      <Hsp_evalue>2.23559e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>245</Hsp_align-len>
+      <Hsp_qseq>MNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MEKESHSGIYLLPNLFTTASLFAAFYSLVASMKGQFEASIIAIFIGMIADGLDGRIARLTHTQTEFGAEYDSLSDMVTFGVAPSLLVYNLILSHLGKIGWLVAFVYTAAVALRLARFNTQLETADKRYFQGLPCPPAAAVMASFSWLCYQHNWQNMFVSLLAAILSLIASGLMVSNFRYYSFKEVDFKGKVPFLYVLVMIILFVAIAANPSLVLFVGFTIYALSGLFMTLLALQKMRRKKSKEMK</Hsp_hseq>
+      <Hsp_midline>M KE+HSGIYLLPNL TT SLFAAFYS+VAS KGQ+EA+I+A+FIGMIAD LDGRIARLT+TQTEFGA+YDSLSDMVTFGVAPSLL+YNL L  LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGLPCPPAAAVMASF+W+C+Q+ W+N+ VSL  A+L+LI S LMVSN RYYSFKEVD+KGKVPFLYVLVMI+LFVAIAANP++VLF    IYALSG  +T+++L KMR+++    K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|648288152|ref|WP_026069301.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_026069301</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>385.571</Hsp_bit-score>
+      <Hsp_score>989</Hsp_score>
+      <Hsp_evalue>3.33994e-132</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>175</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>QKENHSGIYLLPNLFTTASLFAAFYSIVASLKAQYEVAVIAIFIGMVADGLDGRIARLTNTQTAFGAEYDSLSDMVTFGVAPALLLYSWNLQQLGKIGWLVAFIYTAAVALRLARFNTQVETADKRYFQGLACPPAAAIVSSFVWFCYQNELQHFVIAILTAFITVVAAVLMVSNVRYYSFKEIDFKGKVPFLYLLVMVILFVAIAANPSVVLFVGFVIYALSGPLQTLLALHRVRKQRKRQSD</Hsp_hseq>
+      <Hsp_midline> KENHSGIYLLPNL TT SLFAAFYSIVAS K QYE A++A+FIGM+AD LDGRIARLTNTQT FGA+YDSLSDMVTFGVAP+LLLY+  L QLGK GWLVAFIYTAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+++SF W C+QNE ++ ++++ TA + ++ +VLMVSN+RYYSFKE+D+KGKVPFLY+LVM++LFVAIAANP++VLF    IYALSGP+ T+++LH++RKQR+  S </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966401277|ref|WP_058444872.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella feeleii] &gt;gi|962216491|gb|KTD01252.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444872</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>384.415</Hsp_bit-score>
+      <Hsp_score>986</Hsp_score>
+      <Hsp_evalue>1.0678e-131</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>339</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>175</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMS</Hsp_qseq>
+      <Hsp_hseq>QKENHSGIYLLPNLFTTASLFAAFYSIVASLKAQYEVAVIAIFIGMVADGLDGRIARLTNTQTAFGAEYDSLSDMVTFGVAPALLLYSWNLQQLGKVGWLVAFIYTAAVALRLARFNTQVETADKRYFQGLACPPAAAIVSSFVWFCYQNELQHFAIAILTAFITVVAAVLMVSNVRYYSFKEIDFKGKVPFLYLLVMVILFVAIAANPSVVLFVGFVIYALSGPLQTLLALHRVRKQRKRQS</Hsp_hseq>
+      <Hsp_midline> KENHSGIYLLPNL TT SLFAAFYSIVAS K QYE A++A+FIGM+AD LDGRIARLTNTQT FGA+YDSLSDMVTFGVAP+LLLY+  L QLGK GWLVAFIYTAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+++SF W C+QNE ++  +++ TA + ++ +VLMVSN+RYYSFKE+D+KGKVPFLY+LVM++LFVAIAANP++VLF    IYALSGP+ T+++LH++RKQR+  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966511528|ref|WP_058528082.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella londiniensis] &gt;gi|962238771|gb|KTD23175.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528082</Hit_accession>
+  <Hit_len>254</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>382.104</Hsp_bit-score>
+      <Hsp_score>980</Hsp_score>
+      <Hsp_evalue>1.29578e-130</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>247</Hsp_align-len>
+      <Hsp_qseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>MVSKKESRPGIYLLPNLLTTASLFAAFYSLVASMKGQYETAVIAIFIGMLADGLDGRIARLTNTQTAFGGEYDSLSDMVTFGVAPALLLYGWGLNSLGKFGWLVAFIYTAAVALRLARFNTQVETADKRYFQGLACPPGAAIVASFVWICHQHHWQNSLVIVIAAMISIVIAILMVSNVRYYSFKEVDFKGKVPFIYILIIVFLFVAIAANPSIILFVAFLIYALSGPLQTLIALHRVRKQRRGVSK</Hsp_hseq>
+      <Hsp_midline>M   KE+  GIYLLPNLLTT SLFAAFYS+VAS KGQYE A++A+FIGM+AD LDGRIARLTNTQT FG +YDSLSDMVTFGVAP+LLLY   L+ LGKFGWLVAFIYTAAVALRLARFNTQ+  +DKRYFQGL CPP AA++ASF WIC Q+ W+N +V +  A++++++++LMVSN+RYYSFKEVD+KGKVPF+Y+L+++ LFVAIAANP+I+LF +  IYALSGP+ T+I+LH++RKQRR +SK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966509872|ref|WP_058526463.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella erythra] &gt;gi|962213403|gb|KTC98272.1| CDP-diacylglycerol-serine-O- phosphatidyltransferase [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526463</Hit_accession>
+  <Hit_len>242</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.941</Hsp_bit-score>
+      <Hsp_score>964</Hsp_score>
+      <Hsp_evalue>1.98762e-128</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>334</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>172</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>238</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQ</Hsp_qseq>
+      <Hsp_hseq>QKESHSGIYLLPNLFTTASLFAAFYSIVASLKAHYEPAVIAIFIGMLADGLDGRIARLTNTQSEFGAQYDSLSDMVTFGVAPSLLLYSFSLHALGKIGWLVAFLYTAAVALRLARFNTQVGIADKRYFQGLACPPAAAIVSSLTWFCYQNQLHNLFIAIITALIAVSTAVLMVSNIRYYSFKEVDFKGKVPFLYLLLMIILFVAIAANPSVVLFTGFVLYALSGPLKTVLTLYRIRQR</Hsp_hseq>
+      <Hsp_midline> KE+HSGIYLLPNL TT SLFAAFYSIVAS K  YE A++A+FIGM+AD LDGRIARLTNTQ+EFGAQYDSLSDMVTFGVAPSLLLY+ +LH LGK GWLVAF+YTAAVALRLARFNTQ+G +DKRYFQGL CPPAAA+++S  W C+QN+  NL +++ TA++A+  +VLMVSN+RYYSFKEVD+KGKVPFLY+L+MI+LFVAIAANP++VLF    +YALSGP+ TV++L+++R++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966514436|ref|WP_058530955.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella rubrilucens] &gt;gi|962264441|gb|KTD48492.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530955</Hit_accession>
+  <Hit_len>242</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.17</Hsp_bit-score>
+      <Hsp_score>962</Hsp_score>
+      <Hsp_evalue>3.95907e-128</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>334</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>238</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQ</Hsp_qseq>
+      <Hsp_hseq>QKESHSGIYLLPNLFTTASLFAAFYSIVASLKAHYEPAVIAIFIGMLADGLDGRIARLTNTQSEFGAQYDSLSDMVTFGVAPSLLLYSFSLHALGKIGWLVAFLYTAAVALRLARFNTQVGVADKRYFQGLACPPAAAIVSSLTWFCYQNQLHNLFIAIVTALIAVSTAVLMVSNIRYYSFKEVDFKGKVPFLYLLLMIILFVAIAANPSVVLFTGFVLYALSGPLKTLVTLYRIRQR</Hsp_hseq>
+      <Hsp_midline> KE+HSGIYLLPNL TT SLFAAFYSIVAS K  YE A++A+FIGM+AD LDGRIARLTNTQ+EFGAQYDSLSDMVTFGVAPSLLLY+ +LH LGK GWLVAF+YTAAVALRLARFNTQ+G +DKRYFQGL CPPAAA+++S  W C+QN+  NL +++ TA++A+  +VLMVSN+RYYSFKEVD+KGKVPFLY+L+MI+LFVAIAANP++VLF    +YALSGP+ T+++L+++R++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|769982616|ref|WP_045098598.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Tatlockia micdadei] &gt;gi|1081463881|emb|SCY64743.1| CDP-diacylglycerol---serine O-phosphatidyltransferase [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098598</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>373.629</Hsp_bit-score>
+      <Hsp_score>958</Hsp_score>
+      <Hsp_evalue>2.01172e-127</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>337</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>241</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRN</Hsp_qseq>
+      <Hsp_hseq>HKESHSGIYLLPNLFTTASLFAAFYSIVASLKAQYEAAAVSIFIGMIADGLDGRIARLTNTQTAFGGEYDSLSDMVTFGVAPALLIYSWNLHKLGKIGWLVAFMYTAAVALRLARFNTQIATADKRYFQGLACPTAAAIVSSFTWFCYQNQLEHFAFSVVTAILTFIAAVLMVSNIRYYSFKEIDFKGKVPFLYLLLMIILFVAIAVNPSLVLFLGAIIYASSGPLQTLYGLHRMRKQRKQ</Hsp_hseq>
+      <Hsp_midline>+KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYEAA V++FIGMIAD LDGRIARLTNTQT FG +YDSLSDMVTFGVAP+LL+Y+  LH+LGK GWLVAF+YTAAVALRLARFNTQI  +DKRYFQGL CP AAA+++SF W C+QN+ E+   S+ TA+L  I +VLMVSN+RYYSFKE+D+KGKVPFLY+L+MI+LFVAIA NP++VLF  + IYA SGP+ T+  LH+MRKQR+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966410147|ref|WP_058453539.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella maceachernii] &gt;gi|962239597|gb|KTD23984.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058453539</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>373.244</Hsp_bit-score>
+      <Hsp_score>957</Hsp_score>
+      <Hsp_evalue>3.01504e-127</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>337</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>241</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRN</Hsp_qseq>
+      <Hsp_hseq>HKESHSGIYLLPNLFTTASLFAAFYSIVASLKSQYETAAIAIFIGMIADGLDGRIARLTNTQTAFGGEYDSLSDMVTFGVAPALLTYSWNLHKLGKIGWLVAFMYTAAVALRLARFNTQLATADKRYFQGLACPTAAAIVSSFTWVCYQNQLEHFVFSIVTAVLTFIAAVLMVSNIRYYSFKEIDFKGKVPFLYLLLMIILFVAVAVNPSLILFLGAIIYASSGPLQTLYGLHRMRKQRKQ</Hsp_hseq>
+      <Hsp_midline>+KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYE A +A+FIGMIAD LDGRIARLTNTQT FG +YDSLSDMVTFGVAP+LL Y+  LH+LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGL CP AAA+++SF W+C+QN+ E+ + S+ TAVL  I +VLMVSN+RYYSFKE+D+KGKVPFLY+L+MI+LFVA+A NP+++LF  + IYA SGP+ T+  LH+MRKQR+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|570284172|gb|AHE66359.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570702957|gb|ETO93865.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella oakridgensis RV-2-2007] &gt;gi|962259881|gb|KTD44001.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>AHE66359</Hit_accession>
+  <Hit_len>258</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>372.859</Hsp_bit-score>
+      <Hsp_score>956</Hsp_score>
+      <Hsp_evalue>6.20694e-127</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>QKESRSGIYLLPNLLTTASLFAAFYSIVASLKFRYETAVIAIFIGMIADGLDGRIARLTNTQTAFGAEYDSLSDMVTFGVAPALLVYSWSLHQLGKLGWLIAFIYTAAVALRLARFNTQVETADKRYFQGLACPPAAAIMSSFVWLCYQNHWEYFGVTILMAVMAVTTAILMVSNVRYHSFKEIDFKGKVPFLYGLVVVILFVAIAAYPALILFLGFLLYAFSGPLQTLAALHRVRKQRRQVAD</Hsp_hseq>
+      <Hsp_midline> KE+ SGIYLLPNLLTT SLFAAFYSIVAS K +YE A++A+FIGMIAD LDGRIARLTNTQT FGA+YDSLSDMVTFGVAP+LL+Y+ +LHQLGK GWL+AFIYTAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+M+SF W+C+QN WE   V++  AV+A+  ++LMVSN+RY+SFKE+D+KGKVPFLY LV+++LFVAIAA PA++LF    +YA SGP+ T+ +LH++RKQRR ++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|644964412|ref|WP_025385167.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385167</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>372.474</Hsp_bit-score>
+      <Hsp_score>955</Hsp_score>
+      <Hsp_evalue>9.08872e-127</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>QKESRSGIYLLPNLLTTASLFAAFYSIVASLKFRYETAVIAIFIGMIADGLDGRIARLTNTQTAFGAEYDSLSDMVTFGVAPALLVYSWSLHQLGKLGWLIAFIYTAAVALRLARFNTQVETADKRYFQGLACPPAAAIMSSFVWLCYQNHWEYFGVTILMAVMAVTTAILMVSNVRYHSFKEIDFKGKVPFLYGLVVVILFVAIAAYPALILFLGFLLYAFSGPLQTLAALHRVRKQRRQVAD</Hsp_hseq>
+      <Hsp_midline> KE+ SGIYLLPNLLTT SLFAAFYSIVAS K +YE A++A+FIGMIAD LDGRIARLTNTQT FGA+YDSLSDMVTFGVAP+LL+Y+ +LHQLGK GWL+AFIYTAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+M+SF W+C+QN WE   V++  AV+A+  ++LMVSN+RY+SFKE+D+KGKVPFLY LV+++LFVAIAA PA++LF    +YA SGP+ T+ +LH++RKQRR ++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966407049|ref|WP_058450455.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella jamestowniensis] &gt;gi|962223786|gb|KTD08436.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella jamestowniensis] &gt;gi|1045920129|gb|OCH97096.1| CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella jamestowniensis] &gt;gi|1097331336|emb|SFL51035.1| CDP-diacylglycerol---serine O-phosphatidyltransferase [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450455</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>371.318</Hsp_bit-score>
+      <Hsp_score>952</Hsp_score>
+      <Hsp_evalue>1.94449e-126</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>242</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>208</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>239</Hsp_align-len>
+      <Hsp_qseq>KENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRR</Hsp_qseq>
+      <Hsp_hseq>KESHSGIYLLPNLFTTASLFAAFYSIVASLKAQYETAAVAIFIGMLADGLDGRIARLTNTQTAFGAQYDSLSDMVTFGVAPALLLYSWNLHHLGKVGWLVAFMYTAAVALRLARFNIQVETADKRYFQGLACPPAAAIVSALVWFCYQNQLTHFVFAVLTAVIAVFTAILMVSNVRYYSFKEIDFKGKVPFLYLLVVIILFVAIAANPSVVLFTGFVIYALSGPIQTLLAVHRLRKQRK</Hsp_hseq>
+      <Hsp_midline>KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYE A VA+FIGM+AD LDGRIARLTNTQT FGAQYDSLSDMVTFGVAP+LLLY+  LH LGK GWLVAF+YTAAVALRLARFN Q+  +DKRYFQGL CPPAAA++++  W C+QN+  + + ++ TAV+A+  ++LMVSN+RYYSFKE+D+KGKVPFLY+LV+I+LFVAIAANP++VLF    IYALSGP+ T++++H++RKQR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|762037281|ref|WP_043873219.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella massiliensis] &gt;gi|683290130|emb|CEE12491.1| Bifunctional IPC transferase and DIPP synthase [Legionella massiliensis] &gt;gi|685072500|emb|CDZ76753.1| CDP-diacylglycerol-serine O-phosphatidyltransferase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873219</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>369.777</Hsp_bit-score>
+      <Hsp_score>948</Hsp_score>
+      <Hsp_evalue>6.80436e-126</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>173</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>QKESHSGIYLLPNLFTTASLFAAFYSIVASMKMQYEVAAIAIFIGMIADGLDGRIARLTNTQTAFGGEYDSLSDMVTFGVAPSLLMYSWNLHNLGKIGWLVAFMYTAAVALRLARFNTQIETSDKRYFQGLACPPAAAIVSSLVWFSYQNQLEHFAFTILTAIIAFFVAVLMVSNIRYYSFKEIDFKGKVPFLYLLLMVILFVAIAANPSVVLFTGFVIYSLSGPVQTLFILQRMRKQRQQNSD</Hsp_hseq>
+      <Hsp_midline> KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYE A +A+FIGMIAD LDGRIARLTNTQT FG +YDSLSDMVTFGVAPSLL+Y+  LH LGK GWLVAF+YTAAVALRLARFNTQI  SDKRYFQGL CPPAAA+++S  W  +QN+ E+   ++ TA++A  V+VLMVSN+RYYSFKE+D+KGKVPFLY+L+M++LFVAIAANP++VLF    IY+LSGP+ T+  L +MRKQR+  S </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966477682|ref|WP_058508415.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella quinlivanii] &gt;gi|962263319|gb|KTD47401.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella quinlivanii] &gt;gi|1090726812|emb|SEG38399.1| CDP-diacylglycerol---serine O-phosphatidyltransferase [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058508415</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>365.54</Hsp_bit-score>
+      <Hsp_score>937</Hsp_score>
+      <Hsp_evalue>3.17827e-124</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>337</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>169</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>KENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRN</Hsp_qseq>
+      <Hsp_hseq>KESHSGIYLLPNLFTTASLFAAFYSIVASLKNQYETAVIAIFIGMLADGLDGRIARLTNTQTAFGAQYDSLSDMVTFGVAPSLLVYSWGLDRLGKIGWLVAFVYTAAVALRLARFNTQVEVADKRYFQGLACPPAAAIVSSFVWLCFQNEFNHLSIVILTAAITVITAVLMVSNIRYHSFKEIDFKGKVPFLYLLITVILFVAIAANPSVVLFIGFVLYALSGPLQLLVSLHKKRRFEKQ</Hsp_hseq>
+      <Hsp_midline>KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYE A++A+FIGM+AD LDGRIARLTNTQT FGAQYDSLSDMVTFGVAPSLL+Y+  L +LGK GWLVAF+YTAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+++SF W+CFQNE+ +L + + TA + +I +VLMVSN+RY+SFKE+D+KGKVPFLY+L+ ++LFVAIAANP++VLF    +YALSGP+  ++SLHK R+  + </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966465351|ref|WP_058496712.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella drozanskii] &gt;gi|962201147|gb|KTC86136.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058496712</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>364.77</Hsp_bit-score>
+      <Hsp_score>935</Hsp_score>
+      <Hsp_evalue>5.77736e-124</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>340</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>175</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRRNMSK</Hsp_qseq>
+      <Hsp_hseq>QKESHSGIYLLPNLFTTASLFAAFYSIVASLKAQYEVAAVAIFIGMIADGLDGRIARLTNTQTAFGGEYDSLSDMVTFGVAPALLMYSWNLHKLGKIGWLVAFMFTAAVALRLARFNTQLAVADKRYFQGLACPPAAAIVSSFCWFCYQNQLEHFAIAIITAIIAVIAAVLMVSNIRYYSFKEVDFKGKVPFLYLLLMIILFVAIAVYPSLVLFMSALIYALSGPLQTLVALHRMRKQRKQLAK</Hsp_hseq>
+      <Hsp_midline> KE+HSGIYLLPNL TT SLFAAFYSIVAS K QYE A VA+FIGMIAD LDGRIARLTNTQT FG +YDSLSDMVTFGVAP+LL+Y+  LH+LGK GWLVAF++TAAVALRLARFNTQ+  +DKRYFQGL CPPAAA+++SF W C+QN+ E+  +++ TA++A+I +VLMVSN+RYYSFKEVD+KGKVPFLY+L+MI+LFVAIA  P++VLF S+ IYALSGP+ T+++LH+MRKQR+ ++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966442035|ref|WP_058482297.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella spiritensis] &gt;gi|962282113|gb|KTD65903.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482297</Hit_accession>
+  <Hit_len>243</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>363.229</Hsp_bit-score>
+      <Hsp_score>931</Hsp_score>
+      <Hsp_evalue>1.83012e-123</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>242</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>176</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>NKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVISLHKMRKQRR</Hsp_qseq>
+      <Hsp_hseq>QKESHSGIYLLPNLFTTASLFAAFYAIVASLKGQHETAIIAIFIGMLADGLDGRIARLTNTQTAFGAEYDSLSDMVTFGVAPSLLLYSWNLQHLGKIGWLVAFVYTAAVALRLARFNTQIGIADKRYFQGLACPPAAAIVTSFTWLCHQNHLNNLFISIITAVIAVVAAVLMVSNIRYYSFKEIDFKGKVPFLYLLLMIVLFVAIAANPSVVLFIGFVVYALSGPLQTAFALYRMRKLRK</Hsp_hseq>
+      <Hsp_midline> KE+HSGIYLLPNL TT SLFAAFY+IVAS KGQ+E AI+A+FIGM+AD LDGRIARLTNTQT FGA+YDSLSDMVTFGVAPSLLLY+  L  LGK GWLVAF+YTAAVALRLARFNTQIG +DKRYFQGL CPPAAA++ SF W+C QN   NL +S+ TAV+A++ +VLMVSN+RYYSFKE+D+KGKVPFLY+L+MI+LFVAIAANP++VLF    +YALSGP+ T  +L++MRK R+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966428628|ref|WP_058471124.1|</Hit_id>
+  <Hit_def>CDP-diacylglycerol--serine O-phosphatidyltransferase [Legionella jordanis] &gt;gi|962232814|gb|KTD17362.1| CDP-diacylglycerol-serine O-phosphatidyltransferase (phosphatidylserine synthase) [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471124</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>362.073</Hsp_bit-score>
+      <Hsp_score>928</Hsp_score>
+      <Hsp_evalue>7.62494e-123</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>327</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>233</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>234</Hsp_align-len>
+      <Hsp_qseq>MRMNKENHSGIYLLPNLLTTVSLFAAFYSIVASTKGQYEAAIVAMFIGMIADSLDGRIARLTNTQTEFGAQYDSLSDMVTFGVAPSLLLYNLTLHQLGKFGWLVAFIYTAAVALRLARFNTQIGKSDKRYFQGLPCPPAAAVMASFAWICFQNEWENLIVSLFTAVLALIVSVLMVSNLRYYSFKEVDYKGKVPFLYVLVMILLFVAIAANPAIVLFASSGIYALSGPMLTVIS</Hsp_qseq>
+      <Hsp_hseq>MR-QKESHSGIYLLPNLFTTASLFAAFYSIVASLKGQYEGAVIAIFVGMLADGLDGRIARLTKTQTAFGAQYDSLSDMVTFGVAPSLLLYSWNLHELGKIGWLVAFLYTAAVALRLARFNVQVETADKRYFQGLACPPAAAIVSALVWFCYQNGLTHFAIAIFTAILATIIAILMVSNVRYHSFKEIDFKGKVPFLYLLIMVIIFVAIAANPSVVLFTTFVIYALSGPVQTLIT</Hsp_hseq>
+      <Hsp_midline>MR  KE+HSGIYLLPNL TT SLFAAFYSIVAS KGQYE A++A+F+GM+AD LDGRIARLT TQT FGAQYDSLSDMVTFGVAPSLLLY+  LH+LGK GWLVAF+YTAAVALRLARFN Q+  +DKRYFQGL CPPAAA++++  W C+QN   +  +++FTA+LA I+++LMVSN+RY+SFKE+D+KGKVPFLY+L+M+++FVAIAANP++VLF +  IYALSGP+ T+I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
