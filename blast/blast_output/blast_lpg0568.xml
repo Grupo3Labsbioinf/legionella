@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_235915</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>403</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_235915</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>403</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248723|ref|WP_010946263.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|52840760|ref|YP_094559.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627871|gb|AAU26612.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507274|gb|AEW50798.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492946|gb|AGH54791.1| hypothetical protein LPE509_02700 [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081182|gb|AGN13430.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771542|emb|CZI76236.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998795764|emb|CZI44066.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998800554|emb|CZL11692.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998804122|emb|CZK63980.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998807212|emb|CZI31470.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998810736|emb|CZI17746.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998813105|emb|CZH13746.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998816455|emb|CZM21823.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998819728|emb|CZM00538.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998825568|emb|CZK39701.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998832815|emb|CZI18602.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998834455|emb|CZL50266.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998838687|emb|CZJ30174.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998840522|emb|CZL84652.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998843102|emb|CZL08537.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998846333|emb|CZL09432.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998849180|emb|CZI97600.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998852446|emb|CZL88841.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998855939|emb|CZL53010.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998858604|emb|CZM29160.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998862302|emb|CZK40753.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998864752|emb|CZJ87600.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998867201|emb|CZJ82560.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998870213|emb|CZM42150.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998873632|emb|CZK72520.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998876226|emb|CZM47736.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998879345|emb|CZJ75330.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998885797|emb|CZM36047.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998888605|emb|CZK50193.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998895794|emb|CZK08482.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998905274|emb|CZK93201.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998908429|emb|CZL68443.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998916080|emb|CZK71924.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998917499|emb|CZL64360.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998920479|emb|CZL70925.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998926838|emb|CZL98943.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998930912|emb|CZK82717.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998933685|emb|CZL68118.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998938751|emb|CZL21031.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998946244|emb|CZK71180.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998947998|emb|CZL29556.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998956966|emb|CZM67304.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998960455|emb|CZK68357.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998963169|emb|CZK80003.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998966719|emb|CZM41925.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998969369|emb|CZL06017.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998972378|emb|CZK82604.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998978492|emb|CZM01260.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998986102|emb|CZK09990.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998987510|emb|CZL89703.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998998270|emb|CZJ96871.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999006432|emb|CZL23349.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999011897|emb|CZL84846.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999014938|emb|CZM78473.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999021215|emb|CZL93787.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999024054|emb|CZL21006.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999036225|emb|CZL85600.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999045245|emb|CZM31432.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999060279|emb|CZL80040.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999066477|emb|CZJ50040.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999075360|emb|CZH16381.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999078610|emb|CZK44191.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999083077|emb|CZK86488.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999087911|emb|CZL15873.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999090973|emb|CZL91170.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999093869|emb|CZH49431.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999096979|emb|CZH52747.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999101382|emb|CZL75535.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999110932|emb|CZL05018.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999114043|emb|CZL59105.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999115935|emb|CZK73497.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999124756|emb|CZL32527.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999132519|emb|CZL70107.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999133879|emb|CZL47382.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999136985|emb|CZK89095.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999140878|emb|CZL85830.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999144837|emb|CZK81012.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999146365|emb|CZM11109.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999155619|emb|CZI38071.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999174220|emb|CZL61699.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999189811|emb|CZI75808.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999192931|emb|CZJ16853.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999199240|emb|CZH01178.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999202140|emb|CZJ21626.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999208443|emb|CZL35656.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999217953|emb|CZM05615.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999220922|emb|CZJ08770.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999333362|emb|CZL30964.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002078822|emb|CZQ92112.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1003018378|emb|CZR30462.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1003021450|emb|CZR26811.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1003024510|emb|CZR30272.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073863684|gb|AOU03635.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073866642|gb|AOU06592.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073869647|gb|AOU09596.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073872591|gb|AOU12539.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073875573|gb|AOU15520.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073878535|gb|AOU18481.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073881529|gb|AOU21474.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073884491|gb|AOU24435.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073887490|gb|AOU27433.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073890473|gb|AOU30415.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073893438|gb|AOU33379.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073896403|gb|AOU36343.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073899367|gb|AOU39306.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073902319|gb|AOU42257.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073905230|gb|AOU45167.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073908247|gb|AOU48182.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073911303|gb|AOU51235.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073914221|gb|AOU54152.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073917179|gb|AOU57109.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073920146|gb|AOU60075.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073923119|gb|AOU63046.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073926133|gb|AOU66059.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073929113|gb|AOU69022.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073932497|gb|AOU72056.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073935444|gb|AOU82443.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073945719|gb|AOU85443.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1073948682|gb|AOU88405.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1104001835|emb|SFZ36399.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1129967297|gb|APT97656.1| phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946263</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>653.67</Hsp_bit-score>
+      <Hsp_score>1685</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|653014635|ref|WP_027266665.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266665</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>653.284</Hsp_bit-score>
+      <Hsp_score>1684</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHVPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLH+PDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1004017559|ref|WP_061485298.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485298</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>647.121</Hsp_bit-score>
+      <Hsp_score>1668</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTFFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPSGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLT FTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYP+GIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|500490131|ref|WP_011945668.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|148282642|gb|ABQ56730.1| hypothetical protein LPC_2829 [Legionella pneumophila str. Corby] &gt;gi|295647967|gb|ADG23814.1| phytanoyl-CoA dioxygenase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989551|dbj|GAN22614.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|761998981|dbj|GAN28966.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|998801840|emb|CZI08549.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998912157|emb|CZH23601.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998994575|emb|CZI22593.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999003143|emb|CZI81628.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999159318|emb|CZJ69135.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999165679|emb|CZG83089.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999178325|emb|CZJ55877.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999302879|emb|CZI38853.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945668</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>646.736</Hsp_bit-score>
+      <Hsp_score>1667</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKNYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVKPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEIQDNLNRVLK+YEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEV+PHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|499533471|ref|WP_011214755.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|53753337|emb|CAH14784.1| hypothetical protein lpl0554 [Legionella pneumophila str. Lens] &gt;gi|999187821|emb|CZI95566.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999376479|emb|CZJ18466.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1080002212|gb|AOW52784.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006036|gb|AOW56316.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008105|gb|AOW58093.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012233|gb|AOW61724.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014709|gb|AOW63582.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018476|gb|AOW67121.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214755</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>646.351</Hsp_bit-score>
+      <Hsp_score>1666</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRILKDYEQNGIIGLNGYLNQANRISLLNELEVMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSTVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFITEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNR+LKDYEQNGIIGLNGYLNQANRISLLNELE+MQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDS VLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDF+TEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1005610008|ref|WP_061692502.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|998822473|emb|CZH34766.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692502</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>645.58</Hsp_bit-score>
+      <Hsp_score>1664</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRILKDYEQNGIIGLNGYLNQANRINLLNELEVMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFITEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETHEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNR+LKDYEQNGIIGLNGYLNQANRI+LLNELE+MQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDF+TEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIET+EVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504656291|ref|WP_014843393.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|395129605|emb|CCD07838.1| Phytanoyl-CoA dioxygenase domain-containing protein 1 [Legionella pneumophila subsp. pneumophila] &gt;gi|761992739|dbj|GAN16527.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|761995929|dbj|GAN19633.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|998774453|emb|CZH08290.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998777333|emb|CZH12601.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998783296|emb|CZH40911.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998786243|emb|CZH06760.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998791247|emb|CZG40320.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998793136|emb|CZI51553.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998892630|emb|CZJ24343.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998982377|emb|CZI64302.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999107563|emb|CZI64499.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999231792|emb|CZI45001.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999287210|emb|CZI45713.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999293662|emb|CZI47186.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999312649|emb|CZI53219.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002074290|emb|CZR05467.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002081601|emb|CZR00362.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002092781|emb|CZQ95590.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1032656691|gb|ANH11962.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1032659658|gb|ANH14928.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1032662625|gb|ANH17894.1| phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843393</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>645.58</Hsp_bit-score>
+      <Hsp_score>1664</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MGNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>M NLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499526503|ref|WP_011213143.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|53750332|emb|CAH11726.1| hypothetical protein lpp0578 [Legionella pneumophila str. Paris] &gt;gi|536613628|gb|ERB42000.1| phytanoyl-CoA dioxygenase [Legionella pneumophila str. 121004] &gt;gi|541995593|gb|ERH41692.1| phytanoyl-CoA dioxygenase [Legionella pneumophila str. Leg01/11] &gt;gi|541997380|gb|ERH43426.1| phytanoyl-CoA dioxygenase [Legionella pneumophila str. Leg01/53] &gt;gi|542121174|gb|ERI47507.1| phytanoyl-CoA dioxygenase [Legionella pneumophila str. Leg01/20] &gt;gi|762002536|dbj|GAN25654.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999171865|emb|CZI29806.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999181654|emb|CZG51733.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999212738|emb|CZG78262.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999216904|emb|CZI65755.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999225316|emb|CZG83127.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999359984|emb|CZI61878.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999373444|emb|CZG56895.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999379765|emb|CZH69823.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999382660|emb|CZI58030.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999386271|emb|CZG64094.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999389110|emb|CZI56814.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999396892|emb|CZG09094.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999405908|emb|CZG71620.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999408905|emb|CZH91511.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999412753|emb|CZG33148.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999415420|emb|CZG88020.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999418760|emb|CZG64336.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999421955|emb|CZH72855.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999428377|emb|CZG72931.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999431633|emb|CZG73022.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999434991|emb|CZI00105.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999441171|emb|CZK28748.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999444636|emb|CZH77214.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999457580|emb|CZK22163.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999496265|emb|CZI46915.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999525348|emb|CZJ07305.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999528061|emb|CZI74284.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999576038|emb|CZI42425.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999611294|emb|CZI63128.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1003032382|emb|CZR24879.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1041017650|gb|ANN94710.1| phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213143</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>645.195</Hsp_bit-score>
+      <Hsp_score>1663</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKNYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPIMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVKPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEIQDNLNRVLK+YEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYP+MQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEV+PHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|749552148|ref|WP_040185217.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999149968|emb|CZI48875.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999168616|emb|CZI45736.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185217</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.81</Hsp_bit-score>
+      <Hsp_score>1662</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFASNEIQDNLNRVLKNYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVKPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIF SNEIQDNLNRVLK+YEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEV+PHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1003782900|ref|WP_061467280.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467280</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.425</Hsp_bit-score>
+      <Hsp_score>1661</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKNYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKVIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVKPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKARHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEIQDNLNRVLK+YEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNK+IHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEV+PHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETK RHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1005402485|ref|WP_061635903.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999425269|emb|CZG74840.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999438175|emb|CZG62169.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999447839|emb|CZG53548.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061635903</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>643.269</Hsp_bit-score>
+      <Hsp_score>1658</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKNYEQNGIIGLNGYLNQANRISLLNELEIIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPIMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVKPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLK+YEQNGIIGLNGYLNQANRISLLNELEI+QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYP+MQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEV+PHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|652967223|ref|WP_027220195.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999247892|emb|CZH56734.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999454053|emb|CZI21265.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999460518|emb|CZH00473.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999773138|emb|CZH90022.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999796125|emb|CZI23822.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220195</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>641.343</Hsp_bit-score>
+      <Hsp_score>1653</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKDYEQNGIIGLNEYLNQANRISLLNELEVMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINSYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFIREREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLKDYEQNGIIGLN YLNQANRISLLNELE+MQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLIN YPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDF+ EREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|653012661|ref|WP_027264764.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|998783009|emb|CZI85359.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998828315|emb|CZH37758.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998883007|emb|CZI84824.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998897700|emb|CZK08357.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998938027|emb|CZL86795.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998951066|emb|CZJ95390.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999000086|emb|CZG94460.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999058450|emb|CZM29868.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999103708|emb|CZI19769.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999128498|emb|CZH15847.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999152622|emb|CZM82631.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999161897|emb|CZM39540.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999236711|emb|CZG93716.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002085554|emb|CZQ97445.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1002088296|emb|CZQ79055.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1104005400|emb|SFZ36376.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264764</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>640.958</Hsp_bit-score>
+      <Hsp_score>1652</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNQILKDYEQNGIIGLNGYLNQANRINLLNELEVMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMLVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFITEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETHEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLN++LKDYEQNGIIGLNGYLNQANRI+LLNELE+MQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNM VVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDF+TEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIET+EVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1005403325|ref|WP_061636467.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999328638|emb|CZG64869.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999340095|emb|CZH26676.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061636467</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>639.417</Hsp_bit-score>
+      <Hsp_score>1648</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKDYEQNGIIGLNEYLNQANRTSLLNELEVIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNIRVVNRIGHGMHLINRYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLKDYEQNGIIGLN YLNQANR SLLNELE++QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDN+RVVNRIGHGMHLINRYPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652973683|ref|WP_027226404.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999206207|emb|CZP63463.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999235215|emb|CZP58670.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999240275|emb|CZH90441.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999244380|emb|CZH76842.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999248787|emb|CZH08489.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999252003|emb|CZH37331.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999255992|emb|CZP79913.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999259102|emb|CZP46628.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999261311|emb|CZH42010.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999274809|emb|CZG79536.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999331808|emb|CZG57712.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999349693|emb|CZH40835.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999469328|emb|CZH07379.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999777478|emb|CZH49725.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1103998715|emb|SFZ36424.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226404</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>636.336</Hsp_bit-score>
+      <Hsp_score>1640</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKDYEQNGIIGLNEYLNQANRTSLLNELEVIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNIRVVNRIGHGMHLINGYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLKDYEQNGIIGLN YLNQANR SLLNELE++QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDN+RVVNRIGHGMHLIN YPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|504653953|ref|WP_014841055.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|395126498|emb|CCD04681.1| Phytanoyl-CoA dioxygenase domain-containing protein 1 [Legionella pneumophila subsp. pneumophila] &gt;gi|998923743|emb|CZK24983.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998943813|emb|CZJ50421.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998954350|emb|CZK61293.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998975521|emb|CZJ90708.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|998992813|emb|CZJ47076.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999009045|emb|CZK45991.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999018207|emb|CZJ86959.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999027322|emb|CZK24429.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999030577|emb|CZH24344.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999033272|emb|CZK20540.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999039478|emb|CZJ95476.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999042456|emb|CZK05108.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999048511|emb|CZK01618.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999051586|emb|CZJ92752.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999054535|emb|CZK28979.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999063698|emb|CZK02673.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999070559|emb|CZJ64611.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999072778|emb|CZK31315.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999085006|emb|CZK31128.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999184341|emb|CZP96109.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999198474|emb|CZP13916.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999228310|emb|CZP08826.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999265227|emb|CZP07420.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999269439|emb|CZO33561.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999272241|emb|CZP58476.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999277623|emb|CZP37346.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999281346|emb|CZP15785.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999283686|emb|CZP62037.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999291003|emb|CZP32558.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999296470|emb|CZP57936.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999299557|emb|CZP47151.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999307321|emb|CZH70985.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999309385|emb|CZP27343.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999315807|emb|CZI09737.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999318693|emb|CZP65448.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999322035|emb|CZH98778.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999337772|emb|CZP47562.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999344437|emb|CZP84052.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999347224|emb|CZP63719.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999353458|emb|CZP68602.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999357216|emb|CZP67712.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999363796|emb|CZP56143.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999367132|emb|CZP77189.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999369925|emb|CZP77381.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999392321|emb|CZP98242.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999398569|emb|CZQ01135.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999403106|emb|CZP40812.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999450638|emb|CZP36092.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999464837|emb|CZM52157.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999467861|emb|CZO29417.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999474714|emb|CZM62028.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999477171|emb|CZN74992.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999480673|emb|CZN00550.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999484236|emb|CZN89187.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999487105|emb|CZM11800.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999490278|emb|CZN79312.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999493469|emb|CZM11227.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999500049|emb|CZN73707.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999503175|emb|CZO08138.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999506357|emb|CZN15879.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999509560|emb|CZG51051.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999512898|emb|CZN29942.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999516014|emb|CZM00579.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999518989|emb|CZM84081.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999521881|emb|CZP16681.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999532345|emb|CZO46022.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999535501|emb|CZN40070.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999538582|emb|CZM75674.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999542026|emb|CZO20634.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999544988|emb|CZO60871.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999548168|emb|CZN89398.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999551480|emb|CZO11266.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999554515|emb|CZN31513.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999557910|emb|CZO55743.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999561081|emb|CZM41912.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999564087|emb|CZO66958.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999567451|emb|CZM52809.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999570651|emb|CZN50753.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999573839|emb|CZN92902.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999580331|emb|CZO16684.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999583619|emb|CZO38114.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999586982|emb|CZM64845.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999589983|emb|CZM40338.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999593142|emb|CZN45182.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999596215|emb|CZO11869.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999599535|emb|CZO37537.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999602639|emb|CZL97013.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999605427|emb|CZN72924.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999608964|emb|CZN63415.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999615576|emb|CZM47448.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999618655|emb|CZN90615.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999621775|emb|CZO82139.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999625103|emb|CZN71514.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999628398|emb|CZM62893.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999631552|emb|CZM59249.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999634612|emb|CZN59491.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999637940|emb|CZN51585.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999641136|emb|CZO79536.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999644128|emb|CZO53110.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999647619|emb|CZN94796.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999650695|emb|CZO05148.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999653920|emb|CZO00980.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999657117|emb|CZM29604.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999660191|emb|CZM65073.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999663378|emb|CZN17494.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999666743|emb|CZM38160.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999669935|emb|CZL84511.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999673101|emb|CZM37749.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999676329|emb|CZN77971.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999679326|emb|CZM79138.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999682521|emb|CZM82233.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999686208|emb|CZO00000.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999689124|emb|CZN30652.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999692317|emb|CZN99426.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999695534|emb|CZN29372.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999698799|emb|CZM12206.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999701743|emb|CZM78425.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999704978|emb|CZL94549.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999708164|emb|CZN57006.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999711583|emb|CZN01184.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999714679|emb|CZN21664.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999717991|emb|CZO45858.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999720947|emb|CZM93517.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999724466|emb|CZN34191.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999727829|emb|CZL99282.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999730988|emb|CZO43422.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999734172|emb|CZM25699.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999737488|emb|CZO70591.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999740969|emb|CZM31636.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999744093|emb|CZN26813.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999747235|emb|CZM24900.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999750533|emb|CZL96181.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999753729|emb|CZM81106.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999756780|emb|CZN10413.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999760281|emb|CZM24398.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999763374|emb|CZN30282.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999766900|emb|CZM48479.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999769749|emb|CZN50930.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999776213|emb|CZM00095.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999782899|emb|CZH62632.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999786412|emb|CZM24480.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999789577|emb|CZO67239.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999792922|emb|CZO60735.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|999799807|emb|CZO55954.1| Deoxyhypusine synthase [Legionella pneumophila] &gt;gi|1003029196|emb|CZR19105.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1003036379|emb|CZR17016.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1005832283|gb|AMQ27009.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431651|gb|AMV13278.1| Phytanoyl-CoA dioxygenase (PhyH) [Legionella pneumophila] &gt;gi|1041014553|gb|ANN91614.1| phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1103995584|emb|SFZ36700.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841055</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.098</Hsp_bit-score>
+      <Hsp_score>1629</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKDYEQNGIIGLNEYLNQANRTSLLNELEVIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNIRVVNRIGHGMHLINRYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRGTKTRHFEQFHQLHIPDFMTGREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLKDYEQNGIIGLN YLNQANR SLLNELE++QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDN+RVVNRIGHGMHLINRYPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDR TKTRHFEQ HQLHIPDFMT REFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1006042432|ref|WP_061722131.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|999324426|emb|CZH32776.1| Deoxyhypusine synthase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061722131</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>630.172</Hsp_bit-score>
+      <Hsp_score>1624</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>298</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MDNLLNEKKLTIFTSNEIRDNLNRVLKDYEQNGIIGLNEYLNQANRTSLLNELEVIQKDAEQDIVRYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNIRVVNRIGHGMHLINRYPMMQRTVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRGTKTRHFEQFHQLHIPDFMTGREFYTALEVNAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>MDNLLNEKKLTIFTSNEI+DNLNRVLKDYEQNGIIGLN YLNQANR SLLNELE++QKDAEQDI RYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDN+RVVNRIGHGMHLINRYPMMQR VYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDR TKTRHFEQ HQLHIPDFMT REFYTALEV AGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|652970690|ref|WP_027223582.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella pneumophila] &gt;gi|1005362790|gb|AMP88659.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365791|gb|AMP91568.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368778|gb|AMP94554.1| phytanoyl-CoA dioxygenase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223582</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>599.742</Hsp_bit-score>
+      <Hsp_score>1545</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>276</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MENLLNEKKLTIFTSNEVRGNLNRVLNYYEQNGVIGLNGYLNQVDRINLLNELEAMQSDAEQDIARHWDNKMIHFYSKDPMKPESEDREYVTEPYFQASSNKAHVFYELIDNVRVVNRIGHGMHLIDKYPMMQRVVHDSPILLDLLKGIGFKKPICHLSVYIPKYPNGTGSEVRPHQESTFAYTKPQTVVVLWIALEDALIENACMYGILGSNHWPLKWLSKVDRETKTRHFEQVHQLHIPDFITEREFYTALEVKAGDALLFHGSFVHCSPMNTSKNSRKALSLQFIETYEVDYPETNWLYPPNKVYLY</Hsp_hseq>
+      <Hsp_midline>M+NLLNEKKLTIFTSNE++ NLNRVL  YEQNG+IGLNGYLNQ +RI+LLNELE MQ DAEQDIAR+W+NK+IHFYSKDP+KPES DREYVTEPYFQASSNKAHVFYE+IDN+RVVNRIGHGMHLI++YPMMQR V+DSP+LLDLLKGIGFKKPICHLSVYIPKYPNG GSEVRPHQESTFA+T+PQ+VVVLW+ALEDALIENACMYG+LGSNHWPLKW+SKVDRETKTRHFEQVHQLHIPDF+TEREFYTALEVKAGDALLFHG+FVHCSPMNTSKNSRKALS QFIETYEVDYPETNWLYPPNKVYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966500247|ref|WP_058516920.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella parisiensis] &gt;gi|962258920|gb|KTD43053.1| phytanoyl-CoA dioxygenase [Legionella parisiensis] &gt;gi|1069289700|gb|OEH45130.1| hypothetical protein lpari_03900 [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516920</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>439.499</Hsp_bit-score>
+      <Hsp_score>1129</Hsp_score>
+      <Hsp_evalue>1.83979e-151</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MKTIPNSNPLKEYNLYDLQADLNQAIHSYNQNGIIVLKEYINQVERTELLNEIEIIQHDAELDIAQNWNNKIVCFYSKNPLKPEAQARDYVTEPYFQSSSHKGHVFYEVIDNIRVINRIGHGMHLIEKYSMMQQTVYKNPMLRSIFKGIGFRRPICHLSVYIPKYPHGLGSEVRPHQESTFAYTEPTSVVVLWLALEDACIENACMYGIMGSNRWPLKWVSRVNHQLKIRQFDLLNEVYIPDFRTENYCYTPLEVKAGDALLFHGNFVHCSPVNNSCYSRKALSFQFIESLGVNYSRSNWLHSPNHVYLY</Hsp_hseq>
+      <Hsp_midline>M  + N   L  +   ++Q +LN+ +  Y QNGII L  Y+NQ  R  LLNE+EI+Q DAE DIA+ WNNKI+ FYSK+PLKPE+  R+YVTEPYFQ+SS+K HVFYEVIDN+RV+NRIGHGMHLI +Y MMQ+ VY +P+L  + KGIGF++PICHLSVYIPKYP+G+GSEVRPHQESTFA+TEP SVVVLW+ALEDA IENACMYG++GSN WPLKWVS+V+ + K R F+ +++++IPDF TE   YT LEVKAGDALLFHGNFVHCSP+N S  SRKALSFQFIE+  V+Y  +NWL+ PN VYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966417209|ref|WP_058460494.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Fluoribacter bozemanae] &gt;gi|962186184|gb|KTC71343.1| phytanoyl-CoA dioxygenase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058460494</Hit_accession>
+  <Hit_len>314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>436.417</Hsp_bit-score>
+      <Hsp_score>1121</Hsp_score>
+      <Hsp_evalue>3.67723e-150</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MKMITNSNALKEYNFCDLQSHLNQAIYSYNQNGIIVLKEYINQVELTDLLNEIAIIQHDAELDIAQNWNNEIVCFYSKNPLKPESEPKDYVTEPYFQSSSHKGHVFYEVIDSVRVINRIGHGMHLIEKYSMMQQTVYKNPMLRLIFKGIGFRRPICHLSVYIPKYPHGLGSEVRPHQESTFAYTEPTSVVVLWLALEDACIENACMYGIMGSNRWPLKWVSRVNHQLKTRQFAPLNEVYIPDFTTENYCYTPLEVKAGDALLFHGNFVHCSPVNNSSYSRKALSFQFIETLGVNYPKSNWLQSPNHVYLY</Hsp_hseq>
+      <Hsp_midline>M  + N   L  +   ++Q +LN+ +  Y QNGII L  Y+NQ     LLNE+ I+Q DAE DIA+ WNN+I+ FYSK+PLKPES  ++YVTEPYFQ+SS+K HVFYEVID++RV+NRIGHGMHLI +Y MMQ+ VY +P+L  + KGIGF++PICHLSVYIPKYP+G+GSEVRPHQESTFA+TEP SVVVLW+ALEDA IENACMYG++GSN WPLKWVS+V+ + KTR F  +++++IPDF TE   YT LEVKAGDALLFHGNFVHCSP+N S  SRKALSFQFIET  V+YP++NWL  PN VYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966496636|ref|WP_058513402.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella santicrucis] &gt;gi|962279711|gb|KTD63534.1| phytanoyl-CoA dioxygenase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058513402</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>431.409</Hsp_bit-score>
+      <Hsp_score>1108</Hsp_score>
+      <Hsp_evalue>2.6963e-148</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MKIIANSNALKAYNIDELQSDLNQAISSYNQNGIIVLKDYINQTELTHLLSEIELIEHDAEVDIAQNWNNEIVCFYSKNPLKQESESKEYVTDPYFQASSQKGHVFYEMIDNVRVVNRIGHGMHLIEKYSMMQQVIYRNPMLMMILKGIGYRRPICHLSVYIPKYAYGFGSEVRPHQESTFAYTEPASVIVLWLALEDACIENACMYGVIGSNHWPLKWVSHVNHQHKIRQFKQLNDVSIPDFITENYCYMPLEVKAGDALLFHGNFVHCSPVNYSNCSRKALSFQFIETLGVNYSKSNWLQSPNHVYLY</Hsp_hseq>
+      <Hsp_midline>M  + N   L  +  +E+Q +LN+ +  Y QNGII L  Y+NQ     LL+E+E+++ DAE DIA+ WNN+I+ FYSK+PLK ES  +EYVT+PYFQASS K HVFYE+IDN+RVVNRIGHGMHLI +Y MMQ+ +Y +P+L+ +LKGIG+++PICHLSVYIPKY  G GSEVRPHQESTFA+TEP SV+VLW+ALEDA IENACMYGV+GSNHWPLKWVS V+ + K R F+Q++ + IPDF+TE   Y  LEVKAGDALLFHGNFVHCSP+N S  SRKALSFQFIET  V+Y ++NWL  PN VYLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|489730217|ref|WP_003634333.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella longbeachae] &gt;gi|269990674|gb|EEZ96928.1| phytanoyl-CoA dioxygenase family protein [Legionella longbeachae D-4968] &gt;gi|288859709|emb|CBJ13681.1| Hypothetical protein, similar to eukaryotic phytanoyl coA dioxygenase [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003634333</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.098</Hsp_bit-score>
+      <Hsp_score>1102</Hsp_score>
+      <Hsp_evalue>2.29602e-147</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MEMIANSHALNGYNLDELQSDLNTAICSYNQNGIIVLKDYISQIDLTRLLSEIKLIQHDAEVDIAQNWNNEIVCFYSKNPLQQESEPKEYVTEPYFQASSQKGHVFYEVIDNVRVINRIGHGMHLVEKYSMMQKTVYRNPMLMMILKGIGYRRPICHLSVYIPKYSHGLGSEVRPHQESTFAYTEPASVIVLWLALEDACIENACMYGIIGSNHWPLKWVSQVNLQNKTRQFKQLNDVSIPDFSKENYCYTPLEVKAGDALLFHGHFVHCSPVNYSNCSRKALSFQFIETLGVNYSRNNWLQPPNHAYLY</Hsp_hseq>
+      <Hsp_midline>M+ + N   L  +  +E+Q +LN  +  Y QNGII L  Y++Q +   LL+E++++Q DAE DIA+ WNN+I+ FYSK+PL+ ES  +EYVTEPYFQASS K HVFYEVIDN+RV+NRIGHGMHL+ +Y MMQ+ VY +P+L+ +LKGIG+++PICHLSVYIPKY +G+GSEVRPHQESTFA+TEP SV+VLW+ALEDA IENACMYG++GSNHWPLKWVS+V+ + KTR F+Q++ + IPDF  E   YT LEVKAGDALLFHG+FVHCSP+N S  SRKALSFQFIET  V+Y   NWL PPN  YLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966420475|ref|WP_058463676.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella cincinnatiensis] &gt;gi|962208474|gb|KTC93400.1| phytanoyl-CoA dioxygenase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463676</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.402</Hsp_bit-score>
+      <Hsp_score>1095</Hsp_score>
+      <Hsp_evalue>3.0265e-146</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>242</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>294</Hsp_align-len>
+      <Hsp_qseq>EIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>ELQSDLNQAICSYNQNGIIVLKDYINQTELTHLFSEIELIQHDAEVDIAQNWKNEIVCFYSKNPLQQELEPKEYVTEPYFQASNQKGHVFYEVIDNVRVVNRIGHGMHLIEKYSMMQQTVYRNPMLMMILKGIGYRRPICHLSVYIPKYSHGFGSEVRPHQESTFAYTEPASVIVLWLALEDACIENACMYGIIGSNHWPLKWVSQVNHQNKTRQFELLNDVSIPDFITENYYYTPLEVKAGDALLFHGNFIHCSPVNYSNCSRKALSFQFIETLGVNYPNSNWLQHPNQHYLY</Hsp_hseq>
+      <Hsp_midline>E+Q +LN+ +  Y QNGII L  Y+NQ     L +E+E++Q DAE DIA+ W N+I+ FYSK+PL+ E   +EYVTEPYFQAS+ K HVFYEVIDN+RVVNRIGHGMHLI +Y MMQ+ VY +P+L+ +LKGIG+++PICHLSVYIPKY +G GSEVRPHQESTFA+TEP SV+VLW+ALEDA IENACMYG++GSNHWPLKWVS+V+ + KTR FE ++ + IPDF+TE  +YT LEVKAGDALLFHGNF+HCSP+N S  SRKALSFQFIET  V+YP +NWL  PN+ YLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|653020676|ref|WP_027272580.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella sainthelensi] &gt;gi|962271254|gb|KTD55257.1| phytanoyl-CoA dioxygenase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027272580</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.853</Hsp_bit-score>
+      <Hsp_score>1078</Hsp_score>
+      <Hsp_evalue>1.24572e-143</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>193</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MKSITCSHTLKKYDLNALQADLNQAVRSYNQNGIIVLKNYINQAELARLLSEIELIQYDAEADIVQNWNNEIVCFYSKNPAQQESEPKEYVTEPYFQASNQKGHVFYEVIDNIRVINRIGHGMHLIEKYSMMQQTVYRNPMLMTILKGIGYRRPICHLSVYIPKFSHGLGSEVRPHQESTFAYTEPASVIVLWLALEDAGVKNACMYGIIGSNHWPLKWVSHVNHQEKTRRFNKLNDVFIPDFIKENYCYTPLEVKAGDALLFHGHFVHCSPVNYSNCSRKALSLQFIETLGVNYSKSNWLQSPNHIYLY</Hsp_hseq>
+      <Hsp_midline>M ++     L  +  N +Q +LN+ ++ Y QNGII L  Y+NQA    LL+E+E++Q DAE DI + WNN+I+ FYSK+P + ES  +EYVTEPYFQAS+ K HVFYEVIDN+RV+NRIGHGMHLI +Y MMQ+ VY +P+L+ +LKGIG+++PICHLSVYIPK+ +G+GSEVRPHQESTFA+TEP SV+VLW+ALEDA ++NACMYG++GSNHWPLKWVS V+ + KTR F +++ + IPDF+ E   YT LEVKAGDALLFHG+FVHCSP+N S  SRKALS QFIET  V+Y ++NWL  PN +YLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|962262366|gb|KTD46457.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>KTD46457</Hit_accession>
+  <Hit_len>323</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>347.436</Hsp_bit-score>
+      <Hsp_score>890</Hsp_score>
+      <Hsp_evalue>5.88025e-115</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>308</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>308</Hsp_align-len>
+      <Hsp_qseq>LLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVH-QLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>MIPELKLHQYTKKEILYKSNQLMTDYEHYGIIYLNNFLDSSDLGSLLTELNHAKNKAEEDIRTLWGNRQVVFYSKNAVKSTAPAHDYVTEDYFLQSHNKAHVFYEMHGDRRYVNRIGHGLHLMESFYTLRHLVYHNPYLATVLKTIGFIKPICHLSVYIPKHAYEIGSVVRPHQESTFAYTEPQSVVVLWMALEDATLQNACMWGIPGSNKWPLQYVSRVDHQLKIRKFERLNVEMEIPDFELQGELFMPLEVKAGDALLFHGNFIHCSPVNRSACSRSALSLQFIETHNVQYPGTNWLQPRNNQFIY</Hsp_hseq>
+      <Hsp_midline>++ E KL  +T  EI    N+++ DYE  GII LN +L+ ++  SLL EL   +  AE+DI   W N+ + FYSK+ +K  +   +YVTE YF  S NKAHVFYE+  + R VNRIGHG+HL+  +  ++  VY +P L  +LK IGF KPICHLSVYIPK+   IGS VRPHQESTFA+TEPQSVVVLW+ALEDA ++NACM+G+ GSN WPL++VS+VD + K R FE+++ ++ IPDF  + E +  LEVKAGDALLFHGNF+HCSP+N S  SR ALS QFIET+ V YP TNWL P N  ++Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966434261|ref|WP_058474692.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058474692</Hit_accession>
+  <Hit_len>335</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>347.821</Hsp_bit-score>
+      <Hsp_score>891</Hsp_score>
+      <Hsp_evalue>6.4311e-115</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>320</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>309</Hsp_align-len>
+      <Hsp_qseq>NLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVH-QLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>HMIPELKLHQYTKKEILYKSNQLMTDYEHYGIIYLNNFLDSSDLGSLLTELNHAKNKAEEDIRTLWGNRQVVFYSKNAVKSTAPAHDYVTEDYFLQSHNKAHVFYEMHGDRRYVNRIGHGLHLMESFYTLRHLVYHNPYLATVLKTIGFIKPICHLSVYIPKHAYEIGSVVRPHQESTFAYTEPQSVVVLWMALEDATLQNACMWGIPGSNKWPLQYVSRVDHQLKIRKFERLNVEMEIPDFELQGELFMPLEVKAGDALLFHGNFIHCSPVNRSACSRSALSLQFIETHNVQYPGTNWLQPRNNQFIY</Hsp_hseq>
+      <Hsp_midline>+++ E KL  +T  EI    N+++ DYE  GII LN +L+ ++  SLL EL   +  AE+DI   W N+ + FYSK+ +K  +   +YVTE YF  S NKAHVFYE+  + R VNRIGHG+HL+  +  ++  VY +P L  +LK IGF KPICHLSVYIPK+   IGS VRPHQESTFA+TEPQSVVVLW+ALEDA ++NACM+G+ GSN WPL++VS+VD + K R FE+++ ++ IPDF  + E +  LEVKAGDALLFHGNF+HCSP+N S  SR ALS QFIET+ V YP TNWL P N  ++Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|962297492|gb|KTD81121.1|</Hit_id>
+  <Hit_def>hypothetical protein Lstg_0348 [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>KTD81121</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.153</Hsp_bit-score>
+      <Hsp_score>801</Hsp_score>
+      <Hsp_evalue>5.58804e-103</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>220</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>MDNLLNEKKLTIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWV</Hsp_qseq>
+      <Hsp_hseq>MKTSSNSNALKEYTLFDLQSNLNHAINSYNQNGIIVLKEYLNQVELPELLNEIEKIQNDAELDIAQNWNNEIVCFYSKNPLKPESEPKEYVTKPYFQSSSHKAHVFYEVIDDVRVVNRIGHGMHLIEKYSMMQHTVYKNSMLKSIFKGIGFRKPICHLSVYIPKHPHGLGSEVRPHQESTFAYTEPTSVVVLWLALEDASIENGCMYGVMGSNRWPLKWV</Hsp_hseq>
+      <Hsp_midline>M    N   L  +T  ++Q NLN  +  Y QNGII L  YLNQ     LLNE+E +Q DAE DIA+ WNN+I+ FYSK+PLKPES  +EYVT+PYFQ+SS+KAHVFYEVID++RVVNRIGHGMHLI +Y MMQ  VY + +L  + KGIGF+KPICHLSVYIPK+P+G+GSEVRPHQESTFA+TEP SVVVLW+ALEDA IEN CMYGV+GSN WPLKWV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|517405244|ref|WP_018577958.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein [Legionella shakespearei] &gt;gi|962278529|gb|KTD62393.1| phytanoyl-CoA dioxygenase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018577958</Hit_accession>
+  <Hit_len>316</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>291.582</Hsp_bit-score>
+      <Hsp_score>745</Hsp_score>
+      <Hsp_evalue>3.19242e-93</Hsp_evalue>
+      <Hsp_query-from>104</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>300</Hsp_align-len>
+      <Hsp_qseq>TIFTSNEIQDNLNRVLKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYEVIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYLY</Hsp_qseq>
+      <Hsp_hseq>TILENDKSYPSNKELLDEFHSHGVITLEDYISETRVDEILEEIQTVTDKAQQDLINDWNNQKICFYSVQKHHKKSPDEDFANKPYFLESKDKSHIFYEKIANTYQINRIGHALHKETNYPGLGSLINDK--MIQFLKALNYLRPVCHLSVYIPKYGFGLGSKVKPHQENTFAYSEPTSALVLWIALEDATIENACLWGIPGSNHWPLKYISKLDSHRKQRTFYQINDVEIPNFETEIERYKPLEVKKGSALIMHGNFVHASPANFSSKSRQSISLQFLETANTHYPNFNWIWPGRTDYLY</Hsp_hseq>
+      <Hsp_midline>TI  +++   +   +L ++  +G+I L  Y+++     +L E++ +   A+QD+   WNN+ I FYS      +S D ++  +PYF  S +K+H+FYE I N   +NRIGH +H    YP +   + D   ++  LK + + +P+CHLSVYIPKY  G+GS+V+PHQE+TFA++EP S +VLW+ALEDA IENAC++G+ GSNHWPLK++SK+D   K R F Q++ + IP+F TE E Y  LEVK G AL+ HGNFVH SP N S  SR+++S QF+ET    YP  NW++P    YLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|962297491|gb|KTD81120.1|</Hit_id>
+  <Hit_def>hypothetical protein Lstg_0347 [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>KTD81120</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.724</Hsp_bit-score>
+      <Hsp_score>330</Hsp_score>
+      <Hsp_evalue>3.72555e-34</Hsp_evalue>
+      <Hsp_query-from>314</Hsp_query-from>
+      <Hsp_query-to>402</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>SKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVYL</Hsp_qseq>
+      <Hsp_hseq>SRVNHQLKTRQFEALNDVHIPDFVSENYCYTPLEVKAGDALLFHGNFVHCSPINNSSYSRKALSFQFIETLGVNYPKSNWLQPPNHVYI</Hsp_hseq>
+      <Hsp_midline>S+V+ + KTR FE ++ +HIPDF++E   YT LEVKAGDALLFHGNFVHCSP+N S  SRKALSFQFIET  V+YP++NWL PPN VY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|302914358|ref|XP_003051119.1|</Hit_id>
+  <Hit_def>predicted protein [Nectria haematococca mpVI 77-13-4] &gt;gi|256732057|gb|EEU45406.1| predicted protein [Nectria haematococca mpVI 77-13-4]</Hit_def>
+  <Hit_accession>XP_003051119</Hit_accession>
+  <Hit_len>307</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>136.732</Hsp_bit-score>
+      <Hsp_score>343</Hsp_score>
+      <Hsp_evalue>1.5014e-33</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LDAFNRDGYLILPGALSSSTVTSLLDETHRLLDSFSLD-----DHPLTRFSTGE-------KRDHVGDDYFLSSGDKVRFFFEEDAFDDDGKLVKPKARAVNKIGHYLHALSP-PFARLLDHDAGSVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHRWAPVEKRLVRKAGNVGTEMVDNEGPRFPAKDGYGGAAPESKAE---YVPGEVKAGDLVLIHGNLLHKSERNTSQKGRIIYTFHIIEGQERDYDEKNWLQPPTEGF</Hsp_hseq>
+      <Hsp_midline>L  + ++G + L G L+ +   SLL+E   +      D     ++ +  F + +        R++V + YF +S +K   F+E          V    R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P+  + V K        VD E      +  +    P+   E   Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  E DY E NWL PP + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|953413964|ref|XP_014549389.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein, partial [Metarhizium brunneum ARSEF 3297] &gt;gi|743649225|gb|KID80251.1| phytanoyl-CoA dioxygenase family protein, partial [Metarhizium brunneum ARSEF 3297]</Hit_def>
+  <Hit_accession>XP_014549389</Hit_accession>
+  <Hit_len>311</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>135.961</Hsp_bit-score>
+      <Hsp_score>341</Hsp_score>
+      <Hsp_evalue>3.2863e-33</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>306</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKD-PLKPESVDR--EYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVL--------LDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LASFQQNGYLIIRDALAPSTVKSLLDETHAL---------------LTSFSLKDHPLTRFSTGETTDHVGDEYFLTSGDKIRFFFEEDAFDAAGTLTKPPAKAINKIGHGLHALSR--PFARLIDDGPALRHAGELSPADVARSLGYRDPRCLQSMVICKQPE-IGAAVPPHQDSTFLYTDPPSATGFWYALEDATLENGCLSFLPGSQRWAPVGKRLVRKAGGVGTEMVDNE-GTRFPDGGEHGREPSAGAEAGEYVPGEVRAGDLVLIHGNLLHKSERNTSLKGRIIYTFHIIEAEGTEYDERNWLQPPEAGF</Hsp_hseq>
+      <Hsp_midline>L  ++QNG + +   L  +   SLL+E   +               +  F  KD PL   S     ++V + YF  S +K   F+E               + +N+IGHG+H ++R     R + D P L         D+ + +G++ P C  S+ I K P  IG+ V PHQ+STF +T+P S    W ALEDA +EN C+  + GS  W P+  + V K        VD E  TR  +       P    E   Y   EV+AGD +L HGN +H S  NTS   R   +F  IE    +Y E NWL PP   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|953494410|emb|CEG44004.1|</Hit_id>
+  <Hit_def>phytanoyl-dioxygenase domain-containing protein 1 isoform x1 [Plasmopara halstedii]</Hit_def>
+  <Hit_accession>CEG44004</Hit_accession>
+  <Hit_len>294</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.806</Hsp_bit-score>
+      <Hsp_score>338</Hsp_score>
+      <Hsp_evalue>5.31482e-33</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>223</Hsp_align-len>
+      <Hsp_qseq>YFQASSNKAHVFYE--VIDNMR---------VVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFY-----TALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLDSGDKIRYFFEERAFDKDQKTLAVPLNVAVNKIGHNLH--NLDPAFKKISYDSNVQ-DIVKSLNYVRPLIVQSMYIFKQPS-IGGEVRPHQDGSYLYTEPQSVVGFWWALEDCTLENGCLHGVPGS-HLTVPVLQRLRRTTKEQQ-EKYGQILLENVPAQVEPFDISKSKPILTKKGDLVLLHSNFVHYSEANKSPYSRHAYSIHIVESHNVKYPEDNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K   F+E    D  +          VN+IGH +H  N  P  ++  YDS V  D++K + + +P+   S+YI K P+ IG EVRPHQ+ ++ +TEPQSVV  W ALED  +EN C++GV GS H  +  + ++ R TK +  E+  Q+ + +   + E +       +  K GD +L H NFVH S  N S  SR A S   +E++ V YPE NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|301102213|ref|XP_002900194.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase domain-containing protein, putative [Phytophthora infestans T30-4] &gt;gi|262102346|gb|EEY60398.1| phytanoyl-CoA dioxygenase domain-containing protein, putative [Phytophthora infestans T30-4]</Hit_def>
+  <Hit_accession>XP_002900194</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.42</Hsp_bit-score>
+      <Hsp_score>337</Hsp_score>
+      <Hsp_evalue>9.03281e-33</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>225</Hsp_align-len>
+      <Hsp_qseq>YFQASSNK------AHVFYEVIDNMRV-----VNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRH-------FEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLESGDKIRYFFEEHAFKEDQKTLAVPLDVAINKIGHNLH--NLDPVFEKVSYSTEVK-DILKSLQYVRPMAVQSMYIFKQP-GIGGEVKPHQDGSYLYTEPQSVVGFWWALEDCTLDNGCLHGIPGS-HLTVPVRQRLRRTTKEQQEGNEGLLLENVPEKVVPFDISESQ---PLLTKKGDLVLLHSSFVHYSEANTSPHSRHAYSIHVVESHNVDYPADNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K       H F E    + V     +N+IGH +H  N  P+ ++  Y + V  D+LK + + +P+   S+YI K P GIG EV+PHQ+ ++ +TEPQSVV  W ALED  ++N C++G+ GS H  +    ++ R TK +         E V +  +P  ++E +    L  K GD +L H +FVH S  NTS +SR A S   +E++ VDYP  NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|475665583|gb|EMT63375.1|</Hit_id>
+  <Hit_def>Phytanoyl-CoA dioxygenase domain-containing protein 1 [Fusarium oxysporum f. sp. cubense race 4] &gt;gi|591470627|gb|EXM01931.1| hypothetical protein FOIG_07362 [Fusarium oxysporum f. sp. cubense tropical race 4 54006]</Hit_def>
+  <Hit_accession>EMT63375</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.035</Hsp_bit-score>
+      <Hsp_score>336</Hsp_score>
+      <Hsp_evalue>1.34138e-32</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE--VIDN--------MRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LDTFNRDGYLILPGALSSATVKSLLDETHNLLENFSLD-----DHPLTRFSTGE-------KRDHVGDDYFLTSGDKVRFFFEEDAFDDDGKLTKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTDPPSAVGFWYALEDATLENGCLSFLPGSHLWAPVEKRLVRKAGNVGTEMVDNDGPKFPAAVGYGQAAPDGQHE---YVPGEVKAGDLVLIHGNLLHKSEKNTSQKGRIIYTFHIIEGQDRDYDDKNWLQPPNEGF</Hsp_hseq>
+      <Hsp_midline>L  + ++G + L G L+ A   SLL+E   + ++   D     ++ +  F + +        R++V + YF  S +K   F+E    D+         R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T+P S V  W ALEDA +EN C+  + GS+ W P+  + V K        VD +         +    PD   E   Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY + NWL PPN+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|953471021|ref|XP_014578985.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein, partial [Metarhizium majus ARSEF 297] &gt;gi|743672968|gb|KID99893.1| phytanoyl-CoA dioxygenase family protein, partial [Metarhizium majus ARSEF 297]</Hit_def>
+  <Hit_accession>XP_014578985</Hit_accession>
+  <Hit_len>312</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.035</Hsp_bit-score>
+      <Hsp_score>336</Hsp_score>
+      <Hsp_evalue>1.73548e-32</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>307</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKD-PLKPESVDR--EYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMH--------LINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LASFQQNGYLIIRDALAPSTVKSLLDET---------------NALLTSFSLKDHPLTRFSTGETTDHVGDEYFLTSGDKIRFFFEEDAFDAAGTLTKPPAKAINKIGHGLHARSRPFARLIDDGPALRHAGEVSPA--DVARSLGYRDPRCLQSMVICKQPE-IGAAVPPHQDSTFLYTDPPSATGFWYALEDATLENGCLSFLPGSQRWAPVGKRLVRKAGGVGTEMVDNEGTRFPDGSEHGRERPAGAERGDEYVPGEVRAGDLVLIHGNLLHKSERNTSLKGRIIYTFHIIEAEGTEYDERNWLQPPEAGF</Hsp_hseq>
+      <Hsp_midline>L  ++QNG + +   L  +   SLL+E                N  +  F  KD PL   S     ++V + YF  S +K   F+E               + +N+IGHG+H        LI+  P ++ A   SP   D+ + +G++ P C  S+ I K P  IG+ V PHQ+STF +T+P S    W ALEDA +EN C+  + GS  W P+  + V K        VD E         H    P      + Y   EV+AGD +L HGN +H S  NTS   R   +F  IE    +Y E NWL PP   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|568027325|gb|ETM01285.1|</Hit_id>
+  <Hit_def>hypothetical protein L917_02110, partial [Phytophthora parasitica]</Hit_def>
+  <Hit_accession>ETM01285</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.265</Hsp_bit-score>
+      <Hsp_score>334</Hsp_score>
+      <Hsp_evalue>2.26707e-32</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>YFQASSNK------AHVFYEVIDNMRV-----VNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQL--HIPDFMTEREFYTA--LEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLESGDKIRYFFEEHAFQEEQKTLAVPLDVAINKIGHNLH--NLDPVFEKVSYASEVQ-DILKSLQYVRPMAVQSMYIFKQP-GIGGEVKPHQDGSYLYTEPQSVVGFWWALEDCTLENGCLHGIPGS-HLTVPVRQRLRRTTKEQQEKNGGLLLENVPEKVDPFDISKSQPLLTKKGDLVLLHSSFVHYSEANTSPSSRHAYSIHVVESHNVDYPADNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K       H F E    + V     +N+IGH +H  N  P+ ++  Y S V  D+LK + + +P+   S+YI K P GIG EV+PHQ+ ++ +TEPQSVV  W ALED  +EN C++G+ GS H  +    ++ R TK +  +    L  ++P+ +   +   +  L  K GD +L H +FVH S  NTS +SR A S   +E++ VDYP  NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|675181327|ref|XP_008899548.1|</Hit_id>
+  <Hit_def>hypothetical protein PPTG_07141 [Phytophthora parasitica INRA-310] &gt;gi|566032047|gb|ETI54958.1| hypothetical protein F443_02314 [Phytophthora parasitica P1569] &gt;gi|567969722|gb|ETK94794.1| hypothetical protein L915_02213 [Phytophthora parasitica] &gt;gi|567998110|gb|ETL48189.1| hypothetical protein L916_02174 [Phytophthora parasitica] &gt;gi|568100194|gb|ETN14893.1| hypothetical protein PPTG_07141 [Phytophthora parasitica INRA-310] &gt;gi|570959792|gb|ETP24771.1| hypothetical protein F441_02285 [Phytophthora parasitica CJ01A1] &gt;gi|570996052|gb|ETP52754.1| hypothetical protein F442_02278 [Phytophthora parasitica P10297] &gt;gi|970645682|gb|KUF86086.1| Phytanoyl-CoA dioxygenase domain-containing protein 1 [Phytophthora nicotianae] &gt;gi|970662335|gb|KUF99731.1| hypothetical protein AM588_10010295 [Phytophthora nicotianae]</Hit_def>
+  <Hit_accession>XP_008899548</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.265</Hsp_bit-score>
+      <Hsp_score>334</Hsp_score>
+      <Hsp_evalue>2.43779e-32</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>YFQASSNK------AHVFYEVIDNMRV-----VNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQL--HIPDFMTEREFYTA--LEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLESGDKIRYFFEEHAFQEDQKTLAVPLDVAINKIGHNLH--NLDPVFEKVSYASEVQ-DILKSLQYVRPMAVQSMYIFKQP-GIGGEVKPHQDGSYLYTEPQSVVGFWWALEDCTLENGCLHGIPGS-HLTVPVRQRLRRTTKEQQEKNGGLLLENVPEKVDPFDISKSQPLLTKKGDLVLLHSSFVHYSEANTSPSSRHAYSIHVVESHNVDYPADNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K       H F E    + V     +N+IGH +H  N  P+ ++  Y S V  D+LK + + +P+   S+YI K P GIG EV+PHQ+ ++ +TEPQSVV  W ALED  +EN C++G+ GS H  +    ++ R TK +  +    L  ++P+ +   +   +  L  K GD +L H +FVH S  NTS +SR A S   +E++ VDYP  NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|568057820|gb|ETM54472.1|</Hit_id>
+  <Hit_def>hypothetical protein L914_02199, partial [Phytophthora parasitica]</Hit_def>
+  <Hit_accession>ETM54472</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.265</Hsp_bit-score>
+      <Hsp_score>334</Hsp_score>
+      <Hsp_evalue>2.59265e-32</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>291</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>YFQASSNK------AHVFYEVIDNMRV-----VNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQL--HIPDFMTEREFYTA--LEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLESGDKIRYFFEEHAFQEDQKTLAVPLDVAINKIGHNLH--NLDPVFEKVSYASEVQ-DILKSLQYVRPMAVQSMYIFKQP-GIGGEVKPHQDGSYLYTEPQSVVGFWWALEDCTLENGCLHGIPGS-HLTVPVRQRLRRTTKEQQEKNGGLLLENVPEKVDPFDISKSQPLLTKKGDLVLLHSSFVHYSEANTSPSSRHAYSIHVVESHNVDYPADNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K       H F E    + V     +N+IGH +H  N  P+ ++  Y S V  D+LK + + +P+   S+YI K P GIG EV+PHQ+ ++ +TEPQSVV  W ALED  +EN C++G+ GS H  +    ++ R TK +  +    L  ++P+ +   +   +  L  K GD +L H +FVH S  NTS +SR A S   +E++ VDYP  NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|570335764|gb|ETO83712.1|</Hit_id>
+  <Hit_def>hypothetical protein F444_02309 [Phytophthora parasitica P1976]</Hit_def>
+  <Hit_accession>ETO83712</Hit_accession>
+  <Hit_len>295</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.109</Hsp_bit-score>
+      <Hsp_score>331</Hsp_score>
+      <Hsp_evalue>4.97302e-32</Hsp_evalue>
+      <Hsp_query-from>188</Hsp_query-from>
+      <Hsp_query-to>394</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>YFQASSNK------AHVFYEVIDNMRV-----VNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQL--HIPDFMTEREFYTA--LEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL</Hsp_qseq>
+      <Hsp_hseq>YFLESGDKIRYFFEEHAFQEDQKTLAVPLDVAINKIGHNLH--NLDPVFEKVSYASEVQ-DILKPLQYVRPMAVQSMYIFKQP-GIGGEVKPHQDGSYLYTEPQSVVGFWWALEDCTLENGCLHGIPGS-HLTVPVRQRLRRTTKEQQEKNGGLLLENVPEKVDPFDISKSQPLLTKKGDLVLLHSSFVHYSEANTSPSSRHAYSIHVVESHNVDYPADNWL</Hsp_hseq>
+      <Hsp_midline>YF  S +K       H F E    + V     +N+IGH +H  N  P+ ++  Y S V  D+LK + + +P+   S+YI K P GIG EV+PHQ+ ++ +TEPQSVV  W ALED  +EN C++G+ GS H  +    ++ R TK +  +    L  ++P+ +   +   +  L  K GD +L H +FVH S  NTS +SR A S   +E++ VDYP  NWL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|587718934|gb|EWZ90271.1|</Hit_id>
+  <Hit_def>hypothetical protein FOWG_07976 [Fusarium oxysporum f. sp. lycopersici MN25]</Hit_def>
+  <Hit_accession>EWZ90271</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.494</Hsp_bit-score>
+      <Hsp_score>332</Hsp_score>
+      <Hsp_evalue>5.29222e-32</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>48</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNE----LEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE--VIDN--------MRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LDTFNRDGYLILPGALSSSTVKSLLDETHNLLETFSLD-DHPLTRFSTGE---------------KRDHVGDDYFLTSGDKVRFFFEEDAFDDDGKLTKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHLWAPVEKRLVRKAGNVGTEMVDNDGPKFPAAVGYGQAAPDGQHE---YVPGEVKAGDLVLIHGNLLHKSEKNTSQKGRSIYTFHIIEGQDRDYDDKNWLQPPNEGF</Hsp_hseq>
+      <Hsp_midline>L  + ++G + L G L+ +   SLL+E    LE    D +  + R+   +                R++V + YF  S +K   F+E    D+         R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P+  + V K        VD +         +    PD   E   Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY + NWL PPN+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|698783153|ref|XP_009824620.1|</Hit_id>
+  <Hit_def>hypothetical protein H257_02606 [Aphanomyces astaci] &gt;gi|574120670|gb|ETV86148.1| hypothetical protein H257_02606 [Aphanomyces astaci]</Hit_def>
+  <Hit_accession>XP_009824620</Hit_accession>
+  <Hit_len>336</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.109</Hsp_bit-score>
+      <Hsp_score>331</Hsp_score>
+      <Hsp_evalue>1.22123e-31</Hsp_evalue>
+      <Hsp_query-from>177</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>242</Hsp_align-len>
+      <Hsp_qseq>ESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMT--EREFYTA----LEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWL-YPPNKVY</Hsp_qseq>
+      <Hsp_hseq>SSTHQTRFSDSYFLESGHQIRYFFEEKAFDDDGNLAVPMNQAINKIGHNLHSLD--PAF-RSVSFSPHVIGILKSLGYIKPVLPQSMYIFKQPS-IGGEVLPHQDGTYLYTEPQSVVGFWWALEDCTTMNGCLYGVAGS-HKTTPVQQRFLRTTPYDGQNLTAGKDAPLLTTSGQADFDTSQGRPILTKKGDLVLLHNAFVHYSHANTSLTSRHAYTIHAVETHETDYPATNWLQFPPGMTF</Hsp_hseq>
+      <Hsp_midline> S  +   ++ YF  S ++   F+E           +   + +N+IGH +H ++  P   R+V  SP ++ +LK +G+ KP+   S+YI K P+ IG EV PHQ+ T+ +TEPQSVV  W ALED    N C+YGV GS H       +  R T             P   T  + +F T+    +  K GD +L H  FVH S  NTS  SR A +   +ET+E DYP TNWL +PP   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|672384660|gb|KFG86755.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein [Metarhizium anisopliae] &gt;gi|743637342|gb|KID68717.1| phytanoyl-CoA dioxygenase family protein, partial [Metarhizium anisopliae ARSEF 549]</Hit_def>
+  <Hit_accession>KFG86755</Hit_accession>
+  <Hit_len>312</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.724</Hsp_bit-score>
+      <Hsp_score>330</Hsp_score>
+      <Hsp_evalue>1.25508e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>307</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKD-PLKPESVDR--EYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMH--------LINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LASFQQNGYLIIRDALAPSTVKSLLDETHAL---------------LTSFSLKDHPLTRFSTGETTDHVGDEYFLTSGDKIRFFFEEDAFDAAGTLTKPPAKAINKIGHGLHAHSRPFARLIDDGPALRHAGELSPA--DVARSLGYRDPRCLQSMVICKQPE-IGAAVPPHQDSTFLYTDPPSATGFWYALEDATLDNGCLSFLPGSQRWAPVGKRLVRKAGGVGTEMVDNEGTRFPDGGEHDRERPAGAEGDDEYVPGEVRAGDLVLIHGNLLHKSERNTSLKGRIIYTFHIIEAEGTEYDERNWLQPPEAGF</Hsp_hseq>
+      <Hsp_midline>L  ++QNG + +   L  +   SLL+E   +               +  F  KD PL   S     ++V + YF  S +K   F+E               + +N+IGHG+H        LI+  P ++ A   SP   D+ + +G++ P C  S+ I K P  IG+ V PHQ+STF +T+P S    W ALEDA ++N C+  + GS  W P+  + V K        VD E         H    P      + Y   EV+AGD +L HGN +H S  NTS   R   +F  IE    +Y E NWL PP   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|587690459|gb|EWZ37064.1|</Hit_id>
+  <Hit_def>hypothetical protein FOZG_10930 [Fusarium oxysporum Fo47] &gt;gi|591421395|gb|EXL56532.1| hypothetical protein FOCG_04114 [Fusarium oxysporum f. sp. radicis-lycopersici 26381]</Hit_def>
+  <Hit_accession>EWZ37064</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>1.48329e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>48</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNE----LEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE--VIDN--------MRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL--KWVSK--------VDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LDTFNRDGYLILPGALSSSTVKSLLDETHNLLETFSLD-DHPLTRFSTGE---------------KRDHVGDDYFLTSGDKVRFFFEEDAFDDDGKLTKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHLWAPVEKRLVRKAGNVGTEMVDNDGPKFPAAVGYGQAAPDGQHE---YVPGEVKAGDLVLIHGNLLHKSEKNTSQKGRIIYTFHIIEGQDRDYDDKNWLQPPNEGF</Hsp_hseq>
+      <Hsp_midline>L  + ++G + L G L+ +   SLL+E    LE    D +  + R+   +                R++V + YF  S +K   F+E    D+         R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P+  + V K        VD +         +    PD   E   Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY + NWL PPN+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|325187308|emb|CCA21847.1|</Hit_id>
+  <Hit_def>phytanoylCoA dioxygenase domaincontaining protein pu [Albugo laibachii Nc14]</Hit_def>
+  <Hit_accession>CCA21847</Hit_accession>
+  <Hit_len>297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>1.65316e-31</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>400</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>288</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>287</Hsp_align-len>
+      <Hsp_qseq>NGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNH-WPLK------WVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKV</Hsp_qseq>
+      <Hsp_hseq>NGYLHLTNELSD-DICRSLRQRAMHHVERYAQNAST--FPTNQSTQDSADRAFLD------SSDKVHCFYEKDALNFAGELLVPPQNAVSKIGHNLH--NLDPLFQRISYSDRVQ-SILKSLDYRRPVAIQSMFIFKQPR-IGGEVPPHQDGSFLATDPQSVIGIWWALQDCTVDNGCLWGIPGSHRSFPIQRRFRRTTPSEIKRTGKLVTFDSQESLSV-------KCHVPILAEAGDAVLLHNAFVHSSEQNKSEHSRHAFTLHVVESKNTIYKAGNWLQPINGI</Hsp_hseq>
+      <Hsp_midline>NGYL+  N +S  +    +++ A   + RY  N     +  +    +S DR ++       SS+K H FYE          ++     V++IGH +H  N  P+ QR  Y   V   +LK + +++P+   S++I K P  IG EV PHQ+ +F  T+PQSV+ +W AL+D  ++N C++G+ GS+  +P++        S++ R  K   F+    L +       + +  +  +AGDA+L H  FVH S  N S++SR A +   +E+    Y   NWL P N +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|587668115|gb|EWY90456.1|</Hit_id>
+  <Hit_def>hypothetical protein FOYG_07972 [Fusarium oxysporum FOSC 3-a]</Hit_def>
+  <Hit_accession>EWY90456</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>1.74901e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>146</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>311</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNE----LEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE--VIDN--------MRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQV------------HQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LDTFNRDGYLILPGALSSSTVKSLLDETHNLLETFSLD-DHPLTRFSTGE---------------KRDHVGDDYFLTSGDKVHFFFEEDAFDDDGKLTKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGS-HLSAPVEKRLVRKAGNVGTEMVDNDGPKFPAAVGYGQAAPDGQHE---YVPGEVKAGDLVLIHGNLLHKSEKNTSQKGRIIYTFHIIEGQDRDYDDKNWLQPPNEGF</Hsp_hseq>
+      <Hsp_midline>L  + ++G + L G L+ +   SLL+E    LE    D +  + R+   +                R++V + YF  S +K H F+E    D+         R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS H       ++ R+      E V            +    PD   E   Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY + NWL PPN+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|685855951|ref|XP_009255008.1|</Hit_id>
+  <Hit_def>hypothetical protein FPSE_03614 [Fusarium pseudograminearum CS3096] &gt;gi|408396988|gb|EKJ76139.1| hypothetical protein FPSE_03614 [Fusarium pseudograminearum CS3096]</Hit_def>
+  <Hit_accession>XP_009255008</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.568</Hsp_bit-score>
+      <Hsp_score>327</Hsp_score>
+      <Hsp_evalue>2.86285e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>300</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PL-KWVSKVDRETKTRHFEQ------VHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LEAFSRDGYLILPGALSSSTVKSLLDETHNLLENFSLD-----DHPLTRFSTGE-------KRDHVGDDYFLTSGDKVRFFFEEDAFDDEGKLIKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHRWAPVEKRLVRKDGNAGTEMVNNDGPRFPAADGYGKDEPKDKHDYVPGEVKAGDLVLIHGNLLHKSEKNTSQKGRIIYTFHIIEGQDRDYDAKNWLQPPEEGF</Hsp_hseq>
+      <Hsp_midline>L+ + ++G + L G L+ +   SLL+E   + ++   D     ++ +  F + +        R++V + YF  S +K   F+E          +    R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P+ K + + D    T               +  D   ++  Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY   NWL PP + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|927760728|gb|KPA43765.1|</Hit_id>
+  <Hit_def>phytanoyl- dioxygenase [Fusarium langsethiae]</Hit_def>
+  <Hit_accession>KPA43765</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.183</Hsp_bit-score>
+      <Hsp_score>326</Hsp_score>
+      <Hsp_evalue>3.2105e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREF----------YTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LEAFNRDGYLILPGALSSSTVKSLLDETHNLLENFSLD-----DHPLTRFSTGE-------KRDHVGDDYFLTSGDKVRFFFEEDAFDDEGNLVKPKARAVNKIGHYLHALSP-PFARLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHRWAPIE--KRLVRKAGNAGTETVDN-DGPRFPARDGYGKDEPENKHDYVPGEVKAGDLVLIHGNLLHKSERNTSQKGRIIYTFHIIEEQDRDYDAKNWLQPPEEGF</Hsp_hseq>
+      <Hsp_midline>L+ + ++G + L G L+ +   SLL+E   + ++   D     ++ +  F + +        R++V + YF  S +K   F+E          V    R VN+IGH +H ++  P  +   +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P++   ++ R+      E V     P F     +          Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY   NWL PP + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1069522142|ref|XP_018147226.1|</Hit_id>
+  <Hit_def>phytanoyl-CoA dioxygenase family protein [Pochonia chlamydosporia 170] &gt;gi|1032863916|gb|OAQ70689.1| phytanoyl-CoA dioxygenase family protein [Pochonia chlamydosporia 170]</Hit_def>
+  <Hit_accession>XP_018147226</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.183</Hsp_bit-score>
+      <Hsp_score>326</Hsp_score>
+      <Hsp_evalue>3.97949e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>300</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>45</Hsp_gaps>
+      <Hsp_align-len>309</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKD---AEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE--VIDNM--------RVVNRIGHGMH--------LINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPL--KWVSKVDRETKTRHFEQVHQLHIPDFMTEREF---YTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LTSFHQNGYLIIRNALHPSTVTSLLNETNSLLTNFPLADHPLTRFSTGE---------------KTDHVGDEYFLTSGDKIRFFFEEDAFDSAGNLTKPKEKAVNKIGHGLHTQSAPFAHLIDG-PALRQAGEVSPA--DVARSLGYKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTDPPSATGFWYALEDATLENGCLSFLPGSHRWAAVEKRLVRKEGGVGTEMVDNTGRRFLGEAGVRGDVDGEYVPGEVKAGDLVLIHGNLLHKSERNTSLKGRIIYTFHIIEAEGTEYDGRNWLQPPEGGF</Hsp_hseq>
+      <Hsp_midline>L  + QNG + +   L+ +   SLLNE   +  +   A+  + R+   +                 ++V + YF  S +K   F+E    D+         + VN+IGHG+H        LI+  P +++A   SP   D+ + +G+K P C  S+ I K P  IG  V PHQ+STF +T+P S    W ALEDA +EN C+  + GS+ W    K + + +    T   +   +  + +     +    Y   EVKAGD +L HGN +H S  NTS   R   +F  IE    +Y   NWL PP   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|515417091|gb|EPJ46468.1|</Hit_id>
+  <Hit_def>hypothetical protein OFPII_20410 [Osedax symbiont Rs1]</Hit_def>
+  <Hit_accession>EPJ46468</Hit_accession>
+  <Hit_len>287</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.028</Hsp_bit-score>
+      <Hsp_score>323</Hsp_score>
+      <Hsp_evalue>6.18647e-31</Hsp_evalue>
+      <Hsp_query-from>143</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>LNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLDLLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHWPLKWVSKVDRETKTRHFEQVHQLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNK</Hsp_qseq>
+      <Hsp_hseq>LAQCQLLQQRAKQIVNQFSAADISIFSTRE--------QQRNADDYFLSSGDKIRCFFEEEAIDEKGNITVDKDLAINKLGHAMH---QYDATFRHFSTDQKIQKICRQIGFKDPRLLQSMYIFKQPR-IGGVVDIHQDSTFLYTEPMSVVGFWFALEDATLENGCLWGMPGGQKTPLEKIMKRKKNGLGIKFQQ-----LADNQYQEQDFVPLPVKAGTLIMFDGRFPHFSKANRSAKTRHAYTLHIIEG-QAQYPEYNWLQREDK</Hsp_hseq>
+      <Hsp_midline>L + +++Q+ A+Q + ++    I  F +++        ++   + YF +S +K   F+E           +D    +N++GH MH   +Y    R       +  + + IGFK P    S+YI K P  IG  V  HQ+STF +TEP SVV  W ALEDA +EN C++G+ G    PL+ + K  +      F+Q     + D   + + +  L VKAG  ++F G F H S  N S  +R A +   IE  +  YPE NWL   +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|758193665|ref|XP_011319209.1|</Hit_id>
+  <Hit_def>hypothetical protein FGSG_10257 [Fusarium graminearum PH-1] &gt;gi|558866864|gb|ESU16947.1| hypothetical protein FGSG_10257 [Fusarium graminearum PH-1] &gt;gi|596549076|gb|EYB28771.1| hypothetical protein FG05_10257 [Fusarium graminearum] &gt;gi|699044648|emb|CEF75635.1| unnamed protein product [Fusarium graminearum]</Hit_def>
+  <Hit_accession>XP_011319209</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.413</Hsp_bit-score>
+      <Hsp_score>324</Hsp_score>
+      <Hsp_evalue>6.86434e-31</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>300</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>305</Hsp_align-len>
+      <Hsp_qseq>LKDYEQNGIIGLNGYLNQANRISLLNELEIMQKDAEQDIARYWNNKIIHFYSKDPLKPESVDREYVTEPYFQASSNKAHVFYE----------VIDNMRVVNRIGHGMHLINRYPMMQRAVYDSPVLLD--LLKGIGFKKPICHLSVYIPKYPNGIGSEVRPHQESTFAFTEPQSVVVLWVALEDALIENACMYGVLGSNHW-PLKWVSKVDRETKTRHFEQVH---------QLHIPDFMTEREFYTALEVKAGDALLFHGNFVHCSPMNTSKNSRKALSFQFIETYEVDYPETNWLYPPNKVY</Hsp_qseq>
+      <Hsp_hseq>LEAFSRDGYLILPGALSSSTVKSLLDETHNLLENFSLD-----DHPLTRFSTGE-------KRDHVGDDYFLTSGDKVRFFFEEDAFDDEGKLIKPKARAVNKIGHYLHALSP-PFAHLLDHDTSKVSPPAVARSLGFKDPRCLQSMVICKQPE-IGGAVPPHQDSTFLYTNPPSAVGFWYALEDATLENGCLSFLPGSHRWAPVE--NRLVRKEGNAGTEMVNNDGPRFPATDGYGKDEPEDKHDYIPGEVKAGDLVLIHGNLLHKSEKNTSQKGRIIYTFHIIEGQDRDYDAKNWLQPPEEGF</Hsp_hseq>
+      <Hsp_midline>L+ + ++G + L G L+ +   SLL+E   + ++   D     ++ +  F + +        R++V + YF  S +K   F+E          +    R VN+IGH +H ++  P      +D+  +    + + +GFK P C  S+ I K P  IG  V PHQ+STF +T P S V  W ALEDA +EN C+  + GS+ W P++  +++ R+      E V+           +  D   ++  Y   EVKAGD +L HGN +H S  NTS+  R   +F  IE  + DY   NWL PP + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

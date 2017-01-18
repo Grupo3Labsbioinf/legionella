@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_18375</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>369</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_18375</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>369</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248725|ref|WP_010946265.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|52840762|ref|YP_094561.1| aldo/keto reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627873|gb|AAU26614.1| aldo/keto reductases [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507276|gb|AEW50800.1| aldo/keto reductase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492944|gb|AGH54789.1| 2,5-diketo-D-gluconic acid reductase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081184|gb|AGN13432.1| aldo/keto reductase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771540|emb|CZI76175.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998795766|emb|CZI44119.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998800556|emb|CZL11750.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998804120|emb|CZK63927.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998807210|emb|CZI31445.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998810734|emb|CZI17641.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998813107|emb|CZH13810.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998816453|emb|CZM21718.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998819730|emb|CZM00591.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998825566|emb|CZK39638.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998832817|emb|CZI18687.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998834457|emb|CZL50333.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998838689|emb|CZJ30240.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998840520|emb|CZL84572.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998843100|emb|CZL08473.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998846331|emb|CZL09357.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998849178|emb|CZI97511.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998852444|emb|CZL88751.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998855941|emb|CZL53083.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998858606|emb|CZM29236.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998862304|emb|CZK40818.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998864754|emb|CZJ87724.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998867203|emb|CZJ82625.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998870211|emb|CZM42092.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998873630|emb|CZK72443.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998876224|emb|CZM47658.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998879343|emb|CZJ75254.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998885795|emb|CZM35962.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998888603|emb|CZK50123.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998895796|emb|CZK08547.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998905272|emb|CZK93095.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998908427|emb|CZL68349.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998916082|emb|CZK72006.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998917497|emb|CZL64252.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998920477|emb|CZL70846.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998926836|emb|CZL98875.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998930914|emb|CZK82774.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998933683|emb|CZL67992.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998938749|emb|CZL20971.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998946246|emb|CZK71251.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998947996|emb|CZL29474.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998956964|emb|CZM67221.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998960457|emb|CZK68433.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998963167|emb|CZK79917.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998966717|emb|CZM41825.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998969371|emb|CZL06088.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998972380|emb|CZK82668.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998978494|emb|CZM01313.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998986104|emb|CZK10061.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998987508|emb|CZL89576.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998998272|emb|CZJ96931.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999006430|emb|CZL23276.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999011895|emb|CZL84782.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999014936|emb|CZM78367.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999021217|emb|CZL93851.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999024052|emb|CZL20940.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999036227|emb|CZL85669.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999045243|emb|CZM31372.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999060281|emb|CZL80136.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999066479|emb|CZJ50086.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999075362|emb|CZH16445.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999078612|emb|CZK44252.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999083079|emb|CZK86561.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999087909|emb|CZL15802.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999090971|emb|CZL91099.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999093871|emb|CZH49516.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999096977|emb|CZH52659.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999101384|emb|CZL75599.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999110930|emb|CZL04958.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999114045|emb|CZL59161.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999115937|emb|CZK73587.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999124754|emb|CZL32466.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999132517|emb|CZL70054.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999133881|emb|CZL47419.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999136983|emb|CZK89001.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999140880|emb|CZL85906.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999144839|emb|CZK81085.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999146367|emb|CZM11205.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999155617|emb|CZI38004.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999174218|emb|CZL61651.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999189809|emb|CZI75745.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999192929|emb|CZJ16766.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999199242|emb|CZH01273.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999202138|emb|CZJ21539.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999208441|emb|CZL35590.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999217951|emb|CZM05515.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999220920|emb|CZJ08681.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999333360|emb|CZL30895.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002078820|emb|CZQ92090.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1003018380|emb|CZR30469.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|1003021452|emb|CZR26820.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|1003024508|emb|CZR30266.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|1073863686|gb|AOU03637.1| xylose reductase [Legionella pneumophila] &gt;gi|1073866644|gb|AOU06594.1| xylose reductase [Legionella pneumophila] &gt;gi|1073869649|gb|AOU09598.1| xylose reductase [Legionella pneumophila] &gt;gi|1073872593|gb|AOU12541.1| xylose reductase [Legionella pneumophila] &gt;gi|1073875575|gb|AOU15522.1| xylose reductase [Legionella pneumophila] &gt;gi|1073878537|gb|AOU18483.1| xylose reductase [Legionella pneumophila] &gt;gi|1073881531|gb|AOU21476.1| xylose reductase [Legionella pneumophila] &gt;gi|1073884493|gb|AOU24437.1| xylose reductase [Legionella pneumophila] &gt;gi|1073887492|gb|AOU27435.1| xylose reductase [Legionella pneumophila] &gt;gi|1073890475|gb|AOU30417.1| xylose reductase [Legionella pneumophila] &gt;gi|1073893440|gb|AOU33381.1| xylose reductase [Legionella pneumophila] &gt;gi|1073896405|gb|AOU36345.1| xylose reductase [Legionella pneumophila] &gt;gi|1073899369|gb|AOU39308.1| xylose reductase [Legionella pneumophila] &gt;gi|1073902321|gb|AOU42259.1| xylose reductase [Legionella pneumophila] &gt;gi|1073905232|gb|AOU45169.1| xylose reductase [Legionella pneumophila] &gt;gi|1073908249|gb|AOU48184.1| xylose reductase [Legionella pneumophila] &gt;gi|1073911305|gb|AOU51237.1| xylose reductase [Legionella pneumophila] &gt;gi|1073914223|gb|AOU54154.1| xylose reductase [Legionella pneumophila] &gt;gi|1073917181|gb|AOU57111.1| xylose reductase [Legionella pneumophila] &gt;gi|1073920148|gb|AOU60077.1| xylose reductase [Legionella pneumophila] &gt;gi|1073923121|gb|AOU63048.1| xylose reductase [Legionella pneumophila] &gt;gi|1073926135|gb|AOU66061.1| xylose reductase [Legionella pneumophila] &gt;gi|1073929115|gb|AOU69024.1| xylose reductase [Legionella pneumophila] &gt;gi|1073932499|gb|AOU72058.1| xylose reductase [Legionella pneumophila] &gt;gi|1073935446|gb|AOU82445.1| xylose reductase [Legionella pneumophila] &gt;gi|1073945721|gb|AOU85445.1| xylose reductase [Legionella pneumophila] &gt;gi|1073948684|gb|AOU88407.1| xylose reductase [Legionella pneumophila] &gt;gi|1104001837|emb|SFZ36405.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1129967299|gb|APT97658.1| xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946265</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>581.252</Hsp_bit-score>
+      <Hsp_score>1497</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>276</Hsp_identity>
+      <Hsp_positive>276</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|653014637|ref|WP_027266667.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266667</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>580.482</Hsp_bit-score>
+      <Hsp_score>1495</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>275</Hsp_identity>
+      <Hsp_positive>276</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFMP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|504656293|ref|WP_014843395.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|395129607|emb|CCD07840.1| aldo/keto reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|998774451|emb|CZH08231.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998777331|emb|CZH12534.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998783298|emb|CZH40981.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998786241|emb|CZH06709.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998791249|emb|CZG40402.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998793134|emb|CZI51479.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998892628|emb|CZJ24257.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999287208|emb|CZI45583.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999293664|emb|CZI47246.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999312647|emb|CZI53141.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002074288|emb|CZR05456.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002081603|emb|CZR00386.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002092783|emb|CZQ95611.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843395</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>274</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|754875861|ref|WP_042236302.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236302</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>575.474</Hsp_bit-score>
+      <Hsp_score>1482</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>273</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652966187|ref|WP_027219188.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999003141|emb|CZI81549.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999159320|emb|CZJ69192.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999178327|emb|CZJ55922.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219188</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>574.704</Hsp_bit-score>
+      <Hsp_score>1480</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1004027675|ref|WP_061489594.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489594</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>574.318</Hsp_bit-score>
+      <Hsp_score>1479</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGVIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHG+IYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1004017554|ref|WP_061485294.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485294</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.548</Hsp_bit-score>
+      <Hsp_score>1477</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MGLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>M LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|749552146|ref|WP_040185215.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999149970|emb|CZI48961.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999168618|emb|CZI45814.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185215</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.548</Hsp_bit-score>
+      <Hsp_score>1477</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVEIALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVE+ALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|504653955|ref|WP_014841057.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|395126500|emb|CCD04683.1| aldo/keto reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|998923741|emb|CZK24901.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998943811|emb|CZJ50364.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998954348|emb|CZK61219.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998975519|emb|CZJ90650.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998992815|emb|CZJ47171.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999009047|emb|CZK46088.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999018209|emb|CZJ87047.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999027324|emb|CZK24504.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999030575|emb|CZH24260.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999033274|emb|CZK20590.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999039480|emb|CZJ95544.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999042454|emb|CZK05053.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999048513|emb|CZK01680.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999051584|emb|CZJ92675.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999054537|emb|CZK29065.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999063696|emb|CZK02614.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999070561|emb|CZJ64670.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999072780|emb|CZK31392.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999085004|emb|CZK31036.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999184339|emb|CZP96080.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999198472|emb|CZP13827.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999206205|emb|CZP63391.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999228308|emb|CZP08746.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999235213|emb|CZP58590.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999240277|emb|CZH90515.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999244378|emb|CZH76775.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999255990|emb|CZP79839.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999259104|emb|CZP46682.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999265225|emb|CZP07370.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999269437|emb|CZO33505.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999272239|emb|CZP58375.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999277621|emb|CZP37263.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999281348|emb|CZP15864.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999283684|emb|CZP61987.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999291001|emb|CZP32492.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999296472|emb|CZP57978.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999299559|emb|CZP47235.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999307319|emb|CZH70921.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999309383|emb|CZP27263.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999315809|emb|CZI09808.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999318691|emb|CZP65399.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999322033|emb|CZH98711.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999324428|emb|CZH32843.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999337770|emb|CZP47503.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999344439|emb|CZP84092.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999347222|emb|CZP63664.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999353460|emb|CZP68667.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999357218|emb|CZP67756.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999363798|emb|CZP56198.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999367130|emb|CZP77128.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999369927|emb|CZP77426.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999392319|emb|CZP98213.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999398567|emb|CZQ01111.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999403108|emb|CZP40892.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999450636|emb|CZP36035.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999464839|emb|CZM52237.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999467863|emb|CZO29479.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999474712|emb|CZM61934.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999477169|emb|CZN74911.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999480671|emb|CZN00469.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999484238|emb|CZN89279.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999487103|emb|CZM11744.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999490276|emb|CZN79230.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999493467|emb|CZM11163.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999500047|emb|CZN73654.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999503173|emb|CZO08048.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999506359|emb|CZN15947.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999509562|emb|CZG51126.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999512900|emb|CZN29988.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999516012|emb|CZM00512.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999518991|emb|CZM84163.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999521879|emb|CZP16597.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999532347|emb|CZO46102.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999535503|emb|CZN40129.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999538584|emb|CZM75751.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999542028|emb|CZO20710.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999544990|emb|CZO60945.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999548166|emb|CZN89325.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999551478|emb|CZO11177.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999554513|emb|CZN31428.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999557912|emb|CZO55793.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999561079|emb|CZM41815.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999564085|emb|CZO66874.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999567449|emb|CZM52738.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999570649|emb|CZN50671.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999573837|emb|CZN92849.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999580329|emb|CZO16593.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999583617|emb|CZO38027.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999586980|emb|CZM64755.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999589985|emb|CZM40411.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999593144|emb|CZN45243.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999596217|emb|CZO12010.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999599537|emb|CZO37610.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999602637|emb|CZL96940.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999605425|emb|CZN72847.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999608962|emb|CZN63347.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999615574|emb|CZM47363.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999618657|emb|CZN90688.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999621773|emb|CZO82067.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999625101|emb|CZN71436.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999628400|emb|CZM62961.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999631550|emb|CZM59168.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999634610|emb|CZN59409.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999637938|emb|CZN51505.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999641134|emb|CZO79461.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999644126|emb|CZO53015.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999647617|emb|CZN94726.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999650697|emb|CZO05178.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999653918|emb|CZO00907.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999657115|emb|CZM29492.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999660189|emb|CZM65010.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999663380|emb|CZN17556.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999666745|emb|CZM38246.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999669937|emb|CZL84571.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999673099|emb|CZM37649.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999676331|emb|CZN78048.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999679324|emb|CZM79047.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999682519|emb|CZM82175.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999686206|emb|CZN99915.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999689126|emb|CZN30715.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999692319|emb|CZN99504.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999695536|emb|CZN29466.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999698797|emb|CZM12140.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999701741|emb|CZM78340.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999704976|emb|CZL94453.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999708166|emb|CZN57058.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999711585|emb|CZN01262.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999714681|emb|CZN21748.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999717989|emb|CZO45770.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999720945|emb|CZM93402.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999724464|emb|CZN34091.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999727831|emb|CZL99335.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999730986|emb|CZO43363.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999734174|emb|CZM25761.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999737486|emb|CZO70534.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999740967|emb|CZM31587.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999744095|emb|CZN26865.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999747237|emb|CZM24952.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999750531|emb|CZL96099.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999753727|emb|CZM81048.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999756778|emb|CZN10343.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999760279|emb|CZM24327.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999763376|emb|CZN30328.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999766902|emb|CZM48576.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999769751|emb|CZN51018.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999776215|emb|CZM00159.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999782897|emb|CZH62586.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999786414|emb|CZM24552.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999789579|emb|CZO67318.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999792924|emb|CZO60803.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999799809|emb|CZO56023.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1003029194|emb|CZR19096.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|1003036377|emb|CZR17008.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|1005832285|gb|AMQ27011.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431653|gb|AMV13280.1| putative oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1041014555|gb|ANN91616.1| xylose reductase [Legionella pneumophila] &gt;gi|1103995586|emb|SFZ36707.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841057</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.163</Hsp_bit-score>
+      <Hsp_score>1476</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHRIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1003782896|ref|WP_061467278.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467278</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.778</Hsp_bit-score>
+      <Hsp_score>1475</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLKTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHL TDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|500490135|ref|WP_011945670.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|148282640|gb|ABQ56728.1| aldo/keto reductase-like diketogulonate reductase [Legionella pneumophila str. Corby] &gt;gi|295647969|gb|ADG23816.1| Aldo/keto reductases like protein [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989436|dbj|GAN22617.1| putative oxidoreductase YtbE [Legionella pneumophila] &gt;gi|761998983|dbj|GAN28968.1| putative oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998912159|emb|CZH23679.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998994577|emb|CZI22680.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999302881|emb|CZI38917.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945670</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.778</Hsp_bit-score>
+      <Hsp_score>1475</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENITFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI FIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1006037737|ref|WP_061721441.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999340093|emb|CZH26613.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061721441</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>571.622</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHRIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFKLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQF+LTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|652967221|ref|WP_027220193.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999247890|emb|CZH56644.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999454055|emb|CZI21361.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999460520|emb|CZH00598.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999773136|emb|CZH89950.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999796123|emb|CZI23749.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220193</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>571.622</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALEQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHLKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYAL+QYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRH KLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|499533473|ref|WP_011214757.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|53753339|emb|CAH14786.1| hypothetical protein lpl0556 [Legionella pneumophila str. Lens] &gt;gi|998783011|emb|CZI85439.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998828317|emb|CZH37820.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998883005|emb|CZI84738.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998897702|emb|CZK08441.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998938029|emb|CZL86868.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|998951068|emb|CZJ95480.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999000088|emb|CZG94520.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999058448|emb|CZM29761.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999103706|emb|CZI19695.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999128500|emb|CZH15926.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999152624|emb|CZM82707.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999161895|emb|CZM39473.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999187819|emb|CZI95523.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999236709|emb|CZG93650.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999376481|emb|CZJ18516.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002085552|emb|CZQ97434.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1002088298|emb|CZQ79057.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1080002211|gb|AOW52783.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006037|gb|AOW56317.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008104|gb|AOW58092.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012234|gb|AOW61725.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014708|gb|AOW63581.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018477|gb|AOW67122.1| xylose reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1104005402|emb|SFZ36390.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011214757</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.852</Hsp_bit-score>
+      <Hsp_score>1470</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDEKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHEIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKD KVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|749504891|ref|WP_040145854.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|998801838|emb|CZI08485.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999165681|emb|CZG83150.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145854</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.852</Hsp_bit-score>
+      <Hsp_score>1470</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLKTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFTP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHL TDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1003951911|ref|WP_061474425.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061474425</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.081</Hsp_bit-score>
+      <Hsp_score>1468</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSDILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQTHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKS ILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQ HGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1003916515|ref|WP_061469124.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469124</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>569.311</Hsp_bit-score>
+      <Hsp_score>1466</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>274</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHCKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDH KPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|499526505|ref|WP_011213145.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella pneumophila] &gt;gi|53750334|emb|CAH11728.1| hypothetical protein lpp0580 [Legionella pneumophila str. Paris] &gt;gi|536613630|gb|ERB42002.1| D-xylose reductase III [Legionella pneumophila str. 121004] &gt;gi|541995595|gb|ERH41694.1| D-xylose reductase III [Legionella pneumophila str. Leg01/11] &gt;gi|541997382|gb|ERH43428.1| D-xylose reductase III [Legionella pneumophila str. Leg01/53] &gt;gi|542121176|gb|ERI47509.1| D-xylose reductase III [Legionella pneumophila str. Leg01/20] &gt;gi|762002538|dbj|GAN25656.1| putative oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999171863|emb|CZI29710.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999181652|emb|CZG51673.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999212736|emb|CZG78154.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999216906|emb|CZI65833.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999225318|emb|CZG83203.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999359982|emb|CZI61794.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999373446|emb|CZG56946.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999379763|emb|CZH69785.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999382658|emb|CZI57954.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999386273|emb|CZG64151.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999389108|emb|CZI56724.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999396894|emb|CZG09170.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999405910|emb|CZG71721.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999408903|emb|CZH91419.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999412751|emb|CZG33088.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999415422|emb|CZG88104.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999418762|emb|CZG64402.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999421957|emb|CZH72897.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999425271|emb|CZG74909.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999428375|emb|CZG72798.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999431635|emb|CZG73105.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999434993|emb|CZI00194.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999438177|emb|CZG62243.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999441173|emb|CZK28811.1| Aldo/keto reductases like protein [Legionella pneumophila] &gt;gi|999444634|emb|CZH77150.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999447837|emb|CZG53474.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999457578|emb|CZK22082.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999496263|emb|CZI46824.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999525350|emb|CZJ07388.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999528063|emb|CZI74354.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999576036|emb|CZI42348.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999611292|emb|CZI63049.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1041017652|gb|ANN94712.1| xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213145</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.926</Hsp_bit-score>
+      <Hsp_score>1465</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSDILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHRIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKS ILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1004334297|ref|WP_061513222.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513222</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.54</Hsp_bit-score>
+      <Hsp_score>1464</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQAQQSFASSLEHLNTDYLNSYILHGPYYQYNFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARVLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFSLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQ QQSFASSLEHLNTDYLNSYILHGPYYQY+FSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFAR+LWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQF LTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1005610010|ref|WP_061692504.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|998822475|emb|CZH34820.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692504</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.54</Hsp_bit-score>
+      <Hsp_score>1464</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>272</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNNMESLHKDEKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHEIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWN MESLHKD KVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|652973681|ref|WP_027226402.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226402</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.155</Hsp_bit-score>
+      <Hsp_score>1463</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>272</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MGLSFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHRIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>M L FPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1006048466|ref|WP_061722476.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999331810|emb|CZG57778.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999349695|emb|CZH40891.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061722476</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>566.229</Hsp_bit-score>
+      <Hsp_score>1458</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>271</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MGLSFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHRIIYQGFSLLTANQYELRHPKLENFSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>M L FPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQAH IIYQGFSLLTANQYELRHPKLEN SKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1005403322|ref|WP_061636465.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|999248785|emb|CZH08424.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999252001|emb|CZH37166.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999261309|emb|CZH41945.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999274807|emb|CZG79428.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999328636|emb|CZG64766.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999469326|emb|CZH07304.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999777480|emb|CZH49803.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1103998717|emb|SFZ36430.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061636465</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>565.459</Hsp_bit-score>
+      <Hsp_score>1456</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>369</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>271</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_qseq>
+      <Hsp_hseq>MGLSFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLIELISFASVKPKFVQNRCFARLLWDKQIRNYCQAQEIIYQGFSLLTANQYELRHPKLENLSKKYEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_hseq>
+      <Hsp_midline>M L FPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQL+ELISFASVKPKFVQNRCFARLLWDKQIRNYCQA  IIYQGFSLLTANQYELRHPKLENLSKK+EKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFIP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|696252685|ref|WP_032830446.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|985765945|gb|KXB27056.1| xylose reductase [Legionella pneumophila] &gt;gi|985767745|gb|KXB28831.1| xylose reductase [Legionella pneumophila] &gt;gi|999119259|emb|CZG76087.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|999122533|emb|CZH13076.1| Uncharacterized oxidoreductase YtbE [Legionella pneumophila] &gt;gi|1024341676|gb|KZX35983.1| xylose reductase [Legionella pneumophila] &gt;gi|1108603991|gb|APF02359.1| xylose reductase [Legionella pneumophila subsp. fraseri] &gt;gi|1108607002|gb|APF05369.1| xylose reductase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_032830446</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>541.191</Hsp_bit-score>
+      <Hsp_score>1393</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MDFGFPNFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWSKMESLHKDGKVKHLGISNVSYEQLTELLSFASVKPRFVQNRCFARLLWDKQIRKYCQDHGIIYQGFSLLTANQYELRHPKLANISKKYEKSIEQIIFRFSQQAGILPLTGTTNADHMKEDLAINQFKLTDDEVHFIENIAF</Hsp_hseq>
+      <Hsp_midline>MD GFP FIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVW+KMESLHKDGKVKHLGISNVSYEQL EL+SFASVKP+FVQNRCFARLLWDKQIR YCQ HGIIYQGFSLLTANQYELRHPKL N+SKK+EKSIEQIIFRFSQQ G+LPLTGTTN DHMKEDLAI+QF+LTDDE++FIENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|696255327|ref|WP_032833088.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_032833088</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.495</Hsp_bit-score>
+      <Hsp_score>1386</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>253</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MDFGFPNFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWSKMESLHKDGKVKHLGISNVSYEQLTELLSFASVKPRFVQNRCFARLLWDKQIRKYCQDHGIIYQGFSLLTANQYELRHPKLANISKKYEKSIEQIIFRFSQQAGILPLTGTTNADHMKEDLAINPFKLTDDEVHFIENIAF</Hsp_hseq>
+      <Hsp_midline>MD GFP FIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVW+KMESLHKDGKVKHLGISNVSYEQL EL+SFASVKP+FVQNRCFARLLWDKQIR YCQ HGIIYQGFSLLTANQYELRHPKL N+SKK+EKSIEQIIFRFSQQ G+LPLTGTTN DHMKEDLAI+ F+LTDDE++FIENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|696254138|ref|WP_032831899.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_032831899</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.11</Hsp_bit-score>
+      <Hsp_score>1385</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MDFGFPNFIYGTAWKEKRTSELIELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWSKMESLHKDGKVKHLGISNVSYEQLTELLSFASVKPRFVQNRCFARLLWDKQIRKYCQDHGIIYQGFSLLTANQYELRHPKLANISKKYEKSIEQIIFRFSQQAGILPLTGTTNADHMKEDLAINPFKLTDDEVHFIENIAF</Hsp_hseq>
+      <Hsp_midline>MD GFP FIYGTAWKEKRTSEL+ELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVW+KMESLHKDGKVKHLGISNVSYEQL EL+SFASVKP+FVQNRCFARLLWDKQIR YCQ HGIIYQGFSLLTANQYELRHPKL N+SKK+EKSIEQIIFRFSQQ G+LPLTGTTN DHMKEDLAI+ F+LTDDE++FIENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1011913803|ref|WP_062727017.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727017</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.798</Hsp_bit-score>
+      <Hsp_score>1379</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MDFGFPNFIYGTAWKEKRTSELVELALTTGFRGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYAHGQDHRKPYDDTASLTIQVQQSFASSLEHLSTDYLNSYILHGPYYQYHFSDEDKEVWSKMESLHKDGKVKHLGISNVSYEQLAELLSFASVKPRFVQNRCFARLLWDKQIRKHCQDHGIIYQGFSLLTANQYELRHPKLANISKKYEKSIEQIIFRFSQQAGILPLTGTTNADHMKKDLAINQFKLTDDEVHFIENIAF</Hsp_hseq>
+      <Hsp_midline>MD GFP FIYGTAWKEKRTSELVELALTTGF+GIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTY HGQDHRKPYDDTASLTIQVQQSFASSLEHL+TDYLNSYILHGPYYQYHFSDEDKEVW+KMESLHKDGKVKHLGISNVSYEQL EL+SFASVKP+FVQNRCFARLLWDKQIR +CQ HGIIYQGFSLLTANQYELRHPKL N+SKK+EKSIEQIIFRFSQQ G+LPLTGTTN DHMK+DLAI+QF+LTDDE++FIENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|696251277|ref|WP_032829038.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella pneumophila] &gt;gi|1005362792|gb|AMP88661.1| xylose reductase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365793|gb|AMP91570.1| xylose reductase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368780|gb|AMP94556.1| xylose reductase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_032829038</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.561</Hsp_bit-score>
+      <Hsp_score>1368</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>250</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MDMDVPAFIYGTAWKEKRTSELVELALTAGFRGIDTANQRKHYYEEGVGYALQQSYKKSGISRDDIFLQSKFTYAHGQDHRKPYDDTASLTTQVQQSFANSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWSKMESLHKDGKVKHLGISNVSYEQLTELLSFASVKPKFVQNRCFARLLWDKQIRNHCQANGIIYQGFSLLTANQYELRHPELENLSKKYEKSIEQIIFRFSQQVGMLPLTGTSNADHMKADLAINQFRLNDDEINFIENIAF</Hsp_hseq>
+      <Hsp_midline>MD+  P FIYGTAWKEKRTSELVELALT GF+GIDTANQRKHYYEEGVGYALQQ YKKSGI RDDIFLQSKFTY HGQDHRKPYDDTASLT QVQQSFA+SLEHLNTDYLNSYILHGPYYQYHFSDEDKEVW+KMESLHKDGKVKHLGISNVSYEQL EL+SFASVKPKFVQNRCFARLLWDKQIRN+CQA+GIIYQGFSLLTANQYELRHP+LENLSKK+EKSIEQIIFRFSQQ+GMLPLTGT+N DHMK DLAI+QFRL DDEINFIENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|698841717|emb|CEG55662.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>CEG55662</Hit_accession>
+  <Hit_len>283</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>340.117</Hsp_bit-score>
+      <Hsp_score>871</Hsp_score>
+      <Hsp_evalue>3.10493e-113</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>MDYPEMLYGTAWKEEQTQELVIQALNSGFIGIDTANQRRHYFEEGVGLGVQQFLQSNSIKREHLFLQSKFTYATGQDDRKPYNDQDPLPTQVKQSFISSLQHLHTDYLDSYILHGPYYTQGLTTADWEVWNTMEQIYHEGKVKHLGVSNININQLAELYKEASVKPFFVQNRCYAITQWDQKVRNFCTEHNLVYQGFSLLTANQQYISRPEIQAIATKHGKTIPQIIFRFAKEIGILSLTGTTNLQHMKEDLSINNFQLTNEDRSQIELI</Hsp_hseq>
+      <Hsp_midline>+ +P  +YGTAWKE++T ELV  AL +GF GIDTANQR+HY+EEGVG  +QQ+ + + I R+ +FLQSKFTY  GQD RKPY+D   L  QV+QSF SSL+HL+TDYL+SYILHGPYY    +  D EVWN ME ++ +GKVKHLG+SN++  QL EL   ASVKP FVQNRC+A   WD+++RN+C  H ++YQGFSLLTANQ  +  P+++ ++ KH K+I QIIFRF+++IG+L LTGTTNL HMKEDL+I+ F+LT+++ + IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|769981334|ref|WP_045097319.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella fallonii]</Hit_def>
+  <Hit_accession>WP_045097319</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.347</Hsp_bit-score>
+      <Hsp_score>869</Hsp_score>
+      <Hsp_evalue>3.83862e-113</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>MDYPEMLYGTAWKEEQTQELVIQALNSGFIGIDTANQRRHYFEEGVGLGVQQFLQSNSIKREHLFLQSKFTYATGQDDRKPYNDQDPLPTQVKQSFISSLQHLHTDYLDSYILHGPYYTQGLTTADWEVWNTMEQIYHEGKVKHLGVSNININQLAELYKEASVKPFFVQNRCYAITQWDQKVRNFCTEHNLVYQGFSLLTANQQYISRPEIQAIATKHGKTIPQIIFRFAKEIGILSLTGTTNLQHMKEDLSINNFQLTNEDRSQIELI</Hsp_hseq>
+      <Hsp_midline>+ +P  +YGTAWKE++T ELV  AL +GF GIDTANQR+HY+EEGVG  +QQ+ + + I R+ +FLQSKFTY  GQD RKPY+D   L  QV+QSF SSL+HL+TDYL+SYILHGPYY    +  D EVWN ME ++ +GKVKHLG+SN++  QL EL   ASVKP FVQNRC+A   WD+++RN+C  H ++YQGFSLLTANQ  +  P+++ ++ KH K+I QIIFRF+++IG+L LTGTTNL HMKEDL+I+ F+LT+++ + IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966410005|ref|WP_058453397.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella maceachernii] &gt;gi|962240243|gb|KTD24627.1| D-xylose reductase III [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058453397</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>337.035</Hsp_bit-score>
+      <Hsp_score>863</Hsp_score>
+      <Hsp_evalue>4.91036e-112</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>LAIPALLYGTAWKEERTAELTLTALNAGFEGIDTANQRRHYFEEGVGLGIQQFLKSSGKTRKDLFLQTKFTFASGQDHRKPYDESASFSEQVKQSFASSLNHLQTDYIDSYILHGPLYRQGITEGDLEAWQAMETLCRSGQVKFLGISNVNLSQLEVLCQNASISPSFVQNRCFAITKWDKKIREFCAEKGIIYQAFSLLTANQEYLFNPLMRNLMTKYNCTIPQIIFRFALQIGMLPLTGTTQLQHMQDDLALLDFELNKKELEQIEAI</Hsp_hseq>
+      <Hsp_midline>L  P  +YGTAWKE+RT+EL   AL  GF+GIDTANQR+HY+EEGVG  +QQ+ K SG  R D+FLQ+KFT+  GQDHRKPYD++AS + QV+QSFASSL HL TDY++SYILHGP Y+   ++ D E W  ME+L + G+VK LGISNV+  QL  L   AS+ P FVQNRCFA   WDK+IR +C   GIIYQ FSLLTANQ  L +P + NL  K+  +I QIIFRF+ QIGMLPLTGTT L HM++DLA+  F L   E+  IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966402751|ref|WP_058446346.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella feeleii] &gt;gi|962211287|gb|KTC96179.1| D-xylose reductase III [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446346</Hit_accession>
+  <Hit_len>285</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.798</Hsp_bit-score>
+      <Hsp_score>852</Hsp_score>
+      <Hsp_evalue>2.46538e-110</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>368</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>285</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>FPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAFI</Hsp_qseq>
+      <Hsp_hseq>FPAFLYGTAWKEEATENLVITALKTGFTGIDTANQRKHYYEEGVGKAIQVFLAGSEKTRQDLFLQTKFTFADGQDHRKPYNEMDSYELQVQQSFRSSLEHLQTDYIDSYILHGPLLSDSLSTGDWEVWHAMEALWRAKKIKFLGISNVTLKQLEEFYTYSTVKPTFVQNRCFAVKQWDKGIRAFCREHGLIYQGFSLLTANYQYFSQPWLRSIAQKYQKNMAQLIFRFALQMKMLPLTGTTDQQHMREDLAIGDFTLSVDELEQIENVALL</Hsp_hseq>
+      <Hsp_midline>FP F+YGTAWKE+ T  LV  AL TGF GIDTANQRKHYYEEGVG A+Q +   S   R D+FLQ+KFT+  GQDHRKPY++  S  +QVQQSF SSLEHL TDY++SYILHGP      S  D EVW+ ME+L +  K+K LGISNV+ +QL E  ++++VKP FVQNRCFA   WDK IR +C+ HG+IYQGFSLLTAN      P L ++++K++K++ Q+IFRF+ Q+ MLPLTGTT+  HM+EDLAI  F L+ DE+  IEN+A +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966493600|ref|WP_058510388.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella steelei] &gt;gi|962284511|gb|KTD68277.1| oxidoreductase,aldo/keto reductase family [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058510388</Hit_accession>
+  <Hit_len>286</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.872</Hsp_bit-score>
+      <Hsp_score>847</Hsp_score>
+      <Hsp_evalue>1.38235e-109</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>PSFIYGTAWKEEATQELTFQALNSGFVGIDTANQRKHYFEEGVGQGIQQFLKATGKSRDDLFLQTKFTSAFGQDHRKPYDESDSYKNQVRQSFLSSLNHLQTDYLDSYILHGPSYTSGLVQNDLDIWSAMEEIYNEGKIRALGISNVTLEQLEALFNIASVKPSFVQNRCFASKQWDFSIREFCKKNGIIYQGFSLLTANLSYLHTDRMHELAKQYKKTIPQIIFRFALQIGMLPLTGTSNKQHMQEDLDVDSFELSLDSLKLIEEI</Hsp_hseq>
+      <Hsp_midline>P+FIYGTAWKE+ T EL   AL +GF GIDTANQRKHY+EEGVG  +QQ+ K +G  RDD+FLQ+KFT   GQDHRKPYD++ S   QV+QSF SSL HL TDYL+SYILHGP Y       D ++W+ ME ++ +GK++ LGISNV+ EQL  L + ASVKP FVQNRCFA   WD  IR +C+ +GIIYQGFSLLTAN   L   ++  L+K+++K+I QIIFRF+ QIGMLPLTGT+N  HM+EDL +  F L+ D +  IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966440274|ref|WP_058480597.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella waltersii] &gt;gi|962293489|gb|KTD77166.1| D-xylose reductase III [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058480597</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>329.331</Hsp_bit-score>
+      <Hsp_score>843</Hsp_score>
+      <Hsp_evalue>5.15545e-109</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>DLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>NLTIPPFLYGTAWKEDQTERVVLQALTSGFTGIDTANQRKHYYEEGVGLAIQTFLKTNQISRSDLFLQTKFTSRNGQDNRLPYDEFDTLTNQVKQSFANSLKHLNTDYIDSYVLHGPTLMQGITSEDMEIWRAMEELVQSKQAKFLGISNVNIKQLETLYNHASIKPTFVQNRCFATTQWDNDVRLFCEEYQLIYQGFSLLTANHPYLIRPYMQSLAAKYAKTIPQITFRFALQIGMLPLTGTTNVKHMQDDLEVGSFELTPDEINHIEQIA</Hsp_hseq>
+      <Hsp_midline>+L  P F+YGTAWKE +T  +V  ALT+GF GIDTANQRKHYYEEGVG A+Q + K + I R D+FLQ+KFT  +GQD+R PYD+  +LT QV+QSFA+SL+HLNTDY++SY+LHGP      + ED E+W  ME L +  + K LGISNV+ +QL  L + AS+KP FVQNRCFA   WD  +R +C+ + +IYQGFSLLTAN   L  P +++L+ K+ K+I QI FRF+ QIGMLPLTGTTN+ HM++DL +  F LT DEIN IE IA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|769982037|ref|WP_045098019.1|</Hit_id>
+  <Hit_def>xylose reductase [Tatlockia micdadei] &gt;gi|698845449|emb|CEG59427.1| putative oxidoreductase,aldo/keto reductase family [Tatlockia micdadei] &gt;gi|962244753|gb|KTD29064.1| oxidoreductase,aldo/keto reductase family [Tatlockia micdadei] &gt;gi|1081465641|emb|SCX89574.1| Aldo/keto reductase [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098019</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.946</Hsp_bit-score>
+      <Hsp_score>842</Hsp_score>
+      <Hsp_evalue>7.14987e-109</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>PAFLYGTAWKEERTQELTFTALNAGFEGIDTANQRRHYFEEGVGLGIQQFLATSGKTRADLFLQTKFTFASGQDHRKPYDESAPIREQVNQSFASSLKHLHTDYIDSYVLHGPLYIQGITEADLQAWYAMEALCRDGQVKFLGVSNVSLNQLEVLCQNASIKPSFVQNRCFAIKKWDKAIREFCAKQGIIYQGFSLLTANQEYLFSPLIRELTTKYNRTIAQILFRFALQVGILPLTGTTQRQHMQEDLDLLDFELSKKEVEQIETI</Hsp_hseq>
+      <Hsp_midline>P F+YGTAWKE+RT EL   AL  GF+GIDTANQR+HY+EEGVG  +QQ+   SG  R D+FLQ+KFT+  GQDHRKPYD++A +  QV QSFASSL+HL+TDY++SY+LHGP Y    ++ D + W  ME+L +DG+VK LG+SNVS  QL  L   AS+KP FVQNRCFA   WDK IR +C   GIIYQGFSLLTANQ  L  P +  L+ K+ ++I QI+FRF+ Q+G+LPLTGTT   HM+EDL +  F L+  E+  IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1113348324|gb|OJW12115.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW12115</Hit_accession>
+  <Hit_len>286</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>1.53777e-108</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>PSFIYGTAWKEEATQELTFQALNSGFVGIDTANQRKHYFEEGVGQGIQQFLKATGKSRDDLFLQTKFTSAFGQDHRKPYDESDSYKNQVRQSFLSSLNHLQTDYLDSYILHGPSYTSGLVQNDLDIWSAMEEIYNEGKIRALGISNVTLEQLEALFNIAYVKPSFVQNRCFASKQWDFSIREFCKKNGIIYQGFSLLTANLSYLHTDRMHELAKQYKKTIPQIIFRFALQIGMLPLTGTSNKQHMQEDLDVDSFELSLDSLKLIEEI</Hsp_hseq>
+      <Hsp_midline>P+FIYGTAWKE+ T EL   AL +GF GIDTANQRKHY+EEGVG  +QQ+ K +G  RDD+FLQ+KFT   GQDHRKPYD++ S   QV+QSF SSL HL TDYL+SYILHGP Y       D ++W+ ME ++ +GK++ LGISNV+ EQL  L + A VKP FVQNRCFA   WD  IR +C+ +GIIYQGFSLLTAN   L   ++  L+K+++K+I QIIFRF+ QIGMLPLTGT+N  HM+EDL +  F L+ D +  IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|516453056|ref|WP_017841968.1|</Hit_id>
+  <Hit_def>D-xylose reductase III [Methylomicrobium buryatense]</Hit_def>
+  <Hit_accession>WP_017841968</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>327.02</Hsp_bit-score>
+      <Hsp_score>837</Hsp_score>
+      <Hsp_evalue>4.34863e-108</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>147</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>PSFFYGTAWKEERTEALVLAAIEAGFRAVDTANQRRHYYEEGVGHALSKVLGEGRLKRGELFLQSKFTYAASQDHRLPYDPDADYATQVEQSFSRTLKHLGTDYLDSYILHGPSLGQGLAEADREVWRAMESLCKSGSVRLIGVSNISEDQLRLLIEFAEIKPAFVQNRCFARTQWDSEVRKQCRDHGIVYQGFSLLTANVSELNRPIMDQVTKRHGCTKAQAVFRFALQLGMIPLTGTSDPEHMKQDLSVYDFAFNADEIAMIENVA</Hsp_hseq>
+      <Hsp_midline>P+F YGTAWKE+RT  LV  A+  GF+ +DTANQR+HYYEEGVG+AL +   +  + R ++FLQSKFTY   QDHR PYD  A    QV+QSF+ +L+HL TDYL+SYILHGP      ++ D+EVW  MESL K G V+ +G+SN+S +QL  LI FA +KP FVQNRCFAR  WD ++R  C+ HGI+YQGFSLLTAN  EL  P ++ ++K+H  +  Q +FRF+ Q+GM+PLTGT++ +HMK+DL+++ F    DEI  IEN+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|802898927|ref|WP_046061324.1|</Hit_id>
+  <Hit_def>xylose reductase [Methylomicrobium alcaliphilum]</Hit_def>
+  <Hit_accession>WP_046061324</Hit_accession>
+  <Hit_len>281</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.865</Hsp_bit-score>
+      <Hsp_score>834</Hsp_score>
+      <Hsp_evalue>1.0515e-107</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>PSFFYGTAWKEERTEALVLAAIEAGFRAVDTANQRRHYYEEGVGHALSKVLGEGRLKRGELFLQSKFTYAASQDHRLPYDPDADYATQVEQSFSRTLKHLGTDYLDSFILHGPSLGQGLAEADREVWRAMESLCKSGSVRLIGVSNISEDQLRLLIEFAEIKPAFVQNRCFARTQWDSEVRKQCRDHGIVYQGFSLLTANVSELNRPIMDQVTKRHGCTKAQAVFRFALQLGMIPLTGTSDPEHMKQDLSVYDFAFNADEIAMIENVA</Hsp_hseq>
+      <Hsp_midline>P+F YGTAWKE+RT  LV  A+  GF+ +DTANQR+HYYEEGVG+AL +   +  + R ++FLQSKFTY   QDHR PYD  A    QV+QSF+ +L+HL TDYL+S+ILHGP      ++ D+EVW  MESL K G V+ +G+SN+S +QL  LI FA +KP FVQNRCFAR  WD ++R  C+ HGI+YQGFSLLTAN  EL  P ++ ++K+H  +  Q +FRF+ Q+GM+PLTGT++ +HMK+DL+++ F    DEI  IEN+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|351716527|emb|CCE22187.1|</Hit_id>
+  <Hit_def>Aldo/keto reductases [Methylomicrobium alcaliphilum 20Z]</Hit_def>
+  <Hit_accession>CCE22187</Hit_accession>
+  <Hit_len>287</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>1.13167e-107</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>286</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>PSFFYGTAWKEERTEALVLAAIEAGFRAVDTANQRRHYYEEGVGHALSKVLGEGRLKRGELFLQSKFTYAASQDHRLPYDPDADYATQVEQSFSRTLKHLGTDYLDSFILHGPSLGQGLAEADREVWRAMESLCKSGSVRLIGVSNISEDQLRLLIEFAEIKPAFVQNRCFARTQWDSEVRKQCRDHGIVYQGFSLLTANVSELNRPIMDQVTKRHGCTKAQAVFRFALQLGMIPLTGTSDPEHMKQDLSVYDFAFNADEIAMIENVA</Hsp_hseq>
+      <Hsp_midline>P+F YGTAWKE+RT  LV  A+  GF+ +DTANQR+HYYEEGVG+AL +   +  + R ++FLQSKFTY   QDHR PYD  A    QV+QSF+ +L+HL TDYL+S+ILHGP      ++ D+EVW  MESL K G V+ +G+SN+S +QL  LI FA +KP FVQNRCFAR  WD ++R  C+ HGI+YQGFSLLTAN  EL  P ++ ++K+H  +  Q +FRF+ Q+GM+PLTGT++ +HMK+DL+++ F    DEI  IEN+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966437297|ref|WP_058477665.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella steigerwaltii] &gt;gi|962294100|gb|KTD77775.1| oxidoreductase,aldo/keto reductase family [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477665</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.865</Hsp_bit-score>
+      <Hsp_score>834</Hsp_score>
+      <Hsp_evalue>1.44833e-107</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>PAFIYGTAWKEERTQELTFQALKSGFVGIDTANQRMHYFEEGVGHGIQKFLNTTGRSRGDLFLQTKFTAASGQDHRKPYDETDSYKNQVRQSFLSSLNHLQTDYLDSYILHGPTYRSGLIQDDLDIWSAMEDLYNEGKVRLLGISNVTLEQLEALYRVASVKPSFVQNRCFASNQWDLPIRSFCKKNGVIYQGFSLLTANLSYLHNDRIHELAKQYKKTIPQIIFRFALQMGMLPLTGTSSQQHMKEDLDLDSFELSLDALKLIEEI</Hsp_hseq>
+      <Hsp_midline>P FIYGTAWKE+RT EL   AL +GF GIDTANQR HY+EEGVG+ +Q++   +G  R D+FLQ+KFT   GQDHRKPYD+T S   QV+QSF SSL HL TDYL+SYILHGP Y+     +D ++W+ ME L+ +GKV+ LGISNV+ EQL  L   ASVKP FVQNRCFA   WD  IR++C+ +G+IYQGFSLLTAN   L + ++  L+K+++K+I QIIFRF+ Q+GMLPLTGT++  HMKEDL +  F L+ D +  IE I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|963703013|ref|WP_058387681.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella cherrii] &gt;gi|962194485|gb|KTC79546.1| oxidoreductase,aldo/keto reductase family [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058387681</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.094</Hsp_bit-score>
+      <Hsp_score>832</Hsp_score>
+      <Hsp_evalue>2.75512e-107</Hsp_evalue>
+      <Hsp_query-from>83</Hsp_query-from>
+      <Hsp_query-to>365</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>281</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>160</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>283</Hsp_align-len>
+      <Hsp_qseq>FIERSORIGINMDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENI</Hsp_qseq>
+      <Hsp_hseq>FTHRLDRIDI------PAFMYGTAWKEERTQELTFQALKNGFVGIDTANQRMHYFEEGVGHGIQQFLHATGKSRSDLFLQTKFTPALGQDHRKPYDETDSTQNQVRHSFLSSLNHLQTEYLDSYILHGPTFRSGLVQDDLDIWAAMEDLYNEGKIRLLGISNVTLEQLQTLYRVATVKPSLVQNRCFASNQWDLSIREFCQKNGMIYQGFSLLTANQSYLLSDRMHALAKQYKKTIPQIIFRFALQIGMLPLTGTSNPLHMREDLDLDSFELTLDSVKFIEDI</Hsp_hseq>
+      <Hsp_midline>F  R  RI I      P F+YGTAWKE+RT EL   AL  GF GIDTANQR HY+EEGVG+ +QQ+   +G  R D+FLQ+KFT   GQDHRKPYD+T S   QV+ SF SSL HL T+YL+SYILHGP ++     +D ++W  ME L+ +GK++ LGISNV+ EQL  L   A+VKP  VQNRCFA   WD  IR +CQ +G+IYQGFSLLTANQ  L   ++  L+K+++K+I QIIFRF+ QIGMLPLTGT+N  HM+EDL +  F LT D + FIE+I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|683290004|emb|CEE12365.1|</Hit_id>
+  <Hit_def>2,5-diketo-D-gluconic acid reductase A [Legionella massiliensis] &gt;gi|685072374|emb|CDZ76627.1| 2,5-diketo-D-gluconic acid reductase A [Legionella massiliensis]</Hit_def>
+  <Hit_accession>CEE12365</Hit_accession>
+  <Hit_len>292</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.709</Hsp_bit-score>
+      <Hsp_score>831</Hsp_score>
+      <Hsp_evalue>4.85168e-107</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>18</Hsp_hit-from>
+      <Hsp_hit-to>288</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>LSIPSILYGTAWKEADTELLVTQALTLGYEGIDTANQRKHYFEEGVGLAVQRFLKTSDKTRADLFLQTKFTSINGQDSRLPYDEFASLTNQVKQSFASSLNHLQTDYIDSYILHGPTMSRGIIDADLEIWQAMETLVHEGKVKFLGISNVNIQQVEELYNKVLIKPSFIQNRCFAISRWDQNLRLFCKTHKIIYQGFSLLTANLSYLATSYMQKLALKYDKTIPQLIFRFALHKGMLPLTGSTNSQHMQDDLDINDFELSDDEVNHIENIA</Hsp_hseq>
+      <Hsp_midline>L  P+ +YGTAWKE  T  LV  ALT G++GIDTANQRKHY+EEGVG A+Q++ K S   R D+FLQ+KFT  +GQD R PYD+ ASLT QV+QSFASSL HL TDY++SYILHGP       D D E+W  ME+L  +GKVK LGISNV+ +Q+ EL +   +KP F+QNRCFA   WD+ +R +C+ H IIYQGFSLLTAN   L    ++ L+ K++K+I Q+IFRF+   GMLPLTG+TN  HM++DL I+ F L+DDE+N IENIA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|762037185|ref|WP_043873123.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873123</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.324</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>5.71831e-107</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>LSIPSILYGTAWKEADTELLVTQALTLGYEGIDTANQRKHYFEEGVGLAVQRFLKTSDKTRADLFLQTKFTSINGQDSRLPYDEFASLTNQVKQSFASSLNHLQTDYIDSYILHGPTMSRGIIDADLEIWQAMETLVHEGKVKFLGISNVNIQQVEELYNKVLIKPSFIQNRCFAISRWDQNLRLFCKTHKIIYQGFSLLTANLSYLATSYMQKLALKYDKTIPQLIFRFALHKGMLPLTGSTNSQHMQDDLDINDFELSDDEVNHIENIA</Hsp_hseq>
+      <Hsp_midline>L  P+ +YGTAWKE  T  LV  ALT G++GIDTANQRKHY+EEGVG A+Q++ K S   R D+FLQ+KFT  +GQD R PYD+ ASLT QV+QSFASSL HL TDY++SYILHGP       D D E+W  ME+L  +GKVK LGISNV+ +Q+ EL +   +KP F+QNRCFA   WD+ +R +C+ H IIYQGFSLLTAN   L    ++ L+ K++K+I Q+IFRF+   GMLPLTG+TN  HM++DL I+ F L+DDE+N IENIA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|769980127|ref|WP_045096112.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella fallonii] &gt;gi|698843683|emb|CEG57652.1| D-xylose reductase III [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096112</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.939</Hsp_bit-score>
+      <Hsp_score>829</Hsp_score>
+      <Hsp_evalue>6.48257e-107</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>PPILYGTAWKEDDTKRLVLQALNSGFRGIDTANQRRHYFEEAVGDAIDQFLTTSQKTRSDLFLQTKFTSVHGQDHRKPYDEFDSLTNQVKQSFASSLEHLQTDYIDAYILHGPSLSHGIIDADLEIWQAMEELVCSRKVKFLGISNVNMAQVEELYRKVSIKPSFIQNRCFAITQWDQDVRTFSQKNKIIYQGFSLLTANQRYLLNPHMQSLAVKYDKTIPQIIFRFANQVGILPLTGTTNQQHMDNDLNIYDFELTQEEIQYIENIGL</Hsp_hseq>
+      <Hsp_midline>P  +YGTAWKE  T  LV  AL +GF+GIDTANQR+HY+EE VG A+ Q+   S   R D+FLQ+KFT  HGQDHRKPYD+  SLT QV+QSFASSLEHL TDY+++YILHGP   +   D D E+W  ME L    KVK LGISNV+  Q+ EL    S+KP F+QNRCFA   WD+ +R + Q + IIYQGFSLLTANQ  L +P +++L+ K++K+I QIIFRF+ Q+G+LPLTGTTN  HM  DL I+ F LT +EI +IENI  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|499250238|ref|WP_010947778.1|</Hit_id>
+  <Hit_def>MULTISPECIES: D-xylose reductase III [Legionella] &gt;gi|52842279|ref|YP_096078.1| D-xylose reductase III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52629390|gb|AAU28131.1| D-xylose reductase III [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364508731|gb|AEW52255.1| D-xylose reductase III [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469491288|gb|AGH53133.1| 2,5-diketo-D-gluconic acid reductase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509082737|gb|AGN14985.1| D-xylose reductase III [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|536614248|gb|ERB42597.1| D-xylose reductase III [Legionella pneumophila str. 121004] &gt;gi|761990988|dbj|GAN18007.1| 2,5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|761994178|dbj|GAN21113.1| 2,5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|762000723|dbj|GAN27358.1| 2,5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|962192567|gb|KTC77639.1| D-xylose reductase III [Legionella anisa] &gt;gi|985762119|gb|KXB23313.1| xylose reductase [Legionella pneumophila] &gt;gi|985764107|gb|KXB25233.1| xylose reductase [Legionella pneumophila] &gt;gi|998798446|emb|CZL78980.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998805958|emb|CZJ61248.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998816607|emb|CZM15981.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998826942|emb|CZJ86052.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998845827|emb|CZK13191.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998872047|emb|CZL44950.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998875070|emb|CZJ61421.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998878981|emb|CZL78453.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998886879|emb|CZM04051.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998890223|emb|CZJ79672.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998897133|emb|CZJ89311.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998907103|emb|CZJ93186.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998910480|emb|CZK79386.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998916185|emb|CZK34697.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998920198|emb|CZK70682.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998920914|emb|CZL56064.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998928960|emb|CZL41996.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998931808|emb|CZK53413.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998934861|emb|CZL48205.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998940935|emb|CZK57068.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998947573|emb|CZK58800.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998949670|emb|CZK26977.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998958761|emb|CZL27989.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998962623|emb|CZJ90999.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998965266|emb|CZJ95944.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998967959|emb|CZL47529.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998971016|emb|CZK06592.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998974073|emb|CZK09725.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998980141|emb|CZL26801.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998987161|emb|CZJ86169.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998990218|emb|CZL20767.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|998998758|emb|CZJ81202.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999006893|emb|CZK86744.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999017662|emb|CZL58512.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999021460|emb|CZL81888.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999025838|emb|CZK20294.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999038350|emb|CZL21299.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999047008|emb|CZL54506.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999062126|emb|CZK69673.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999069156|emb|CZI88310.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999081353|emb|CZJ78516.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999083451|emb|CZK38423.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999088998|emb|CZK69028.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999093629|emb|CZK93652.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999101926|emb|CZL09609.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999112048|emb|CZK85437.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999114148|emb|CZL11180.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999118227|emb|CZJ99973.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999118846|emb|CZG99584.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999121805|emb|CZH36399.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999126481|emb|CZK56905.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999136674|emb|CZK67549.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999139766|emb|CZJ96490.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999144942|emb|CZK40360.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999146705|emb|CZL97048.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999157402|emb|CZH44676.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999176329|emb|CZK96338.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999211124|emb|CZK63970.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999218218|emb|CZL93951.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999527823|emb|CZI82207.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999575933|emb|CZI52180.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|999611138|emb|CZI74107.1| 2%2C5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|1003018979|emb|CZR26127.1| D-xylose reductase III [Legionella pneumophila] &gt;gi|1003022082|emb|CZR21314.1| D-xylose reductase III [Legionella pneumophila] &gt;gi|1003025926|emb|CZR19373.1| D-xylose reductase III [Legionella pneumophila] &gt;gi|1024339510|gb|KZX33850.1| xylose reductase [Legionella pneumophila] &gt;gi|1032658142|gb|ANH13413.1| xylose reductase [Legionella pneumophila] &gt;gi|1032661108|gb|ANH16378.1| xylose reductase [Legionella pneumophila] &gt;gi|1032664077|gb|ANH19346.1| xylose reductase [Legionella pneumophila] &gt;gi|1073865081|gb|AOU05032.1| xylose reductase [Legionella pneumophila] &gt;gi|1073868095|gb|AOU08045.1| xylose reductase [Legionella pneumophila] &gt;gi|1073871092|gb|AOU11041.1| xylose reductase [Legionella pneumophila] &gt;gi|1073873982|gb|AOU13930.1| xylose reductase [Legionella pneumophila] &gt;gi|1073877018|gb|AOU16965.1| xylose reductase [Legionella pneumophila] &gt;gi|1073879980|gb|AOU19926.1| xylose reductase [Legionella pneumophila] &gt;gi|1073882977|gb|AOU22922.1| xylose reductase [Legionella pneumophila] &gt;gi|1073885964|gb|AOU25908.1| xylose reductase [Legionella pneumophila] &gt;gi|1073888894|gb|AOU28837.1| xylose reductase [Legionella pneumophila] &gt;gi|1073891876|gb|AOU31818.1| xylose reductase [Legionella pneumophila] &gt;gi|1073894843|gb|AOU34784.1| xylose reductase [Legionella pneumophila] &gt;gi|1073897805|gb|AOU37745.1| xylose reductase [Legionella pneumophila] &gt;gi|1073900769|gb|AOU40708.1| xylose reductase [Legionella pneumophila] &gt;gi|1073903724|gb|AOU43662.1| xylose reductase [Legionella pneumophila] &gt;gi|1073906632|gb|AOU46569.1| xylose reductase [Legionella pneumophila] &gt;gi|1073909651|gb|AOU49586.1| xylose reductase [Legionella pneumophila] &gt;gi|1073912705|gb|AOU52637.1| xylose reductase [Legionella pneumophila] &gt;gi|1073915622|gb|AOU55553.1| xylose reductase [Legionella pneumophila] &gt;gi|1073918629|gb|AOU58559.1| xylose reductase [Legionella pneumophila] &gt;gi|1073921543|gb|AOU61472.1| xylose reductase [Legionella pneumophila] &gt;gi|1073924569|gb|AOU64496.1| xylose reductase [Legionella pneumophila] &gt;gi|1073927534|gb|AOU67460.1| xylose reductase [Legionella pneumophila] &gt;gi|1073930520|gb|AOU70429.1| xylose reductase [Legionella pneumophila] &gt;gi|1073933894|gb|AOU73453.1| xylose reductase [Legionella pneumophila] &gt;gi|1073936852|gb|AOU83851.1| xylose reductase [Legionella pneumophila] &gt;gi|1073947121|gb|AOU86845.1| xylose reductase [Legionella pneumophila] &gt;gi|1073950092|gb|AOU89815.1| xylose reductase [Legionella pneumophila] &gt;gi|1104003453|emb|SFZ44123.1| 2,5-diketo-D-gluconic acid reductase A [Legionella pneumophila] &gt;gi|1108608354|gb|APF06721.1| xylose reductase [Legionella pneumophila subsp. fraseri] &gt;gi|1129968748|gb|APT99107.1| xylose reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010947778</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.168</Hsp_bit-score>
+      <Hsp_score>827</Hsp_score>
+      <Hsp_evalue>1.14258e-106</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>PPILYGTAWKEDDTKRLVLQALNSGFRGIDTANQRRHYFEEAVGDAIDQFLTTSQKTRSDLFLQTKFTSVHGQDHRKPYDEFDSLTNQVKQSFASSLEHLQTDYIDAYILHGPSLSHGIIDADLEIWQAMEELVCSRKVKFLGISNVNMVQVEELYRKVSIKPSFIQNRCFAITQWDQDVRTFSQKNKIIYQGFSLLTANQRYLLNPHMQSLAVKYDKTIPQIIFRFANQVGILPLTGTTNQQHMDNDLNIYDFELTQEEIQYIENIGL</Hsp_hseq>
+      <Hsp_midline>P  +YGTAWKE  T  LV  AL +GF+GIDTANQR+HY+EE VG A+ Q+   S   R D+FLQ+KFT  HGQDHRKPYD+  SLT QV+QSFASSLEHL TDY+++YILHGP   +   D D E+W  ME L    KVK LGISNV+  Q+ EL    S+KP F+QNRCFA   WD+ +R + Q + IIYQGFSLLTANQ  L +P +++L+ K++K+I QIIFRF+ Q+G+LPLTGTTN  HM  DL I+ F LT +EI +IENI  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966506636|ref|WP_058523282.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella birminghamensis] &gt;gi|962187294|gb|KTC72422.1| D-xylose reductase III [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058523282</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.398</Hsp_bit-score>
+      <Hsp_score>825</Hsp_score>
+      <Hsp_evalue>2.54909e-106</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>INMDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MNQEESLPFILYGTAWKEERTQALCYQALNAGFRGIDTANQRKHYYEEGVGQGISQFLAQSEVHREDLFLQSKFTYAQGQDHRLPYDEKDSLTNQVKQSLESSLQHLKTSYLNSYILHGPYSSQGLTEQDWEVWGAMEDLIRMGKVRHLGVSNVNFLQLKTLYLQAAIKPHFVQNRCFAVKLWDREIRQFCAEKKCIYQGFSLLTANYPYLAHAEIHEICKKYNKTLAQVIFRFARDIGILSLTGTTNVQHMKDDLDTDSFALTPAEVACIEEIAL</Hsp_hseq>
+      <Hsp_midline>+N +   P  +YGTAWKE+RT  L   AL  GF+GIDTANQRKHYYEEGVG  + Q+  +S + R+D+FLQSKFTY  GQDHR PYD+  SLT QV+QS  SSL+HL T YLNSYILHGPY     +++D EVW  ME L + GKV+HLG+SNV++ QL  L   A++KP FVQNRCFA  LWD++IR +C     IYQGFSLLTAN   L H ++  + KK+ K++ Q+IFRF++ IG+L LTGTTN+ HMK+DL    F LT  E+  IE IA </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966460154|ref|WP_058492584.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella worsleiensis] &gt;gi|962297627|gb|KTD81249.1| D-xylose reductase III [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492584</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.857</Hsp_bit-score>
+      <Hsp_score>821</Hsp_score>
+      <Hsp_evalue>9.36207e-106</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>280</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>193</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>PPILYGTAWKEDDTKRLVLQALNSGFRGIDTANQRRHYFEEAVGDAINQFLTTSQKTRSDLFLQTKFTSVHGQDHRKPYDEFDSLTNQVKQSFASSLEHLQTDYIDAYILHGPSLSHGIIDADLEIWQAMEELVCSRKVKFLGISNVNMAQVEELYRKVSIKPSFIQNRCFAITQWDQDVRTFSQKNKIIYQGFSLLTANQPYLLNPYMQSLAVKYDKTIPQIIFRFANQVGILPLTGTTNQQHMDNDLNIYDFELLQEEIQYIENIGL</Hsp_hseq>
+      <Hsp_midline>P  +YGTAWKE  T  LV  AL +GF+GIDTANQR+HY+EE VG A+ Q+   S   R D+FLQ+KFT  HGQDHRKPYD+  SLT QV+QSFASSLEHL TDY+++YILHGP   +   D D E+W  ME L    KVK LGISNV+  Q+ EL    S+KP F+QNRCFA   WD+ +R + Q + IIYQGFSLLTANQ  L +P +++L+ K++K+I QIIFRF+ Q+G+LPLTGTTN  HM  DL I+ F L  +EI +IENI  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|652904662|ref|WP_027158810.1|</Hit_id>
+  <Hit_def>xylose reductase [Methylobacter luteus]</Hit_def>
+  <Hit_accession>WP_027158810</Hit_accession>
+  <Hit_len>288</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.857</Hsp_bit-score>
+      <Hsp_score>821</Hsp_score>
+      <Hsp_evalue>1.39972e-105</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>288</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>150</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>PTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>PTFLYGTAWKEAQTETLVQQAIASGFLGIDTANQRMHYYEAGVGEGIQRALLEKGLDRSDLFLQSKFTYVNSQDHRLPYDPKADYSTQVLQSFESSLAHLNTTYLDSYLLHGPSVNQGLSAADWEVWRTMQTLQKAGSVKLIGVSNVGYDQLKLLIDKAEIMPAFVQNRCFARTKWDVRIRELCHAHDIRYQGFSLLTANVTELSQPTVHRIAERLSCSVPQVVFRFALQLGMIPLTGSTSQRHMEEDLEVYDFELKEDDMDLIENIAF</Hsp_hseq>
+      <Hsp_midline>PTF+YGTAWKE +T  LV+ A+ +GF GIDTANQR HYYE GVG  +Q+   + G+ R D+FLQSKFTY + QDHR PYD  A  + QV QSF SSL HLNT YL+SY+LHGP      S  D EVW  M++L K G VK +G+SNV Y+QL  LI  A + P FVQNRCFAR  WD +IR  C AH I YQGFSLLTAN  EL  P +  ++++   S+ Q++FRF+ Q+GM+PLTG+T+  HM+EDL ++ F L +D+++ IENIAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966476480|ref|WP_058507213.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella quinlivanii] &gt;gi|962268262|gb|KTD52292.1| oxidoreductase,aldo/keto reductase family [Legionella quinlivanii] &gt;gi|1090728540|emb|SEF73376.1| Aldo/keto reductase [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058507213</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.087</Hsp_bit-score>
+      <Hsp_score>819</Hsp_score>
+      <Hsp_evalue>2.06336e-105</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>367</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>INMDLGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIAF</Hsp_qseq>
+      <Hsp_hseq>MNQDKLLPSILYGTAWKEEQTEVLCYQALKAGFTGIDTANQRRHYYEEGVGLGISQFLIESGQSRESLFLQSKYTYAEGQDHRKPYDESDSYANQVRQSLESSLSHLKTDYLDSYILHGPYSGQGLTEQDWEVWTTMEELAREGKVRMLGISNVNFAQFKALYQRAAIKPRFVQNRCFAVKLWDREIRQFCDEKSCVYQGFSLLTANYQYLANPKLHLLCKKYNTTLAQMIFRFALDIGILALTGTTSLQHMKEDLDIGNFLLMPSEIAQIEEIAF</Hsp_hseq>
+      <Hsp_midline>+N D   P+ +YGTAWKE++T  L   AL  GF GIDTANQR+HYYEEGVG  + Q+  +SG  R+ +FLQSK+TY  GQDHRKPYD++ S   QV+QS  SSL HL TDYL+SYILHGPY     +++D EVW  ME L ++GKV+ LGISNV++ Q   L   A++KP+FVQNRCFA  LWD++IR +C     +YQGFSLLTAN   L +PKL  L KK+  ++ Q+IFRF+  IG+L LTGTT+L HMKEDL I  F L   EI  IE IAF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|654921645|ref|WP_028372205.1|</Hit_id>
+  <Hit_def>xylose reductase [Legionella lansingensis] &gt;gi|962239315|gb|KTD23795.1| D-xylose reductase III [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372205</Hit_accession>
+  <Hit_len>283</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.087</Hsp_bit-score>
+      <Hsp_score>819</Hsp_score>
+      <Hsp_evalue>2.3218e-105</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>366</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>LGFPTFIYGTAWKEKRTSELVELALTTGFQGIDTANQRKHYYEEGVGYALQQYYKKSGILRDDIFLQSKFTYTHGQDHRKPYDDTASLTIQVQQSFASSLEHLNTDYLNSYILHGPYYQYHFSDEDKEVWNKMESLHKDGKVKHLGISNVSYEQLVELISFASVKPKFVQNRCFARLLWDKQIRNYCQAHGIIYQGFSLLTANQYELRHPKLENLSKKHEKSIEQIIFRFSQQIGMLPLTGTTNLDHMKEDLAIHQFRLTDDEINFIENIA</Hsp_qseq>
+      <Hsp_hseq>LGIPPILYGTAWKEEATQKLTFQALNTGFTGIDTANQRKHYFEEGVGLGIREFLGISGKTRADLFLQTKFTFAQGQDRRKPYNESDPFKDQVFQSFESSLKHLHTDYIDSYILHGPYFSIGLAEADWEVWHAMENLFHEKKVNFLGISNVNISQLESLYQGATVKPTFVQNRCFAVEEWNKEIRNFCNERGIIYQGFSLLTANQSYLLSSFMESLMQKYNKTIPQIIFRFAQQIGILPLTGTTNKQHMHQDLNLEDFELTSLELKQVEDIA</Hsp_hseq>
+      <Hsp_midline>LG P  +YGTAWKE+ T +L   AL TGF GIDTANQRKHY+EEGVG  ++++   SG  R D+FLQ+KFT+  GQD RKPY+++     QV QSF SSL+HL+TDY++SYILHGPY+    ++ D EVW+ ME+L  + KV  LGISNV+  QL  L   A+VKP FVQNRCFA   W+K+IRN+C   GIIYQGFSLLTANQ  L    +E+L +K+ K+I QIIFRF+QQIG+LPLTGTTN  HM +DL +  F LT  E+  +E+IA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

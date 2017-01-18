@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_4847</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>227</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_4847</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>227</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248720|ref|WP_010946260.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|52840757|ref|YP_094556.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|68565464|sp|Q5ZY60.1|CRCB_LEGPH RecName: Full=Putative fluoride ion transporter CrcB &gt;gi|52627868|gb|AAU26609.1| CrcB protein, camphor resistance [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507270|gb|AEW50794.1| CrcB protein, camphor resistance [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492951|gb|AGH54796.1| CrcB protein [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081177|gb|AGN13425.1| CrcB protein [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771547|emb|CZI76392.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998795759|emb|CZI43927.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998800549|emb|CZL11546.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998804127|emb|CZK64114.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998807217|emb|CZI31621.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998810741|emb|CZI17987.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998813100|emb|CZH13582.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998816460|emb|CZM22020.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998819723|emb|CZM00365.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998825573|emb|CZK39869.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998832810|emb|CZI18336.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998834450|emb|CZL50048.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998838682|emb|CZJ29984.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998840527|emb|CZL84859.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998843107|emb|CZL08749.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998846338|emb|CZL09586.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998849185|emb|CZI97792.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998852451|emb|CZL89083.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998855934|emb|CZL52864.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998858599|emb|CZM28947.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998862297|emb|CZK40596.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998864747|emb|CZJ87335.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998867196|emb|CZJ82415.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998870218|emb|CZM42297.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998873637|emb|CZK72710.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998876231|emb|CZM47914.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998879350|emb|CZJ75506.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998885802|emb|CZM36251.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998888610|emb|CZK50352.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998895789|emb|CZK08329.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998905279|emb|CZK93393.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998908434|emb|CZL68700.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998916075|emb|CZK71735.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998917504|emb|CZL64592.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998920484|emb|CZL71111.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998926843|emb|CZL99107.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998930907|emb|CZK82565.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998933690|emb|CZL68263.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998938756|emb|CZL21163.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998946239|emb|CZK70906.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998948003|emb|CZL29734.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998956971|emb|CZM67538.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998960450|emb|CZK68152.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998963174|emb|CZK80205.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998966724|emb|CZM42154.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998969364|emb|CZL05800.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998972373|emb|CZK82461.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998978487|emb|CZM01116.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998986097|emb|CZK09799.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998987515|emb|CZL89924.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998998265|emb|CZJ96638.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999006437|emb|CZL23556.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999011902|emb|CZL84989.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999014943|emb|CZM78683.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999021210|emb|CZL93593.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999024059|emb|CZL21139.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999036220|emb|CZL85414.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999045250|emb|CZM31534.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999060274|emb|CZL79829.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999066472|emb|CZJ49899.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999075355|emb|CZH16208.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999078605|emb|CZK44019.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999083072|emb|CZK86296.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999087916|emb|CZL16036.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999090978|emb|CZL91384.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999093864|emb|CZH49194.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999096984|emb|CZH52941.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999101377|emb|CZL75346.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999110937|emb|CZL05153.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999114038|emb|CZL58961.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999115930|emb|CZK73309.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999124761|emb|CZL32699.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999132524|emb|CZL70243.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999133874|emb|CZL47225.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999136990|emb|CZK89340.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999140873|emb|CZL85618.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999144832|emb|CZK80795.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999146360|emb|CZM10867.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999155624|emb|CZI38225.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999174225|emb|CZL61851.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999189816|emb|CZI75937.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999192936|emb|CZJ17054.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999199235|emb|CZH00975.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999202145|emb|CZJ21868.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999208448|emb|CZL35815.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999217958|emb|CZM05829.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999220927|emb|CZJ08982.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999333367|emb|CZL31115.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002078827|emb|CZQ92164.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1003018373|emb|CZR30444.1| camphor resistance [Legionella pneumophila] &gt;gi|1003021445|emb|CZR26787.1| camphor resistance [Legionella pneumophila] &gt;gi|1003024515|emb|CZR30288.1| camphor resistance [Legionella pneumophila] &gt;gi|1073863679|gb|AOU03630.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073866638|gb|AOU06588.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073869643|gb|AOU09592.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073872586|gb|AOU12534.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073875569|gb|AOU15516.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073878530|gb|AOU18476.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073881525|gb|AOU21470.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073884487|gb|AOU24431.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073887485|gb|AOU27428.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073890469|gb|AOU30411.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073893434|gb|AOU33375.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073896399|gb|AOU36339.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073899362|gb|AOU39301.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073902314|gb|AOU42252.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073905225|gb|AOU45162.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073908243|gb|AOU48178.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073911298|gb|AOU51230.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073914217|gb|AOU54148.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073917175|gb|AOU57105.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073920141|gb|AOU60070.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073923115|gb|AOU63042.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073926128|gb|AOU66054.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073929108|gb|AOU69017.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073932492|gb|AOU72051.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073935440|gb|AOU82439.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073945715|gb|AOU85439.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1073948678|gb|AOU88401.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1104001830|emb|SFZ36375.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1129967293|gb|APT97652.1| camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946260</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>4.88565e-89</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499526499|ref|WP_011213139.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|68565460|sp|Q5X7N1.1|CRCB_LEGPA RecName: Full=Putative fluoride ion transporter CrcB &gt;gi|166215111|sp|A5IH85.1|CRCB_LEGPC RecName: Full=Putative fluoride ion transporter CrcB &gt;gi|53750328|emb|CAH11722.1| hypothetical protein lpp0574 [Legionella pneumophila str. Paris] &gt;gi|148282647|gb|ABQ56735.1| CrcB protein, camphor resistance [Legionella pneumophila str. Corby] &gt;gi|295647962|gb|ADG23809.1| camphor resistance [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126494|emb|CCD04677.1| CrcB protein, camphor resistance [Legionella pneumophila subsp. pneumophila] &gt;gi|395129600|emb|CCD07833.1| CrcB protein, camphor resistance [Legionella pneumophila subsp. pneumophila] &gt;gi|536613625|gb|ERB41997.1| camphor resistance protein CrcB [Legionella pneumophila str. 121004] &gt;gi|541995590|gb|ERH41689.1| camphor resistance protein CrcB [Legionella pneumophila str. Leg01/11] &gt;gi|761989546|dbj|GAN22609.1| putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|761992734|dbj|GAN16522.1| putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|761995924|dbj|GAN19628.1| putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|761998976|dbj|GAN28961.1| putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|762002532|dbj|GAN25650.1| putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|998774458|emb|CZH08448.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998777338|emb|CZH12790.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998783004|emb|CZI85174.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998783291|emb|CZH40747.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998786248|emb|CZH06894.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998791242|emb|CZG40088.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998793141|emb|CZI51774.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998801845|emb|CZI08712.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998828310|emb|CZH37569.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998883012|emb|CZI85000.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998892635|emb|CZJ24566.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998897695|emb|CZK08136.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998912152|emb|CZH23422.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998923747|emb|CZK25152.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998938022|emb|CZL86571.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998943817|emb|CZJ50551.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998951061|emb|CZJ95167.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998954354|emb|CZK61455.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998975525|emb|CZJ90878.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998982382|emb|CZI64545.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998992809|emb|CZJ46876.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998994570|emb|CZI22346.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999000081|emb|CZG94268.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999003148|emb|CZI81806.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999009041|emb|CZK45765.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999018203|emb|CZJ86818.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999027318|emb|CZK24284.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999030581|emb|CZH24509.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999033268|emb|CZK20418.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999039474|emb|CZJ95334.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999042460|emb|CZK05238.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999048507|emb|CZK01485.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999051590|emb|CZJ92899.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999054531|emb|CZK28788.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999058455|emb|CZM30076.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999063702|emb|CZK02796.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999070555|emb|CZJ64476.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999072774|emb|CZK31154.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999085010|emb|CZK31301.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999103713|emb|CZI19946.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999107558|emb|CZI64230.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999128493|emb|CZH15657.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999149963|emb|CZI48702.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999152617|emb|CZM82407.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999159313|emb|CZJ68957.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999161902|emb|CZM39664.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999165674|emb|CZG82912.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999168611|emb|CZI45523.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999171869|emb|CZI29945.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999178320|emb|CZJ55716.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999181658|emb|CZG51847.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999184345|emb|CZP96157.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999198478|emb|CZP14075.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999206211|emb|CZP63606.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999212742|emb|CZG78495.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999216900|emb|CZI65593.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999225312|emb|CZG82909.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999228314|emb|CZP08974.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999231787|emb|CZI44769.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999235219|emb|CZP58820.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999236716|emb|CZG93906.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999240271|emb|CZH90306.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999244384|emb|CZH76997.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999248791|emb|CZH08653.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999252007|emb|CZH37463.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999255996|emb|CZP80044.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999259098|emb|CZP46518.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999261315|emb|CZH42123.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999265231|emb|CZP07525.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999269443|emb|CZO33670.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999272245|emb|CZP58639.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999274813|emb|CZG79752.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999277627|emb|CZP37490.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999281342|emb|CZP15619.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999283690|emb|CZP62147.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999287215|emb|CZI45924.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999291007|emb|CZP32676.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999293657|emb|CZI47028.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999296466|emb|CZP57844.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999299553|emb|CZP46983.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999302874|emb|CZI38681.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999307325|emb|CZH71124.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999309389|emb|CZP27494.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999312654|emb|CZI53390.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999315803|emb|CZI09591.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999318697|emb|CZP65548.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999322039|emb|CZH98989.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999324422|emb|CZH32644.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999328642|emb|CZG65053.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999331803|emb|CZG57525.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999337776|emb|CZP47678.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999340099|emb|CZH26782.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999344433|emb|CZP83971.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999347228|emb|CZP63814.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999349688|emb|CZH40547.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999353454|emb|CZP68454.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999357212|emb|CZP67632.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999359988|emb|CZI62043.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999363792|emb|CZP56023.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999367136|emb|CZP77322.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999369921|emb|CZP77280.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999373440|emb|CZG56755.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999379769|emb|CZH69908.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999382664|emb|CZI58153.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999386267|emb|CZG63952.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999389114|emb|CZI56991.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999392325|emb|CZP98298.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999396888|emb|CZG08912.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999398573|emb|CZQ01181.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999403102|emb|CZP40647.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999405904|emb|CZG71399.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999408909|emb|CZH91710.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999412757|emb|CZG33255.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999415416|emb|CZG87836.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999418756|emb|CZG64199.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999421951|emb|CZH72771.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999425265|emb|CZG74718.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999428381|emb|CZG73117.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999431629|emb|CZG72876.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999434987|emb|CZH99921.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999438171|emb|CZG62025.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999441167|emb|CZK28618.1| camphor resistance [Legionella pneumophila] &gt;gi|999444640|emb|CZH77304.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999447843|emb|CZG53676.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999450642|emb|CZP36215.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999457584|emb|CZK22315.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999464833|emb|CZM52007.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999467857|emb|CZO29193.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999469332|emb|CZH07510.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999474718|emb|CZM62214.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999477175|emb|CZN75234.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999480677|emb|CZN00717.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999484232|emb|CZN89000.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999487109|emb|CZM11917.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999490282|emb|CZN79492.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999493473|emb|CZM11343.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999496269|emb|CZI47088.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999500053|emb|CZN73827.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999503179|emb|CZO08313.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999506353|emb|CZN15750.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999509556|emb|CZG50908.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999512894|emb|CZN29829.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999516018|emb|CZM00693.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999518985|emb|CZM83971.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999521885|emb|CZP16839.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999525344|emb|CZJ07148.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999528057|emb|CZI74132.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999532341|emb|CZO45861.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999535497|emb|CZN39948.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999538578|emb|CZM75511.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999542022|emb|CZO20512.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999544984|emb|CZO60740.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999548172|emb|CZN89516.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999551484|emb|CZO11425.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999554519|emb|CZN31651.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999557906|emb|CZO55640.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999561085|emb|CZM42105.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999564091|emb|CZO67165.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999567455|emb|CZM52937.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999570655|emb|CZN50868.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999573843|emb|CZN93072.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999576042|emb|CZI42545.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999580335|emb|CZO16937.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999583623|emb|CZO38272.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999586986|emb|CZM65080.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999589979|emb|CZM40187.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999593138|emb|CZN45049.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999596211|emb|CZO11746.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999599531|emb|CZO37375.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999602643|emb|CZL97177.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999605431|emb|CZN73153.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999608968|emb|CZN63531.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999611298|emb|CZI63285.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999615580|emb|CZM47624.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999618651|emb|CZN90442.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999621779|emb|CZO82281.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999625107|emb|CZN71657.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999628394|emb|CZM62739.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999631556|emb|CZM59391.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999634616|emb|CZN59630.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999637944|emb|CZN51736.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999641140|emb|CZO79689.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999644132|emb|CZO53297.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999647623|emb|CZN94906.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999650691|emb|CZO05061.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999653924|emb|CZO01096.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999657121|emb|CZM29780.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999660195|emb|CZM65193.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999663374|emb|CZN17350.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999666739|emb|CZM37988.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999669931|emb|CZL84385.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999673105|emb|CZM37875.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999676325|emb|CZN77805.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999679330|emb|CZM79318.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999682525|emb|CZM82357.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999686212|emb|CZO00181.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999689120|emb|CZN30551.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999692313|emb|CZN99275.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999695530|emb|CZN29211.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999698803|emb|CZM12327.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999701747|emb|CZM78619.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999704982|emb|CZL94727.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999708160|emb|CZN56900.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999711579|emb|CZN01038.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999714675|emb|CZN21503.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999717995|emb|CZO46014.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999720951|emb|CZM93667.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999724470|emb|CZN34339.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999727825|emb|CZL99171.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999730992|emb|CZO43541.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999734168|emb|CZM25592.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999737492|emb|CZO70697.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999740973|emb|CZM31742.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999744089|emb|CZN26698.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999747231|emb|CZM24813.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999750537|emb|CZL96380.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999753733|emb|CZM81232.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999756784|emb|CZN10578.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999760285|emb|CZM24525.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999763370|emb|CZN30154.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999766896|emb|CZM48282.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999769745|emb|CZN50751.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999776209|emb|CZL99960.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999777474|emb|CZH49576.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999782903|emb|CZH62718.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999786408|emb|CZM24344.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999789573|emb|CZO67043.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999792918|emb|CZO60630.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999799803|emb|CZO55782.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002074295|emb|CZR05496.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002081596|emb|CZR00301.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002085559|emb|CZQ97476.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002088291|emb|CZQ79050.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1002092776|emb|CZQ95538.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1003029200|emb|CZR19123.1| camphor resistance [Legionella pneumophila] &gt;gi|1003032386|emb|CZR24899.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1003036383|emb|CZR17037.1| camphor resistance [Legionella pneumophila] &gt;gi|1015431647|gb|AMV13274.1| Putative fluoride ion transporter CrcB [Legionella pneumophila] &gt;gi|1032656687|gb|ANH11958.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1032659654|gb|ANH14924.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1032662621|gb|ANH17890.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1041014549|gb|ANN91610.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1041017647|gb|ANN94707.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1103995580|emb|SFZ36680.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1103998711|emb|SFZ36412.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1104005395|emb|SFZ36344.1| camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213139</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>265.388</Hsp_bit-score>
+      <Hsp_score>677</Hsp_score>
+      <Hsp_evalue>2.61099e-88</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499533467|ref|WP_011214751.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|68565458|sp|Q5WZ32.1|CRCB_LEGPL RecName: Full=Putative fluoride ion transporter CrcB &gt;gi|53753333|emb|CAH14780.1| hypothetical protein lpl0550 [Legionella pneumophila str. Lens] &gt;gi|999187826|emb|CZI95682.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999376474|emb|CZJ18314.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1080002216|gb|AOW52788.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006031|gb|AOW56311.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008109|gb|AOW58097.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012229|gb|AOW61720.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014714|gb|AOW63587.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018472|gb|AOW67117.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214751</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>265.003</Hsp_bit-score>
+      <Hsp_score>676</Hsp_score>
+      <Hsp_evalue>4.41727e-88</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFVGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVF+GTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|652967226|ref|WP_027220198.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999247896|emb|CZH56894.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999454049|emb|CZI21082.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999460514|emb|CZH00250.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999773142|emb|CZH90150.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999796129|emb|CZI24025.1| camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220198</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>264.618</Hsp_bit-score>
+      <Hsp_score>675</Hsp_score>
+      <Hsp_evalue>6.4106e-88</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTIGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNT+GSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|653012665|ref|WP_027264768.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264768</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>264.233</Hsp_bit-score>
+      <Hsp_score>674</Hsp_score>
+      <Hsp_evalue>9.20205e-88</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLISNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL++NILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1006525795|ref|WP_061784168.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1005832279|gb|AMQ27005.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_061784168</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>263.848</Hsp_bit-score>
+      <Hsp_score>673</Hsp_score>
+      <Hsp_evalue>1.18385e-87</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFFFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLF FTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1005610005|ref|WP_061692499.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|998822468|emb|CZH34613.1| camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692499</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>262.307</Hsp_bit-score>
+      <Hsp_score>669</Hsp_score>
+      <Hsp_evalue>5.19386e-87</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>132</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLTGRFSAEEPFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVL GRFSAEE FRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|652976171|ref|WP_027228844.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|985765949|gb|KXB27060.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|985767741|gb|KXB28827.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999119264|emb|CZG76239.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|999122528|emb|CZH12822.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1024341672|gb|KZX35979.1| camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1108603987|gb|APF02355.1| camphor resistance protein CrcB [Legionella pneumophila subsp. fraseri] &gt;gi|1108606998|gb|APF05365.1| camphor resistance protein CrcB [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228844</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.832</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>1.14595e-83</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>224</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAISRYLVTIMAQNTWGIKFPYGTLLVNTIGSFLAGFFLIVLTGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGA+SRYLVTIMAQN WGIKFPYGTLLVNT+GSFLAGFFLIVL GRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1011913799|ref|WP_062727013.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727013</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.447</Hsp_bit-score>
+      <Hsp_score>646</Hsp_score>
+      <Hsp_evalue>1.73732e-83</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>224</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAVSRYLVTIMAQNTWGIKFPYGTLLVNTIGSFLAGFFLIVLTGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGA+SRYLVTIMAQN WGIKFPYGTLLVNT+GSFLAGFFLIVL GRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652970686|ref|WP_027223578.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella pneumophila] &gt;gi|1005362785|gb|AMP88654.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pascullei] &gt;gi|1005365786|gb|AMP91563.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pascullei] &gt;gi|1005368773|gb|AMP94549.1| camphor resistance protein CrcB [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223578</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.98</Hsp_bit-score>
+      <Hsp_score>637</Hsp_score>
+      <Hsp_evalue>3.37748e-82</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>224</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>128</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>131</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQ</Hsp_qseq>
+      <Hsp_hseq>MVVAPYLAVAIGGSLGAISRYLVTIMAQNMWGIKFPYGTLLVNTVGSFLAGFFLIVLAGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILVNNVGSLFMVFIGTLVAKYVLLGHQ</Hsp_hseq>
+      <Hsp_midline>MVVAPYLAVAIGGSLGA+SRYLVTIMAQN WGIKFPYGTLLVNT+GSFLAGFFLIVL GRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNILVNNVGSL MVFIGTLVAKYVLLGHQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|737926263|ref|WP_035891413.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella norrlandica] &gt;gi|701444827|gb|KGP62259.1| camphor resistance protein CrcB [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891413</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>231.106</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>1.24815e-74</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>227</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGHQGSN</Hsp_qseq>
+      <Hsp_hseq>MIIVPYLVIAIGGSLGAISRYLVTIMAQNVWGINFPYGTLIVNIVGSFLAGFFLTVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLITNILINNIGSLSMVLIGSLIAKCILLGHPDPN</Hsp_hseq>
+      <Hsp_midline>M++ PYL +AIGGSLGA+SRYLVTIMAQN WGI FPYGTL+VN +GSFLAGFFL VLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKL+TNIL+NN+GSLSMV IG+L+AK +LLGH   N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|966432010|ref|WP_058472443.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472443</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>200.675</Hsp_bit-score>
+      <Hsp_score>509</Hsp_score>
+      <Hsp_evalue>1.10496e-62</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MMIAPYLAVAFGGSLGAISRYATVIFAQNIWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAFTTFSSFAAESLFLFEQGQWLKLLINILVNNIGALTMVLVGTFVARSLLAGY</Hsp_hseq>
+      <Hsp_midline>M++APYLAVA GGSLGA+SRY   I AQN WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGAFTTFSSFAAESLF+FEQG W KL+ NILVNN+G+L+MV +GT VA+ +L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|654933352|ref|WP_028383706.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383706</Hit_accession>
+  <Hit_len>134</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.519</Hsp_bit-score>
+      <Hsp_score>506</Hsp_score>
+      <Hsp_evalue>3.51759e-62</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MMIAPYLAVAFGGSLGAMSRYATVLFAQNIWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAFTTFSSFAAESLFLYEQGQWFKLLVNILVNNIGALTMVLVGTCVARCLLAGY</Hsp_hseq>
+      <Hsp_midline>M++APYLAVA GGSLGAMSRY   + AQN WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGAFTTFSSFAAESLF++EQG WFKL+ NILVNN+G+L+MV +GT VA+ +L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|962271476|gb|KTD55478.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella quateirensis]</Hit_def>
+  <Hit_accession>KTD55478</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.364</Hsp_bit-score>
+      <Hsp_score>503</Hsp_score>
+      <Hsp_evalue>7.7256e-62</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MIAPYLAVAFGGSLGAISRYATVIFAQNIWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAFTTFSSFAAESLFLFEQGQWLKLLINILVNNIGALTMVLVGTFVARSLLAGY</Hsp_hseq>
+      <Hsp_midline>++APYLAVA GGSLGA+SRY   I AQN WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGAFTTFSSFAAESLF+FEQG W KL+ NILVNN+G+L+MV +GT VA+ +L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|962251425|gb|KTD35613.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella moravica]</Hit_def>
+  <Hit_accession>KTD35613</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.593</Hsp_bit-score>
+      <Hsp_score>501</Hsp_score>
+      <Hsp_evalue>1.69625e-61</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MIAPYLAVAFGGSLGAMSRYATVLFAQNIWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAFTTFSSFAAESLFLYEQGQWFKLLVNILVNNIGALTMVLVGTCVARCLLAGY</Hsp_hseq>
+      <Hsp_midline>++APYLAVA GGSLGAMSRY   + AQN WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGAFTTFSSFAAESLF++EQG WFKL+ NILVNN+G+L+MV +GT VA+ +L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966460468|ref|WP_058492897.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella worsleiensis] &gt;gi|962296540|gb|KTD80177.1| camphor resistance protein CrcB [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492897</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.815</Hsp_bit-score>
+      <Hsp_score>486</Hsp_score>
+      <Hsp_evalue>3.27718e-59</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MIAPYLAVAFGGALGAVSRYATVLMAQSMWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAFTTFSSFAAESLFLYEQGLWLKLLINVLVNNIGALMMVLAGTCIARFLLTGY</Hsp_hseq>
+      <Hsp_midline>++APYLAVA GG+LGA+SRY   +MAQ+ WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGAFTTFSSFAAESLF++EQG W KL+ N+LVNN+G+L MV  GT +A+++L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|919118316|ref|WP_052673957.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella fallonii]</Hit_def>
+  <Hit_accession>WP_052673957</Hit_accession>
+  <Hit_len>132</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>190.274</Hsp_bit-score>
+      <Hsp_score>482</Hsp_score>
+      <Hsp_evalue>1.25578e-58</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MMIAPYLAVALGGSIGAIARYAIVIFSQRVWGIYFPYGTLIVNTLGSFLSGFFLVLLVGRFSAEMYWRLFFFTGFLGAFTTFSSFAAETMFLFEQGQWFKLFVNVLANNVGSLAMVLLGTFMARFFVLEY</Hsp_hseq>
+      <Hsp_midline>M++APYLAVA+GGS+GA++RY + I +Q  WGI FPYGTL+VNTLGSFL+GFFL++LVGRFSAE  +RLF FTGFLGAFTTFSSFAAE++F+FEQG WFKL  N+L NNVGSL+MV +GT +A++ +L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|517404020|ref|WP_018576832.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella shakespearei] &gt;gi|962283723|gb|KTD67495.1| camphor resistance protein CrcB [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576832</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.889</Hsp_bit-score>
+      <Hsp_score>481</Hsp_score>
+      <Hsp_evalue>2.16655e-58</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MIAPYAIVAFGGSLGAISRYATVMFAQNVWGLRFPYGTLIVNTLGSFLAGFFLTLLVGRFSAEEYWRLFFFTGFLGAYTTFSSFAAESLFLFEQEQWLKLFTNIMANNIGSLTMVLLGTMAARFLLAGY</Hsp_hseq>
+      <Hsp_midline>++APY  VA GGSLGA+SRY   + AQN WG++FPYGTL+VNTLGSFLAGFFL +LVGRFSAEE +RLF FTGFLGA+TTFSSFAAESLF+FEQ  W KL TNI+ NN+GSL+MV +GT+ A+++L G+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|698844019|emb|CEG57988.1|</Hit_id>
+  <Hit_def>putative fluoride ion transporter CrcB [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>CEG57988</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>188.348</Hsp_bit-score>
+      <Hsp_score>477</Hsp_score>
+      <Hsp_evalue>6.97415e-58</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>129</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLLGH</Hsp_qseq>
+      <Hsp_hseq>MIAPYLAVALGGSIGAIARYAIVIFSQRVWGIYFPYGTLIVNTLGSFLSGFFLVLLVGRFSAEMYWRLFFFTGFLGAFTTFSSFAAETMFLFEQGQWFKLFVNVLANNVGSLAMVLLGTFMARFFVLEY</Hsp_hseq>
+      <Hsp_midline>++APYLAVA+GGS+GA++RY + I +Q  WGI FPYGTL+VNTLGSFL+GFFL++LVGRFSAE  +RLF FTGFLGAFTTFSSFAAE++F+FEQG WFKL  N+L NNVGSL+MV +GT +A++ +L +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966440844|ref|WP_058481167.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella waltersii] &gt;gi|962291902|gb|KTD75600.1| camphor resistance protein CrcB [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481167</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>170.244</Hsp_bit-score>
+      <Hsp_score>430</Hsp_score>
+      <Hsp_evalue>8.78553e-51</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>126</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>PYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>PYLAVATGGALGAIARYMTIIFAQNQWGLNFPYGTFIVNAFGSLLAGFLLAIFVGRYNASEYWRLFFFTGFLGAYTTFSSFAAESLFMFEQRQWLKLITNVLVNNLGSLTMVLLGSELTKRML</Hsp_hseq>
+      <Hsp_midline>PYLAVA GG+LGA++RY+  I AQN WG+ FPYGT +VN  GS LAGF L + VGR++A E +RLF FTGFLGA+TTFSSFAAESLFMFEQ  W KL+TN+LVNN+GSL+MV +G+ + K +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966471608|ref|WP_058502523.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella israelensis] &gt;gi|962231339|gb|KTD15909.1| camphor resistance protein CrcB [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502523</Hit_accession>
+  <Hit_len>126</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>1.26789e-42</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>94</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>MLTPYGAVALGGALGAICRYVTKTGAQTFWGIYFPYGTLIVNSLGSFIGGLLLAVLSDRWSGTEGARLFIFSGFLGAYTTFSSFAMESLLMFEKHQWFKLCMNVLANNVGALFMVYLGWQLGKYI</Hsp_hseq>
+      <Hsp_midline>++ PY AVA+GG+LGA+ RY+    AQ  WGI FPYGTL+VN+LGSF+ G  L VL  R+S  E  RLF+F+GFLGA+TTFSSFA ESL MFE+  WFKL  N+L NNVG+L MV++G  + KY+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966403162|ref|WP_058446757.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella feeleii] &gt;gi|962211510|gb|KTC96402.1| camphor resistance protein CrcB [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446757</Hit_accession>
+  <Hit_len>126</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>117.857</Hsp_bit-score>
+      <Hsp_score>294</Hsp_score>
+      <Hsp_evalue>3.13928e-30</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>212</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>118</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIG</Hsp_qseq>
+      <Hsp_hseq>MLASVLAVACGGTLGAVARFATVSIMQHALGSRYPYGTWVVNSLGSFLAGFLIILLTERFAVGDYWRLVLVVGFLGAYTTFSSFAWETWILYQNGQVLAAVLNILFNNVGSLAMVLLG</Hsp_hseq>
+      <Hsp_midline>++A  LAVA GG+LGA++R+    + Q+A G ++PYGT +VN+LGSFLAGF +I+L  RF+  + +RL L  GFLGA+TTFSSFA E+  +++ G     + NIL NNVGSL+MV +G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|518047729|ref|WP_019217937.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019217937</Hit_accession>
+  <Hit_len>122</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.546</Hsp_bit-score>
+      <Hsp_score>288</Hsp_score>
+      <Hsp_evalue>1.65735e-29</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>212</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>113</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIG</Hsp_qseq>
+      <Hsp_hseq>LAVACGGALGAVARFATVSIVQHVLGSRYPYGTWVVNSVGSFLAGFLIILLIERFDVGDYWRLLLVVGFLGAYTTFSSFAWETWVLYQNGQVLAVVLNILFNNIGSLAMVLLG</Hsp_hseq>
+      <Hsp_midline>LAVA GG+LGA++R+    + Q+  G ++PYGT +VN++GSFLAGF +I+L+ RF   + +RL L  GFLGA+TTFSSFA E+  +++ G    ++ NIL NN+GSL+MV +G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1041901098|ref|WP_065235552.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella jamestowniensis] &gt;gi|1045920102|gb|OCH97069.1| camphor resistance protein CrcB [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065235552</Hit_accession>
+  <Hit_len>132</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.161</Hsp_bit-score>
+      <Hsp_score>287</Hsp_score>
+      <Hsp_evalue>3.52692e-29</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>127</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>127</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>MMIQALFAIAVGGAMGAVSRFGTVVFLQKFLGYNYPYGTLAVNCIGSFLAGFIMLVLLERVVAAEYWRLFLVVGFLGAYTTFSSFSWETWMLYQKGNFLAALGNVVFNNVGALVMVFMGIYFGKLLL</Hsp_hseq>
+      <Hsp_midline>M++    A+A+GG++GA+SR+   +  Q   G  +PYGTL VN +GSFLAGF ++VL+ R  A E +RLFL  GFLGA+TTFSSF+ E+  ++++G +   + N++ NNVG+L MVF+G    K +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|962223815|gb|KTD08465.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella jamestowniensis] &gt;gi|1097331365|emb|SFL51447.1| CrcB protein [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>KTD08465</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>113.62</Hsp_bit-score>
+      <Hsp_score>283</Hsp_score>
+      <Hsp_evalue>1.63522e-28</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>126</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>AVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>AIAVGGAMGAVSRFGTVVFLQKFLGYNYPYGTLAVNCIGSFLAGFIMLVLLERVVAAEYWRLFLVVGFLGAYTTFSSFSWETWMLYQKGNFLAALGNVVFNNVGALVMVFMGIYFGKLLL</Hsp_hseq>
+      <Hsp_midline>A+A+GG++GA+SR+   +  Q   G  +PYGTL VN +GSFLAGF ++VL+ R  A E +RLFL  GFLGA+TTFSSF+ E+  ++++G +   + N++ NNVG+L MVF+G    K +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|737930434|ref|WP_035895368.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_035895368</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>112.849</Hsp_bit-score>
+      <Hsp_score>281</Hsp_score>
+      <Hsp_evalue>2.47954e-28</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>126</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAE-ESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>MTVACGGALGALSRFAMVTMVQVLVNMRFPVGTLIVNCLGSFLAGFAMSFFMDRFSVEAESWRLFFVVGFLGAYTTFSSFAWETWVLYSNGQWLSAVFNILINNVGTLILVIVGIQASRIV</Hsp_hseq>
+      <Hsp_midline>+ VA GG+LGA+SR+ +  M Q    ++FP GTL+VN LGSFLAGF +   + RFS E ES+RLF   GFLGA+TTFSSFA E+  ++  G W   + NIL+NNVG+L +V +G   ++ V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|769989237|ref|WP_045105188.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105188</Hit_accession>
+  <Hit_len>132</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>112.849</Hsp_bit-score>
+      <Hsp_score>281</Hsp_score>
+      <Hsp_evalue>2.50753e-28</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>127</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>127</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>MMLLSLLAIACGGAMGAVVRFATVVLMQKVLGYNYPYGTLAVNCIGSFLAGLIMVFLLERVAAAEFWRLVLVVGFLGAYTTFSSYSWETWVLYQKGNSLAALTNIVLNNVGALVMVFIGIYFGRVVL</Hsp_hseq>
+      <Hsp_midline>M++   LA+A GG++GA+ R+   ++ Q   G  +PYGTL VN +GSFLAG  ++ L+ R +A E +RL L  GFLGA+TTFSS++ E+  ++++G     +TNI++NNVG+L MVFIG    + VL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|570701553|gb|ETO92511.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella oakridgensis RV-2-2007] &gt;gi|962254536|gb|KTD38700.1| camphor resistance protein CrcB [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>ETO92511</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>112.849</Hsp_bit-score>
+      <Hsp_score>281</Hsp_score>
+      <Hsp_evalue>2.52161e-28</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAE-ESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>MTVACGGALGALSRFAMVTMVQVLVNMRFPVGTLIVNCLGSFLAGFAMSFFMDRFSVEAESWRLFFVVGFLGAYTTFSSFAWETWVLYSNGQWLSAVFNILINNVGTLILVIVGIQASRIV</Hsp_hseq>
+      <Hsp_midline>+ VA GG+LGA+SR+ +  M Q    ++FP GTL+VN LGSFLAGF +   + RFS E ES+RLF   GFLGA+TTFSSFA E+  ++  G W   + NIL+NNVG+L +V +G   ++ V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|731151157|emb|CEK09703.1|</Hit_id>
+  <Hit_def>Protein CrcB homolog [Legionella hackeliae] &gt;gi|962225564|gb|KTD10208.1| camphor resistance protein CrcB [Legionella hackeliae]</Hit_def>
+  <Hit_accession>CEK09703</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>112.464</Hsp_bit-score>
+      <Hsp_score>280</Hsp_score>
+      <Hsp_evalue>4.5998e-28</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>126</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>LAIACGGAMGAVVRFATVVLMQKVLGYNYPYGTLAVNCIGSFLAGLIMVFLLERVAAAEFWRLVLVVGFLGAYTTFSSYSWETWVLYQKGNSLAALTNIVLNNVGALVMVFIGIYFGRVVL</Hsp_hseq>
+      <Hsp_midline>LA+A GG++GA+ R+   ++ Q   G  +PYGTL VN +GSFLAG  ++ L+ R +A E +RL L  GFLGA+TTFSS++ E+  ++++G     +TNI++NNVG+L MVFIG    + VL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|916939332|ref|WP_051546044.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_051546044</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>108.997</Hsp_bit-score>
+      <Hsp_score>271</Hsp_score>
+      <Hsp_evalue>7.08429e-27</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>LVIIAGGAMGALARFATVGLMQRLLGFSYPYGTLVVNCLGSFLAGFIMVLIIERFAETEYWRLFLVVGFLGAYTTFSSFSWETWVLYQDGKTVAALANVFCNNVGALVMAFIGMHCGRFI</Hsp_hseq>
+      <Hsp_midline>L +  GG++GA++R+    + Q   G  +PYGTL+VN LGSFLAGF +++++ RF+  E +RLFL  GFLGA+TTFSSF+ E+  +++ G     + N+  NNVG+L M FIG    +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|654921617|ref|WP_028372177.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella lansingensis] &gt;gi|962239347|gb|KTD23827.1| camphor resistance protein CrcB [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372177</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>108.997</Hsp_bit-score>
+      <Hsp_score>271</Hsp_score>
+      <Hsp_evalue>9.04015e-27</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>LVIIAGGAMGALARFATVGLMQRLLGFSYPYGTLVVNCLGSFLAGFIMVLIIERFAETEYWRLFLVVGFLGAYTTFSSFSWETWVLYQDGKTVAALANVFCNNVGALVMAFIGMHCGRFI</Hsp_hseq>
+      <Hsp_midline>L +  GG++GA++R+    + Q   G  +PYGTL+VN LGSFLAGF +++++ RF+  E +RLFL  GFLGA+TTFSSF+ E+  +++ G     + N+  NNVG+L M FIG    +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966418962|ref|WP_058462185.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella adelaidensis] &gt;gi|962181266|gb|KTC66514.1| camphor resistance protein CrcB [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058462185</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>107.457</Hsp_bit-score>
+      <Hsp_score>267</Hsp_score>
+      <Hsp_evalue>2.81628e-26</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>127</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRF-SAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVL</Hsp_qseq>
+      <Hsp_hseq>LAVASGGALGALARFAVVSVTPFVLNFRFPFGTLIVNTLGSFLIGFLMVLLLGRYVMGAETWRLFLVVGFLGAFTTFSSFAWETWYLVENGQWLGATINIIANNFLTLLFALLGMFSGRWLL</Hsp_hseq>
+      <Hsp_midline>LAVA GG+LGA++R+ V  +       +FP+GTL+VNTLGSFL GF +++L+GR+    E++RLFL  GFLGAFTTFSSFA E+ ++ E G W     NI+ NN  +L    +G    +++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966428597|ref|WP_058471093.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella jordanis] &gt;gi|962232783|gb|KTD17331.1| camphor resistance protein CrcB [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471093</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>3.93261e-25</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>VVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>MLAQLLTVAFGGAIGALARFASVGGMQKLFGASFPFGTLLVNCVGSFLAGFIMVFILERLTEAEYWRLFLVVGFLGAYTTFSSFSWETWALYQDGKSMLAIGNIILNNVGALGMALIGINCGRFI</Hsp_hseq>
+      <Hsp_midline>++A  L VA GG++GA++R+      Q  +G  FP+GTLLVN +GSFLAGF ++ ++ R +  E +RLFL  GFLGA+TTFSSF+ E+  +++ G     + NI++NNVG+L M  IG    +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1041895295|ref|WP_065230256.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella erythra] &gt;gi|962213367|gb|KTC98236.1| camphor resistance protein CrcB [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_065230256</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.605</Hsp_bit-score>
+      <Hsp_score>257</Hsp_score>
+      <Hsp_evalue>1.15059e-24</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>AVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>AVACGGALGAVSRFGSVALMAKLFGSHYPVGTWFVNWLGSFLAGFIMILLLERFAVTDYWRLFLVVGFLGGFTTFSSYSWETWVLYEGGEHVAALLNIALNNICALGMAFVGIMVGRWI</Hsp_hseq>
+      <Hsp_midline>AVA GG+LGA+SR+    +    +G  +P GT  VN LGSFLAGF +I+L+ RF+  + +RLFL  GFLG FTTFSS++ E+  ++E G     + NI +NN+ +L M F+G +V +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|506379317|ref|WP_015899036.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Persephonella marina] &gt;gi|225646746|gb|ACO04932.1| CrcB protein [Persephonella marina EX-H1]</Hit_def>
+  <Hit_accession>WP_015899036</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>4.03289e-24</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>YLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>YIYVMIGGSLGAVSRFFISNYVNRNLPLDFPAGTLVVNSLGSFILVFFLILSIEKLSIDPVWRLFFAVGFLGAFTTFSTFSYETIALFQDGEYTKAMLNIILNNVVSITAGISGLFLARVI</Hsp_hseq>
+      <Hsp_midline>Y+ V IGGSLGA+SR+ ++        + FP GTL+VN+LGSF+  FFLI+ + + S +  +RLF   GFLGAFTTFS+F+ E++ +F+ G + K M NI++NNV S++    G  +A+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966505846|ref|WP_058522492.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella birminghamensis] &gt;gi|962190363|gb|KTC75458.1| camphor resistance protein CrcB [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522492</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.908</Hsp_bit-score>
+      <Hsp_score>250</Hsp_score>
+      <Hsp_evalue>1.15942e-23</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>199</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>VAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNIL</Hsp_qseq>
+      <Hsp_hseq>VAAGGGLGAVSRFGTSTLALKLWGSRFPYGTLLVNSFGSFLAGFLMILLLERFAVSDYWRLFFMVGFLGGFTTFSSFSWETWMLYQDSQYFSAFLNII</Hsp_hseq>
+      <Hsp_midline>VA GG LGA+SR+  + +A   WG +FPYGTLLVN+ GSFLAGF +I+L+ RF+  + +RLF   GFLG FTTFSSF+ E+  +++   +F    NI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1084603902|gb|OGO57703.1|</Hit_id>
+  <Hit_def>hypothetical protein A2Z32_06565 [Chloroflexi bacterium RBG_16_69_14]</Hit_def>
+  <Hit_accession>OGO57703</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.523</Hsp_bit-score>
+      <Hsp_score>249</Hsp_score>
+      <Hsp_evalue>2.2398e-23</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>189</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>PYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQG</Hsp_qseq>
+      <Hsp_hseq>PYLAISVGGALGANARYLVAAWATTQWGAQFPVATLLINVSGSFVIGLYLTLATERFTGHPAVRLLVATGFLGAYTTFSTFSVEALRLIETG</Hsp_hseq>
+      <Hsp_midline>PYLA+++GG+LGA +RYLV   A   WG +FP  TLL+N  GSF+ G +L +   RF+   + RL + TGFLGA+TTFS+F+ E+L + E G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|654937185|ref|WP_028387442.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella geestiana]</Hit_def>
+  <Hit_accession>WP_028387442</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.3673</Hsp_bit-score>
+      <Hsp_score>246</Hsp_score>
+      <Hsp_evalue>4.07004e-23</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>MVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAK</Hsp_qseq>
+      <Hsp_hseq>MVVNGLVWIALGGSLGALARFGTVSIASRFTGSEYPFGTLTVNGLGSFLVGFIMVFVMERFSSVEAIRLFAVVGFLGAYTTFSSFAWETLMLHQQGETTAAVLNVVLNVTIALGAVIAGVLCAR</Hsp_hseq>
+      <Hsp_midline>MVV   + +A+GGSLGA++R+    +A    G ++P+GTL VN LGSFL GF ++ ++ RFS+ E+ RLF   GFLGA+TTFSSFA E+L + +QG     + N+++N   +L  V  G L A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966514468|ref|WP_058530987.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella rubrilucens] &gt;gi|962264477|gb|KTD48528.1| camphor resistance protein CrcB [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530987</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.3673</Hsp_bit-score>
+      <Hsp_score>246</Hsp_score>
+      <Hsp_evalue>4.40608e-23</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>VAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>VACGGALGAVSRFGSAALMAKFFGSHYPVGTWFVNWLGSFLAGLIMILLLERFAVTDYWRLFLVVGFLGGFTTFSSYSWETWVLFEGGEHVAALLNIALNNLCALGMAFVGIMVGRWI</Hsp_hseq>
+      <Hsp_midline>VA GG+LGA+SR+    +    +G  +P GT  VN LGSFLAG  +I+L+ RF+  + +RLFL  GFLG FTTFSS++ E+  +FE G     + NI +NN+ +L M F+G +V +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966477437|ref|WP_058508170.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella quinlivanii] &gt;gi|962264098|gb|KTD48155.1| camphor resistance protein CrcB [Legionella quinlivanii] &gt;gi|1090726478|emb|SEG47559.1| CrcB protein [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058508170</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>1.36206e-22</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>191</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>VAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQG-YW</Hsp_qseq>
+      <Hsp_hseq>VAAGGGLGAVSRLGTSLLALKLWGSRFPYGTLIVNSFGSFLAGFLMILLLERFAVSDYWRLFFMVGFLGGFTTFSSFSWETWMLYQDSQYW</Hsp_hseq>
+      <Hsp_midline>VA GG LGA+SR   +++A   WG +FPYGTL+VN+ GSFLAGF +I+L+ RF+  + +RLF   GFLG FTTFSSF+ E+  +++   YW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1055494287|ref|WP_067153266.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Microbulbifer thermotolerans] &gt;gi|1016271652|gb|AMX02543.1| camphor resistance protein CrcB [Microbulbifer thermotolerans] &gt;gi|1097559554|emb|SFB84456.1| CrcB protein [Microbulbifer thermotolerans]</Hit_def>
+  <Hit_accession>WP_067153266</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>1.41604e-22</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>114</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>YLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVF</Hsp_qseq>
+      <Hsp_hseq>WLAIAVGGALGAMLRHLVTIGSFNLFGGRFPYGTLIVNVIGSFLIGIAYVLIVERALLGQEWRLMLTTGFFGALTTFSTFSLETVMLWHNGQPLTALANILVSLMLSLSATF</Hsp_hseq>
+      <Hsp_midline>+LA+A+GG+LGAM R+LVTI + N +G +FPYGTL+VN +GSFL G   +++V R    + +RL L TGF GA TTFS+F+ E++ ++  G     + NILV+ + SLS  F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|916944361|ref|WP_051551073.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella geestiana] &gt;gi|962209832|gb|KTC94738.1| camphor resistance protein CrcB [Legionella geestiana]</Hit_def>
+  <Hit_accession>WP_051551073</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>2.49549e-22</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>VAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAK</Hsp_qseq>
+      <Hsp_hseq>IALGGSLGALARFGTVSIASRFTGSEYPFGTLTVNGLGSFLVGFIMVFVMERFSSVEAIRLFAVVGFLGAYTTFSSFAWETLMLHQQGETTAAVLNVVLNVTIALGAVIAGVLCAR</Hsp_hseq>
+      <Hsp_midline>+A+GGSLGA++R+    +A    G ++P+GTL VN LGSFL GF ++ ++ RFS+ E+ RLF   GFLGA+TTFSSFA E+L + +QG     + N+++N   +L  V  G L A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|657726647|ref|WP_029523221.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Persephonella sp. KM09-Lau-8]</Hit_def>
+  <Hit_accession>WP_029523221</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.6709</Hsp_bit-score>
+      <Hsp_score>239</Hsp_score>
+      <Hsp_evalue>3.67114e-22</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>YLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAK</Hsp_qseq>
+      <Hsp_hseq>YLAIMIGGALGALFRFLVSSFVNKYSGLEFPAGTLVVNVIGSFVLVFFTVITLEKLSIDPLWRMFFAVGFLGAFTTFSTFSYETIALMQDGEYLKSIMNILLNNGLSLAAGIGGLILAK</Hsp_hseq>
+      <Hsp_midline>YLA+ IGG+LGA+ R+LV+       G++FP GTL+VN +GSF+  FF ++ + + S +  +R+F   GFLGAFTTFS+F+ E++ + + G + K + NIL+NN  SL+    G ++AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1041903959|ref|WP_065238357.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella spiritensis] &gt;gi|962282084|gb|KTD65874.1| hypothetical protein Lspi_0293 [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_065238357</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.6709</Hsp_bit-score>
+      <Hsp_score>239</Hsp_score>
+      <Hsp_evalue>4.52172e-22</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYV</Hsp_qseq>
+      <Hsp_hseq>VAVACGGALGATARFLTVTFARFAFGGDYPIGTLMVNSLGSFLAGLIMILLLERFPVSDYWHLFLVVGFLGAFTTFSSYSWETWMLYQNKDIVFAALNILCNNIFALGLALSGIILGRWI</Hsp_hseq>
+      <Hsp_midline>+AVA GG+LGA +R+L    A+ A+G  +P GTL+VN+LGSFLAG  +I+L+ RF   + + LFL  GFLGAFTTFSS++ E+  +++         NIL NN+ +L +   G ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|929006525|ref|WP_054030464.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Desulfatitalea tepidiphila]</Hit_def>
+  <Hit_accession>WP_054030464</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.2857</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>5.77358e-22</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>212</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>71</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>VAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAG-FFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIG</Hsp_qseq>
+      <Hsp_hseq>VMLGGSLGAASRYAIGLLAAKAWGVQFPWGTLLVNLSGCFLIGLLFALADRARLLTPE-MRLLLITGYLGALTTFSSFTLETVNAGRAGLTLQPLANILVNNIGGLALTILG</Hsp_hseq>
+      <Hsp_midline>V +GGSLGA SRY + ++A  AWG++FP+GTLLVN  G FL G  F +    R    E  RL L TG+LGA TTFSSF  E++     G   + + NILVNN+G L++  +G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|657723897|ref|WP_029520477.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Persephonella sp. IF05-L8]</Hit_def>
+  <Hit_accession>WP_029520477</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>8.01602e-22</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>YLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAK</Hsp_qseq>
+      <Hsp_hseq>YLAIMIGGALGALFRFLVSSFVNKYSGLEFPAGTLVVNVIGSFVLVFFTVITLEKLSIDPLWRMFFAVGFLGAFTTFSTFSYETIALMQDGEYLKSIMNILLNNGLSIAAGIGGLILAK</Hsp_hseq>
+      <Hsp_midline>YLA+ IGG+LGA+ R+LV+       G++FP GTL+VN +GSF+  FF ++ + + S +  +R+F   GFLGAFTTFS+F+ E++ + + G + K + NIL+NN  S++    G ++AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1041901010|ref|WP_065235464.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Legionella brunensis] &gt;gi|962192978|gb|KTC78045.1| camphor resistance protein CrcB [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_065235464</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.01281e-21</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>212</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>118</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>RYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIG</Hsp_qseq>
+      <Hsp_hseq>RFVTVGLLQRLLGSSYPYGTLVVNCIGSFLAGFIMILIMERLAQAEYWRLFLVVGFLGAYTTFSSFSWETWMLYQNGDSFAALANIIFNNIGALVMAFLG</Hsp_hseq>
+      <Hsp_midline>R++   + Q   G  +PYGTL+VN +GSFLAGF +I+++ R +  E +RLFL  GFLGA+TTFSSF+ E+  +++ G  F  + NI+ NN+G+L M F+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|740229343|ref|WP_038070609.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Thiomicrospira kuenenii]</Hit_def>
+  <Hit_accession>WP_038070609</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>1.32472e-21</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>221</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>VAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLL</Hsp_qseq>
+      <Hsp_hseq>IMQLLAVGVGGTFGAMSRFLLSNQMYAWWGRDFVWGTLTVNALGSFLIGLMTILMIDKLQLALEWRALLIVGFLGSFTTFSTFAFETLLFLQEGLFEKAMMNIVANVVLCLYMVWFGVWSGKQFLL</Hsp_hseq>
+      <Hsp_midline>+   LAV +GG+ GAMSR+L++      WG  F +GTL VN LGSFL G   I+++ +      +R  L  GFLG+FTTFS+FA E+L   ++G + K M NI+ N V  L MV+ G    K  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|740299284|ref|WP_038136999.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Thiomicrospira sp. Milos-T1]</Hit_def>
+  <Hit_accession>WP_038136999</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.1301</Hsp_bit-score>
+      <Hsp_score>235</Hsp_score>
+      <Hsp_evalue>1.74886e-21</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>221</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>129</Hsp_align-len>
+      <Hsp_qseq>NMVVAPYLAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGFFLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAKYVLL</Hsp_qseq>
+      <Hsp_hseq>NFHIMQLLAVGVGGTFGAMSRFLLSNQMYAWWGRDFVWGTLTVNALGSFLIGLLTILMIDKLHLAIEWRAMLIVGFLGSFTTFSTFAFETLLFLQEGLFEKAMMNIVANVVLCLYMVWFGVWSGRQFLL</Hsp_hseq>
+      <Hsp_midline>N  +   LAV +GG+ GAMSR+L++      WG  F +GTL VN LGSFL G   I+++ +      +R  L  GFLG+FTTFS+FA E+L   ++G + K M NI+ N V  L MV+ G    +  LL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|752614624|ref|WP_041283997.1|</Hit_id>
+  <Hit_def>camphor resistance protein CrcB [Desulfobacca acetoxidans]</Hit_def>
+  <Hit_accession>WP_041283997</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.1301</Hsp_bit-score>
+      <Hsp_score>235</Hsp_score>
+      <Hsp_evalue>1.91754e-21</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>217</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>LAVAIGGSLGAMSRYLVTIMAQNAWGIKFPYGTLLVNTLGSFLAGF-FLIVLVGRFSAEESFRLFLFTGFLGAFTTFSSFAAESLFMFEQGYWFKLMTNILVNNVGSLSMVFIGTLVAK</Hsp_qseq>
+      <Hsp_hseq>LLVMAGGSLGALSRYGVSLFAVKLFGAKFPYGTLIVNLLGCFLIGLAFALADRGLGIMNPSMRLFFMTGYLGALTTFSTFGLETVNAFREGRYIVSTANILTNNVIGSALVFLGLVVGR</Hsp_hseq>
+      <Hsp_midline>L V  GGSLGA+SRY V++ A   +G KFPYGTL+VN LG FL G  F +   G      S RLF  TG+LGA TTFS+F  E++  F +G +     NIL NNV   ++VF+G +V +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

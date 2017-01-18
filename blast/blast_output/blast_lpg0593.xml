@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_35251</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>223</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_35251</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>223</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248735|ref|WP_010946275.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|52840772|ref|YP_094571.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627883|gb|AAU26624.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507286|gb|AEW50810.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|999011883|emb|CZL84406.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999087897|emb|CZL15394.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999333348|emb|CZL30514.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073872602|gb|AOU12550.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946275</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>261.922</Hsp_bit-score>
+      <Hsp_score>668</Hsp_score>
+      <Hsp_evalue>4.59868e-87</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|545064049|ref|WP_021436931.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|536613640|gb|ERB42012.1| succinate dehydrogenase [Legionella pneumophila str. 121004] &gt;gi|541995605|gb|ERH41704.1| succinate dehydrogenase [Legionella pneumophila str. Leg01/11] &gt;gi|541997314|gb|ERH43362.1| succinate dehydrogenase [Legionella pneumophila str. Leg01/53] &gt;gi|542121186|gb|ERI47519.1| succinate dehydrogenase [Legionella pneumophila str. Leg01/20] &gt;gi|761989397|dbj|GAN22665.1| succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|761992504|dbj|GAN16544.1| succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|761995694|dbj|GAN19650.1| succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|761998948|dbj|GAN29018.1| succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|762002551|dbj|GAN25669.1| succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998777318|emb|CZH12087.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998793121|emb|CZI50993.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998801827|emb|CZI08154.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998892615|emb|CZJ23742.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998912170|emb|CZH24102.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998923728|emb|CZK24336.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998943798|emb|CZJ49991.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998954335|emb|CZK60633.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998975506|emb|CZJ90193.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998992828|emb|CZJ47796.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998994588|emb|CZI23174.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999003130|emb|CZI81110.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999009059|emb|CZK46707.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999018222|emb|CZJ87574.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999027336|emb|CZK25014.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999030562|emb|CZH23755.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999033287|emb|CZK20888.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999039492|emb|CZJ95974.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999042441|emb|CZK04683.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999048526|emb|CZK02126.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999051571|emb|CZJ92205.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999054550|emb|CZK29652.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999063683|emb|CZK01987.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999070574|emb|CZJ65105.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999072793|emb|CZK31936.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999084991|emb|CZK30482.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999159331|emb|CZJ69633.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999165733|emb|CZG85210.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999171850|emb|CZI29282.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999178338|emb|CZJ56296.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999181639|emb|CZG51291.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999184327|emb|CZP95939.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999187806|emb|CZI95203.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999212723|emb|CZG77516.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999216919|emb|CZI66369.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999225331|emb|CZG83751.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999235201|emb|CZP58105.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999240289|emb|CZH91001.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999244366|emb|CZH76353.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999247878|emb|CZH56157.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999248772|emb|CZH07975.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999251988|emb|CZH36728.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999255978|emb|CZP79443.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999259116|emb|CZP47031.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999261296|emb|CZH41458.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999265213|emb|CZP07011.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999269425|emb|CZO33128.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999272227|emb|CZP57931.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999274794|emb|CZG78698.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999277609|emb|CZP36801.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999281360|emb|CZP16432.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999283672|emb|CZP61704.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999286022|emb|CZJ07722.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999290989|emb|CZP32152.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999296484|emb|CZP58288.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999299571|emb|CZP47771.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999307307|emb|CZH70519.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999309371|emb|CZP26814.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999315821|emb|CZI10245.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999318679|emb|CZP65078.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999322021|emb|CZH98230.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999324440|emb|CZH33256.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999328624|emb|CZG64166.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999331864|emb|CZG59794.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999337758|emb|CZP47105.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999340080|emb|CZH26260.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999344451|emb|CZP84297.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999347210|emb|CZP63349.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999349707|emb|CZH41355.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999353472|emb|CZP69034.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999359969|emb|CZI61258.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999373459|emb|CZG57317.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999376494|emb|CZJ18931.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999379750|emb|CZH69525.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999382645|emb|CZI57365.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999386286|emb|CZG64606.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999389095|emb|CZI56195.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999396907|emb|CZG09772.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999403120|emb|CZP41416.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999405923|emb|CZG72378.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999408890|emb|CZH90751.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999412738|emb|CZG32734.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999415435|emb|CZG88729.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999418775|emb|CZG64868.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999421970|emb|CZH73185.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999425284|emb|CZG75299.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999428362|emb|CZG72139.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999431648|emb|CZG73596.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999435006|emb|CZI00783.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999438190|emb|CZG62748.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999441186|emb|CZK29320.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|999444621|emb|CZH76682.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999447824|emb|CZG53026.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999450624|emb|CZP35707.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999457565|emb|CZK21541.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999464851|emb|CZM52769.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999467875|emb|CZO29948.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999469313|emb|CZH06840.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999474700|emb|CZM61397.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999477157|emb|CZN74479.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999480659|emb|CZM99998.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999484250|emb|CZN89847.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999487091|emb|CZM11298.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999490264|emb|CZN78723.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999493455|emb|CZM10762.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999496250|emb|CZI46277.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999500035|emb|CZN73181.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999503161|emb|CZO07380.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999506371|emb|CZN16433.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999509574|emb|CZG51583.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999512912|emb|CZN30380.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999516000|emb|CZM00140.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999519003|emb|CZM84583.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999521867|emb|CZP16031.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999525363|emb|CZJ07900.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999528076|emb|CZI74913.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999532359|emb|CZO46544.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999535515|emb|CZN40490.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999538596|emb|CZM76301.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999542040|emb|CZO21082.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999545002|emb|CZO61417.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999548154|emb|CZN88877.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999551466|emb|CZO10696.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999554501|emb|CZN30924.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999557924|emb|CZO56152.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999561067|emb|CZM41247.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999564073|emb|CZO66359.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999567437|emb|CZM52248.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999570637|emb|CZN50297.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999573825|emb|CZN92366.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999576023|emb|CZI41903.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999580317|emb|CZO16010.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999583605|emb|CZO37468.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999586968|emb|CZM64234.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999589997|emb|CZM40804.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999593156|emb|CZN45618.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999596229|emb|CZO12489.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999599549|emb|CZO38146.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999602625|emb|CZL96410.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999605413|emb|CZN72365.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999608950|emb|CZN62903.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999611279|emb|CZI62582.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999615562|emb|CZM46839.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999618669|emb|CZN91276.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999621761|emb|CZO81553.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999625089|emb|CZN70999.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999628412|emb|CZM63326.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999631538|emb|CZM58744.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999634598|emb|CZN58941.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999637926|emb|CZN50988.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999641122|emb|CZO78962.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999644114|emb|CZO52483.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999647605|emb|CZN94362.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999650709|emb|CZO05480.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999653906|emb|CZO00534.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999657103|emb|CZM29019.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999660177|emb|CZM64659.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999663392|emb|CZN18016.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999666757|emb|CZM38739.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999669949|emb|CZL84930.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999673087|emb|CZM37288.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999676343|emb|CZN78557.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999679312|emb|CZM78488.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999682507|emb|CZM81827.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999686194|emb|CZN99434.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999689138|emb|CZN31062.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999692331|emb|CZN99977.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999695548|emb|CZN29961.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999698785|emb|CZM11774.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999701729|emb|CZM77764.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999704964|emb|CZL93921.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999708178|emb|CZN57443.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999711597|emb|CZN01712.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999714693|emb|CZN22329.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999717977|emb|CZO45240.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999720933|emb|CZM92900.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999724452|emb|CZN33573.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999727843|emb|CZL99703.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999730974|emb|CZO43038.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999734186|emb|CZM26109.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999737474|emb|CZO70164.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999740955|emb|CZM31271.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999744107|emb|CZN27235.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999747249|emb|CZM25283.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999750519|emb|CZL95557.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999753715|emb|CZM80629.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999756766|emb|CZN09880.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999760267|emb|CZM23882.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999763388|emb|CZN30651.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999766914|emb|CZM49164.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999769763|emb|CZN51512.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999773124|emb|CZH89494.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999776227|emb|CZM00551.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999777493|emb|CZH50395.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999782885|emb|CZH62314.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999786426|emb|CZM24978.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999789591|emb|CZO67815.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999792936|emb|CZO61214.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999796070|emb|CZI21304.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999799821|emb|CZO56596.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002081616|emb|CZR00540.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1003031218|emb|CZR32076.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1003036364|emb|CZR16938.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|1015431665|gb|AMV13292.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1103995598|emb|SFZ36767.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1103998730|emb|SFZ36495.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_021436931</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.98</Hsp_bit-score>
+      <Hsp_score>637</Hsp_score>
+      <Hsp_evalue>2.57043e-82</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRVSGVLIFLLFPFVLFILGCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHR+SGVLIFLLFPFVLFILGCSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|505257694|ref|WP_015444796.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|469492932|gb|AGH54777.1| Succinate dehydrogenase cytochrome b-556 subunit [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081194|gb|AGN13442.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771528|emb|CZI75836.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998795778|emb|CZI44550.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998800568|emb|CZL12087.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998804108|emb|CZK63600.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998807198|emb|CZI30994.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998810722|emb|CZI17115.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998813119|emb|CZH14262.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998816441|emb|CZM21084.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998819742|emb|CZM00972.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998825554|emb|CZK39248.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998832829|emb|CZI19215.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998834469|emb|CZL50896.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998838701|emb|CZJ30755.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998840508|emb|CZL84036.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998843088|emb|CZL07982.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998846319|emb|CZL08987.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998849166|emb|CZI97127.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998852432|emb|CZL88191.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998855953|emb|CZL53473.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998858618|emb|CZM29733.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998862316|emb|CZK41183.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998864766|emb|CZJ88332.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998867215|emb|CZJ83002.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998870199|emb|CZM41689.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998873618|emb|CZK71978.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998876212|emb|CZM47249.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998879331|emb|CZJ74775.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998885783|emb|CZM35501.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998888591|emb|CZK49715.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998895808|emb|CZK08904.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998905260|emb|CZK92540.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998908415|emb|CZL67847.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998916094|emb|CZK72470.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998917485|emb|CZL63719.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998920465|emb|CZL70444.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998926824|emb|CZL98530.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998930926|emb|CZK83109.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998933671|emb|CZL67602.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998938737|emb|CZL20622.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998946258|emb|CZK71807.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998947984|emb|CZL29029.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998956952|emb|CZM66686.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998960469|emb|CZK68937.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998963155|emb|CZK79417.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998966705|emb|CZM41250.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998969383|emb|CZL06611.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998972392|emb|CZK83024.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998978506|emb|CZM01673.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998986116|emb|CZK10470.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998987496|emb|CZL89165.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998998284|emb|CZJ97314.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999006418|emb|CZL22780.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999014924|emb|CZM77793.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999021229|emb|CZL94366.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999024040|emb|CZL20592.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999036239|emb|CZL86026.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999045231|emb|CZM31068.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999060293|emb|CZL80637.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999066491|emb|CZJ50458.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999075374|emb|CZH16869.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999078624|emb|CZK44714.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999083091|emb|CZK87008.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999090959|emb|CZL90567.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999093883|emb|CZH50072.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999096965|emb|CZH52219.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999101396|emb|CZL75993.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999110918|emb|CZL04586.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999114057|emb|CZL59510.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999115949|emb|CZK74065.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999124742|emb|CZL32084.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999132505|emb|CZL69685.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999133893|emb|CZL47741.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999136971|emb|CZK88383.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999140892|emb|CZL86361.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999144851|emb|CZK81568.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999146379|emb|CZM11755.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999155605|emb|CZI37629.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999174206|emb|CZL61294.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999189797|emb|CZI75374.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999192917|emb|CZJ16230.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999199254|emb|CZH01644.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999202126|emb|CZJ20993.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999208429|emb|CZL35007.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999217939|emb|CZM04975.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999220908|emb|CZJ08144.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002078808|emb|CZQ91962.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1003018392|emb|CZR30512.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|1003021464|emb|CZR26878.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|1003024496|emb|CZR30223.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|1073866056|gb|AOU06007.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073869020|gb|AOU08970.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073872021|gb|AOU11970.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073877944|gb|AOU17891.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073880906|gb|AOU20852.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073883906|gb|AOU23851.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073886898|gb|AOU26842.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073889852|gb|AOU29795.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073892854|gb|AOU32796.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073895817|gb|AOU35758.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073898776|gb|AOU38716.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073901729|gb|AOU41668.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073904650|gb|AOU44588.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073907603|gb|AOU47540.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073910604|gb|AOU50539.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073913634|gb|AOU53566.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073916589|gb|AOU56520.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073919558|gb|AOU59488.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073922456|gb|AOU62385.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073925541|gb|AOU65468.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073928503|gb|AOU68429.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073931490|gb|AOU71399.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073934848|gb|AOU74407.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073937825|gb|AOU84824.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073948093|gb|AOU87817.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1073951018|gb|AOU90741.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1104001849|emb|SFZ36451.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1129969677|gb|APU00037.1| succinate dehydrogenase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444796</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.21</Hsp_bit-score>
+      <Hsp_score>635</Hsp_score>
+      <Hsp_evalue>4.63039e-82</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1119426385|ref|WP_072401685.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998783022|emb|CZI85927.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998828328|emb|CZH38235.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401685</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>247.669</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.03643e-81</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRVSGVLIFLLFPFVLFILSCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHR+SGVLIFLLFPFVLFIL CSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|653014645|ref|WP_027266675.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266675</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>247.284</Hsp_bit-score>
+      <Hsp_score>630</Hsp_score>
+      <Hsp_evalue>2.44662e-81</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLLILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVL ILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|654927544|ref|WP_028378036.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378036</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>242.662</Hsp_bit-score>
+      <Hsp_score>618</Hsp_score>
+      <Hsp_evalue>2.01898e-79</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQTKIILANPYYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQ K +LANP+YKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|652970702|ref|WP_027223594.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1005365090|gb|AMP90959.1| succinate dehydrogenase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368166|gb|AMP93943.1| succinate dehydrogenase [Legionella pneumophila subsp. pascullei] &gt;gi|1005371084|gb|AMP96860.1| succinate dehydrogenase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223594</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>241.121</Hsp_bit-score>
+      <Hsp_score>614</Hsp_score>
+      <Hsp_evalue>6.73307e-79</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQTKIILANPYYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRVGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQ K +LANP+YKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLR GRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1011913808|ref|WP_062727022.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727022</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>241.121</Hsp_bit-score>
+      <Hsp_score>614</Hsp_score>
+      <Hsp_evalue>7.59486e-79</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGILIFLLFPFVLFILGCSLQSEESFIQTKIILANPYYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISG+LIFLLFPFVLFILGCSLQSEESF+Q K +LANP+YKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|652976159|ref|WP_027228832.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|985765937|gb|KXB27048.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|985767753|gb|KXB28839.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|999119248|emb|CZG75754.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999122544|emb|CZH13663.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1024341684|gb|KZX35991.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|1108606352|gb|APF04720.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. fraseri] &gt;gi|1108609345|gb|APF07712.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228832</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>240.35</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.53054e-78</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQTKIILANPYYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAFSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQ K +LANP+YKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSA SIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1004017383|ref|WP_061485170.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485170</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>239.195</Hsp_bit-score>
+      <Hsp_score>609</Hsp_score>
+      <Hsp_evalue>4.77923e-78</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRVSGVLIFLLFPFVLFILGSSLQSEESFVQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHR+SGVLIFLLFPFVLFILG SLQSEESFVQ K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|749552167|ref|WP_040185233.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185233</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>237.654</Hsp_bit-score>
+      <Hsp_score>605</Hsp_score>
+      <Hsp_evalue>1.50871e-77</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|499526518|ref|WP_011213158.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|53750347|emb|CAH11741.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila str. Paris] &gt;gi|53753355|emb|CAH14805.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila str. Lens] &gt;gi|148282589|gb|ABQ56677.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila str. Corby] &gt;gi|295648021|gb|ADG23868.1| succinate dehydrogenase cytochrome b-556 subunit [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395129619|emb|CCD07852.1| succinate dehydrogenase, membrane subunit, binds cytochrome b556 [Legionella pneumophila subsp. pneumophila] &gt;gi|998774438|emb|CZH07834.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998783311|emb|CZH41551.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998786228|emb|CZH06341.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998791262|emb|CZG41022.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998981358|emb|CZJ20288.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999107209|emb|CZI75235.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999149981|emb|CZI49380.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999168629|emb|CZI46268.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999198460|emb|CZP13337.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999206193|emb|CZP62954.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999228296|emb|CZP08160.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999230568|emb|CZI93091.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999292399|emb|CZI87089.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999301720|emb|CZI74151.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999311303|emb|CZJ21206.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999357230|emb|CZP68058.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999363810|emb|CZP56560.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999367118|emb|CZP76776.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999369939|emb|CZP77700.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999392307|emb|CZP98056.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999398555|emb|CZQ00971.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999454067|emb|CZI21948.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999460532|emb|CZH01194.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002074275|emb|CZR05374.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002090888|emb|CZR11535.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1003029181|emb|CZR19039.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella pneumophila] &gt;gi|1005834692|gb|AMQ29418.1| succinate dehydrogenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1032659079|gb|ANH14350.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|1032662042|gb|ANH17312.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|1032665020|gb|ANH20289.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|1041016993|gb|ANN94054.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1041019995|gb|ANN97055.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1080003187|gb|AOW53759.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006395|gb|AOW56675.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080009587|gb|AOW59575.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080013012|gb|AOW62503.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080016437|gb|AOW65310.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080019643|gb|AOW68288.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011213158</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>237.269</Hsp_bit-score>
+      <Hsp_score>604</Hsp_score>
+      <Hsp_evalue>2.31224e-77</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRVSGVLIFLLFPFVLFILGCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHR+SGVLIFLLFPFVLFILGCSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|749507438|ref|WP_040147879.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998822486|emb|CZH35142.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998882994|emb|CZI84358.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998897713|emb|CZK08918.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998938040|emb|CZL87348.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|998951079|emb|CZJ96050.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999000099|emb|CZG95057.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999058437|emb|CZM29229.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999103695|emb|CZI19346.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999128511|emb|CZH16407.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999152635|emb|CZM83162.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999161884|emb|CZM39154.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|999236698|emb|CZG93265.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002085541|emb|CZQ97364.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1002088309|emb|CZQ79068.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila] &gt;gi|1104005413|emb|SFZ36452.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040147879</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>234.958</Hsp_bit-score>
+      <Hsp_score>598</Hsp_score>
+      <Hsp_evalue>2.11062e-76</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>119</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKFPPMAIASILHRVSGVLIFLLFPFVLFILSCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLKFPPMAIASILHR+SGVLIFLLFPFVLFIL CSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|737924361|ref|WP_035889623.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella norrlandica] &gt;gi|701445764|gb|KGP63133.1| succinate dehydrogenase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889623</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>208.764</Hsp_bit-score>
+      <Hsp_score>530</Hsp_score>
+      <Hsp_evalue>4.61206e-66</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLSSLKYPPMAIASILHRISGILIFLLFPIVLFVLSYSLQSEESFVHAKMFLTHPYYKLVLWAFGASMIYHVIAGIRHLIMDMGFGESLNVGRASAVLVIALAAISIIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDLSSLK+PPMAIASILHRISG+LIFLLFP VLF+L  SLQSEESFV AK  L +P+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESL  GR SAV +I LA I  IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|962268703|gb|KTD52719.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase cytochrome b556 subunit C [Legionella quateirensis]</Hit_def>
+  <Hit_accession>KTD52719</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>204.912</Hsp_bit-score>
+      <Hsp_score>520</Hsp_score>
+      <Hsp_evalue>4.01907e-64</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>153</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MRKKPIVNKKRPVNLDLGTLKFPPMAIASILHRISGVLLFILLPIMLYILGLSLQSEESFTQMKDMITSPFYKLVLWAFSASLAYHILAGIRHIIMDMGFGEHLATGRRTSILVIVLSVILTIILGIWIW</Hsp_hseq>
+      <Hsp_midline>MRKK IVNKKRP+NLDL +LKFPPMAIASILHRISGVL+F+L P +L+ILG SLQSEESF Q K M+ +PFYKL+LWAF AS+ YH++AGIRH+IMDMGFGE L  GR +++ +IVL+VIL I LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|395126512|emb|CCD04695.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, membrane subunit, binds cytochrome b556 [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD04695</Hit_accession>
+  <Hit_len>106</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.904</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>7.97776e-63</Hsp_evalue>
+      <Hsp_query-from>118</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>106</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>102</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>MAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MAIASILHRVSGVLIFLLFPFVLFILGCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>MAIASILHR+SGVLIFLLFPFVLFILGCSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|498338336|ref|WP_010652492.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter dumoffii] &gt;gi|962207558|gb|KTC92489.1| succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652492</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.904</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>1.58798e-62</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAIASILHRISGVVLFLLLPIMLYIFGQSIQSEETFIQVKGLLAQPAYKMILWAFGAAMIYHLLAGIRHLLMDMGFGEHLDAGRRSAVIVIILAVILSIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +L+I G S+QSEE+F+Q K +LA P YK++LWAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LAVIL+IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966436340|ref|WP_058476708.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella steigerwaltii] &gt;gi|962295010|gb|KTD78664.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476708</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.749</Hsp_bit-score>
+      <Hsp_score>504</Hsp_score>
+      <Hsp_evalue>3.72437e-62</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAIASILHRISGVVLFLLLPIMLYIFGQSMQSEEAFIQVKSLLSHPAYKMIMWAFGAAMIYHLLAGIRHLVMDMGFGEHLDAGRRSAVLVIILAIILSIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +L+I G S+QSEE+F+Q K++L++P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LA+IL+IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|654932938|ref|WP_028383295.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella moravica] &gt;gi|962250721|gb|KTD34922.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383295</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.749</Hsp_bit-score>
+      <Hsp_score>504</Hsp_score>
+      <Hsp_evalue>3.72437e-62</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGTLKFPPMAIASILHRISGVLLFILLPIMLYILGLSLQSEESFTQMKSMIANPFYKLVLWAFSASLAYHILAGIRHIIMDMGFGEHLATGRRTSILVIVLSVILTIILGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL +LKFPPMAIASILHRISGVL+F+L P +L+ILG SLQSEESF Q K+M+ANPFYKL+LWAF AS+ YH++AGIRH+IMDMGFGE L  GR +++ +IVL+VIL I LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966499574|ref|WP_058516247.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella parisiensis] &gt;gi|962260108|gb|KTD44223.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella parisiensis] &gt;gi|1069290681|gb|OEH46081.1| Succinate dehydrogenase cytochrome b556 subunit [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516247</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.364</Hsp_bit-score>
+      <Hsp_score>503</Hsp_score>
+      <Hsp_evalue>4.89446e-62</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIVSILHRISGVVLFLLLPIMLYIFGQSMQSEEAFIQVKDLLSHPIYKLVVWAFGAAMIYHVLAGIRHLVMDMGFGEHLDAGRRSAVIVIILAVILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAI SILHRISGV++FLL P +L+I G S+QSEE+F+Q K +L++P YKL++WAFGA+MIYHV+AGIRHL+MDMGFGE L AGR SAV +I+LAVIL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|914297294|ref|WP_050566907.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050566907</Hit_accession>
+  <Hit_len>106</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.593</Hsp_bit-score>
+      <Hsp_score>501</Hsp_score>
+      <Hsp_evalue>7.18139e-62</Hsp_evalue>
+      <Hsp_query-from>118</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>106</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>MAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MAIASILHRVSGVLIFLLFPFVLFILSCSLQSEESFAQTKIILANPYYKLLLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIALAVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>MAIASILHR+SGVLIFLLFPFVLFIL CSLQSEESF Q K +LANP+YKL+LWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSII LAVILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654930388|ref|WP_028380757.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella cherrii] &gt;gi|962197135|gb|KTC82179.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380757</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.593</Hsp_bit-score>
+      <Hsp_score>501</Hsp_score>
+      <Hsp_evalue>1.075e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLNYPPMAIASILHRISGVVLFLLLPIMLYIFGQSMQSEEAFTQVKSLLSHPAYKMILWAFGAAMIYHVLAGIRHLLMDMGFGEHLNAGRRSAVLVIILAIILSIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SL +PPMAIASILHRISGV++FLL P +L+I G S+QSEE+F Q K++L++P YK++LWAFGA+MIYHV+AGIRHL+MDMGFGE L AGR SAV +I+LA+IL+IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|648562082|ref|WP_026253833.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella shakespearei] &gt;gi|962276144|gb|KTD60045.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_026253833</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.208</Hsp_bit-score>
+      <Hsp_score>500</Hsp_score>
+      <Hsp_evalue>1.66432e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>92</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLSSLKFPPMAIASILHRISGVLLFVLLPFMLFILSQSLQSAEAFTQMKIMIDNPFYKLILWAFSAALAYHVLAGIRHLLMDMGFGEHLDTGRHTAILVIVLAVISTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDLSSLKFPPMAIASILHRISGVL+F+L PF+LFIL  SLQS E+F Q K M+ NPFYKL+LWAF A++ YHV+AGIRHL+MDMGFGE L  GR +A+ +IVLAVI  IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|493927294|ref|WP_006872043.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella drancourtii] &gt;gi|363536426|gb|EHL29868.1| hypothetical protein LDG_8160 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872043</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>196.438</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>2.72137e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>92</Hsp_identity>
+      <Hsp_positive>108</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIASILHRISGLVLFLLLPIMLFIFGQSLQSEESFAQMKTLLTHPCYKLVLWAFGTALIYHVLAGIRHMIMDLGFGEHLSAGRRTAVLVIVLAVILTIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAIASILHRISG+++FLL P +LFI G SLQSEESF Q KT+L +P YKL+LWAFG ++IYHV+AGIRH+IMD+GFGE L AGR +AV +IVLAVIL IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966493784|ref|WP_058510572.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella steelei] &gt;gi|962284718|gb|KTD68484.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella steelei] &gt;gi|1113342046|gb|OJW05923.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510572</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>196.438</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>2.96996e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAISSILHRISGVVLFLLLPIMLYIFGQSVQSEEAFTQVKSLLSHPAYKMIMWAFGAAMIYHLLAGIRHLVMDMGFGEHLDAGRRSAVLVIILAIILSIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAI+SILHRISGV++FLL P +L+I G S+QSEE+F Q K++L++P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LA+IL+IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|518064354|ref|WP_019234562.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234562</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>196.438</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>3.06893e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIASILHRISGVVLFLLLPVMLYVFGQSMQSEEAFIQVKDLLSHPVYKMVVWAFGAAMIYHLLAGIRHLVMDMGFGEHLDAGRRSAVLVIILAIILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAIASILHRISGV++FLL P +L++ G S+QSEE+F+Q K +L++P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LA+IL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|963705523|ref|WP_058388483.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella anisa] &gt;gi|962187103|gb|KTC72236.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_058388483</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>196.052</Hsp_bit-score>
+      <Hsp_score>497</Hsp_score>
+      <Hsp_evalue>4.85615e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIASILHRISGVVLFLLLPVMLYVFGQSMQSEEAFIQVKDLLSHPVYKMVVWAFGAAMIYHLLAGIRHLVMDMGFGEHLDAGRRSAVLVIILATILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAIASILHRISGV++FLL P +L++ G S+QSEE+F+Q K +L++P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LA IL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966426202|ref|WP_058468740.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter gormanii] &gt;gi|962216858|gb|KTD01612.1| succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468740</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>195.667</Hsp_bit-score>
+      <Hsp_score>496</Hsp_score>
+      <Hsp_evalue>6.04223e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAIASILHRISGVVLFLLLPIMLYIFGQSMQSEETFSQVKNLLSHPAYKMIMWAFGASMIYHLLAGIRHLLMDMGFGEHLDAGRRSAVLVIFLAIILSIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +L+I G S+QSEE+F Q K +L++P YK+++WAFGASMIYH++AGIRHL+MDMGFGE L AGR SAV +I LA+IL+IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966466524|ref|WP_058497850.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella gratiana] &gt;gi|962230017|gb|KTD14613.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497850</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>195.667</Hsp_bit-score>
+      <Hsp_score>496</Hsp_score>
+      <Hsp_evalue>6.66659e-61</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLASLKYPPMAIASILHRLSGVVLFLLLPIMLFILGQSIQSEETFIHVKNLLSHPSYKILVWVFGAAMIYHLLAGIRHLLMDMGFGEHLNAGRNSAVLVIVLAAILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDL+SLK+PPMAIASILHR+SGV++FLL P +LFILG S+QSEE+F+  K +L++P YK+++W FGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +IVLA IL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966432629|ref|WP_058473062.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058473062</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>194.897</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.5128e-60</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGTLKFPPMAIASILHRISGVLLFILLPIMLYILGLSLQSEESFTQMKDMITSPFYKLVLWAFSASLAYHILAGIRHIIMDMGFGEHLATGRRTSILVIVLSVILTIILGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL +LKFPPMAIASILHRISGVL+F+L P +L+ILG SLQSEESF Q K M+ +PFYKL+LWAF AS+ YH++AGIRH+IMDMGFGE L  GR +++ +IVL+VIL I LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966460956|ref|WP_058493385.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella worsleiensis] &gt;gi|962296390|gb|KTD80031.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493385</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>193.356</Hsp_bit-score>
+      <Hsp_score>490</Hsp_score>
+      <Hsp_evalue>4.66109e-60</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGTLKFPPMAISSILHRISGVLLFILLPIMLYILGLSLQSEESFIQMKSMISSPFYKLVLWAFSASLAYHILAGIRHIIMDMGFGEHLESSRRTSIMVIILSVILTIILGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL +LKFPPMAI+SILHRISGVL+F+L P +L+ILG SLQSEESF+Q K+M+++PFYKL+LWAF AS+ YH++AGIRH+IMDMGFGE L + R +++ +I+L+VIL I LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966505248|ref|WP_058521907.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella tucsonensis] &gt;gi|962287621|gb|KTD71349.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521907</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.815</Hsp_bit-score>
+      <Hsp_score>486</Hsp_score>
+      <Hsp_evalue>2.50668e-59</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAIASILHRISGVVLFLLLPIMLYIFGQSMQSEEAFIRVKDLLSHPVYKVVVWAFGAAMVYHLLAGIRHLVMDMGFGEHLDAARRSAVVVIILAIILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +L+I G S+QSEE+F++ K +L++P YK+++WAFGA+M+YH++AGIRHL+MDMGFGE L A R SAV +I+LA+IL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966516874|ref|WP_058533368.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533368</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>190.66</Hsp_bit-score>
+      <Hsp_score>483</Hsp_score>
+      <Hsp_evalue>6.00621e-59</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIASILHRISGVVLFLLLPIMLFIFGQSVQSAETFAQMKALLTHPCYKLILWAFGAALIYHVLAGIRHMIMDLGFGEHLNAGRRTAVLVIVLAVILSILLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAIASILHRISGV++FLL P +LFI G S+QS E+F Q K +L +P YKL+LWAFGA++IYHV+AGIRH+IMD+GFGE L AGR +AV +IVLAVIL+I LG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966420700|ref|WP_058463901.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella cincinnatiensis] &gt;gi|962206961|gb|KTC91894.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463901</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>186.422</Hsp_bit-score>
+      <Hsp_score>472</Hsp_score>
+      <Hsp_evalue>2.48853e-57</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPINLDLVSLKYPPMAIASILHRISGVILFLLLPIMLFILGQSVQSEETFLHVKNLLSQACYKMVVWAFGTAMIYHLLAGIRHLLMDIGFGEHLNAGRNSAVLVIALTVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRPINLDL SLK+PPMAIASILHRISGV++FLL P +LFILG S+QSEE+F+  K +L+   YK+++WAFG +MIYH++AGIRHL+MD+GFGE L AGR SAV +I L VIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|653018973|ref|WP_027270928.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella sainthelensi] &gt;gi|962274592|gb|KTD58523.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270928</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>185.267</Hsp_bit-score>
+      <Hsp_score>469</Hsp_score>
+      <Hsp_evalue>7.02161e-57</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLVSLKYPPMAIASILHRISGVVLFLLLPIMLFILGQSVQSEETFLHVKNLLSQSCYKMVVWAFGTAMIYHLLAGIRHLLMDIGFGEHLNAGRNSAILVIALTVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +LFILG S+QSEE+F+  K +L+   YK+++WAFG +MIYH++AGIRHL+MD+GFGE L AGR SA+ +I L VIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|671586688|ref|WP_031563086.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563086</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>183.341</Hsp_bit-score>
+      <Hsp_score>464</Hsp_score>
+      <Hsp_evalue>4.16197e-56</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKYPPMAIASILHRISGVVLFVLLPIMLCLFSESMQSEQAFAQVKTWLTQPAYKMVVWAFGAAMIYHLLAGIRHLLMDMGFGEHLESGRRSAVLVIILAIILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++F+L P +L +   S+QSE++F Q KT L  P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L +GR SAV +I+LA+IL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966496224|ref|WP_058512990.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella santicrucis] &gt;gi|962282806|gb|KTD66582.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058512990</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>183.341</Hsp_bit-score>
+      <Hsp_score>464</Hsp_score>
+      <Hsp_evalue>4.74451e-56</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLVSFKYPPMAIASILHRISGVVLFLLLPIMLFILGQSVQSEESFFHVKNLLSQSCYKMVVWAFGTAMIYHLLAGIRHLLMDIGFGEHLHAGRNSAVFVIALTVLLTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL S K+PPMAIASILHRISGV++FLL P +LFILG S+QSEESF   K +L+   YK+++WAFG +MIYH++AGIRHL+MD+GFGE L AGR SAV +I L V+L IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|489729096|ref|WP_003633212.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella longbeachae] &gt;gi|269990022|gb|EEZ96276.1| succinate dehydrogenase cytochrome b556 subunit [Legionella longbeachae D-4968] &gt;gi|288856910|emb|CBJ10724.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003633212</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>183.341</Hsp_bit-score>
+      <Hsp_score>464</Hsp_score>
+      <Hsp_evalue>5.23433e-56</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLVSLKYPPMAIASILHRISGVVLFLLLPIMLFIWGQSVQSEEAFLHVKNLLSQSCYKMVVWAFGSAMIYHLLAGIRHLLMDIGVGEHLNAGRNSAILVIVLTVILAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLK+PPMAIASILHRISGV++FLL P +LFI G S+QSEE+F+  K +L+   YK+++WAFG++MIYH++AGIRHL+MD+G GE L AGR SA+ +IVL VILAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966511772|ref|WP_058528326.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella londiniensis] &gt;gi|962238626|gb|KTD23034.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528326</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>182.185</Hsp_bit-score>
+      <Hsp_score>461</Hsp_score>
+      <Hsp_evalue>1.52567e-55</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNRQRPVNLDLTSLKYPPMAIASILHRVSGVILFILFPALLYFLSWSLHSEAAFQEVKAWLANPFCKLLFWAFSAAAAYHLLAGTRHLIMDIGFGEELKAGRMSAVFVIVLALVLAIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+N++RP+NLDL+SLK+PPMAIASILHR+SGV++F+LFP +L+ L  SL SE +F + K  LANPF KL+ WAF A+  YH++AG RHLIMD+GFGE L+AGRMSAV +IVLA++LAIFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|648288030|ref|WP_026069179.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_026069179</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.03</Hsp_bit-score>
+      <Hsp_score>458</Hsp_score>
+      <Hsp_evalue>3.4973e-55</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNQKRPVNLDLATMKFPAMAIASILHRISGLILFLLLPFMLYFLSMSLNSAETFSELHNLLASPFNKLLLWAFGAALVYHLLAGIRHLLMDLGFGEDVSAGRHSAIFVIVLAVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+N+KRP+NLDL+++KFP MAIASILHRISG+++FLL PF+L+ L  SL S E+F +   +LA+PF KL+LWAFGA+++YH++AGIRHL+MD+GFGE + AGR SA+ +IVLAVIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966414744|ref|WP_058458029.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter bozemanae] &gt;gi|962192305|gb|KTC77379.1| succinate dehydrogenase, cytochrome b556 subunit [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458029</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>180.644</Hsp_bit-score>
+      <Hsp_score>457</Hsp_score>
+      <Hsp_evalue>5.53121e-55</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLGSLKFPPMAIASILHRISGVVLFLLLPIMLYIFGQSMQSEEAFIQVKDLLSHPVYKVVVWAFGAAMIYHLLAGIRHLVMDMGFGEHLDAGRRSAVIVIILAIILSIFLGFWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL SLKFPPMAIASILHRISGV++FLL P +L+I G S+QSEE+F+Q K +L++P YK+++WAFGA+MIYH++AGIRHL+MDMGFGE L AGR SAV +I+LA+IL+IFLG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966400240|ref|WP_058443835.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella feeleii] &gt;gi|962218285|gb|KTD03004.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443835</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>178.718</Hsp_bit-score>
+      <Hsp_score>452</Hsp_score>
+      <Hsp_evalue>3.5364e-54</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNQKRPVNLDLATMKFPAMAIASILHRISGLVLFLLLPFMLYFLSMSLNSAETFSELHKLLASPFNKLLLWAFGAALVYHLLAGIRHLLMDLGLGEDVSAGRHSAIFVIVLAVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+N+KRP+NLDL+++KFP MAIASILHRISG+++FLL PF+L+ L  SL S E+F +   +LA+PF KL+LWAFGA+++YH++AGIRHL+MD+G GE + AGR SA+ +IVLAVIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|769978699|ref|WP_045094684.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella fallonii] &gt;gi|698841942|emb|CEG55889.1| succinate dehydrogenase, membrane subunit, binds cytochrome b556 [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094684</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.178</Hsp_bit-score>
+      <Hsp_score>448</Hsp_score>
+      <Hsp_evalue>1.04166e-53</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MDKKRPVNLDLSSLKFPPMAIASILHRISGIALFLLLPLMLFILGKSLQSEDLFIQTKSMLTSPYYKLGLWAFSAALIYHVLAGIRHLLMDMGYGEHLSAGRRSAILVIVLSVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>++KKRP+NLDLSSLKFPPMAIASILHRISG+ +FLL P +LFILG SLQSE+ F+Q K+ML +P+YKL LWAF A++IYHV+AGIRHL+MDMG+GE L AGR SA+ +IVL+VIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1113532927|gb|OJX93299.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJX93299</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.178</Hsp_bit-score>
+      <Hsp_score>448</Hsp_score>
+      <Hsp_evalue>1.25396e-53</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLSTLKFPPMAIASILHRISGVALFLLMPVMLYILGQSLQSQETFTTLQQTLNTPLWKIVLWLFGAAIIYHTLAGIRHLLMDFGLGEELHSGRQSANAVIILSVILTIILGYWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDLS+LKFPPMAIASILHRISGV +FLL P +L+ILG SLQS+E+F   +  L  P +K++LW FGA++IYH +AGIRHL+MD G GE L +GR SA ++I+L+VIL I LG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966406144|ref|WP_058449550.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella jamestowniensis] &gt;gi|962222777|gb|KTD07427.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella jamestowniensis] &gt;gi|1045920871|gb|OCH97804.1| succinate dehydrogenase, cytochrome b556 subunit [Legionella jamestowniensis] &gt;gi|1097327769|emb|SFL93080.1| succinate dehydrogenase subunit C [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449550</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>176.022</Hsp_bit-score>
+      <Hsp_score>445</Hsp_score>
+      <Hsp_evalue>4.11879e-53</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNQKRPINLDLGTMKFPPMAIASILHRISGLVLFLLMPAMLYFLALSLQSVNSFMELQQKLAHPFHKLVLWAFSAALVYHLLAGIRHLLMDLGYGEHLKSGRRSAIFVIVLSIILTLLLGIWIW</Hsp_hseq>
+      <Hsp_midline>+N+KRPINLDL ++KFPPMAIASILHRISG+++FLL P +L+ L  SLQS  SF++ +  LA+PF+KL+LWAF A+++YH++AGIRHL+MD+G+GE L++GR SA+ +IVL++IL + LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|962291971|gb|KTD75669.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase cytochrome b556 subunit C [Legionella waltersii]</Hit_def>
+  <Hit_accession>KTD75669</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>175.252</Hsp_bit-score>
+      <Hsp_score>443</Hsp_score>
+      <Hsp_evalue>6.22895e-53</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>NKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>TNKRPINLDLLTLKFPPMAIVSILHRISGVLIFGLFPMILCLLGHSLHSEETFQQVGFMLDNPYYKLMVWAFSSAMIYHVIAGIRHIIMDLGIGESLCAGKMSAILVIALAFISIICLGIWIW</Hsp_hseq>
+      <Hsp_midline>  KRPINLDL +LKFPPMAI SILHRISGVLIF LFP +L +LG SL SEE+F Q   ML NP+YKLM+WAF ++MIYHVIAGIRH+IMD+G GESL AG+MSA+ +I LA I  I LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966399261|ref|WP_058442894.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella brunensis] &gt;gi|962191748|gb|KTC76824.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442894</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.785</Hsp_bit-score>
+      <Hsp_score>434</Hsp_score>
+      <Hsp_evalue>1.73463e-51</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQ-AKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNQKRPINLDLGTMKFPPMAIASILHRVSGLVLFLLMPAMLYFLSMSLHSNESFVELQRTIYSNPLYKLVLWAFGAALIYHLLAGIRHLAMDVGYGEQVSSGRRSAILVIALAIILSLILGFWIW</Hsp_hseq>
+      <Hsp_midline>+N+KRPINLDL ++KFPPMAIASILHR+SG+++FLL P +L+ L  SL S ESFV+  +T+ +NP YKL+LWAFGA++IYH++AGIRHL MD+G+GE + +GR SA+ +I LA+IL++ LG WIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|962243734|gb|KTD28051.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase cytochrome b556 subunit C [Legionella maceachernii]</Hit_def>
+  <Hit_accession>KTD28051</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>170.629</Hsp_bit-score>
+      <Hsp_score>431</Hsp_score>
+      <Hsp_evalue>1.4167e-50</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>160</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>MRKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>LRKILTVNQKRPVNLDLGTIRFPVMAIASILHRISGLILFLLMPFILYLLSKSLSSAISFMQMQVLLQSPFHKLLLWAFSAALVYHLLAGIRHMIMDLGYGEEVKAGRQTAIWVIALAVILTIFLGIWIW</Hsp_hseq>
+      <Hsp_midline>+RK L VN+KRP+NLDL +++FP MAIASILHRISG+++FLL PF+L++L  SL S  SF+Q + +L +PF+KL+LWAF A+++YH++AGIRH+IMD+G+GE ++AGR +A+ +I LAVIL IFLGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|962237790|gb|KTD22229.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase cytochrome b556 subunit C [Legionella lansingensis]</Hit_def>
+  <Hit_accession>KTD22229</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>168.703</Hsp_bit-score>
+      <Hsp_score>426</Hsp_score>
+      <Hsp_evalue>5.18048e-50</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>130</Hsp_align-len>
+      <Hsp_qseq>RKKLIVNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTM-LANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>RKILTVNKKRPINLDLRTMKFPPMAIASILHRISGLVLFLLTPAILYFLDVSLRGPQSYAELHTIILDSPVHKLVLWAFCAAFIYHLLAGIRHLIMDAGYGEQLSSGRRSAIFVIVLAIILTLLLGIWIW</Hsp_hseq>
+      <Hsp_midline>RK L VNKKRPINLDL ++KFPPMAIASILHRISG+++FLL P +L+ L  SL+  +S+ +  T+ L +P +KL+LWAF A+ IYH++AGIRHLIMD G+GE L +GR SA+ +IVLA+IL + LGIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966442533|ref|WP_058482795.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase, cytochrome b556 subunit [Legionella spiritensis] &gt;gi|962280872|gb|KTD64687.1| succinate dehydrogenase cytochrome b556 subunit C [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482795</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.777</Hsp_bit-score>
+      <Hsp_score>421</Hsp_score>
+      <Hsp_evalue>1.5508e-49</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>VNKKRPINLDLSSLKFPPMAIASILHRISGVLIFLLFPFVLFILGCSLQSEESFVQAKTMLANPFYKLMLWAFGASMIYHVIAGIRHLIMDMGFGESLRAGRMSAVSIIVLAVILAIFLGIWIW</Hsp_qseq>
+      <Hsp_hseq>MNKKRPVNLDLTTIKFPPMAIASILHRISGVVLFLLLPVIIYFLDLSLRNAGTFSNLQMLLEQFHWKLLLWVFLAALIYHVLAGIRHVLMDIGYGEHLKAGRLSALAVIILAVILTIFAGIWIW</Hsp_hseq>
+      <Hsp_midline>+NKKRP+NLDL+++KFPPMAIASILHRISGV++FLL P +++ L  SL++  +F   + +L    +KL+LW F A++IYHV+AGIRH++MD+G+GE L+AGR+SA+++I+LAVIL IF GIWIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_179389</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>237</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_179389</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>237</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248733|ref|WP_010946273.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|52840770|ref|YP_094569.1| hypothetical protein lpg0526 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627881|gb|AAU26622.1| hypothetical protein lpg0526 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507284|gb|AEW50808.1| hypothetical protein lp12_0531 [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492934|gb|AGH54779.1| hypothetical protein LPE509_02688 [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|1003018390|emb|CZR30506.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946273</Hit_accession>
+  <Hit_len>144</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>294.664</Hsp_bit-score>
+      <Hsp_score>753</Hsp_score>
+      <Hsp_evalue>1.77294e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>144</Hsp_align-len>
+      <Hsp_qseq>MIIIFQKLIIEINAGYVFIMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MIIIFQKLIIEINAGYVFIMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MIIIFQKLIIEINAGYVFIMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|511303001|ref|WP_016356734.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|509081192|gb|AGN13440.1| hypothetical protein LP6_0519 [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771530|emb|CZI75886.1| RDD family [Legionella pneumophila] &gt;gi|998795776|emb|CZI44490.1| RDD family [Legionella pneumophila] &gt;gi|998800566|emb|CZL12043.1| RDD family [Legionella pneumophila] &gt;gi|998804110|emb|CZK63657.1| RDD family [Legionella pneumophila] &gt;gi|998807200|emb|CZI31065.1| RDD family [Legionella pneumophila] &gt;gi|998810724|emb|CZI17212.1| RDD family [Legionella pneumophila] &gt;gi|998813117|emb|CZH14171.1| RDD family [Legionella pneumophila] &gt;gi|998816443|emb|CZM21184.1| RDD family [Legionella pneumophila] &gt;gi|998819740|emb|CZM00917.1| RDD family [Legionella pneumophila] &gt;gi|998825556|emb|CZK39314.1| RDD family [Legionella pneumophila] &gt;gi|998832827|emb|CZI19120.1| RDD family [Legionella pneumophila] &gt;gi|998834467|emb|CZL50800.1| RDD family [Legionella pneumophila] &gt;gi|998838699|emb|CZJ30673.1| RDD family [Legionella pneumophila] &gt;gi|998840510|emb|CZL84116.1| RDD family [Legionella pneumophila] &gt;gi|998843090|emb|CZL08075.1| RDD family [Legionella pneumophila] &gt;gi|998846321|emb|CZL09047.1| RDD family [Legionella pneumophila] &gt;gi|998849168|emb|CZI97188.1| RDD family [Legionella pneumophila] &gt;gi|998852434|emb|CZL88269.1| RDD family [Legionella pneumophila] &gt;gi|998855951|emb|CZL53413.1| RDD family [Legionella pneumophila] &gt;gi|998858616|emb|CZM29658.1| RDD family [Legionella pneumophila] &gt;gi|998862314|emb|CZK41126.1| RDD family [Legionella pneumophila] &gt;gi|998864764|emb|CZJ88234.1| RDD family [Legionella pneumophila] &gt;gi|998867213|emb|CZJ82960.1| RDD family [Legionella pneumophila] &gt;gi|998870201|emb|CZM41758.1| RDD family [Legionella pneumophila] &gt;gi|998873620|emb|CZK72063.1| RDD family [Legionella pneumophila] &gt;gi|998876214|emb|CZM47314.1| RDD family [Legionella pneumophila] &gt;gi|998879333|emb|CZJ74858.1| RDD family [Legionella pneumophila] &gt;gi|998885785|emb|CZM35583.1| RDD family [Legionella pneumophila] &gt;gi|998888593|emb|CZK49777.1| RDD family [Legionella pneumophila] &gt;gi|998895806|emb|CZK08847.1| RDD family [Legionella pneumophila] &gt;gi|998905262|emb|CZK92637.1| RDD family [Legionella pneumophila] &gt;gi|998908417|emb|CZL67934.1| RDD family [Legionella pneumophila] &gt;gi|998916092|emb|CZK72396.1| RDD family [Legionella pneumophila] &gt;gi|998917487|emb|CZL63815.1| RDD family [Legionella pneumophila] &gt;gi|998920467|emb|CZL70492.1| RDD family [Legionella pneumophila] &gt;gi|998926826|emb|CZL98580.1| RDD family [Legionella pneumophila] &gt;gi|998930924|emb|CZK83064.1| RDD family [Legionella pneumophila] &gt;gi|998933673|emb|CZL67672.1| RDD family [Legionella pneumophila] &gt;gi|998938739|emb|CZL20684.1| RDD family [Legionella pneumophila] &gt;gi|998946256|emb|CZK71749.1| RDD family [Legionella pneumophila] &gt;gi|998947986|emb|CZL29085.1| RDD family [Legionella pneumophila] &gt;gi|998956954|emb|CZM66775.1| RDD family [Legionella pneumophila] &gt;gi|998960467|emb|CZK68858.1| RDD family [Legionella pneumophila] &gt;gi|998963157|emb|CZK79500.1| RDD family [Legionella pneumophila] &gt;gi|998966707|emb|CZM41326.1| RDD family [Legionella pneumophila] &gt;gi|998969381|emb|CZL06524.1| RDD family [Legionella pneumophila] &gt;gi|998972390|emb|CZK82968.1| RDD family [Legionella pneumophila] &gt;gi|998978504|emb|CZM01616.1| RDD family [Legionella pneumophila] &gt;gi|998986114|emb|CZK10412.1| RDD family [Legionella pneumophila] &gt;gi|998987498|emb|CZL89213.1| RDD family [Legionella pneumophila] &gt;gi|998998282|emb|CZJ97268.1| RDD family [Legionella pneumophila] &gt;gi|999006420|emb|CZL22865.1| RDD family [Legionella pneumophila] &gt;gi|999011885|emb|CZL84471.1| RDD family [Legionella pneumophila] &gt;gi|999014926|emb|CZM77889.1| RDD family [Legionella pneumophila] &gt;gi|999021227|emb|CZL94282.1| RDD family [Legionella pneumophila] &gt;gi|999024042|emb|CZL20656.1| RDD family [Legionella pneumophila] &gt;gi|999036237|emb|CZL85965.1| RDD family [Legionella pneumophila] &gt;gi|999045233|emb|CZM31107.1| RDD family [Legionella pneumophila] &gt;gi|999060291|emb|CZL80550.1| RDD family [Legionella pneumophila] &gt;gi|999066489|emb|CZJ50403.1| RDD family [Legionella pneumophila] &gt;gi|999075372|emb|CZH16800.1| RDD family [Legionella pneumophila] &gt;gi|999078622|emb|CZK44652.1| RDD family [Legionella pneumophila] &gt;gi|999083089|emb|CZK86939.1| RDD family [Legionella pneumophila] &gt;gi|999087899|emb|CZL15463.1| RDD family [Legionella pneumophila] &gt;gi|999090961|emb|CZL90651.1| RDD family [Legionella pneumophila] &gt;gi|999093881|emb|CZH49995.1| RDD family [Legionella pneumophila] &gt;gi|999096967|emb|CZH52274.1| RDD family [Legionella pneumophila] &gt;gi|999101394|emb|CZL75934.1| RDD family [Legionella pneumophila] &gt;gi|999110920|emb|CZL04643.1| RDD family [Legionella pneumophila] &gt;gi|999114055|emb|CZL59470.1| RDD family [Legionella pneumophila] &gt;gi|999115947|emb|CZK73988.1| RDD family [Legionella pneumophila] &gt;gi|999124744|emb|CZL32141.1| RDD family [Legionella pneumophila] &gt;gi|999132507|emb|CZL69748.1| RDD family [Legionella pneumophila] &gt;gi|999133891|emb|CZL47696.1| RDD family [Legionella pneumophila] &gt;gi|999136973|emb|CZK88492.1| RDD family [Legionella pneumophila] &gt;gi|999140890|emb|CZL86283.1| RDD family [Legionella pneumophila] &gt;gi|999144849|emb|CZK81487.1| RDD family [Legionella pneumophila] &gt;gi|999146377|emb|CZM11663.1| RDD family [Legionella pneumophila] &gt;gi|999155607|emb|CZI37701.1| RDD family [Legionella pneumophila] &gt;gi|999174208|emb|CZL61345.1| RDD family [Legionella pneumophila] &gt;gi|999189799|emb|CZI75431.1| RDD family [Legionella pneumophila] &gt;gi|999192919|emb|CZJ16319.1| RDD family [Legionella pneumophila] &gt;gi|999199252|emb|CZH01592.1| RDD family [Legionella pneumophila] &gt;gi|999202128|emb|CZJ21103.1| RDD family [Legionella pneumophila] &gt;gi|999208431|emb|CZL35085.1| RDD family [Legionella pneumophila] &gt;gi|999217941|emb|CZM05060.1| RDD family [Legionella pneumophila] &gt;gi|999220910|emb|CZJ08241.1| RDD family [Legionella pneumophila] &gt;gi|999333350|emb|CZL30585.1| RDD family [Legionella pneumophila] &gt;gi|1002078810|emb|CZQ91982.1| RDD family [Legionella pneumophila] &gt;gi|1003021462|emb|CZR26869.1| RDD family [Legionella pneumophila] &gt;gi|1003024498|emb|CZR30232.1| RDD family [Legionella pneumophila] &gt;gi|1073866055|gb|AOU06006.1| hypothetical protein A9E97_02615 [Legionella pneumophila] &gt;gi|1073869019|gb|AOU08969.1| hypothetical protein A9E98_02610 [Legionella pneumophila] &gt;gi|1073872020|gb|AOU11969.1| RDD family protein [Legionella pneumophila] &gt;gi|1073874875|gb|AOU14823.1| RDD family protein [Legionella pneumophila] &gt;gi|1073877943|gb|AOU17890.1| RDD family protein [Legionella pneumophila] &gt;gi|1073880905|gb|AOU20851.1| RDD family protein [Legionella pneumophila] &gt;gi|1073883905|gb|AOU23850.1| RDD family protein [Legionella pneumophila] &gt;gi|1073886897|gb|AOU26841.1| hypothetical protein A9E77_02610 [Legionella pneumophila] &gt;gi|1073889851|gb|AOU29794.1| hypothetical protein A9E78_02615 [Legionella pneumophila] &gt;gi|1073892853|gb|AOU32795.1| hypothetical protein A9E79_02790 [Legionella pneumophila] &gt;gi|1073895816|gb|AOU35757.1| hypothetical protein A9E80_02610 [Legionella pneumophila] &gt;gi|1073898775|gb|AOU38715.1| hypothetical protein A9E81_02610 [Legionella pneumophila] &gt;gi|1073901728|gb|AOU41667.1| hypothetical protein A9E82_02615 [Legionella pneumophila] &gt;gi|1073904649|gb|AOU44587.1| hypothetical protein A9E83_02615 [Legionella pneumophila] &gt;gi|1073907602|gb|AOU47539.1| hypothetical protein A9E84_02615 [Legionella pneumophila] &gt;gi|1073910603|gb|AOU50538.1| hypothetical protein A9E85_02615 [Legionella pneumophila] &gt;gi|1073913633|gb|AOU53565.1| hypothetical protein A9E86_02620 [Legionella pneumophila] &gt;gi|1073916588|gb|AOU56519.1| hypothetical protein A9E87_02610 [Legionella pneumophila] &gt;gi|1073919557|gb|AOU59487.1| hypothetical protein A9E88_02610 [Legionella pneumophila] &gt;gi|1073922455|gb|AOU62384.1| hypothetical protein A9E89_02615 [Legionella pneumophila] &gt;gi|1073925540|gb|AOU65467.1| hypothetical protein A9E90_02610 [Legionella pneumophila] &gt;gi|1073928502|gb|AOU68428.1| hypothetical protein A9E91_02615 [Legionella pneumophila] &gt;gi|1073931489|gb|AOU71398.1| hypothetical protein A9E92_02625 [Legionella pneumophila] &gt;gi|1073934847|gb|AOU74406.1| hypothetical protein A9E93_02615 [Legionella pneumophila] &gt;gi|1073937824|gb|AOU84823.1| hypothetical protein A9E94_02610 [Legionella pneumophila] &gt;gi|1073948092|gb|AOU87816.1| hypothetical protein A9E95_02790 [Legionella pneumophila] &gt;gi|1073951017|gb|AOU90740.1| hypothetical protein A9E96_02610 [Legionella pneumophila] &gt;gi|1104001847|emb|SFZ36441.1| RDD family [Legionella pneumophila] &gt;gi|1129969676|gb|APU00036.1| hypothetical protein AVR58_02600 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_016356734</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>1.07624e-85</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|653014643|ref|WP_027266673.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266673</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>256.914</Hsp_bit-score>
+      <Hsp_score>655</Hsp_score>
+      <Hsp_evalue>6.77372e-85</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYTLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|654927543|ref|WP_028378035.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378035</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>242.276</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>3.95952e-79</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>119</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGAMIYDLIILSILFFAYTSVLLLFTHGQAIPPATRWYQCSLFGIAFVYYYASIRFGGQTVGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGSYTLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGAMIYDLIILSILFFAYTS LLLFTHGQAIPPATRWYQ SLF I FVYYY SIRFGGQT+GMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKG+Y LLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652967211|ref|WP_027220183.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|999247880|emb|CZH56236.1| RDD family [Legionella pneumophila] &gt;gi|999454065|emb|CZI21838.1| RDD family [Legionella pneumophila] &gt;gi|999460530|emb|CZH01103.1| RDD family [Legionella pneumophila] &gt;gi|999773126|emb|CZH89578.1| RDD family [Legionella pneumophila] &gt;gi|999796072|emb|CZI21399.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220183</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>241.891</Hsp_bit-score>
+      <Hsp_score>616</Hsp_score>
+      <Hsp_evalue>7.14989e-79</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKHTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQCSLFSIAFVYYYASIRFGGQTVGMKAWRFKLTTDSGKKPSRQQIIARFFYFIPATLIAPFCLKGSYTLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIK+TGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQ SLFSI FVYYY SIRFGGQT+GMKAWRFKLTTDSGKK SRQQIIARFFYFIPATLIAPFCLKG+Y LLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652970700|ref|WP_027223592.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|1005362800|gb|AMP88669.1| hypothetical protein AXF35_02725 [Legionella pneumophila subsp. pascullei] &gt;gi|1005365801|gb|AMP91578.1| hypothetical protein AXF36_02710 [Legionella pneumophila subsp. pascullei] &gt;gi|1005368788|gb|AMP94564.1| hypothetical protein AXF37_02715 [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223592</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>241.506</Hsp_bit-score>
+      <Hsp_score>615</Hsp_score>
+      <Hsp_evalue>9.92851e-79</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGAMIYDLIILSILFFAYTSVLLLFTHGQAIPPATRWYQCSLFSIVFVYYYASIRFGGQTVGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGSYVLLHQWTQTCFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGAMIYDLIILSILFFAYTS LLLFTHGQAIPPATRWYQ SLFSI+FVYYY SIRFGGQT+GMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKG+Y LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|652976161|ref|WP_027228834.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|985765939|gb|KXB27050.1| hypothetical protein PtVF66_02850 [Legionella pneumophila] &gt;gi|985767751|gb|KXB28837.1| hypothetical protein PtVF89_00985 [Legionella pneumophila] &gt;gi|999119250|emb|CZG75815.1| RDD family [Legionella pneumophila] &gt;gi|999122542|emb|CZH13588.1| RDD family [Legionella pneumophila] &gt;gi|1024341682|gb|KZX35989.1| hypothetical protein PtVFX2014_12920 [Legionella pneumophila] &gt;gi|1108603997|gb|APF02365.1| hypothetical protein BIZ52_02880 [Legionella pneumophila subsp. fraseri] &gt;gi|1108607008|gb|APF05375.1| RDD family protein [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228834</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>239.195</Hsp_bit-score>
+      <Hsp_score>609</Hsp_score>
+      <Hsp_evalue>8.2963e-78</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>118</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTSAMIYDLIILSILFFAYTSVLLLFTHGQAIPPATRWYQCSLFGIAFVYYYASIRFGGQTVGMKAWRFKLTTDSGKKLSKQQIIARFFYFIPATLIAPFCLKGSYTLLHQWTQTGFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYT AMIYDLIILSILFFAYTS LLLFTHGQAIPPATRWYQ SLF I FVYYY SIRFGGQT+GMKAWRFKLTTDSGKKLS+QQIIARFFYFIPATLIAPFCLKG+Y LLHQWTQTGFKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|653012652|ref|WP_027264755.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|998783020|emb|CZI85847.1| RDD family [Legionella pneumophila] &gt;gi|998822484|emb|CZH35083.1| RDD family [Legionella pneumophila] &gt;gi|998828326|emb|CZH38165.1| RDD family [Legionella pneumophila] &gt;gi|998882996|emb|CZI84406.1| RDD family [Legionella pneumophila] &gt;gi|998897711|emb|CZK08841.1| RDD family [Legionella pneumophila] &gt;gi|998938038|emb|CZL87274.1| RDD family [Legionella pneumophila] &gt;gi|998951077|emb|CZJ95958.1| RDD family [Legionella pneumophila] &gt;gi|999000097|emb|CZG94915.1| RDD family [Legionella pneumophila] &gt;gi|999058439|emb|CZM29392.1| RDD family [Legionella pneumophila] &gt;gi|999103697|emb|CZI19409.1| RDD family [Legionella pneumophila] &gt;gi|999128509|emb|CZH16325.1| RDD family [Legionella pneumophila] &gt;gi|999152633|emb|CZM83083.1| RDD family [Legionella pneumophila] &gt;gi|999161886|emb|CZM39216.1| RDD family [Legionella pneumophila] &gt;gi|999236700|emb|CZG93316.1| RDD family [Legionella pneumophila] &gt;gi|1002085543|emb|CZQ97378.1| RDD family [Legionella pneumophila] &gt;gi|1002088307|emb|CZQ79066.1| RDD family [Legionella pneumophila] &gt;gi|1104005411|emb|SFZ36440.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264755</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>236.498</Hsp_bit-score>
+      <Hsp_score>602</Hsp_score>
+      <Hsp_evalue>7.56515e-77</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYSGALIYDLIIVSILFFAYTSALLLFTHGQAIPPATRWYQLSLFSIAFVYYYGSIRCGGQTVGMKAWRFKLTTESGKKLSRQQIIARFFYFIPATLIAPFCLKGSYVLLHQWTQTRFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY+GA+IYDLII+SILFFAYTSALLLFTHGQAIPPATRWYQ SLFSI FVYYYGSIR GGQT+GMKAWRFKLTT+SGKKLSRQQIIARFFYFIPATLIAPFCLKG+Y LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1004334307|ref|WP_061513232.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513232</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>234.958</Hsp_bit-score>
+      <Hsp_score>598</Hsp_score>
+      <Hsp_evalue>3.13724e-76</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>116</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGALIYDLIILSILFFAYTSVLLLFTHGQAIPPATRWYQFSLFIITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYMLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGA+IYDLIILSILFFAYTS LLLFTHGQAIPPATRWYQFSLF I  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|499533486|ref|WP_011214770.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|53753353|emb|CAH14803.1| hypothetical protein lpl0572 [Legionella pneumophila str. Lens] &gt;gi|1080002198|gb|AOW52770.1| hypothetical protein BE841_10030 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006050|gb|AOW56330.1| hypothetical protein BE842_13610 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008092|gb|AOW58080.1| hypothetical protein BE843_07330 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012247|gb|AOW61738.1| hypothetical protein BE844_11440 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014696|gb|AOW63569.1| hypothetical protein BE845_05600 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018490|gb|AOW67135.1| hypothetical protein BE846_09205 [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214770</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>233.417</Hsp_bit-score>
+      <Hsp_score>594</Hsp_score>
+      <Hsp_evalue>1.60145e-75</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>119</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKHTVAMIYDLIIVSILFFAYTSALLLFTHGQAIPPATRWYQLSLFSIAFVYYYGSIRCGGQTVGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGSYVLLNQWTQTRFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIK+T AMIYDLII+SILFFAYTSALLLFTHGQAIPPATRWYQ SLFSI FVYYYGSIR GGQT+GMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKG+Y LL+QWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1004017354|ref|WP_061485150.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485150</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>232.261</Hsp_bit-score>
+      <Hsp_score>591</Hsp_score>
+      <Hsp_evalue>4.62779e-75</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGALIYDLIILSILFFAYTSILLLFTHGQAIPPATRWYQFSLFSITFVYYYGSIRCGGQTVGMKAWRFKLTSDSNKTLSRQQIIARFFYFIPATLIAPFYLKGNYVLLHQWTQTCFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGA+IYDLIILSILFFAYTS LLLFTHGQAIPPATRWYQFSLFSI FVYYYGSIR GGQT+GMKAWRFKLT+DS K LSRQQIIARFFYFIPATLIAPF LKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|499526516|ref|WP_011213156.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|53750345|emb|CAH11739.1| hypothetical protein lpp0591 [Legionella pneumophila str. Paris] &gt;gi|395126510|emb|CCD04693.1| conserved membrane protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|536613638|gb|ERB42010.1| hypothetical protein N748_06590 [Legionella pneumophila str. 121004] &gt;gi|541995603|gb|ERH41702.1| hypothetical protein N751_05975 [Legionella pneumophila str. Leg01/11] &gt;gi|542121184|gb|ERI47517.1| hypothetical protein N749_13550 [Legionella pneumophila str. Leg01/20] &gt;gi|762002549|dbj|GAN25667.1| RDD family protein [Legionella pneumophila] &gt;gi|998791260|emb|CZG40927.1| RDD family [Legionella pneumophila] &gt;gi|998793123|emb|CZI51071.1| RDD family [Legionella pneumophila] &gt;gi|998923730|emb|CZK24455.1| RDD family [Legionella pneumophila] &gt;gi|998943800|emb|CZJ50039.1| RDD family [Legionella pneumophila] &gt;gi|998954337|emb|CZK60706.1| RDD family [Legionella pneumophila] &gt;gi|998975508|emb|CZJ90252.1| RDD family [Legionella pneumophila] &gt;gi|998992826|emb|CZJ47698.1| RDD family [Legionella pneumophila] &gt;gi|999009057|emb|CZK46611.1| RDD family [Legionella pneumophila] &gt;gi|999018220|emb|CZJ87483.1| RDD family [Legionella pneumophila] &gt;gi|999027334|emb|CZK24938.1| RDD family [Legionella pneumophila] &gt;gi|999030564|emb|CZH23821.1| RDD family [Legionella pneumophila] &gt;gi|999033285|emb|CZK20851.1| RDD family [Legionella pneumophila] &gt;gi|999039490|emb|CZJ95904.1| RDD family [Legionella pneumophila] &gt;gi|999042443|emb|CZK04736.1| RDD family [Legionella pneumophila] &gt;gi|999048524|emb|CZK02044.1| RDD family [Legionella pneumophila] &gt;gi|999051573|emb|CZJ92273.1| RDD family [Legionella pneumophila] &gt;gi|999054548|emb|CZK29570.1| RDD family [Legionella pneumophila] &gt;gi|999063685|emb|CZK02054.1| RDD family [Legionella pneumophila] &gt;gi|999070572|emb|CZJ65042.1| RDD family [Legionella pneumophila] &gt;gi|999072791|emb|CZK31847.1| RDD family [Legionella pneumophila] &gt;gi|999084993|emb|CZK30554.1| RDD family [Legionella pneumophila] &gt;gi|999171852|emb|CZI29339.1| RDD family [Legionella pneumophila] &gt;gi|999181641|emb|CZG51362.1| RDD family [Legionella pneumophila] &gt;gi|999184329|emb|CZP95964.1| RDD family [Legionella pneumophila] &gt;gi|999187808|emb|CZI95265.1| RDD family [Legionella pneumophila] &gt;gi|999198462|emb|CZP13402.1| RDD family [Legionella pneumophila] &gt;gi|999206195|emb|CZP63027.1| RDD family [Legionella pneumophila] &gt;gi|999212725|emb|CZG77627.1| RDD family [Legionella pneumophila] &gt;gi|999216917|emb|CZI66295.1| RDD family [Legionella pneumophila] &gt;gi|999225329|emb|CZG83677.1| RDD family [Legionella pneumophila] &gt;gi|999228298|emb|CZP08246.1| RDD family [Legionella pneumophila] &gt;gi|999235203|emb|CZP58173.1| RDD family [Legionella pneumophila] &gt;gi|999240287|emb|CZH90892.1| RDD family [Legionella pneumophila] &gt;gi|999244368|emb|CZH76425.1| RDD family [Legionella pneumophila] &gt;gi|999248774|emb|CZH08040.1| RDD family [Legionella pneumophila] &gt;gi|999251990|emb|CZH36784.1| RDD family [Legionella pneumophila] &gt;gi|999255980|emb|CZP79509.1| RDD family [Legionella pneumophila] &gt;gi|999259114|emb|CZP46974.1| RDD family [Legionella pneumophila] &gt;gi|999261298|emb|CZH41546.1| RDD family [Legionella pneumophila] &gt;gi|999265215|emb|CZP07045.1| RDD family [Legionella pneumophila] &gt;gi|999269427|emb|CZO33175.1| RDD family [Legionella pneumophila] &gt;gi|999272229|emb|CZP58022.1| RDD family [Legionella pneumophila] &gt;gi|999274796|emb|CZG78819.1| RDD family [Legionella pneumophila] &gt;gi|999277611|emb|CZP36877.1| RDD family [Legionella pneumophila] &gt;gi|999281358|emb|CZP16348.1| RDD family [Legionella pneumophila] &gt;gi|999283674|emb|CZP61755.1| RDD family [Legionella pneumophila] &gt;gi|999290991|emb|CZP32212.1| RDD family [Legionella pneumophila] &gt;gi|999296482|emb|CZP58252.1| RDD family [Legionella pneumophila] &gt;gi|999299569|emb|CZP47693.1| RDD family [Legionella pneumophila] &gt;gi|999307309|emb|CZH70581.1| RDD family [Legionella pneumophila] &gt;gi|999309373|emb|CZP26880.1| RDD family [Legionella pneumophila] &gt;gi|999315819|emb|CZI10181.1| RDD family [Legionella pneumophila] &gt;gi|999318681|emb|CZP65131.1| RDD family [Legionella pneumophila] &gt;gi|999322023|emb|CZH98315.1| RDD family [Legionella pneumophila] &gt;gi|999324438|emb|CZH33197.1| RDD family [Legionella pneumophila] &gt;gi|999328626|emb|CZG64250.1| RDD family [Legionella pneumophila] &gt;gi|999331862|emb|CZG59724.1| RDD family [Legionella pneumophila] &gt;gi|999337760|emb|CZP47168.1| RDD family [Legionella pneumophila] &gt;gi|999340082|emb|CZH26312.1| RDD family [Legionella pneumophila] &gt;gi|999344449|emb|CZP84266.1| RDD family [Legionella pneumophila] &gt;gi|999347212|emb|CZP63394.1| RDD family [Legionella pneumophila] &gt;gi|999349705|emb|CZH41241.1| RDD family [Legionella pneumophila] &gt;gi|999353470|emb|CZP68980.1| RDD family [Legionella pneumophila] &gt;gi|999357228|emb|CZP68009.1| RDD family [Legionella pneumophila] &gt;gi|999359971|emb|CZI61333.1| RDD family [Legionella pneumophila] &gt;gi|999363808|emb|CZP56503.1| RDD family [Legionella pneumophila] &gt;gi|999367120|emb|CZP76846.1| RDD family [Legionella pneumophila] &gt;gi|999369937|emb|CZP77654.1| RDD family [Legionella pneumophila] &gt;gi|999373457|emb|CZG57251.1| RDD family [Legionella pneumophila] &gt;gi|999376492|emb|CZJ18872.1| RDD family [Legionella pneumophila] &gt;gi|999379752|emb|CZH69558.1| RDD family [Legionella pneumophila] &gt;gi|999382647|emb|CZI57447.1| RDD family [Legionella pneumophila] &gt;gi|999386284|emb|CZG64541.1| RDD family [Legionella pneumophila] &gt;gi|999389097|emb|CZI56279.1| RDD family [Legionella pneumophila] &gt;gi|999392309|emb|CZP98081.1| RDD family [Legionella pneumophila] &gt;gi|999396905|emb|CZG09686.1| RDD family [Legionella pneumophila] &gt;gi|999398557|emb|CZQ00994.1| RDD family [Legionella pneumophila] &gt;gi|999403118|emb|CZP41346.1| RDD family [Legionella pneumophila] &gt;gi|999405921|emb|CZG72284.1| RDD family [Legionella pneumophila] &gt;gi|999408892|emb|CZH90853.1| RDD family [Legionella pneumophila] &gt;gi|999412740|emb|CZG32778.1| RDD family [Legionella pneumophila] &gt;gi|999415433|emb|CZG88648.1| RDD family [Legionella pneumophila] &gt;gi|999418773|emb|CZG64804.1| RDD family [Legionella pneumophila] &gt;gi|999421968|emb|CZH73145.1| RDD family [Legionella pneumophila] &gt;gi|999425282|emb|CZG75240.1| RDD family [Legionella pneumophila] &gt;gi|999428364|emb|CZG72246.1| RDD family [Legionella pneumophila] &gt;gi|999431646|emb|CZG73520.1| RDD family [Legionella pneumophila] &gt;gi|999435004|emb|CZI00692.1| RDD family [Legionella pneumophila] &gt;gi|999438188|emb|CZG62677.1| RDD family [Legionella pneumophila] &gt;gi|999441184|emb|CZK29246.1| RDD family [Legionella pneumophila] &gt;gi|999444623|emb|CZH76737.1| RDD family [Legionella pneumophila] &gt;gi|999447826|emb|CZG53101.1| RDD family [Legionella pneumophila] &gt;gi|999450626|emb|CZP35760.1| RDD family [Legionella pneumophila] &gt;gi|999457567|emb|CZK21615.1| RDD family [Legionella pneumophila] &gt;gi|999464849|emb|CZM52688.1| RDD family [Legionella pneumophila] &gt;gi|999467873|emb|CZO29873.1| RDD family [Legionella pneumophila] &gt;gi|999469315|emb|CZH06896.1| RDD family [Legionella pneumophila] &gt;gi|999474702|emb|CZM61487.1| RDD family [Legionella pneumophila] &gt;gi|999477159|emb|CZN74544.1| RDD family [Legionella pneumophila] &gt;gi|999480661|emb|CZN00074.1| RDD family [Legionella pneumophila] &gt;gi|999484248|emb|CZN89770.1| RDD family [Legionella pneumophila] &gt;gi|999487093|emb|CZM11363.1| RDD family [Legionella pneumophila] &gt;gi|999490266|emb|CZN78817.1| RDD family [Legionella pneumophila] &gt;gi|999493457|emb|CZM10825.1| RDD family [Legionella pneumophila] &gt;gi|999496252|emb|CZI46358.1| RDD family [Legionella pneumophila] &gt;gi|999500037|emb|CZN73238.1| RDD family [Legionella pneumophila] &gt;gi|999503163|emb|CZO07465.1| RDD family [Legionella pneumophila] &gt;gi|999506369|emb|CZN16353.1| RDD family [Legionella pneumophila] &gt;gi|999509572|emb|CZG51511.1| RDD family [Legionella pneumophila] &gt;gi|999512910|emb|CZN30323.1| RDD family [Legionella pneumophila] &gt;gi|999516002|emb|CZM00206.1| RDD family [Legionella pneumophila] &gt;gi|999519001|emb|CZM84523.1| RDD family [Legionella pneumophila] &gt;gi|999521869|emb|CZP16111.1| RDD family [Legionella pneumophila] &gt;gi|999525361|emb|CZJ07837.1| RDD family [Legionella pneumophila] &gt;gi|999528074|emb|CZI74826.1| RDD family [Legionella pneumophila] &gt;gi|999532357|emb|CZO46467.1| RDD family [Legionella pneumophila] &gt;gi|999535513|emb|CZN40422.1| RDD family [Legionella pneumophila] &gt;gi|999538594|emb|CZM76221.1| RDD family [Legionella pneumophila] &gt;gi|999542038|emb|CZO21022.1| RDD family [Legionella pneumophila] &gt;gi|999545000|emb|CZO61355.1| RDD family [Legionella pneumophila] &gt;gi|999548156|emb|CZN88978.1| RDD family [Legionella pneumophila] &gt;gi|999551468|emb|CZO10768.1| RDD family [Legionella pneumophila] &gt;gi|999554503|emb|CZN31015.1| RDD family [Legionella pneumophila] &gt;gi|999557922|emb|CZO56084.1| RDD family [Legionella pneumophila] &gt;gi|999561069|emb|CZM41336.1| RDD family [Legionella pneumophila] &gt;gi|999564075|emb|CZO66451.1| RDD family [Legionella pneumophila] &gt;gi|999567439|emb|CZM52311.1| RDD family [Legionella pneumophila] &gt;gi|999570639|emb|CZN50346.1| RDD family [Legionella pneumophila] &gt;gi|999573827|emb|CZN92459.1| RDD family [Legionella pneumophila] &gt;gi|999576025|emb|CZI41970.1| RDD family [Legionella pneumophila] &gt;gi|999580319|emb|CZO16103.1| RDD family [Legionella pneumophila] &gt;gi|999583607|emb|CZO37621.1| RDD family [Legionella pneumophila] &gt;gi|999586970|emb|CZM64330.1| RDD family [Legionella pneumophila] &gt;gi|999589995|emb|CZM40739.1| RDD family [Legionella pneumophila] &gt;gi|999593154|emb|CZN45552.1| RDD family [Legionella pneumophila] &gt;gi|999596227|emb|CZO12421.1| RDD family [Legionella pneumophila] &gt;gi|999599547|emb|CZO38000.1| RDD family [Legionella pneumophila] &gt;gi|999602627|emb|CZL96485.1| RDD family [Legionella pneumophila] &gt;gi|999605415|emb|CZN72437.1| RDD family [Legionella pneumophila] &gt;gi|999608952|emb|CZN62953.1| RDD family [Legionella pneumophila] &gt;gi|999611281|emb|CZI62651.1| RDD family [Legionella pneumophila] &gt;gi|999615564|emb|CZM46920.1| RDD family [Legionella pneumophila] &gt;gi|999618667|emb|CZN91195.1| RDD family [Legionella pneumophila] &gt;gi|999621763|emb|CZO81630.1| RDD family [Legionella pneumophila] &gt;gi|999625091|emb|CZN71078.1| RDD family [Legionella pneumophila] &gt;gi|999628410|emb|CZM63266.1| RDD family [Legionella pneumophila] &gt;gi|999631540|emb|CZM58807.1| RDD family [Legionella pneumophila] &gt;gi|999634600|emb|CZN59036.1| RDD family [Legionella pneumophila] &gt;gi|999637928|emb|CZN51078.1| RDD family [Legionella pneumophila] &gt;gi|999641124|emb|CZO79046.1| RDD family [Legionella pneumophila] &gt;gi|999644116|emb|CZO52546.1| RDD family [Legionella pneumophila] &gt;gi|999647607|emb|CZN94438.1| RDD family [Legionella pneumophila] &gt;gi|999650707|emb|CZO05435.1| RDD family [Legionella pneumophila] &gt;gi|999653908|emb|CZO00592.1| RDD family [Legionella pneumophila] &gt;gi|999657105|emb|CZM29091.1| RDD family [Legionella pneumophila] &gt;gi|999660179|emb|CZM64707.1| RDD family [Legionella pneumophila] &gt;gi|999663390|emb|CZN17938.1| RDD family [Legionella pneumophila] &gt;gi|999666755|emb|CZM38673.1| RDD family [Legionella pneumophila] &gt;gi|999669947|emb|CZL84875.1| RDD family [Legionella pneumophila] &gt;gi|999673089|emb|CZM37347.1| RDD family [Legionella pneumophila] &gt;gi|999676341|emb|CZN78496.1| RDD family [Legionella pneumophila] &gt;gi|999679314|emb|CZM78569.1| RDD family [Legionella pneumophila] &gt;gi|999682509|emb|CZM81888.1| RDD family [Legionella pneumophila] &gt;gi|999686196|emb|CZN99502.1| RDD family [Legionella pneumophila] &gt;gi|999689136|emb|CZN31009.1| RDD family [Legionella pneumophila] &gt;gi|999692329|emb|CZN99901.1| RDD family [Legionella pneumophila] &gt;gi|999695546|emb|CZN29890.1| RDD family [Legionella pneumophila] &gt;gi|999698787|emb|CZM11835.1| RDD family [Legionella pneumophila] &gt;gi|999701731|emb|CZM77857.1| RDD family [Legionella pneumophila] &gt;gi|999704966|emb|CZL94001.1| RDD family [Legionella pneumophila] &gt;gi|999708176|emb|CZN57387.1| RDD family [Legionella pneumophila] &gt;gi|999711595|emb|CZN01637.1| RDD family [Legionella pneumophila] &gt;gi|999714691|emb|CZN22237.1| RDD family [Legionella pneumophila] &gt;gi|999717979|emb|CZO45313.1| RDD family [Legionella pneumophila] &gt;gi|999720935|emb|CZM92978.1| RDD family [Legionella pneumophila] &gt;gi|999724454|emb|CZN33666.1| RDD family [Legionella pneumophila] &gt;gi|999727841|emb|CZL99647.1| RDD family [Legionella pneumophila] &gt;gi|999730976|emb|CZO43092.1| RDD family [Legionella pneumophila] &gt;gi|999734184|emb|CZM26062.1| RDD family [Legionella pneumophila] &gt;gi|999737476|emb|CZO70230.1| RDD family [Legionella pneumophila] &gt;gi|999740957|emb|CZM31334.1| RDD family [Legionella pneumophila] &gt;gi|999744105|emb|CZN27193.1| RDD family [Legionella pneumophila] &gt;gi|999747247|emb|CZM25239.1| RDD family [Legionella pneumophila] &gt;gi|999750521|emb|CZL95648.1| RDD family [Legionella pneumophila] &gt;gi|999753717|emb|CZM80695.1| RDD family [Legionella pneumophila] &gt;gi|999756768|emb|CZN09972.1| RDD family [Legionella pneumophila] &gt;gi|999760269|emb|CZM23964.1| RDD family [Legionella pneumophila] &gt;gi|999763386|emb|CZN30600.1| RDD family [Legionella pneumophila] &gt;gi|999766912|emb|CZM49083.1| RDD family [Legionella pneumophila] &gt;gi|999769761|emb|CZN51443.1| RDD family [Legionella pneumophila] &gt;gi|999776225|emb|CZM00491.1| RDD family [Legionella pneumophila] &gt;gi|999777491|emb|CZH50319.1| RDD family [Legionella pneumophila] &gt;gi|999782887|emb|CZH62368.1| RDD family [Legionella pneumophila] &gt;gi|999786424|emb|CZM24905.1| RDD family [Legionella pneumophila] &gt;gi|999789589|emb|CZO67743.1| RDD family [Legionella pneumophila] &gt;gi|999792934|emb|CZO61148.1| RDD family [Legionella pneumophila] &gt;gi|999799819|emb|CZO56504.1| RDD family [Legionella pneumophila] &gt;gi|1003029183|emb|CZR19047.1| RDD family [Legionella pneumophila] &gt;gi|1003031220|emb|CZR32085.1| RDD family [Legionella pneumophila] &gt;gi|1003036366|emb|CZR16951.1| RDD family [Legionella pneumophila] &gt;gi|1005832295|gb|AMQ27021.1| hypothetical protein lpt_03075 [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431663|gb|AMV13290.1| RDD family protein [Legionella pneumophila] &gt;gi|1041014565|gb|ANN91626.1| hypothetical protein A9P85_02900 [Legionella pneumophila] &gt;gi|1041017663|gb|ANN94723.1| hypothetical protein A9P84_02960 [Legionella pneumophila] &gt;gi|1103995596|emb|SFZ36756.1| RDD family [Legionella pneumophila] &gt;gi|1103998728|emb|SFZ36484.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213156</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>231.876</Hsp_bit-score>
+      <Hsp_score>590</Hsp_score>
+      <Hsp_evalue>5.05105e-75</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYLGALIYDLIILFILFFAYTSVLLLFTHGQAIPPATRWYQFSLFSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY GA+IYDLIIL ILFFAYTS LLLFTHGQAIPPATRWYQFSLFSI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|504656303|ref|WP_014843405.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila] &gt;gi|395129617|emb|CCD07850.1| conserved membrane protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|761992502|dbj|GAN16542.1| RDD family protein [Legionella pneumophila] &gt;gi|761995692|dbj|GAN19648.1| RDD family protein [Legionella pneumophila] &gt;gi|998774440|emb|CZH07898.1| RDD family [Legionella pneumophila] &gt;gi|998777320|emb|CZH12155.1| RDD family [Legionella pneumophila] &gt;gi|998783309|emb|CZH41457.1| RDD family [Legionella pneumophila] &gt;gi|998786230|emb|CZH06394.1| RDD family [Legionella pneumophila] &gt;gi|998892617|emb|CZJ23825.1| RDD family [Legionella pneumophila] &gt;gi|998981360|emb|CZJ20375.1| RDD family [Legionella pneumophila] &gt;gi|999107207|emb|CZI75109.1| RDD family [Legionella pneumophila] &gt;gi|999230566|emb|CZI93022.1| RDD family [Legionella pneumophila] &gt;gi|1002074277|emb|CZR05385.1| RDD family [Legionella pneumophila] &gt;gi|1002081614|emb|CZR00520.1| RDD family [Legionella pneumophila] &gt;gi|1032656703|gb|ANH11974.1| hypothetical protein A5478_02660 [Legionella pneumophila] &gt;gi|1032659670|gb|ANH14940.1| hypothetical protein A5480_02660 [Legionella pneumophila] &gt;gi|1032662637|gb|ANH17906.1| hypothetical protein A5479_02660 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843405</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>231.876</Hsp_bit-score>
+      <Hsp_score>590</Hsp_score>
+      <Hsp_evalue>5.95178e-75</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYTGALIYDLIILFILFFAYTSVLLLFTHGQAIPPATRWYQFSLFIITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKYTGA+IYDLIIL ILFFAYTS LLLFTHGQAIPPATRWYQFSLF I  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|500490261|ref|WP_011945718.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|148282591|gb|ABQ56679.1| hypothetical protein LPC_2776 [Legionella pneumophila str. Corby] &gt;gi|295648019|gb|ADG23866.1| Predicted membrane protein [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989395|dbj|GAN22663.1| RDD family protein [Legionella pneumophila] &gt;gi|761998965|dbj|GAN29015.1| RDD family protein [Legionella pneumophila] &gt;gi|998912168|emb|CZH24024.1| RDD family [Legionella pneumophila] &gt;gi|998994586|emb|CZI23100.1| RDD family [Legionella pneumophila] &gt;gi|999003132|emb|CZI81187.1| RDD family [Legionella pneumophila] &gt;gi|999159329|emb|CZJ69563.1| RDD family [Legionella pneumophila] &gt;gi|999178336|emb|CZJ56209.1| RDD family [Legionella pneumophila] &gt;gi|999286020|emb|CZJ07646.1| RDD family [Legionella pneumophila] &gt;gi|999292401|emb|CZI87147.1| RDD family [Legionella pneumophila] &gt;gi|999301722|emb|CZI74201.1| RDD family [Legionella pneumophila] &gt;gi|999311301|emb|CZJ21120.1| RDD family [Legionella pneumophila] &gt;gi|1002090886|emb|CZR11529.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945718</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>229.565</Hsp_bit-score>
+      <Hsp_score>584</Hsp_score>
+      <Hsp_evalue>3.99282e-74</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYLGALIYDLIILFILFFAYTSVLLLFTHGQAIPPATRWYQFSLLSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTRFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY GA+IYDLIIL ILFFAYTS LLLFTHGQAIPPATRWYQFSL SI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|749504880|ref|WP_040145847.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|998801829|emb|CZI08203.1| RDD family [Legionella pneumophila] &gt;gi|999149979|emb|CZI49315.1| RDD family [Legionella pneumophila] &gt;gi|999165731|emb|CZG85071.1| RDD family [Legionella pneumophila] &gt;gi|999168627|emb|CZI46204.1| RDD family [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145847</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>228.024</Hsp_bit-score>
+      <Hsp_score>580</Hsp_score>
+      <Hsp_evalue>1.69173e-73</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYLGALIYDLIILFILFFAYTSVLLLFTHGQAIPPATRWYQFSLLSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIITRFFYFIPATLIAPFCLKGNYVLLHQWTQTRFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY GA+IYDLIIL ILFFAYTS LLLFTHGQAIPPATRWYQFSL SI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQII RFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|652973644|ref|WP_027226365.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226365</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>228.024</Hsp_bit-score>
+      <Hsp_score>580</Hsp_score>
+      <Hsp_evalue>1.76739e-73</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYLGALIYDLIILFILFFAYTSVLLLFTHGQAILPATRWYQFSLFSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY GA+IYDLIIL ILFFAYTS LLLFTHGQAI PATRWYQFSLFSI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1003916760|ref|WP_061469149.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469149</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>227.639</Hsp_bit-score>
+      <Hsp_score>579</Hsp_score>
+      <Hsp_evalue>2.50806e-73</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIKYLGALIYDLIILFILFFAYTSVLLLFTHGQAIPPATHWYQFSLLSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTRFKKV</Hsp_hseq>
+      <Hsp_midline>MFFIKY GA+IYDLIIL ILFFAYTS LLLFTHGQAIPPAT WYQFSL SI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1011915685|ref|WP_062728557.1|</Hit_id>
+  <Hit_def>hypothetical protein, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062728557</Hit_accession>
+  <Hit_len>107</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>203.756</Hsp_bit-score>
+      <Hsp_score>517</Hsp_score>
+      <Hsp_evalue>3.92728e-64</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>107</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>107</Hsp_align-len>
+      <Hsp_qseq>ILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>ILFFAYTSVLLLFTHGQAIPPATRWYQFSLFSITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>ILFFAYTS LLLFTHGQAIPPATRWYQFSLFSI  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|737924362|ref|WP_035889624.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella norrlandica] &gt;gi|701445765|gb|KGP63134.1| hypothetical protein EP47_14040 [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889624</Hit_accession>
+  <Hit_len>129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>201.445</Hsp_bit-score>
+      <Hsp_score>511</Hsp_score>
+      <Hsp_evalue>6.16467e-63</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFTIRYVGSLIYDLIILSIIFFSYTAILLLFTHGKAIPPATCWYQFSLFSISFIYYYNSIRCGGQTIGMRAWKFKLTADSQKKPSRQQIIARFFYFIPSIFIAPFYLKGNYKLLHQWTRTSFETI</Hsp_hseq>
+      <Hsp_midline>MF I+Y G++IYDLIILSI+FF+YT+ LLLFTHG+AIPPAT WYQFSLFSI F+YYY SIR GGQTIGM+AW+FKLT DS KK SRQQIIARFFYFIP+  IAPF LKGNYKLLHQWT+T F+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1011906259|ref|WP_062721691.1|</Hit_id>
+  <Hit_def>hypothetical protein, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062721691</Hit_accession>
+  <Hit_len>106</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.134</Hsp_bit-score>
+      <Hsp_score>505</Hsp_score>
+      <Hsp_evalue>2.44429e-62</Hsp_evalue>
+      <Hsp_query-from>132</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>106</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>LFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>LFFAYTSVLLLFTHGQAIPPATRWYQFSLFIITLVYYYGSIRCGGQTVGMKAWRFKLTTDSNKTLSRQQIIARFFYFIPATLIAPFCLKGNYVLLHQWTQTHFKKV</Hsp_hseq>
+      <Hsp_midline>LFFAYTS LLLFTHGQAIPPATRWYQFSLF I  VYYYGSIR GGQT+GMKAWRFKLTTDS K LSRQQIIARFFYFIPATLIAPFCLKGNY LLHQWTQT FKKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|517403190|ref|WP_018576054.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella shakespearei] &gt;gi|962276142|gb|KTD60043.1| RDD family protein [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576054</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.525</Hsp_bit-score>
+      <Hsp_score>384</Hsp_score>
+      <Hsp_evalue>9.9506e-44</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>124</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKK</Hsp_qseq>
+      <Hsp_hseq>MFFIRYLAALSYDAIIMIVLFFVLTAFFLLCNGGHAIPPATLWYQLSLLGIALSYYYSSIRFGGQTLGMRAWRFKLAAKTQEQLSRPQILGRILYFIPTLLIAPFCFKSHYALLNHWTKTEFVR</Hsp_hseq>
+      <Hsp_midline>MFFI+Y  A+ YD II+ +LFF  T+  LL   G AIPPAT WYQ SL  I   YYY SIRFGGQT+GM+AWRFKL   + ++LSR QI+ R  YFIP  LIAPFC K +Y LL+ WT+T F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966432334|ref|WP_058472767.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella quateirensis] &gt;gi|962268705|gb|KTD52721.1| RDD family protein [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472767</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.828</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>1.19797e-42</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>122</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGF</Hsp_qseq>
+      <Hsp_hseq>MFLIRYLAALCYDAIIILVLFFSLTILLLIFNQGHAIPPSTLWYQLSLIGTALLYYHGSIRFGGQTLGMRAWRFKLTSVDQKRLSNKQILLRILYFIPALFLAPLYIKSSYNVLNQWTRTDF</Hsp_hseq>
+      <Hsp_midline>MF I+Y  A+ YD II+ +LFF+ T  LL+F  G AIPP+T WYQ SL     +YY+GSIRFGGQT+GM+AWRFKLT+   K+LS +QI+ R  YFIPA  +AP  +K +Y +L+QWT+T F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|654932940|ref|WP_028383297.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella moravica] &gt;gi|962250719|gb|KTD34920.1| RDD family protein [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383297</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.673</Hsp_bit-score>
+      <Hsp_score>374</Hsp_score>
+      <Hsp_evalue>3.11579e-42</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>122</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGF</Hsp_qseq>
+      <Hsp_hseq>MFLIRYLGALCYDAIIVLVLFVCLTALLLIVNNGQAIPPSTLWYQLALLSTAFFYYQGSLRFGGQTLGMRAWRFKLTSVNEKKISNQQIVLRLIYFIPALFLAPAFLKSSYALINKWTSTEF</Hsp_hseq>
+      <Hsp_midline>MF I+Y GA+ YD II+ +LF   T+ LL+  +GQAIPP+T WYQ +L S  F YY GS+RFGGQT+GM+AWRFKLT+ + KK+S QQI+ R  YFIPA  +AP  LK +Y L+++WT T F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|962296387|gb|KTD80028.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>KTD80028</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.969</Hsp_bit-score>
+      <Hsp_score>354</Hsp_score>
+      <Hsp_evalue>7.70885e-39</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>IMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>IMFFIRYLAAVCYDIIILFVLFFSLTALVVLVNKGHAIPPSTLWYQLLLSGIGLLYYQSSIRFGGQTLGMRAWRFKLMTVDQKRLTNQDIFLRIVCFIPALLLAPVYMKSSYSVLNRWTNTSFSQV</Hsp_hseq>
+      <Hsp_midline>IMFFI+Y  A+ YD+IIL +LFF+ T+ ++L   G AIPP+T WYQ  L  I  +YY  SIRFGGQT+GM+AWRFKL T   K+L+ Q I  R   FIPA L+AP  +K +Y +L++WT T F +V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966460955|ref|WP_058493384.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493384</Hit_accession>
+  <Hit_len>126</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.658</Hsp_bit-score>
+      <Hsp_score>348</Hsp_score>
+      <Hsp_evalue>2.76592e-38</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MFFIRYLAAVCYDIIILFVLFFSLTALVVLVNKGHAIPPSTLWYQLLLSGIGLLYYQSSIRFGGQTLGMRAWRFKLMTVDQKRLTNQDIFLRIVCFIPALLLAPVYMKSSYSVLNRWTNTSFSQV</Hsp_hseq>
+      <Hsp_midline>MFFI+Y  A+ YD+IIL +LFF+ T+ ++L   G AIPP+T WYQ  L  I  +YY  SIRFGGQT+GM+AWRFKL T   K+L+ Q I  R   FIPA L+AP  +K +Y +L++WT T F +V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966440907|ref|WP_058481230.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella waltersii] &gt;gi|962291969|gb|KTD75667.1| RDD family protein [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481230</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.88</Hsp_bit-score>
+      <Hsp_score>333</Hsp_score>
+      <Hsp_evalue>4.47867e-36</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>122</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGF</Hsp_qseq>
+      <Hsp_hseq>MFTIKYLCSIVYDLIVLIVLFFAYTALVLSLNHNKAIPPSTLWYQLSLLIVSFLYYFLSMRNGGQTIGMKAWGLKLVDKINIKLSFGQVLVRFFGFIPSIIASFVCLKWSYSLLNQWTNSSL</Hsp_hseq>
+      <Hsp_midline>MF IKY  +++YDLI+L +LFFAYT+ +L   H +AIPP+T WYQ SL  + F+YY+ S+R GGQTIGMKAW  KL      KLS  Q++ RFF FIP+ + +  CLK +Y LL+QWT +  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|737951199|ref|WP_035915057.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella lansingensis] &gt;gi|962237791|gb|KTD22230.1| RDD family protein [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_035915057</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.546</Hsp_bit-score>
+      <Hsp_score>288</Hsp_score>
+      <Hsp_evalue>3.76046e-29</Hsp_evalue>
+      <Hsp_query-from>114</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>FFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQT</Hsp_qseq>
+      <Hsp_hseq>FLLKYISAQLYDGCILIALFFAFTALCLLATHGIAIPPATRWYQCSLVAIGIGYYLSSTLHGGQTIGMRAWRLRLTTET-DFLRWQQIVKRMVLFIPALFLSLMSWQNPQQILHKWTKT</Hsp_hseq>
+      <Hsp_midline>F +KY  A +YD  IL  LFFA+T+  LL THG AIPPATRWYQ SL +I   YY  S   GGQTIGM+AWR +LTT++   L  QQI+ R   FIPA  ++    +   ++LH+WT+T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966399263|ref|WP_058442896.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella brunensis] &gt;gi|962191750|gb|KTC76826.1| RDD family protein [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442896</Hit_accession>
+  <Hit_len>123</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>111.694</Hsp_bit-score>
+      <Hsp_score>278</Hsp_score>
+      <Hsp_evalue>7.58292e-28</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>235</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>121</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFK</Hsp_qseq>
+      <Hsp_hseq>WFKYLAAQIYDSFIIIALFFAFTTLCLIANHGFAIPPATRWYQLSLLGLFIGYYLLSVVYGGQTIGMRAWRLQLQTDLGRP-SWQQAIGRLLLIFPALLGGLLSFKNQQQLLYRWTKTKLK</Hsp_hseq>
+      <Hsp_midline>+ KY  A IYD  I+  LFFA+T+  L+  HG AIPPATRWYQ SL  +   YY  S+ +GGQTIGM+AWR +L TD G+  S QQ I R     PA L      K   +LL++WT+T  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|731153353|emb|CEK11938.1|</Hit_id>
+  <Hit_def>Predicted membrane protein [Legionella hackeliae] &gt;gi|962227902|gb|KTD12524.1| RDD family protein [Legionella hackeliae]</Hit_def>
+  <Hit_accession>CEK11938</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>108.612</Hsp_bit-score>
+      <Hsp_score>270</Hsp_score>
+      <Hsp_evalue>1.5441e-26</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>123</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>LLRSLAAQIYDSFIITALFFAFTTICLLFNHGTAIAAATRWYQFCLIALFVAYYMISLRYGGQTIGMRAWRLQLISKNG-NLNWQQTVRRLLLILPAYVVGLVSFHSPQQLLSQWTKTRLQVV</Hsp_hseq>
+      <Hsp_midline> ++   A IYD  I++ LFFA+T+  LLF HG AI  ATRWYQF L ++   YY  S+R+GGQTIGM+AWR +L + +G  L+ QQ + R    +PA ++         +LL QWT+T  + V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|916791853|ref|WP_051398909.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella oakridgensis] &gt;gi|570283915|gb|AHE66102.1| RDD family protein [Legionella oakridgensis ATCC 33761 = DSM 21215]</Hit_def>
+  <Hit_accession>WP_051398909</Hit_accession>
+  <Hit_len>130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.60408e-25</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>231</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>IMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQ</Hsp_qseq>
+      <Hsp_hseq>IMYFFRYLGALIYDTFVLFTLFVVFTATCLLFRHGNIIEPGTCWYQLSLASIVYYYYFLSYRYGGQTIGLRAWKMKLVSCT-YPLKQKQILARFLLMFPALLYGAICLKNPMTILKQWTK</Hsp_hseq>
+      <Hsp_midline>IM+F +Y GA+IYD  +L  LF  +T+  LLF HG  I P T WYQ SL SI++ YY+ S R+GGQTIG++AW+ KL + +   L ++QI+ARF    PA L    CLK    +L QWT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|518045099|ref|WP_019215307.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019215307</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>3.28679e-25</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>119</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQT</Hsp_qseq>
+      <Hsp_hseq>MLSLKYLASQLYDGFILLALFFAFTAICLSTTHGVAIPPASRWYQVSLLAIFLMYYLLSICYGGKTIGMRAWHLVIITEQGNP-SLLQAIMRLILLIPAALGALIKWENPQKLLLRWTKT</Hsp_hseq>
+      <Hsp_midline>M  +KY  + +YD  IL  LFFA+T+  L  THG AIPPA+RWYQ SL +I  +YY  SI +GG+TIGM+AW   + T+ G   S  Q I R    IPA L A    +   KLL +WT+T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|644964225|ref|WP_025384980.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella oakridgensis] &gt;gi|570703267|gb|ETO94165.1| RDD family [Legionella oakridgensis RV-2-2007] &gt;gi|962259726|gb|KTD43850.1| RDD family protein [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025384980</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.605</Hsp_bit-score>
+      <Hsp_score>257</Hsp_score>
+      <Hsp_evalue>1.10869e-24</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>231</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>118</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQ</Hsp_qseq>
+      <Hsp_hseq>MYFFRYLGALIYDTFVLFTLFVVFTATCLLFRHGNIIEPGTCWYQLSLASIVYYYYFLSYRYGGQTIGLRAWKMKLVSCT-YPLKQKQILARFLLMFPALLYGAICLKNPMTILKQWTK</Hsp_hseq>
+      <Hsp_midline>M+F +Y GA+IYD  +L  LF  +T+  LLF HG  I P T WYQ SL SI++ YY+ S R+GGQTIG++AW+ KL + +   L ++QI+ARF    PA L    CLK    +L QWT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966400242|ref|WP_058443837.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella feeleii] &gt;gi|962218287|gb|KTD03006.1| RDD family protein [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443837</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>5.80218e-24</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>119</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQT</Hsp_qseq>
+      <Hsp_hseq>MLLFKYLASQLYDGFILLALFFAFTAVCLCINHGVAIPPASRWYQFSLLAIFLIYYLLSICCGGKTIGMRAWRLAIITEQGNP-RLLQAIMRLILLIPAMLGALLLWQNPQTFVLRWTKT</Hsp_hseq>
+      <Hsp_midline>M   KY  + +YD  IL  LFFA+T+  L   HG AIPPA+RWYQFSL +I  +YY  SI  GG+TIGM+AWR  + T+ G      Q I R    IPA L A    +     + +WT+T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1046230305|ref|WP_065620812.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella jamestowniensis] &gt;gi|1045920869|gb|OCH97802.1| hypothetical protein A8135_00830 [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065620812</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.7525</Hsp_bit-score>
+      <Hsp_score>247</Hsp_score>
+      <Hsp_evalue>3.28848e-23</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>KYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>RYLAAQVYDSFIILALFFGFTAICLLTTHGVAITPATRWYQLSLVVIFISYYQVSFIYGGQTIGMRAWRLRLIADNGNP-GWWQAAKRLILVLPALVVGLFSFNNPQRLLFHWTNTRLQLV</Hsp_hseq>
+      <Hsp_midline>+Y  A +YD  I+  LFF +T+  LL THG AI PATRWYQ SL  I   YY  S  +GGQTIGM+AWR +L  D+G      Q   R    +PA ++  F      +LL  WT T  + V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966406145|ref|WP_058449551.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella jamestowniensis] &gt;gi|962222779|gb|KTD07429.1| RDD family protein [Legionella jamestowniensis] &gt;gi|1097327767|emb|SFL93040.1| RDD family protein [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449551</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>2.20396e-22</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>123</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>KYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>RYLAAQVYDSFIILALFFGFTAICLLTTHGVAITPATRWYQLGLVVVFISYYQVSFIYGGQTIGMRAWRLRLIADNGNP-GWWQAAKRLILVLPALVVGLFSFNNPQRLLFHWTNTRLQLV</Hsp_hseq>
+      <Hsp_midline>+Y  A +YD  I+  LFF +T+  LL THG AI PATRWYQ  L  +   YY  S  +GGQTIGM+AWR +L  D+G      Q   R    +PA ++  F      +LL  WT T  + V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966470675|ref|WP_058501590.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella israelensis] &gt;gi|962241738|gb|KTD26095.1| RDD family protein [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058501590</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>4.91549e-21</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>120</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQT</Hsp_qseq>
+      <Hsp_hseq>MFYIKYVCAQCYDFFIAVTLALTFTAFCLALRQGKVIPPHSLWYQLSLILIFYSYYYYSVKYGGQTLGMRAWRIRLISCKSGPLTAVQVTLRLVLYWPALFVAPFCRKTPASLLRSWSKT</Hsp_hseq>
+      <Hsp_midline>MF+IKY  A  YD  I   L   +T+  L    G+ IPP + WYQ SL  I + YYY S+++GGQT+GM+AWR +L +     L+  Q+  R   + PA  +APFC K    LL  W++T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966431408|ref|WP_058471853.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella jordanis] &gt;gi|962233621|gb|KTD18169.1| RDD family protein [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471853</Hit_accession>
+  <Hit_len>122</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6633</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>4.37568e-20</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>117</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>71</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>116</Hsp_align-len>
+      <Hsp_qseq>KYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQT</Hsp_qseq>
+      <Hsp_hseq>RYFAAQVYDFLILIALFFAFTAFCLIGTQGQAISPGTHSYQSALLGLTFAYYAISLRYCGQTIGMRAWRLQLISET-DVLGFKQVVKRLLLLLPATVFAVLFGKHPQYLLSCWTKT</Hsp_hseq>
+      <Hsp_midline>+Y  A +YD +IL  LFFA+T+  L+ T GQAI P T  YQ +L  + F YY  S+R+ GQTIGM+AWR +L +++   L  +Q++ R    +PAT+ A    K    LL  WT+T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966511735|ref|WP_058528289.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella londiniensis] &gt;gi|962238627|gb|KTD23035.1| RDD family protein [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528289</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.1225</Hsp_bit-score>
+      <Hsp_score>222</Hsp_score>
+      <Hsp_evalue>2.08468e-19</Hsp_evalue>
+      <Hsp_query-from>111</Hsp_query-from>
+      <Hsp_query-to>231</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>121</Hsp_align-len>
+      <Hsp_qseq>FIMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQ</Hsp_qseq>
+      <Hsp_hseq>FILFY--YYGAVLYDALILCALFFVITGFCLILRHGATILPGTRWFQILLSGAAYLYYALSYRHGGQTIGMRAWGLKLIPHAA-PISQKQILKRILLAVPVLVLGLGTLKNPLELLNKYTK</Hsp_hseq>
+      <Hsp_midline>FI+F+  Y GA++YD +IL  LFF  T   L+  HG  I P TRW+Q  L    ++YY  S R GGQTIGM+AW  KL   +   +S++QI+ R    +P  ++    LK   +LL+++T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1041903981|ref|WP_065238379.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_065238379</Hit_accession>
+  <Hit_len>128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.4925</Hsp_bit-score>
+      <Hsp_score>197</Hsp_score>
+      <Hsp_evalue>1.03263e-15</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQ-AIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MMWFRYVAALFYDLLIALSLLMAVT-ALCVWANGHHAIPPASRWYQGCMLLTLASYYALSIKAGGQTIGMRAWKLQILDGKNQRPGFIAITGRLTLTLPAWLFAVIRWKNPQLLLLQWTNTKLGLV</Hsp_hseq>
+      <Hsp_midline>M + +Y  A+ YDL+I   L  A T AL ++ +G  AIPPA+RWYQ  +   +  YY  SI+ GGQTIGM+AW+ ++     ++     I  R    +PA L A    K    LL QWT T    V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|962280874|gb|KTD64689.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella spiritensis]</Hit_def>
+  <Hit_accession>KTD64689</Hit_accession>
+  <Hit_len>127</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.1814</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>7.04133e-15</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>237</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>124</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>68</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>MFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQ-AIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFKKV</Hsp_qseq>
+      <Hsp_hseq>MWF-RYVAALFYDLLIALSLLMAVT-ALCVWANGHHAIPPASRWYQGCMLLTLASYYALSIKAGGQTIGMRAWKLQILDGKNQRPGFIAITGRLTLTLPAWLFAVIRWKNPQLLLLQWTNTKLGLV</Hsp_hseq>
+      <Hsp_midline>M+F +Y  A+ YDL+I   L  A T AL ++ +G  AIPPA+RWYQ  +   +  YY  SI+ GGQTIGM+AW+ ++     ++     I  R    +PA L A    K    LL QWT T    V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966515253|ref|WP_058531770.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella rubrilucens] &gt;gi|962262673|gb|KTD46759.1| RDD family protein [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531770</Hit_accession>
+  <Hit_len>89</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.8702</Hsp_bit-score>
+      <Hsp_score>185</Hsp_score>
+      <Hsp_evalue>1.90757e-14</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>196</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKL</Hsp_qseq>
+      <Hsp_hseq>FFRLLAALFYDLIVVCSLFMLTTAIAVYFNQGQAIPPASRGYQSLLAAIMGAYFILSFRYGGQTIGFKSWRLRLIRGAGLKL</Hsp_hseq>
+      <Hsp_midline>F +   A+ YDLI++  LF   T+  + F  GQAIPPA+R YQ  L +I+  Y+  S R+GGQTIG K+WR +L   +G KL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966511049|ref|WP_058527640.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella erythra] &gt;gi|962209479|gb|KTC94386.1| RDD family protein [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527640</Hit_accession>
+  <Hit_len>89</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>9.43923e-14</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>195</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKK</Hsp_qseq>
+      <Hsp_hseq>YLRLLAALFYDLIILCSLFMLATAIAVYFNQGQAIPPGSRTYQSLLVAIMAVYFTLSFRYGGQTIGFKSWRLRLVRAGSVK</Hsp_hseq>
+      <Hsp_midline>+++   A+ YDLIIL  LF   T+  + F  GQAIPP +R YQ  L +I+ VY+  S R+GGQTIG K+WR +L      K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966507171|ref|WP_058523817.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella birminghamensis] &gt;gi|962185030|gb|KTC70191.1| RDD family protein [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058523817</Hit_accession>
+  <Hit_len>75</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>68.1662</Hsp_bit-score>
+      <Hsp_score>165</Hsp_score>
+      <Hsp_evalue>1.05589e-11</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>188</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>75</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>74</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKL</Hsp_qseq>
+      <Hsp_hseq>WIRCIAALLYDCLVLAALAFILTGIAVFLNHGQAISPGNHYLQAALLLLIVSYYFVSLRFGGQTIGMRSWKLGL</Hsp_hseq>
+      <Hsp_midline>+I+   A++YD ++L+ L F  T   +   HGQAI P   + Q +L  +I  YY+ S+RFGGQTIGM++W+  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|931473390|gb|KPK54917.1|</Hit_id>
+  <Hit_def>hypothetical protein AMJ59_24445 [Gammaproteobacteria bacterium SG8_31]</Hit_def>
+  <Hit_accession>KPK54917</Hit_accession>
+  <Hit_len>145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.855</Hsp_bit-score>
+      <Hsp_score>159</Hsp_score>
+      <Hsp_evalue>4.55645e-10</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFF</Hsp_qseq>
+      <Hsp_hseq>LLRRAGALLYDLLLNAALWMLTGFAVLAFRGGDAIPTGTIWFQCLLFGVTACFFVGFWVRGGQTLGMMAWRIKLVARTGGPVDLPTSVRRFL</Hsp_hseq>
+      <Hsp_midline> ++  GA++YDL++ + L+     A+L F  G AIP  T W+Q  LF +   ++ G    GGQT+GM AWR KL   +G  +     + RF </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966418911|ref|WP_058462134.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella adelaidensis] &gt;gi|962181216|gb|KTC66464.1| RDD family protein [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058462134</Hit_accession>
+  <Hit_len>121</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>64.3142</Hsp_bit-score>
+      <Hsp_score>155</Hsp_score>
+      <Hsp_evalue>9.12912e-10</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>235</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>120</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>120</Hsp_align-len>
+      <Hsp_qseq>IKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFIPATLIAPFCLKGNYKLLHQWTQTGFK</Hsp_qseq>
+      <Hsp_hseq>LKRLGALFYDLLTILALLLTFTAICITLNKGRPIQPETLWFQMALLLIIYTYYSVSCKLAGQTIGMRAWRIQLVSLE-KSLKHKQLFFR-FCLTPLFLFSGFIFRTPEKFIKKMTKTEYR</Hsp_hseq>
+      <Hsp_midline>+K  GA+ YDL+ +  L   +T+  +    G+ I P T W+Q +L  II+ YY  S +  GQTIGM+AWR +L +   K L  +Q+  R F   P  L + F  +   K + + T+T ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|503583004|ref|WP_013817080.1|</Hit_id>
+  <Hit_def>RDD family protein [Methylomonas methanica] &gt;gi|333806138|gb|AEF98807.1| RDD domain containing protein [Methylomonas methanica MC09]</Hit_def>
+  <Hit_accession>WP_013817080</Hit_accession>
+  <Hit_len>159</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>2.67979e-09</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>113</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>109</Hsp_align-len>
+      <Hsp_qseq>QKLIIEINAGYVFIMFFIKYTGAMIYD-LIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFF</Hsp_qseq>
+      <Hsp_hseq>KKIAGKPGAEQVLAPGFLRRMGAVIYDALLLLAVWFFA-TAIILPFNSGQAFAADQYFFPFYLLAVSYVFYGWFWTHGGQTLGLRAWKIKLVNSDGIAANWRQVSMRFF</Hsp_hseq>
+      <Hsp_midline>+K+  +  A  V    F++  GA+IYD L++L++ FFA T+ +L F  GQA      ++ F L ++ +V+Y      GGQT+G++AW+ KL    G   + +Q+  RFF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1097856581|emb|SEI27097.1|</Hit_id>
+  <Hit_def>RDD domain containing protein [methanotrophic bacterial endosymbiont of Bathymodiolus sp.]</Hit_def>
+  <Hit_accession>SEI27097</Hit_accession>
+  <Hit_len>149</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>1.41423e-08</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>205</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>109</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>FIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARF</Hsp_qseq>
+      <Hsp_hseq>FFRYLGAIFYDLILVIAVFFVATAILLPFNQGEAIHSSFL-FPLYLLSVSFVFYGWFWTHGGQTLGLRAWKLRLVNHKQNDISWKQALIRY</Hsp_hseq>
+      <Hsp_midline>F +Y GA+ YDLI++  +FF  T+ LL F  G+AI  +   +   L S+ FV+Y      GGQT+G++AW+ +L       +S +Q + R+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1074965818|ref|WP_070078741.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acidihalobacter prosperus] &gt;gi|1073958660|gb|AOU98380.1| hypothetical protein BI364_10775 [Acidihalobacter prosperus]</Hit_def>
+  <Hit_accession>WP_070078741</Hit_accession>
+  <Hit_len>154</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>1.4696e-08</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>98</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>IEINAGYVFIMFFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFF</Hsp_qseq>
+      <Hsp_hseq>MDIRVGLPRRLLSIAYDGLLMFALLIVA------NALLIPFLHGKSITPGNHLYQLYLLYVIYLFFAWFWIHGGQTLGMKAWGIHLVSDDGKPIGWWRATVRFF</Hsp_hseq>
+      <Hsp_midline>++I  G    +  I Y G +++ L+I++       + L+ F HG++I P    YQ  L  +I++++      GGQT+GMKAW   L +D GK +   +   RFF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966476359|ref|WP_058507092.1|</Hit_id>
+  <Hit_def>RDD family protein [Legionella quinlivanii]</Hit_def>
+  <Hit_accession>WP_058507092</Hit_accession>
+  <Hit_len>88</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.6918</Hsp_bit-score>
+      <Hsp_score>143</Hsp_score>
+      <Hsp_evalue>2.4785e-08</Hsp_evalue>
+      <Hsp_query-from>114</Hsp_query-from>
+      <Hsp_query-to>195</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>FFIKYTGAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKK</Hsp_qseq>
+      <Hsp_hseq>MWIRCLAACLYDCLILTALCFILTGIAVFLNHGQAIMPGNHYLQLALSLLLFFYYAISLRSGGQTIGMRSWKLRLIKKGEKQ</Hsp_hseq>
+      <Hsp_midline> +I+   A +YD +IL+ L F  T   +   HGQAI P   + Q +L  ++F YY  S+R GGQTIGM++W+ +L     K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|502798947|ref|WP_013033923.1|</Hit_id>
+  <Hit_def>RDD family protein [Nitrosococcus halophilus] &gt;gi|291581616|gb|ADE16073.1| RDD domain containing protein [Nitrosococcus halophilus Nc 4]</Hit_def>
+  <Hit_accession>WP_013033923</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>2.65421e-08</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>209</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>108</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>90</Hsp_align-len>
+      <Hsp_qseq>GAMIYDLIILSILFFAYTSALLLFTHGQAIPPATRWYQFSLFSIIFVYYYGSIRFGGQTIGMKAWRFKLTTDSGKKLSRQQIIARFFYFI</Hsp_qseq>
+      <Hsp_hseq>GAIFYDSLLLVATWFLLTIFALPLTAGQAIPAGNAIYRFYLLLIAIAFFGGFWTHGGQTLGMRAWRIKVQQPNGQTVTWRQALLRFGFAI</Hsp_hseq>
+      <Hsp_midline>GA+ YD ++L   +F  T   L  T GQAIP     Y+F L  I   ++ G    GGQT+GM+AWR K+   +G+ ++ +Q + RF + I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

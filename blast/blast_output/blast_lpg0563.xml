@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_147261</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>519</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_147261</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>519</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248721|ref|WP_010946261.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|52840758|ref|YP_094557.1| seryl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|67461694|sp|Q5ZY59.1|SYS_LEGPH RecName: Full=Serine--tRNA ligase; AltName: Full=Seryl-tRNA synthetase; Short=SerRS; AltName: Full=Seryl-tRNA(Ser/Sec) synthetase &gt;gi|52627869|gb|AAU26610.1| seryl tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507271|gb|AEW50795.1| seryl tRNA synthetase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492950|gb|AGH54795.1| Seryl-tRNA synthetase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081178|gb|AGN13426.1| seryl-tRNA synthetase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771546|emb|CZI76357.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998795760|emb|CZI43962.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998800550|emb|CZL11579.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998804126|emb|CZK64085.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998807216|emb|CZI31600.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998810740|emb|CZI17939.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998813101|emb|CZH13599.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998816459|emb|CZM21976.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998819724|emb|CZM00400.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998825572|emb|CZK39831.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998832811|emb|CZI18402.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998834451|emb|CZL50090.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998838683|emb|CZJ30021.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998840526|emb|CZL84814.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998843106|emb|CZL08711.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998846337|emb|CZL09551.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998849184|emb|CZI97754.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998852450|emb|CZL89034.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998855935|emb|CZL52896.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998858600|emb|CZM28991.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998862298|emb|CZK40630.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998864748|emb|CZJ87398.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998867197|emb|CZJ82448.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998870217|emb|CZM42271.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998873636|emb|CZK72655.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998876230|emb|CZM47867.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998879349|emb|CZJ75468.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998885801|emb|CZM36209.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998888609|emb|CZK50319.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998895790|emb|CZK08364.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998905278|emb|CZK93347.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998908433|emb|CZL68648.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998916076|emb|CZK71772.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998917503|emb|CZL64559.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998920483|emb|CZL71063.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998926842|emb|CZL99068.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998930908|emb|CZK82599.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998933689|emb|CZL68225.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998938755|emb|CZL21132.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998946240|emb|CZK70957.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998948002|emb|CZL29695.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998956970|emb|CZM67487.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998960451|emb|CZK68189.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998963173|emb|CZK80156.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998966723|emb|CZM42098.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998969365|emb|CZL05841.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998972374|emb|CZK82486.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998978488|emb|CZM01142.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998986098|emb|CZK09835.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998987514|emb|CZL89818.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998998266|emb|CZJ96728.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999006436|emb|CZL23521.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999011901|emb|CZL84961.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999014942|emb|CZM78633.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999021211|emb|CZL93624.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999024058|emb|CZL21109.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999036221|emb|CZL85452.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999045249|emb|CZM31507.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999060275|emb|CZL79873.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999066473|emb|CZJ49925.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999075356|emb|CZH16244.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999078606|emb|CZK44063.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999083073|emb|CZK86335.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999087915|emb|CZL15998.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999090977|emb|CZL91322.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999093865|emb|CZH49237.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999096983|emb|CZH52901.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999101378|emb|CZL75390.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999110936|emb|CZL05129.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999114039|emb|CZL58984.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999115931|emb|CZK73349.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999124760|emb|CZL32662.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999132523|emb|CZL70207.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999133875|emb|CZL47255.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999136989|emb|CZK89288.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999140874|emb|CZL85653.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999144833|emb|CZK80842.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999146361|emb|CZM10915.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999155623|emb|CZI38194.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999174224|emb|CZL61816.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999189815|emb|CZI75914.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999192935|emb|CZJ17008.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999199236|emb|CZH01012.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999202144|emb|CZJ21798.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999208447|emb|CZL35777.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999217957|emb|CZM05777.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999220926|emb|CZJ08937.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999333366|emb|CZL31078.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002078826|emb|CZQ92153.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1003018374|emb|CZR30448.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|1003021446|emb|CZR26793.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|1003024514|emb|CZR30285.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|1073863680|gb|AOU03631.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073866639|gb|AOU06589.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073869644|gb|AOU09593.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073872587|gb|AOU12535.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073875570|gb|AOU15517.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073878531|gb|AOU18477.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073881526|gb|AOU21471.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073884488|gb|AOU24432.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073887486|gb|AOU27429.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073890470|gb|AOU30412.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073893435|gb|AOU33376.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073896400|gb|AOU36340.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073899363|gb|AOU39302.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073902315|gb|AOU42253.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073905226|gb|AOU45163.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073908244|gb|AOU48179.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073911299|gb|AOU51231.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073914218|gb|AOU54149.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073917176|gb|AOU57106.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073920142|gb|AOU60071.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073923116|gb|AOU63043.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073926129|gb|AOU66055.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073929109|gb|AOU69018.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073932493|gb|AOU72052.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073935441|gb|AOU82440.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073945716|gb|AOU85440.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1073948679|gb|AOU88402.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1104001831|emb|SFZ36380.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1129967294|gb|APT97653.1| serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946261</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>888.641</Hsp_bit-score>
+      <Hsp_score>2295</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>426</Hsp_identity>
+      <Hsp_positive>426</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|500490126|ref|WP_011945665.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|166222738|sp|A5IH84.1|SYS_LEGPC RecName: Full=Serine--tRNA ligase; AltName: Full=Seryl-tRNA synthetase; Short=SerRS; AltName: Full=Seryl-tRNA(Ser/Sec) synthetase &gt;gi|148282646|gb|ABQ56734.1| seryl tRNA synthetase [Legionella pneumophila str. Corby] &gt;gi|295647963|gb|ADG23810.1| seryl-tRNA synthetase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989547|dbj|GAN22610.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|761998977|dbj|GAN28962.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|998801844|emb|CZI08673.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998912153|emb|CZH23458.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998994571|emb|CZI22400.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999003147|emb|CZI81767.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999149964|emb|CZI48724.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999159314|emb|CZJ68990.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999165675|emb|CZG82953.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999168612|emb|CZI45570.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999178321|emb|CZJ55748.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999302875|emb|CZI38714.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945665</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>882.863</Hsp_bit-score>
+      <Hsp_score>2280</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>423</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499526500|ref|WP_011213140.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|67461683|sp|Q5X7N0.1|SYS_LEGPA RecName: Full=Serine--tRNA ligase; AltName: Full=Seryl-tRNA synthetase; Short=SerRS; AltName: Full=Seryl-tRNA(Ser/Sec) synthetase &gt;gi|53750329|emb|CAH11723.1| hypothetical protein lpp0575 [Legionella pneumophila str. Paris] &gt;gi|395126495|emb|CCD04678.1| seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine [Legionella pneumophila subsp. pneumophila] &gt;gi|395129601|emb|CCD07834.1| seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine [Legionella pneumophila subsp. pneumophila] &gt;gi|536613626|gb|ERB41998.1| seryl-tRNA synthetase [Legionella pneumophila str. 121004] &gt;gi|541995591|gb|ERH41690.1| seryl-tRNA synthetase [Legionella pneumophila str. Leg01/11] &gt;gi|541997378|gb|ERH43424.1| seryl-tRNA synthetase [Legionella pneumophila str. Leg01/53] &gt;gi|542121172|gb|ERI47505.1| seryl-tRNA synthetase [Legionella pneumophila str. Leg01/20] &gt;gi|761992735|dbj|GAN16523.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|761995925|dbj|GAN19629.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|762002533|dbj|GAN25651.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|998774457|emb|CZH08423.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998777337|emb|CZH12744.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998783292|emb|CZH40769.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998786247|emb|CZH06858.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998791243|emb|CZG40133.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998892634|emb|CZJ24515.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998982381|emb|CZI64501.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999107559|emb|CZI64271.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999171868|emb|CZI29900.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999181657|emb|CZG51817.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999184344|emb|CZP96141.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999198477|emb|CZP14027.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999212741|emb|CZG78429.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999216901|emb|CZI65633.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999225313|emb|CZG82970.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999228313|emb|CZP08940.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999231788|emb|CZI44812.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999265230|emb|CZP07502.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999269442|emb|CZO33640.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999272244|emb|CZP58592.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999277626|emb|CZP37449.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999281343|emb|CZP15659.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999283689|emb|CZP62114.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999287214|emb|CZI45877.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999291006|emb|CZP32636.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999293658|emb|CZI47065.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999296467|emb|CZP57872.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999299554|emb|CZP47033.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999307324|emb|CZH71086.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999309388|emb|CZP27453.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999312653|emb|CZI53350.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999315804|emb|CZI09633.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999318696|emb|CZP65519.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999322038|emb|CZH98938.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999324423|emb|CZH32673.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999328641|emb|CZG65000.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999337775|emb|CZP47643.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999344434|emb|CZP83995.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999347227|emb|CZP63788.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999353455|emb|CZP68487.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999357213|emb|CZP67659.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999359987|emb|CZI62002.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999363793|emb|CZP56047.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999367135|emb|CZP77285.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999369922|emb|CZP77305.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999373441|emb|CZG56784.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999379768|emb|CZH69877.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999382663|emb|CZI58114.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999389113|emb|CZI56941.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999392324|emb|CZP98284.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999396889|emb|CZG08968.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999398572|emb|CZQ01169.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999403103|emb|CZP40680.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999408908|emb|CZH91654.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999412756|emb|CZG33231.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999415417|emb|CZG87884.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999418757|emb|CZG64239.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999421952|emb|CZH72790.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999425266|emb|CZG74748.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999428380|emb|CZG73081.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999431630|emb|CZG72914.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999434988|emb|CZH99966.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999438172|emb|CZG62060.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999441168|emb|CZK28651.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|999444639|emb|CZH77273.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999447842|emb|CZG53642.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999450641|emb|CZP36181.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999457583|emb|CZK22270.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999464834|emb|CZM52043.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999467858|emb|CZO29222.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999474717|emb|CZM62169.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999477174|emb|CZN75184.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999480676|emb|CZN00678.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999484233|emb|CZN89045.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999487108|emb|CZM11885.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999490281|emb|CZN79451.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999493472|emb|CZM11307.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999496268|emb|CZI47038.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999500052|emb|CZN73792.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999503178|emb|CZO08259.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999506354|emb|CZN15788.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999509557|emb|CZG50946.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999512895|emb|CZN29864.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999516017|emb|CZM00657.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999518986|emb|CZM84000.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999521884|emb|CZP16797.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999528058|emb|CZI74169.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999532342|emb|CZO45903.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999535498|emb|CZN39982.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999538579|emb|CZM75545.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999542023|emb|CZO20539.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999544985|emb|CZO60756.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999548171|emb|CZN89478.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999551483|emb|CZO11381.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999554518|emb|CZN31618.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999557907|emb|CZO55668.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999561084|emb|CZM42058.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999564090|emb|CZO67092.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999567454|emb|CZM52888.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999570654|emb|CZN50842.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999573842|emb|CZN93017.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999576041|emb|CZI42509.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999580334|emb|CZO16841.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999583622|emb|CZO38219.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999586985|emb|CZM65028.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999589980|emb|CZM40233.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999593139|emb|CZN45091.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999596212|emb|CZO11779.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999599532|emb|CZO37432.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999602642|emb|CZL97134.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999605430|emb|CZN73035.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999608967|emb|CZN63493.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999611297|emb|CZI63242.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999615579|emb|CZM47575.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999618652|emb|CZN90490.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999621778|emb|CZO82230.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999625106|emb|CZN71622.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999628395|emb|CZM62779.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999631555|emb|CZM59360.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999634615|emb|CZN59596.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999637943|emb|CZN51692.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999641139|emb|CZO79644.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999644131|emb|CZO53235.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999647622|emb|CZN94871.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999650692|emb|CZO05082.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999653923|emb|CZO01058.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999657120|emb|CZM29719.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999660194|emb|CZM65156.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999663375|emb|CZN17389.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999666740|emb|CZM38036.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999669932|emb|CZL84422.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999673104|emb|CZM37845.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999676326|emb|CZN77852.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999679329|emb|CZM79280.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999682524|emb|CZM82322.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999686211|emb|CZO00141.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999689121|emb|CZN30577.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999692314|emb|CZN99316.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999695531|emb|CZN29253.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999698802|emb|CZM12296.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999701746|emb|CZM78568.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999704981|emb|CZL94681.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999708161|emb|CZN56926.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999711580|emb|CZN01077.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999714676|emb|CZN21543.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999717994|emb|CZO45968.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999720950|emb|CZM93617.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999724469|emb|CZN34300.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999727826|emb|CZL99198.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999730991|emb|CZO43506.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999734169|emb|CZM25633.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999737491|emb|CZO70669.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999740972|emb|CZM31713.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999744090|emb|CZN26731.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999747232|emb|CZM24828.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999750536|emb|CZL96318.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999753732|emb|CZM81199.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999756783|emb|CZN10529.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999760284|emb|CZM24487.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999763371|emb|CZN30195.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999766897|emb|CZM48335.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999769746|emb|CZN50797.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999776210|emb|CZL99998.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999782902|emb|CZH62697.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999786409|emb|CZM24380.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999789574|emb|CZO67093.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999792919|emb|CZO60659.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999799804|emb|CZO55833.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002074294|emb|CZR05489.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002081597|emb|CZR00313.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002092777|emb|CZQ95548.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1003029199|emb|CZR19117.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|1003032385|emb|CZR24893.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1003036382|emb|CZR17030.1| seryl-tRNA synthetase [Legionella pneumophila] &gt;gi|1015431648|gb|AMV13275.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1032656688|gb|ANH11959.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1032659655|gb|ANH14925.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1032662622|gb|ANH17891.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1041014550|gb|ANN91611.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1041017648|gb|ANN94708.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1103995581|emb|SFZ36687.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213140</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>881.708</Hsp_bit-score>
+      <Hsp_score>2277</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>422</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|652973686|ref|WP_027226407.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|998923746|emb|CZK25109.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998943816|emb|CZJ50514.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998954353|emb|CZK61411.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998975524|emb|CZJ90835.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998992810|emb|CZJ46923.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999009042|emb|CZK45814.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999018204|emb|CZJ86855.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999027319|emb|CZK24323.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999030580|emb|CZH24463.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999033269|emb|CZK20450.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999039475|emb|CZJ95376.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999042459|emb|CZK05214.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999048508|emb|CZK01519.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999051589|emb|CZJ92858.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999054532|emb|CZK28831.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999063701|emb|CZK02763.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999070556|emb|CZJ64518.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999072775|emb|CZK31198.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999085009|emb|CZK31252.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999206210|emb|CZP63568.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999235218|emb|CZP58784.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999240272|emb|CZH90340.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999244383|emb|CZH76953.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999248790|emb|CZH08605.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999252006|emb|CZH37430.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999255995|emb|CZP80014.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999259099|emb|CZP46548.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999261314|emb|CZH42093.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999274812|emb|CZG79694.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999331804|emb|CZG57557.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999340098|emb|CZH26749.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999349689|emb|CZH40584.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999469331|emb|CZH07477.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999777475|emb|CZH49615.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1103998712|emb|SFZ36416.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226407</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>881.322</Hsp_bit-score>
+      <Hsp_score>2276</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLIHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQL+HTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1004027678|ref|WP_061489595.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489595</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>880.937</Hsp_bit-score>
+      <Hsp_score>2275</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>422</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFETDLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1005410639|ref|WP_061639891.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|998793140|emb|CZI51716.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639891</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>880.167</Hsp_bit-score>
+      <Hsp_score>2273</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALTQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRAL QFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|499533468|ref|WP_011214752.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|67461679|sp|Q5WZ31.1|SYS_LEGPL RecName: Full=Serine--tRNA ligase; AltName: Full=Seryl-tRNA synthetase; Short=SerRS; AltName: Full=Seryl-tRNA(Ser/Sec) synthetase &gt;gi|53753334|emb|CAH14781.1| hypothetical protein lpl0551 [Legionella pneumophila str. Lens] &gt;gi|999187825|emb|CZI95660.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999376475|emb|CZJ18340.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1080002215|gb|AOW52787.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006032|gb|AOW56312.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008108|gb|AOW58096.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012230|gb|AOW61721.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014713|gb|AOW63586.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018473|gb|AOW67118.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214752</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>879.782</Hsp_bit-score>
+      <Hsp_score>2272</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLKLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRL LPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|652967225|ref|WP_027220197.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|999247895|emb|CZH56851.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999454050|emb|CZI21125.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999460515|emb|CZH00295.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999773141|emb|CZH90091.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999796128|emb|CZI23963.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220197</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>879.782</Hsp_bit-score>
+      <Hsp_score>2272</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGENGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTG+NGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1005610006|ref|WP_061692500.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|998822469|emb|CZH34655.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692500</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>879.396</Hsp_bit-score>
+      <Hsp_score>2271</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>420</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLIRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQL+RENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+TNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1006525797|ref|WP_061784169.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|1005832280|gb|AMQ27006.1| serine--tRNA ligase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_061784169</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>879.011</Hsp_bit-score>
+      <Hsp_score>2270</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNITHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNI HESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1003916485|ref|WP_061469121.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469121</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>877.856</Hsp_bit-score>
+      <Hsp_score>2267</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>421</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEVLRQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPGALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDEVL+QIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIP ALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|652976796|ref|WP_027229415.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|999386268|emb|CZG63990.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999405905|emb|CZG71453.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999525345|emb|CZJ07186.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027229415</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>877.856</Hsp_bit-score>
+      <Hsp_score>2267</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>420</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELEEVLKQIEAITLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTEL+EVLKQIE I+LSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|754875864|ref|WP_042236304.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236304</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>876.7</Hsp_bit-score>
+      <Hsp_score>2264</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>420</Hsp_identity>
+      <Hsp_positive>422</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPDFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALTQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVP FSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRAL QFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1004334294|ref|WP_061513219.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513219</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>876.315</Hsp_bit-score>
+      <Hsp_score>2263</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>419</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRDNPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVSKLGAKLEQQKTELDEILKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHAYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLR+NPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEV+KLGA LEQQKTELDE+LKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQH YQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|653012664|ref|WP_027264767.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264767</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>875.93</Hsp_bit-score>
+      <Hsp_score>2262</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>419</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTELEEVLKQIEAITLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKTEL+EVLKQIE I+LSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+TNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|742353213|ref|WP_038837507.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|998783005|emb|CZI85215.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998828311|emb|CZH37605.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998883011|emb|CZI84959.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998897696|emb|CZK08193.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998938023|emb|CZL86613.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|998951062|emb|CZJ95215.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999000082|emb|CZG94306.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999058454|emb|CZM30034.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999103712|emb|CZI19918.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999128494|emb|CZH15691.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999152618|emb|CZM82459.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999161901|emb|CZM39641.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999236715|emb|CZG93863.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002085558|emb|CZQ97469.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1002088292|emb|CZQ79051.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1104005396|emb|SFZ36351.1| Serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837507</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>874.389</Hsp_bit-score>
+      <Hsp_score>2258</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>418</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKLGAKLEQQKTDLEEVLKQIEAITLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNKLGA LEQQKT+L+EVLKQIE I+LSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+TNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652976170|ref|WP_027228843.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|985765948|gb|KXB27059.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|985767742|gb|KXB28828.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|999119263|emb|CZG76205.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|999122529|emb|CZH12876.1| Serine--tRNA ligase [Legionella pneumophila] &gt;gi|1024341673|gb|KZX35980.1| serine--tRNA ligase [Legionella pneumophila] &gt;gi|1108603988|gb|APF02356.1| serine--tRNA ligase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606999|gb|APF05366.1| serine--tRNA ligase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228843</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>872.078</Hsp_bit-score>
+      <Hsp_score>2252</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>415</Hsp_identity>
+      <Hsp_positive>422</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNMRSKAIGEAKARGENIEPMREEVNKLGAKLEQQKTELEEVLKQIEAITLSLPNIPHESVPVGKDELDNQEIRTWGEVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIITVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERN+RSKAIGEAK+RGENI PMREEVNKLGA LEQQKTEL+EVLKQIE I+LSLPNIPHESVPVGKDELDNQEIR WG+VPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII+VK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|652970687|ref|WP_027223579.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila] &gt;gi|1005362786|gb|AMP88655.1| serine--tRNA ligase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365787|gb|AMP91564.1| serine--tRNA ligase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368774|gb|AMP94550.1| serine--tRNA ligase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223579</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>864.374</Hsp_bit-score>
+      <Hsp_score>2232</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIEPMREEVNKIGAKLEQQKTELDEVLKQIEVITLSLPNIPHESVPIGKDELDNQEIRRWGEVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGYLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVRDMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPENSYDALEKLTQHAEVILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETNEIELVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIITVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENI PMREEVNK+GA LEQQKTELDEVLKQIEVI+LSLPNIPHESVP+GKDELDNQEIR+WG+VPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKG+LARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVR+MILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY+ALE+LTQHAE+ILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+TNEI+LVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII+VK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1011913800|ref|WP_062727014.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727014</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>860.522</Hsp_bit-score>
+      <Hsp_score>2222</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>409</Hsp_identity>
+      <Hsp_positive>420</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVAIQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNMRSKAIGEAKARGENIEPMREEVNKLGAKLEQQKTELEEVLKQIEAITLSLPNIPHESVPVGKDELDNQEIRTWGEVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVRDMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPESSYDALEQLTQHAEVILQRLSLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIITVK</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVA QLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERN+RSKAIGEAK+RGENI PMREEVNKLGA LEQQKTEL+EVLKQIE I+LSLPNIPHESVPVGKDELDNQEIR WG+VPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVR+MILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE SY+ALEQLTQHAE+ILQRL+LPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+TNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII+VK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|737926267|ref|WP_035891417.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella norrlandica] &gt;gi|701444828|gb|KGP62260.1| serine--tRNA ligase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891417</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>808.135</Hsp_bit-score>
+      <Hsp_score>2086</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>404</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>424</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIIS</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPEYVASQLSKRGFQFDIIAFGKLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGEDIGPMRDEVNKIAAKLEQQKAELDDVLKQIETITLLLPNIPHESVPVGKDELDNQEIRTWGEIPSFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGQIARLHRALIQFMLDVHTEHHGYQEIYVPYIVNSDSLLGTGQLPKFEADLFKLTGDSGYYLTSTSEIPVTNTVREMILSADQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPENSYEALEQLTQHAEVILQHLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRDSETNEIQLVHTLNGSGLAVGRTLVAIMENYQDEQGNIRIPDVLKPYLSGLEIIS</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENP+YVA+QL KRGFQFD + F +LEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGE+IGPMR+EVNK+ A LEQQK ELD+VLKQIE I+L LPNIPHESVPVGKDELDNQEIR WG++P+FSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKG +ARLHRALIQFMLD+H + HGYQEIYVPYIVN+DSLLGTGQLPKFEADLFKLTGD+GYYLTSTSEIPVTNTVREMILSA+QLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQLTQHAE+ILQ LNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFR+ +TNEIQLVHTLNGSGLAVGRTLVAIMENYQDE GNI IPD LKPYL G++IIS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|654933353|ref|WP_028383707.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella moravica] &gt;gi|962251424|gb|KTD35612.1| seryl-tRNA synthetase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383707</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>777.319</Hsp_bit-score>
+      <Hsp_score>2006</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>393</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLREDPQRVASQLLKRGFKFDVDAFSELEEKRKALQVSTQSLQNERNMRSKAIGAAKSRGEDIEPMREEVNQLGARLEQQKAELETVLQHIEAIALSLPNIPHESVPVGKDEQDNQEVRRWGTVPEFDFPVKSHDELGDALGQMDFALAAKITGSRFVVMKHQIARLHRALIQFMLDTHTQQHGYQEIYVPYIVNSDSLLGTGQLPKFEEDLFKLTGDNGYYLTSTAEIPVTNTVRDTILPVESLPVRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYDALEQLTHHAEVILQRLELPYRVLALCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRNPETNEIELVHTLNGSGLAVGRTLVAIMENYQDKNGAIHIPTVLKPYLGGMDVI</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRE+PQ VA+QLLKRGF+FD   FS+LEEKRKALQVSTQSLQNERN+RSKAIG AKSRGE+I PMREEVN+LGA LEQQK EL+ VL+ IE I+LSLPNIPHESVPVGKDE DNQE+R+WG VP F FPVKSHDELG+ALGQMDFALAAKITGSRFVVMK  +ARLHRALIQFMLD H QQHGYQEIYVPYIVN+DSLLGTGQLPKFE DLFKLTGDNGYYLTST+EIPVTNTVR+ IL  E LP+RY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY+ALEQLT HAE+ILQRL LPYRV+ALCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+RNP+TNEI+LVHTLNGSGLAVGRTLVAIMENYQD++G IHIP  LKPYLGG+D+I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966432011|ref|WP_058472444.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella quateirensis] &gt;gi|962271477|gb|KTD55479.1| seryl-tRNA synthetase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472444</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>772.696</Hsp_bit-score>
+      <Hsp_score>1994</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>359</Hsp_identity>
+      <Hsp_positive>394</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLREDPQHVASQLLKRGFKFDVKAFSELEEQRKALQVSTQSLQNERNMRSKAIGAAKSRGEDIEPMREEVNQLGVRLEQQKAELEAVLQHIEAIALSLPNIPHESVPVGKDEQDNKEVRRWGTIPEFDFPVKSHDELGDALGQMDFALAAKITGSRFVVMKNQIARLHRALIQFMLDTHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDNGYYLTSTAEIPVTNTVRDTILSVESLPVRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYDALEQLTHHAEVILQRLELPYRVLALCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRNPETNEMELVHTLNGSGLAVGRTLVAIMENYQDKEGSIRIPNVLKPYLGGMEVI</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRE+PQ+VA+QLLKRGF+FD   FS+LEE+RKALQVSTQSLQNERN+RSKAIG AKSRGE+I PMREEVN+LG  LEQQK EL+ VL+ IE I+LSLPNIPHESVPVGKDE DN+E+R+WG +P F FPVKSHDELG+ALGQMDFALAAKITGSRFVVMK  +ARLHRALIQFMLD H QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGDNGYYLTST+EIPVTNTVR+ ILS E LP+RY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY+ALEQLT HAE+ILQRL LPYRV+ALCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+RNP+TNE++LVHTLNGSGLAVGRTLVAIMENYQD+ G+I IP+ LKPYLGG+++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966440845|ref|WP_058481168.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella waltersii] &gt;gi|962291903|gb|KTD75601.1| seryl-tRNA synthetase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481168</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.992</Hsp_bit-score>
+      <Hsp_score>1974</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>356</Hsp_identity>
+      <Hsp_positive>391</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRENPQYVADQLVKRGFQFDVSQYVALEEKRKVLQVETQALQNERNLRSKAIGEAKSRGEDIEPMREAVNKIGQQLEQNKNKLDEVLQQIELITLSLPNIPHESVPFGKDENDNQELRRWGKLPSFDFPVKSHDELGEALGQMDFSLAAKITGSRFVVMKQHIAKLHRALIQFMLDTHTQQHGYQEIYVPYIVNAESLLGTGQLPKFEEDLFKLTGDNNYYLTSTSEIPVTNTVRDTILTVDQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWVTKPEDSYSALEQLTQHAEAILQKLNLAYRVVTLCTGDIGAGAAKTYDLEVWLPSQNTYREISSCSNTEAFQARRMKARYRDPETNEINLVHTLNGSGLAVGRTLVAILENYQDKDGNIHVPEVLRPYLGGMELI</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRENPQYVA QL+KRGFQFD   +  LEEKRK LQV TQ+LQNERNLRSKAIGEAKSRGE+I PMRE VNK+G  LEQ K +LDEVL+QIE+I+LSLPNIPHESVP GKDE DNQE+R+WG +P+F FPVKSHDELGEALGQMDF+LAAKITGSRFVVMK H+A+LHRALIQFMLD H QQHGYQEIYVPYIVNA+SLLGTGQLPKFE DLFKLTGDN YYLTSTSEIPVTNTVR+ IL+ +QLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVW+TKPEDSY+ALEQLTQHAE ILQ+LNL YRVV LCTGDIGAG+AKTYDLEVWLPSQNTYREISSCSN EAFQARRMKAR+R+P+TNEI LVHTLNGSGLAVGRTLVAI+ENYQD+ GNIH+P+ L+PYLGG+++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|517404021|ref|WP_018576833.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella shakespearei] &gt;gi|962283722|gb|KTD67494.1| seryl-tRNA synthetase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576833</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>763.066</Hsp_bit-score>
+      <Hsp_score>1969</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>352</Hsp_identity>
+      <Hsp_positive>393</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLRDNPQFIASQLLKRGYTFDVAAFTALEEKRKALQVGTQALQNERNQRSKAIGEAKARGENIEPMREEVNQLGAKLEQQKADLEVVLQQLEAITLSMPNIPHESVPVGKDEQDNQEVRRWGEATVLDFPAKSHDELGEALGEMDFALAAKITGSRFVVMKGQLARLHRALIQFMLDIHTQEHGYQEIYVPYIVNSDSLLGTGQLPKFEEDLFKLSGDSGYYLTSTAEIPVTNTVRDTILSADSLPVRHACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPQDSYDALEQLTRHAEVILQRLELPYRVLALCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRNPETNETELVHTLNGSGLAVGRTLVAIMENYQDKEGNIRIPKALQPYLGGMEII</Hsp_hseq>
+      <Hsp_midline>MLDNQLLR+NPQ++A+QLLKRG+ FD   F+ LEEKRKALQV TQ+LQNERN RSKAIGEAK+RGENI PMREEVN+LGA LEQQK +L+ VL+Q+E I+LS+PNIPHESVPVGKDE DNQE+R+WG+     FP KSHDELGEALG+MDFALAAKITGSRFVVMKG LARLHRALIQFMLDIH Q+HGYQEIYVPYIVN+DSLLGTGQLPKFE DLFKL+GD+GYYLTST+EIPVTNTVR+ ILSA+ LP+R+ CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKP+DSY+ALEQLT+HAE+ILQRL LPYRV+ALCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+RNP+TNE +LVHTLNGSGLAVGRTLVAIMENYQD+ GNI IP AL+PYLGG++II</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|493927735|ref|WP_006872470.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella drancourtii] &gt;gi|363536187|gb|EHL29633.1| seryl-tRNA synthetase [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872470</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>761.525</Hsp_bit-score>
+      <Hsp_score>1965</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>358</Hsp_identity>
+      <Hsp_positive>388</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRENPQFVASQLLTRGFKFDVAAFSALEERRKALQVATQALQNERNTRSKAIGEAKSRGEDIESMRAEVNRLGAELEQKKLELDDVLHQIEAIALRLPNLPHESVPVGEDENDNQEVRRWGTVPTFDFPVKSHDELGEALGQMDFALAAKLTGSRFVVMKAQLARVHRALIQFMLDIHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLNGDQGYYLTSTAEIPVTNTVRDMLLSEEVLPIRHACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYAALEQLTQHAEIILQRLELPYRVVALCTGDLGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRQSQTREIELVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPTALRPYLGGMECIRV</Hsp_hseq>
+      <Hsp_midline>MLD+QLLRENPQ+VA+QLL RGF+FD   FS LEE+RKALQV+TQ+LQNERN RSKAIGEAKSRGE+I  MR EVN+LGA LEQ+K ELD+VL QIE I+L LPN+PHESVPVG+DE DNQE+R+WG VP F FPVKSHDELGEALGQMDFALAAK+TGSRFVVMK  LAR+HRALIQFMLDIH QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKL GD GYYLTST+EIPVTNTVR+M+LS E LPIR+ CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQLTQHAEIILQRL LPYRVVALCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R   T EI+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGG++ I V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|769980404|ref|WP_045096389.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella fallonii] &gt;gi|698844018|emb|CEG57987.1| seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096389</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>757.673</Hsp_bit-score>
+      <Hsp_score>1955</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>353</Hsp_identity>
+      <Hsp_positive>389</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISVK</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDKTEYVASQLLKRGFKLDVAAFVSLEEKRKSLQVATQSLQNERNLRSKAIGEAKSRGENIEPMREEVSRLGGELEQKKAELEQVLQQIEAMVLVMPNIPHESVPVGNSELDNQEVRRWGDVPVFDFKVKSHDELGESLGQMDFALAAKITGSRFVVLKNQLARLHRALIQFMLDIQTQEHGYQEIYVPYIVNADSLYGTGQLPKFEEDLFKLTGDSAYYLTSTAEIPVTNTVRDTILAAETLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPQDSYNALEQLTRHAESILQRLELPYRVLTLCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRNPETNEMELVHTLNGSGLAVGRTLVAIMENYQDKDGNIHIPQALRPYLSGMNIIKVK</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR+  +YVA+QLLKRGF+ D   F  LEEKRK+LQV+TQSLQNERNLRSKAIGEAKSRGENI PMREEV++LG  LEQ+K EL++VL+QIE + L +PNIPHESVPVG  ELDNQE+R+WGDVP F F VKSHDELGE+LGQMDFALAAKITGSRFVV+K  LARLHRALIQFMLDI  Q+HGYQEIYVPYIVNADSL GTGQLPKFE DLFKLTGD+ YYLTST+EIPVTNTVR+ IL+AE LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKP+DSYNALEQLT+HAE ILQRL LPYRV+ LCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+RNP+TNE++LVHTLNGSGLAVGRTLVAIMENYQD+ GNIHIP AL+PYL G++II VK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966460469|ref|WP_058492898.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella worsleiensis] &gt;gi|962296541|gb|KTD80178.1| seryl-tRNA synthetase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492898</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>750.74</Hsp_bit-score>
+      <Hsp_score>1937</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>348</Hsp_identity>
+      <Hsp_positive>387</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>424</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIIS</Hsp_qseq>
+      <Hsp_hseq>MLDNQLLREDPQAVATALLKRGFKFDAAAFAQLEEQRKALQVSTQSLQNERNMRSKAIGAAKSRGEDIEPMREEVNLLGVRLEQQKAELDAVLQQIESIAASLPNIPHASVPVGKDEQDNQEVRRWGVIPEFDFQVKPHDELGDALGQMDFALAAKITGSRFVVMKQHIARLHRALIQFMLDTHTQHHGYEEINVPYIVNSDSLFGTGQLPKFEEDLFKLTGDSGYYLTSTAEIPVTNTVRDTILAMESLPVRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWVTKPEDSYDALEQLTHHAEVILQRLELPYRVLTLCTGDMGAGSAKTYDLEVWIPSQNTYREISSCSNMEAFQARRMKARYRNPETNEIELVHTLNGSGLAVGRTLVAIMENYQNKDGSIRIPEVLRPYMGGLEVIT</Hsp_hseq>
+      <Hsp_midline>MLDNQLLRE+PQ VAT LLKRGF+FDA  F+QLEE+RKALQVSTQSLQNERN+RSKAIG AKSRGE+I PMREEVN LG  LEQQK ELD VL+QIE I+ SLPNIPH SVPVGKDE DNQE+R+WG +P F F VK HDELG+ALGQMDFALAAKITGSRFVVMK H+ARLHRALIQFMLD H Q HGY+EI VPYIVN+DSL GTGQLPKFE DLFKLTGD+GYYLTST+EIPVTNTVR+ IL+ E LP+RY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVW+TKPEDSY+ALEQLT HAE+ILQRL LPYRV+ LCTGD+GAGSAKTYDLEVW+PSQNTYREISSCSNMEAFQARRMKAR+RNP+TNEI+LVHTLNGSGLAVGRTLVAIMENYQ++ G+I IP+ L+PY+GG+++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966398341|ref|WP_058442324.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella brunensis] &gt;gi|962192976|gb|KTC78043.1| seryl-tRNA synthetase [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442324</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>728.783</Hsp_bit-score>
+      <Hsp_score>1880</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>382</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDPQLLRDNPQQVAEQLLKRGFRFDVNAFTVLEERRKTLQVATQALQNERNLRSKAIGQAKSRGEDIEAMRQEVNQLGQELDNKKLELEKILQQLEEIIISLPNLPHSSVPDGKDEHDNREVRRWGTVPTFDFTVQSHDELGEALNQMDFALAAKITGSRFVVMKAQIARLHRALIQFMLDIHTEEHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLKGDENYYLTSTAEIPVTNTVRDTILDLESLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITNPKSSYDALEQLTKHAEVILQRLNLPYRVVTLCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRHPETREIELVHTLNGSGLAVGRTLVAILENYQDREGNIHIPDALKPYMRGLEII</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+NPQ VA QLLKRGF+FD   F+ LEE+RK LQV+TQ+LQNERNLRSKAIG+AKSRGE+I  MR+EVN+LG  L+ +K EL+++L+Q+E I +SLPN+PH SVP GKDE DN+E+R+WG VP F F V+SHDELGEAL QMDFALAAKITGSRFVVMK  +ARLHRALIQFMLDIH ++HGYQEIYVPYIVNADSLLGTGQLPKFEADLFKL GD  YYLTST+EIPVTNTVR+ IL  E LPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT P+ SY+ALEQLT+HAE+ILQRLNLPYRVV LCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R+P+T EI+LVHTLNGSGLAVGRTLVAI+ENYQD  GNIHIPDALKPY+ G++II</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|654921618|ref|WP_028372178.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella lansingensis] &gt;gi|962239346|gb|KTD23826.1| seryl-tRNA synthetase [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372178</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>728.783</Hsp_bit-score>
+      <Hsp_score>1880</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>383</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>424</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIIS</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDHPQQVAKQLLKRGFHFNVDAFIVLEERRKALQVATQALQNERNQRSKAIGQAKARGENIDSMREEVNRLGQELDSKKSELENVLQELEAIIMTLPNLPHSSVPVGEDEHDNLEIRRWGTIPTFDFPIKSHDELGEALGQLDFALAAKITGSRFVVMKAQIARLHRALIQFMLDIHTQEHGYQEIYVPYIINADSLLGTGQLPKFEADLFKLKGDENYYLTSTAEIPVTNTVRDTILAADVLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPESSYEALEQLTKHAEIILQRLNLAYRVVTLCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRHQDTREIELVHTLNGSGLAIGRTLVAIMENYQDKDGNIRIPDALKPYTGGLELIT</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR++PQ VA QLLKRGF F+   F  LEE+RKALQV+TQ+LQNERN RSKAIG+AK+RGENI  MREEVN+LG  L+ +K+EL+ VL+++E I ++LPN+PH SVPVG+DE DN EIR+WG +P F FP+KSHDELGEALGQ+DFALAAKITGSRFVVMK  +ARLHRALIQFMLDIH Q+HGYQEIYVPYI+NADSLLGTGQLPKFEADLFKL GD  YYLTST+EIPVTNTVR+ IL+A+ LPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT PE SY ALEQLT+HAEIILQRLNL YRVV LCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R+ DT EI+LVHTLNGSGLA+GRTLVAIMENYQD+ GNI IPDALKPY GG+++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966471609|ref|WP_058502524.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella israelensis] &gt;gi|962231340|gb|KTD15910.1| seryl-tRNA synthetase [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502524</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>726.857</Hsp_bit-score>
+      <Hsp_score>1875</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLNSQLMRDEPHWVAAQLLKRGFKFDVQSFQKLEEKRKTLQVATQALQNERNQRSKAIGQAKARGEDISSMREEVSRIGDELEQKKLELDDILHRLDDLLLSLPNIPHESVPVGQDENGNQEIRRWGDIPHFDFSPKPHDELGEKLGQMDFALAAKITGSRFVVMKAELARLHRALIQFMLDIHVAEHGYQEIYVPYIVNAESLLGTGQLPKFEEDLFKLTGEHGYYLTSTSEIPVTNTVRDTILSPDVLPLRHVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWISKPESSYEALEQLTHHAEIILQRLELPYRVVALCTGDLGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPETQEIELVHTLNGSGLAVGRTFVAIMENYQDKEGNIRIPNALRPYLSGLDIIRI</Hsp_hseq>
+      <Hsp_midline>ML++QL+R+ P +VA QLLKRGF+FD  +F +LEEKRK LQV+TQ+LQNERN RSKAIG+AK+RGE+I  MREEV+++G  LEQ+K ELD++L +++ + LSLPNIPHESVPVG+DE  NQEIR+WGD+P F F  K HDELGE LGQMDFALAAKITGSRFVVMK  LARLHRALIQFMLDIH+ +HGYQEIYVPYIVNA+SLLGTGQLPKFE DLFKLTG++GYYLTSTSEIPVTNTVR+ ILS + LP+R+VCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWI+KPE SY ALEQLT HAEIILQRL LPYRVVALCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNP+T EI+LVHTLNGSGLAVGRT VAIMENYQD+ GNI IP+AL+PYL G+DII +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966407077|ref|WP_058450483.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella jamestowniensis] &gt;gi|962223816|gb|KTD08466.1| seryl-tRNA synthetase [Legionella jamestowniensis] &gt;gi|1045920101|gb|OCH97068.1| serine--tRNA ligase [Legionella jamestowniensis] &gt;gi|1097331366|emb|SFL51458.1| seryl-tRNA synthetase [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450483</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>725.317</Hsp_bit-score>
+      <Hsp_score>1871</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDKPQWVAKQLSKRGFHFDVEAFTVLEERRKTLQVATQSLQNERNQRSKAIGQAKARGEDIDAMRQEVNQLGVELENTKTELDQVLHKLEEIVLSLPNIPHPSVPEGKDEQNNQEIRRWGTLPSLDFAIQSHDELGEALGQMDFALAAKITGSRFVVMKAQIARLHRALIQFMLDIHTEEHGYQEIYVPYIVNADSLLGTGQLPKFETDLFKLKGDENYYLTSTAEIPVTNTVRDTILNLDALPVRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPESSYEALEQLTKHAEVILQRLNLPYRVVSLCTGDMGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRHPVTRDIELVHTLNGSGLAIGRTLVAILENYQDKNGNIHIPDALRPYMRGIDLI</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR+ PQ+VA QL KRGF FD   F+ LEE+RK LQV+TQSLQNERN RSKAIG+AK+RGE+I  MR+EVN+LG  LE  KTELD+VL ++E I LSLPNIPH SVP GKDE +NQEIR+WG +P+  F ++SHDELGEALGQMDFALAAKITGSRFVVMK  +ARLHRALIQFMLDIH ++HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKL GD  YYLTST+EIPVTNTVR+ IL+ + LP+RYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT PE SY ALEQLT+HAE+ILQRLNLPYRVV+LCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R+P T +I+LVHTLNGSGLA+GRTLVAI+ENYQD++GNIHIPDAL+PY+ GID+I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|769989238|ref|WP_045105189.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella hackeliae] &gt;gi|731151158|emb|CEK09704.1| Seryl-tRNA synthetase [Legionella hackeliae] &gt;gi|962225565|gb|KTD10209.1| seryl-tRNA synthetase [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105189</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>725.317</Hsp_bit-score>
+      <Hsp_score>1871</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDKPQWVAEQLLKRGFHFDVDAFTALEERRKTLQVATQALQNERNQRSKAIGQAKARGEDIESMRQEVNRLGVELENSKTELDQVLQKLETMVLTFPNLPHSSVPEGKDEQDNKEVRRWGNVPQLDFAVQSHDELGEALGQMDFALAAKITGSRFVVMKAQIARLHRALIQFMLDIHTEEHGYQEIYVPYIVNTDSLLGTGQLPKFEADLFKLKGDENYYLTSTAEIPVTNTVRDTILNLDALPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPESSYEALEQLTNHAEVILQRLNLPYRVMSLCTGDMGAGAAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARYRHPETRETELVHTLNGSGLAVGRTLVAILENYQDKEGNIHIPDALKPYMKGLDII</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR+ PQ+VA QLLKRGF FD   F+ LEE+RK LQV+TQ+LQNERN RSKAIG+AK+RGE+I  MR+EVN+LG  LE  KTELD+VL+++E + L+ PN+PH SVP GKDE DN+E+R+WG+VP   F V+SHDELGEALGQMDFALAAKITGSRFVVMK  +ARLHRALIQFMLDIH ++HGYQEIYVPYIVN DSLLGTGQLPKFEADLFKL GD  YYLTST+EIPVTNTVR+ IL+ + LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT PE SY ALEQLT HAE+ILQRLNLPYRV++LCTGD+GAG+AKTYDLEVWLPSQNTYREISSCSNME+FQARRMKAR+R+P+T E +LVHTLNGSGLAVGRTLVAI+ENYQD+ GNIHIPDALKPY+ G+DII</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966436895|ref|WP_058477263.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella steigerwaltii] &gt;gi|962293672|gb|KTD77347.1| Seryl-tRNA synthetase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477263</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>724.931</Hsp_bit-score>
+      <Hsp_score>1870</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFKFDVSSFTALEEKRKALQVATQALQNERNLRSKAIGEAKSRGEDIEPMREEMGRLATELEEKKGELDGLLQQIEAIALRLPNIPHESVPVGEDEQHNQEIRRWGKIPTFDFPVKSHDELGENLNQMDFALAAKLTGSRFVVMKNQLARLHRALIQFMLDIHTQQHGYQEIYVPYMVNADSLMGTGQLPKFEEDLFKLTGEHGYYLIPTAEIPVTNTVRDVLLDEHVLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYVALEQLVNHAETILQRLELPYRVVTLCTGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARYRHEQTREIELVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRPYLGGIDCI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGF+FD  +F+ LEEKRKALQV+TQ+LQNERNLRSKAIGEAKSRGE+I PMREE+ +L   LE++K ELD +L+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG +P F FPVKSHDELGE L QMDFALAAK+TGSRFVVMK  LARLHRALIQFMLDIH QQHGYQEIYVPY+VNADSL+GTGQLPKFE DLFKLTG++GYYL  T+EIPVTNTVR+++L    LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL  HAE ILQRL LPYRVV LCTGD+G  SAKTYDLEVWLPSQNTYREISSCSNME+FQARRMKAR+R+  T EI+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGID I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|654930658|ref|WP_028381027.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella cherrii] &gt;gi|962197423|gb|KTC82467.1| Seryl-tRNA synthetase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381027</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>723.776</Hsp_bit-score>
+      <Hsp_score>1867</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFKFDVSSFTALEEKRKALQVATQALQNERNLRSKAIGEAKSRGEDIEPMREEMGRLAKELEQKKDELDGLLQQIEAIALRLPNIPHESVPVGEDEQNNLEIRRWGKVPTFDFPVKSHDELGEHLNQMDFALAAKLTGSRFVVMKNQLARLHRALIQFMLDMHTQQHGYQEIYVPYIVNADSLMGTGQLPKFEEDLFKLTGEHGYYLIPTAEIPVTNTVRDVLLEEQVLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYAALEQLVNHAEAILQRLELPYRVITLCTGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARYRQEQTREIELVHTLNGSGLAVGRTLVALMENYQDKDGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGF+FD  +F+ LEEKRKALQV+TQ+LQNERNLRSKAIGEAKSRGE+I PMREE+ +L   LEQ+K ELD +L+QIE I+L LPNIPHESVPVG+DE +N EIR+WG VP F FPVKSHDELGE L QMDFALAAK+TGSRFVVMK  LARLHRALIQFMLD+H QQHGYQEIYVPYIVNADSL+GTGQLPKFE DLFKLTG++GYYL  T+EIPVTNTVR+++L  + LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL  HAE ILQRL LPYRV+ LCTGD+G  SAKTYDLEVWLPSQNTYREISSCSNME+FQARRMKAR+R   T EI+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966422751|ref|WP_058465952.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella cincinnatiensis] &gt;gi|962197757|gb|KTC82796.1| Seryl-tRNA synthetase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465952</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>722.235</Hsp_bit-score>
+      <Hsp_score>1863</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDEPQFVAAQLLKRGFQFDVSSFIALEEKRKSLQVATQSLQNERNTRSKAIGEAKSRGEDIDVMREDMNRLAKELEQKKGELDDVLQQIEAIALRLPNIPHESVPVGENEQHNQEIRRWGTIPTFDFPVKSHDELGDELGQMDFALAAKLTGSRFVVMKNQLARLHRGLIQFMLDLHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDHGYYLIPTAEIPVTNTVRDTLLAEENLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEESYAALEQLVQHAETILQRLELPYRVVTLCTGDMGPSAAKTYDIEVWLPSQNTYREISSCSNIEAFQARRMKARYRHEKTREINLVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+ PQ+VA QLLKRGFQFD  +F  LEEKRK+LQV+TQSLQNERN RSKAIGEAKSRGE+I  MRE++N+L   LEQ+K ELD+VL+QIE I+L LPNIPHESVPVG++E  NQEIR+WG +P F FPVKSHDELG+ LGQMDFALAAK+TGSRFVVMK  LARLHR LIQFMLD+H QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD+GYYL  T+EIPVTNTVR+ +L+ E LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQL QHAE ILQRL LPYRVV LCTGD+G  +AKTYD+EVWLPSQNTYREISSCSN+EAFQARRMKAR+R+  T EI LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966504687|ref|WP_058521346.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella tucsonensis] &gt;gi|962290676|gb|KTD74384.1| Seryl-tRNA synthetase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521346</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>720.694</Hsp_bit-score>
+      <Hsp_score>1859</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPEFVATQLLKRGFKFDVSSFTALEEKRKALQVATQALQNERNLRSKAIGEAKARGEDIEPMREDMNRLAKELEEKKADLDGLLQQIEAIALRLPNIPHESVPVGEDEQHNQEIRRWGKVPSFDFPVKSHDELGDGLGQMDFALAAKLTGSRFVVMKNQLARLHRALIQFMLDIHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGEHGYYLIPTAEIPVTNTVRDTLLNEHVLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEESYLALEQLVNHAETILQRLELSYRVVTLCTGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARYRHEQTREIELVHTLNGSALAVGRTLVALMENYQDKEGNIHIPMALRPYLGGMEYI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++P++VATQLLKRGF+FD  +F+ LEEKRKALQV+TQ+LQNERNLRSKAIGEAK+RGE+I PMRE++N+L   LE++K +LD +L+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG VP+F FPVKSHDELG+ LGQMDFALAAK+TGSRFVVMK  LARLHRALIQFMLDIH QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTG++GYYL  T+EIPVTNTVR+ +L+   LPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQL  HAE ILQRL L YRVV LCTGD+G  SAKTYDLEVWLPSQNTYREISSCSNME+FQARRMKAR+R+  T EI+LVHTLNGS LAVGRTLVA+MENYQD+ GNIHIP AL+PYLGG++ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966423411|ref|WP_058466557.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Fluoribacter gormanii] &gt;gi|962220880|gb|KTD05542.1| Seryl-tRNA synthetase [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466557</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>720.694</Hsp_bit-score>
+      <Hsp_score>1859</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFKFDVSSFTALEEKRKALQVATQALQNERNLRSKAIGEAKSRGEDIEPMREDMNRLAKELDEKKSELDGLLQQIEAIALRLPNIPHESVPVGEDEQHNQEVRRWGTIPTFDFQVKSHDELGDSLGQMDFSLAAKLTGSRFVVMKNQLARLHRALIQFMLDIHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDQGYYLISTAEIPVTNTVRDTLLEEPVLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYAALEQLVNHAEAILQRLELPYRVMTLCTGDMGSSSAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARYRHEQTREIELVHTLNGSGLAVGRTLVALMENNQDKEGNIHIPMALRPYMGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGF+FD  +F+ LEEKRKALQV+TQ+LQNERNLRSKAIGEAKSRGE+I PMRE++N+L   L+++K+ELD +L+QIE I+L LPNIPHESVPVG+DE  NQE+R+WG +P F F VKSHDELG++LGQMDF+LAAK+TGSRFVVMK  LARLHRALIQFMLDIH QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD GYYL ST+EIPVTNTVR+ +L    LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL  HAE ILQRL LPYRV+ LCTGD+G+ SAKTYDLEVWLPSQNTYREISSCSNME+FQARRMKAR+R+  T EI+LVHTLNGSGLAVGRTLVA+MEN QD+ GNIHIP AL+PY+GGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|653017720|ref|WP_027269684.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella sainthelensi] &gt;gi|962270943|gb|KTD54946.1| Seryl-tRNA synthetase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269684</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>720.309</Hsp_bit-score>
+      <Hsp_score>1858</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDEPQFVASQLLKRGFQFDVSSFTTLEEKRKSLQVTTQSLQNERNTRSKAIGEAKSRGEDIEAMREDMNRLAKELEHKKGELDNVLQQIEAIALRLPNIPHESVPVGEDEHHNQEIRRWGTIPTFDFPVKSHDELGDGLGQMDFALAAKLTGSRFVVMKNQLARLHRGLIQFMLDLHTQHHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDHGYYLIPTAEIPVTNTVRDTLLAEENLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEESYAALEQLVQHAEMVLQRLELPYRVVTLCTGDMGPSAAKTYDIEVWLPSQDTYREISSCSNMEAFQARRMKARYRHEKSREINLVHTLNGSGLAVGRTLVALMENYQDKDGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+ PQ+VA+QLLKRGFQFD  +F+ LEEKRK+LQV+TQSLQNERN RSKAIGEAKSRGE+I  MRE++N+L   LE +K ELD VL+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG +P F FPVKSHDELG+ LGQMDFALAAK+TGSRFVVMK  LARLHR LIQFMLD+H Q HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD+GYYL  T+EIPVTNTVR+ +L+ E LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQL QHAE++LQRL LPYRVV LCTGD+G  +AKTYD+EVWLPSQ+TYREISSCSNMEAFQARRMKAR+R+  + EI LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966498820|ref|WP_058515586.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella santicrucis] &gt;gi|962269259|gb|KTD53273.1| Seryl-tRNA synthetase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515586</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.153</Hsp_bit-score>
+      <Hsp_score>1855</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDEPQFVASQLLKRGFQFDVSSFIALEEKRKSLQVATQSLQNERNTRSKAIGEAKSRGEDIDVMREDMNRLAKELEQKKGELDDVLQQIEAIALRLPNIPHESVPVGENEQHNQEIRRWGTIPTFDFPVKSHDELGDGLGQMDFALAAKLTGSRFVVMKNQLARLHRGLIQFMLDLHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDHGYYLIPTAEIPVTNTVRDTLLAEENLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEESYIALEQLVQHAETILQRLELPYRVVTLCTGDMGPSAAKTYDIEVWLPSQNTYREISSCSNMEAFQARRMKARYRHEKTREINLVHTLNGSGLAVGRTLVALMENCQDKEGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+ PQ+VA+QLLKRGFQFD  +F  LEEKRK+LQV+TQSLQNERN RSKAIGEAKSRGE+I  MRE++N+L   LEQ+K ELD+VL+QIE I+L LPNIPHESVPVG++E  NQEIR+WG +P F FPVKSHDELG+ LGQMDFALAAK+TGSRFVVMK  LARLHR LIQFMLD+H QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD+GYYL  T+EIPVTNTVR+ +L+ E LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQL QHAE ILQRL LPYRVV LCTGD+G  +AKTYD+EVWLPSQNTYREISSCSNMEAFQARRMKAR+R+  T EI LVHTLNGSGLAVGRTLVA+MEN QD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|498340458|ref|WP_010654614.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Fluoribacter dumoffii] &gt;gi|962205996|gb|KTC90933.1| Seryl-tRNA synthetase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654614</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>718.383</Hsp_bit-score>
+      <Hsp_score>1853</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDNPEFVASQLLKRGFQFDVLAFTNLEEKRKALQVATQALQNERNSRSKAIGEAKARGEDIEPMREDMSRLAKELEEKKGELDSLLEQIEAIALRLPNIPHESVPVGEDEHQNQEVRRWGNIPTFDFPVKSHDELGENLNQMDFALAAKLTGSRFVVMKNHLARLHRALIQFMLDVHTQHHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGEHAYYLIPTAEIPVTNTVRDVLLEERVLPIRHACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYAALEQLVSHAETILQRLELPYRVVSLCTGDLGPSSAKTYDLEVWLPSQNMYREISSCSNMEAFQARRMKARYRKEQSREIELVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRPYLGGMECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+NP++VA+QLLKRGFQFD + F+ LEEKRKALQV+TQ+LQNERN RSKAIGEAK+RGE+I PMRE++++L   LE++K ELD +L+QIE I+L LPNIPHESVPVG+DE  NQE+R+WG++P F FPVKSHDELGE L QMDFALAAK+TGSRFVVMK HLARLHRALIQFMLD+H Q HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTG++ YYL  T+EIPVTNTVR+++L    LPIR+ CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL  HAE ILQRL LPYRVV+LCTGD+G  SAKTYDLEVWLPSQN YREISSCSNMEAFQARRMKAR+R   + EI+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGG++ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966468582|ref|WP_058499908.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella gratiana] &gt;gi|962221371|gb|KTD06031.1| Seryl-tRNA synthetase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499908</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>717.998</Hsp_bit-score>
+      <Hsp_score>1852</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFQFDVSSFIVLEEKRKTLQVITQTLQNERNTRSKAIGAAKSRGEDIEAMREDMNRLAKELEQKKGELDSVLQQIEAIAFRLPNIPHHSVPVGEDEQHNQEIRRWGTIPIFDFPVKSHDELGDSLGQMDFALAAKLTGSRFVVMKNQLARLHRGLIQFMLDIHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGEHGYYLIPTAEIPVTNTVRDTLLAEENLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEESYAALEQLVQHAEMILQRLELPYRVVTLCTGDMGPSAAKTYDIEVWLPSQNTYREISSCSNMEAFQARRMKARYRNEKTRDINLVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGFQFD  +F  LEEKRK LQV TQ+LQNERN RSKAIG AKSRGE+I  MRE++N+L   LEQ+K ELD VL+QIE I+  LPNIPH SVPVG+DE  NQEIR+WG +P F FPVKSHDELG++LGQMDFALAAK+TGSRFVVMK  LARLHR LIQFMLDIH QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTG++GYYL  T+EIPVTNTVR+ +L+ E LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPE+SY ALEQL QHAE+ILQRL LPYRVV LCTGD+G  +AKTYD+EVWLPSQNTYREISSCSNMEAFQARRMKAR+RN  T +I LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1113342856|gb|OJW06717.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW06717</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>717.227</Hsp_bit-score>
+      <Hsp_score>1850</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>333</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFKFDVSSFTALEEKRKTLQVATQTLQNERNLRSKAIGEAKSRGEDIEPMREDMSRLAKELEEKKGELDDLLQQIEAIALRLPNIPHESVPVGEDEQHNQEIRRWGTIPTFDFPVKSHDELGENLNQMDFALAAKLTGSRFVVMKNQLARLHRALIQFMLDMHTQQHGYQEIYVPYMVNADSLMGTGQLPKFEEDLFKLTGEQGYYLIPTAEIPVTNTVRDVLLDENVLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPQDSYHALEQLVNHAETVLQRLELPYRVMTLCSGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRQEQTRDIELVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRPYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGF+FD  +F+ LEEKRK LQV+TQ+LQNERNLRSKAIGEAKSRGE+I PMRE++++L   LE++K ELD++L+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG +P F FPVKSHDELGE L QMDFALAAK+TGSRFVVMK  LARLHRALIQFMLD+H QQHGYQEIYVPY+VNADSL+GTGQLPKFE DLFKLTG+ GYYL  T+EIPVTNTVR+++L    LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKP+DSY+ALEQL  HAE +LQRL LPYRV+ LC+GD+G  SAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R   T +I+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966516721|ref|WP_058533215.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533215</Hit_accession>
+  <Hit_len>429</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>717.227</Hsp_bit-score>
+      <Hsp_score>1850</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>331</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFQFDIASFTSLDEKRKELQVATQALQNERNTRSKAIGIAKSRGEDIEPMREEVNRIGAELEQKKQELDDLLQQIEAIALRLPNIPHESVPVGVDENDNVEVRRWGTIPSFDFPVKSHDELGEALGQMDFAMAAKLTGSRFVVMRNQLARLHRALIQFMLDIHTQHHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDQGYYLIPTAEIPVTNTVRDTLLSEDMLPMQYACHTPCFRSEAGSYGKDTKGMIRQHQFEKVELVWVTKPEESYNALEQLVKHAETILQRLELPYRVVTLCSGDMGPSAAKTYDIEVWLPSQNMYREISSCSNMESFQARRMKARYRRNEERDIEPVHTLNGSGLAVGRTLVALMENYQDQEGNIHIPMALRPYLGGMECIKI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGFQFD  +F+ L+EKRK LQV+TQ+LQNERN RSKAIG AKSRGE+I PMREEVN++GA LEQ+K ELD++L+QIE I+L LPNIPHESVPVG DE DN E+R+WG +P+F FPVKSHDELGEALGQMDFA+AAK+TGSRFVVM+  LARLHRALIQFMLDIH Q HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD GYYL  T+EIPVTNTVR+ +LS + LP++Y CH+PCFRSEAGSYGKDTKGMIRQHQFEKVELVW+TKPE+SYNALEQL +HAE ILQRL LPYRVV LC+GD+G  +AKTYD+EVWLPSQN YREISSCSNME+FQARRMKAR+R  +  +I+ VHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYLGG++ I +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|671587474|ref|WP_031563696.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563696</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>716.842</Hsp_bit-score>
+      <Hsp_score>1849</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>335</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLSKRGFKFDVSSFTSLEEQRKSLQVATQALQNERNLRSKAIGAAKSRGEDIEPMREEMNRLAQELEEKKEALDILLQQIEAIALRLPNIPHESVPVGENEQQNQEVRRWGKVPTFDFPVKSHDELGEGLGQMDFALAAKITGSRFVVMKNQLARLHRALIQFMLDIHTQQHGYQEIYVPYIVNADSLMGTGQLPKFEEDLFKLKGDHEFYLIPTAEIPVTNTVRDTLLEAQVLPLQYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYRALEQLVTHAETILQKLELPYRVMTLCTGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMESFQARRMKARFRNEQTREIELVHTLNGSGLAVGRTLVAILENYQDKEGNIHIPKALIPYLGGVERINV</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QL KRGF+FD  +F+ LEE+RK+LQV+TQ+LQNERNLRSKAIG AKSRGE+I PMREE+N+L   LE++K  LD +L+QIE I+L LPNIPHESVPVG++E  NQE+R+WG VP F FPVKSHDELGE LGQMDFALAAKITGSRFVVMK  LARLHRALIQFMLDIH QQHGYQEIYVPYIVNADSL+GTGQLPKFE DLFKL GD+ +YL  T+EIPVTNTVR+ +L A+ LP++Y CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL  HAE ILQ+L LPYRV+ LCTGD+G  SAKTYDLEVWLPSQNTYREISSCSNME+FQARRMKARFRN  T EI+LVHTLNGSGLAVGRTLVAI+ENYQD+ GNIHIP AL PYLGG++ I+V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|489731268|ref|WP_003635384.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella longbeachae] &gt;gi|269987501|gb|EEZ93756.1| seryl-tRNA synthetase [Legionella longbeachae D-4968] &gt;gi|288859180|emb|CBJ13112.1| putative Seryl-tRNA synthetase [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635384</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>716.842</Hsp_bit-score>
+      <Hsp_score>1849</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDEPQFVATQLLKKGFQFDVSSFIALEEKRKSLQVTVQSLQNERNTRSKAIGEAKSRGEDIEGMREDMNRLAKELEQRKGELDDVLQQIEAIALRLPNIPHESVPVGEDEQHNQEIRRWGIIPTFDFPVKSHDELGDGLGQMDFALAAKLTGSRFVVMKNQLARLHRGLIQFMLDLHTQQHGYQEIYVPYIVNADSLLGTGQLPKFEEDLFKLTGDHGYYLIPTAEIPVTNTVRDTLLAEENLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYAALEQLVRHAEMVLQRLELPYRVVTLCSGDMSPSAAKTYDIEVWLPSQNTYREISSCSNMEAFQARRMKARYRHEKTREINLVHTLNGSGLAVGRTLVALMENYQDKDGNIHIPMALRPYLDGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+ PQ+VATQLLK+GFQFD  +F  LEEKRK+LQV+ QSLQNERN RSKAIGEAKSRGE+I  MRE++N+L   LEQ+K ELD+VL+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG +P F FPVKSHDELG+ LGQMDFALAAK+TGSRFVVMK  LARLHR LIQFMLD+H QQHGYQEIYVPYIVNADSLLGTGQLPKFE DLFKLTGD+GYYL  T+EIPVTNTVR+ +L+ E LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSY ALEQL +HAE++LQRL LPYRVV LC+GD+   +AKTYD+EVWLPSQNTYREISSCSNMEAFQARRMKAR+R+  T EI LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+PYL GI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966493980|ref|WP_058510768.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella steelei] &gt;gi|962284934|gb|KTD68700.1| Seryl-tRNA synthetase [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058510768</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>714.531</Hsp_bit-score>
+      <Hsp_score>1843</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>332</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDIQLLRDDPQFVASQLLKRGFKFDVSSFTALEEKRKTLQVATQTLQNERNLRSKAIGEAKSRGEDIEPMREDMSRLAQELEEKKGELDDLLQQIEAIALRLPNIPHESVPVGEDEQHNQEIRRWGTIPTFDFPVKSHDELGENLNQMDFALAAKLTGSRFVVMKNQLARLHRALIQFMLDMHTQQHGYQEIYVPYMVNADSLMGTGQLPKFEEDLFKLTGEQGYYLIPTAEIPVTNTVRDVLLDENVLPIRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPQDSYHALEQLVNHAETVLQRLELPYRVMTLCSGDMGPSSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRQEQTRDIELVHTLNGSGLAVGRTLVALMENYQDKEGNIHIPMALRSYLGGIECI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR++PQ+VA+QLLKRGF+FD  +F+ LEEKRK LQV+TQ+LQNERNLRSKAIGEAKSRGE+I PMRE++++L   LE++K ELD++L+QIE I+L LPNIPHESVPVG+DE  NQEIR+WG +P F FPVKSHDELGE L QMDFALAAK+TGSRFVVMK  LARLHRALIQFMLD+H QQHGYQEIYVPY+VNADSL+GTGQLPKFE DLFKLTG+ GYYL  T+EIPVTNTVR+++L    LPIRY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKP+DSY+ALEQL  HAE +LQRL LPYRV+ LC+GD+G  SAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R   T +I+LVHTLNGSGLAVGRTLVA+MENYQD+ GNIHIP AL+ YLGGI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966428595|ref|WP_058471091.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella jordanis] &gt;gi|962232781|gb|KTD17329.1| seryl-tRNA synthetase [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471091</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>711.449</Hsp_bit-score>
+      <Hsp_score>1835</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>332</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDYPEQVAEQLAKRGFHFDVNVFKVLEERRKNLQVSTQALQNERNQRSKAIGQAKARGENIEPMREEVNRIGQELDGKKAELEETLAQLEQMLLTLPNIPHSSVPVGKDEHDNQEVRRWGEVPVFDFSVKSHDELGEALNQLDFALAAKITGSRFVVMKQQIAKMHRALIQFMLDIHTQEHGYQEIYVPYIVNADSLLGTGQLPKFETDLFKLKGEENYYLTSTAEIPVTNTVRDCILDLETLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPDSSYQALEQLTKHAEVILQRLNLPYRVVSLCTGDLGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARYRQTETRETELVHTLNGSGLAIGRTLVAILENYQNSDGSIRVPDALKPYMNGLEII</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR+ P+ VA QL KRGF FD   F  LEE+RK LQVSTQ+LQNERN RSKAIG+AK+RGENI PMREEVN++G  L+ +K EL+E L Q+E + L+LPNIPH SVPVGKDE DNQE+R+WG+VP F F VKSHDELGEAL Q+DFALAAKITGSRFVVMK  +A++HRALIQFMLDIH Q+HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKL G+  YYLTST+EIPVTNTVR+ IL  E LPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT P+ SY ALEQLT+HAE+ILQRLNLPYRVV+LCTGD+GAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKAR+R  +T E +LVHTLNGSGLA+GRTLVAI+ENYQ+  G+I +PDALKPY+ G++II</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|769982644|ref|WP_045098626.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Tatlockia micdadei] &gt;gi|698846184|emb|CEG60167.1| Seryl-tRNA synthetase [Tatlockia micdadei] &gt;gi|962245656|gb|KTD29951.1| seryl-tRNA synthetase [Tatlockia micdadei] &gt;gi|1081463853|emb|SCY64163.1| seryl-tRNA synthetase [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098626</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>710.294</Hsp_bit-score>
+      <Hsp_score>1832</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>331</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLDAQLLRDNPKYVAEQLQRRGFLFDVGSFSALEEKRKALQVATQTLQNERNQRSKAIGQAKARGEDIELMRQEVNRLGQELDKNKAELEHVLQQMEAITLTLPNLPHQSVPTGKDENDNLEIRRWGSIPHFDFPVKSHDELGEALGQMDFGLAAKITGSRFVVMKNQLARLHRALIQFMLDIHTQEHGYQEIYVPYIVNADSLIGTGQLPKFEDDLFKLRGEQDYYLISTSEISVTNTVRDTILAAETLPFRYACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPETSYEALEQLVRHAEVILQRLDLAYRVVTLCTGDMGAGAAKTYDIEVWLPSQNRYREISSCSNTEAYQARRMKARYRNPETQATELVHTLNGSGLAVGRTLVAILENYQDKDGNIHIPKALQPYLGGLQVITA</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+NP+YVA QL +RGF FD  +FS LEEKRKALQV+TQ+LQNERN RSKAIG+AK+RGE+I  MR+EVN+LG  L++ K EL+ VL+Q+E I+L+LPN+PH+SVP GKDE DN EIR+WG +P F FPVKSHDELGEALGQMDF LAAKITGSRFVVMK  LARLHRALIQFMLDIH Q+HGYQEIYVPYIVNADSL+GTGQLPKFE DLFKL G+  YYL STSEI VTNTVR+ IL+AE LP RY CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT PE SY ALEQL +HAE+ILQRL+L YRVV LCTGD+GAG+AKTYD+EVWLPSQN YREISSCSN EA+QARRMKAR+RNP+T   +LVHTLNGSGLAVGRTLVAI+ENYQD+ GNIHIP AL+PYLGG+ +I+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966403160|ref|WP_058446755.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella feeleii] &gt;gi|962211509|gb|KTC96401.1| seryl-tRNA synthetase [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446755</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>708.753</Hsp_bit-score>
+      <Hsp_score>1828</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>516</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>329</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>423</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDII</Hsp_qseq>
+      <Hsp_hseq>MLDPQLLRDNPQYVAEQLKKRGFHFDVQAFVVLEDQRKLLQVATQALQNDRNQRSKLIGQAKARGEDITAMREEVNRLGEELQSKKTELDEVLKHLDALLFSLPNLPHPSVPEGRDEQDNQEVRRWGTIPTFDFAVKSHDELGEALAKMDFALAAKITGSRFVVMKAELARLHRALIQFMLDIHTQEHGYEEIYVPYIVNADSLMGTGQLPKFEEDLFKLKGDDGYYLTSTAEIPVTNTVRDTILAAELLPLRHACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITTPETSYEALEKLTHHAEVILQRLELPYRVVALCTGDLGAGAAKTYDLEVWLPSQGMYREISSCSNMEAYQSRRMKARYRHPETRETELVHTLNGSGLAVGRTLVAIMENYQDKDGNIRIPNALQPYLGGMKLI</Hsp_hseq>
+      <Hsp_midline>MLD QLLR+NPQYVA QL KRGF FD   F  LE++RK LQV+TQ+LQN+RN RSK IG+AK+RGE+I  MREEVN+LG  L+ +KTELDEVLK ++ +  SLPN+PH SVP G+DE DNQE+R+WG +P F F VKSHDELGEAL +MDFALAAKITGSRFVVMK  LARLHRALIQFMLDIH Q+HGY+EIYVPYIVNADSL+GTGQLPKFE DLFKL GD+GYYLTST+EIPVTNTVR+ IL+AE LP+R+ CHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWIT PE SY ALE+LT HAE+ILQRL LPYRVVALCTGD+GAG+AKTYDLEVWLPSQ  YREISSCSNMEA+Q+RRMKAR+R+P+T E +LVHTLNGSGLAVGRTLVAIMENYQD+ GNI IP+AL+PYLGG+ +I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|762037305|ref|WP_043873243.1|</Hit_id>
+  <Hit_def>serine--tRNA ligase [Legionella massiliensis] &gt;gi|683290157|emb|CEE12518.1| Serine--tRNA ligase [Legionella massiliensis] &gt;gi|685072527|emb|CDZ76780.1| Serine--tRNA ligase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873243</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>707.983</Hsp_bit-score>
+      <Hsp_score>1826</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>518</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>329</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>MLDNQLLRENPQYVATQLLKRGFQFDAVTFSQLEEKRKALQVSTQSLQNERNLRSKAIGEAKSRGENIGPMREEVNKLGAILEQQKTELDEVLKQIEVISLSLPNIPHESVPVGKDELDNQEIRKWGDVPAFSFPVKSHDELGEALGQMDFALAAKITGSRFVVMKGHLARLHRALIQFMLDIHIQQHGYQEIYVPYIVNADSLLGTGQLPKFEADLFKLTGDNGYYLTSTSEIPVTNTVREMILSAEQLPIRYVCHSPCFRSEAGSYGKDTKGMIRQHQFEKVELVWITKPEDSYNALEQLTQHAEIILQRLNLPYRVVALCTGDIGAGSAKTYDLEVWLPSQNTYREISSCSNMEAFQARRMKARFRNPDTNEIQLVHTLNGSGLAVGRTLVAIMENYQDEHGNIHIPDALKPYLGGIDIISV</Hsp_qseq>
+      <Hsp_hseq>MLDSQLLRDNPQSVAERLKQRGFHFDVDAFVALEEQRKALQVATQALQNERNQRSKAIGQAKARGEDIEPMREEVNRLAQELDSKKIELEQVLEQLEIIVLSLPNLPHESVPTGAGEDDNQEVRRWGTIPQFDFTPKPHDELGEALGQMDFSLAAKITGSRFVVMKAQLARLHRALIQFMLDIHTQEHGYQEIYVPYIVNADSLLGTGQLPKFEDDLFKLRGEQDYYLISTSEISVTNTVRDTIIASESLPIKHACHSPCFRSEAGSYGKDTKGMIRQHQFEKVELIWVTKPEDSYKALEQLTQHAEIILQRLNLAYRVIVLCTGDMGAGAAKTYDLEVWLPSQNRYREISSCSNTEAYQARRMKARYRHPETKETELVHTLNGSGLAVGRTLVAIMENYQDKDGNIHIPKALQPYLGGLELIRL</Hsp_hseq>
+      <Hsp_midline>MLD+QLLR+NPQ VA +L +RGF FD   F  LEE+RKALQV+TQ+LQNERN RSKAIG+AK+RGE+I PMREEVN+L   L+ +K EL++VL+Q+E+I LSLPN+PHESVP G  E DNQE+R+WG +P F F  K HDELGEALGQMDF+LAAKITGSRFVVMK  LARLHRALIQFMLDIH Q+HGYQEIYVPYIVNADSLLGTGQLPKFE DLFKL G+  YYL STSEI VTNTVR+ I+++E LPI++ CHSPCFRSEAGSYGKDTKGMIRQHQFEKVEL+W+TKPEDSY ALEQLTQHAEIILQRLNL YRV+ LCTGD+GAG+AKTYDLEVWLPSQN YREISSCSN EA+QARRMKAR+R+P+T E +LVHTLNGSGLAVGRTLVAIMENYQD+ GNIHIP AL+PYLGG+++I +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

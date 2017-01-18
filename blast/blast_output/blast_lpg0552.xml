@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_195949</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>259</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_195949</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>259</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248715|ref|WP_010946255.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella pneumophila] &gt;gi|52840752|ref|YP_094551.1| outer membrane protein OmpH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627863|gb|AAU26604.1| outer membrane protein OmpH [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|53750324|emb|CAH11718.1| hypothetical protein lpp0570 [Legionella pneumophila str. Paris] &gt;gi|53753329|emb|CAH14776.1| hypothetical protein lpl0546 [Legionella pneumophila str. Lens] &gt;gi|148282651|gb|ABQ56739.1| outer membrane protein OmpH [Legionella pneumophila str. Corby] &gt;gi|295647957|gb|ADG23804.1| outer membrane protein OmpH [Legionella pneumophila 2300/99 Alcoy] &gt;gi|364507265|gb|AEW50789.1| outer membrane protein OmpH [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|395126490|emb|CCD04673.1| putative Outer membrane chaperone Skp (OmpH) [Legionella pneumophila subsp. pneumophila] &gt;gi|395129596|emb|CCD07829.1| putative Outer membrane chaperone Skp (OmpH) [Legionella pneumophila subsp. pneumophila] &gt;gi|469492955|gb|AGH54800.1| Outer membrane protein H precursor [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081173|gb|AGN13421.1| outer membrane protein [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|536613622|gb|ERB41994.1| membrane protein [Legionella pneumophila str. 121004] &gt;gi|541995587|gb|ERH41686.1| membrane protein [Legionella pneumophila str. Leg01/11] &gt;gi|541997375|gb|ERH43421.1| membrane protein [Legionella pneumophila str. Leg01/53] &gt;gi|542121169|gb|ERI47502.1| membrane protein [Legionella pneumophila str. Leg01/20] &gt;gi|761989542|dbj|GAN22605.1| chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|761992730|dbj|GAN16518.1| chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|761995920|dbj|GAN19624.1| chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|761998972|dbj|GAN28957.1| chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|762002528|dbj|GAN25646.1| chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|998771551|emb|CZI76521.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998774462|emb|CZH08618.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998777342|emb|CZH12942.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998783000|emb|CZI85022.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998783287|emb|CZH40586.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998786252|emb|CZH07044.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998791238|emb|CZG39900.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998793145|emb|CZI51949.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998795755|emb|CZI43791.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998800545|emb|CZL11413.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998801849|emb|CZI08865.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998804131|emb|CZK64239.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998807221|emb|CZI31786.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998810745|emb|CZI18178.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998813096|emb|CZH13421.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998816464|emb|CZM22215.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998819719|emb|CZM00236.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998822464|emb|CZH34503.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998825577|emb|CZK40015.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998828306|emb|CZH37421.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998832806|emb|CZI18130.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998834446|emb|CZL49851.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998838678|emb|CZJ29804.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998840531|emb|CZL85041.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998843111|emb|CZL08919.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998846342|emb|CZL09720.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998849189|emb|CZI97947.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998852455|emb|CZL89262.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998855930|emb|CZL52727.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998858595|emb|CZM28788.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998862293|emb|CZK40460.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998864743|emb|CZJ87126.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998867192|emb|CZJ82309.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998870222|emb|CZM42448.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998873641|emb|CZK72873.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998876235|emb|CZM48068.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998879354|emb|CZJ75660.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998883016|emb|CZI85156.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998885806|emb|CZM36464.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998888614|emb|CZK50493.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998892639|emb|CZJ24748.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998895785|emb|CZK08195.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998897691|emb|CZK07949.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998905283|emb|CZK93569.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998908438|emb|CZL68881.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998912148|emb|CZH23256.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998916071|emb|CZK71574.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998917508|emb|CZL64757.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998920488|emb|CZL71249.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998923751|emb|CZK25319.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998926847|emb|CZL99313.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998930903|emb|CZK82426.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998933694|emb|CZL68411.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998938018|emb|CZL86392.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998938760|emb|CZL21306.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998943821|emb|CZJ50697.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998946235|emb|CZK70754.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998948007|emb|CZL29880.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998951057|emb|CZJ94986.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998954358|emb|CZK61656.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998956975|emb|CZM67727.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998960446|emb|CZK67960.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998963178|emb|CZK80392.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998966728|emb|CZM42374.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998969360|emb|CZL05636.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998972369|emb|CZK82312.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998975529|emb|CZJ91020.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998978483|emb|CZM00981.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998982386|emb|CZI64737.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998986093|emb|CZK09495.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998987519|emb|CZL90052.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998992805|emb|CZJ46683.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998994566|emb|CZI22143.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|998998261|emb|CZJ96501.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999000077|emb|CZG94097.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999003152|emb|CZI81971.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999006441|emb|CZL23714.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999009037|emb|CZK45546.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999011906|emb|CZL85134.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999014947|emb|CZM78902.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999018199|emb|CZJ86646.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999021206|emb|CZL93441.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999024063|emb|CZL21267.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999027314|emb|CZK24117.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999030585|emb|CZH24650.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999033264|emb|CZK20300.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999036216|emb|CZL85280.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999039470|emb|CZJ95202.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999042464|emb|CZK05379.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999045254|emb|CZM31641.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999048503|emb|CZK01337.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999051594|emb|CZJ93055.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999054527|emb|CZK28621.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999058459|emb|CZM30226.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999060270|emb|CZL79607.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999063706|emb|CZK02933.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999066468|emb|CZJ49771.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999070551|emb|CZJ64330.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999072770|emb|CZK30961.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999075351|emb|CZH16078.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999078601|emb|CZK43870.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999083068|emb|CZK86169.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999085014|emb|CZK31493.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999087920|emb|CZL16160.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999090982|emb|CZL91575.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999093860|emb|CZH48957.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999096988|emb|CZH53130.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999101373|emb|CZL75204.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999103717|emb|CZI20098.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999107554|emb|CZI64004.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999110941|emb|CZL05265.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999114034|emb|CZL58840.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999115926|emb|CZK73167.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999124765|emb|CZL32843.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999128489|emb|CZH15491.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999132528|emb|CZL70370.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999133870|emb|CZL47112.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999136994|emb|CZK89558.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999140869|emb|CZL85409.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999144828|emb|CZK80622.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999146356|emb|CZM10676.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999149959|emb|CZI48565.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999152613|emb|CZM82224.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999155628|emb|CZI38347.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999159309|emb|CZJ68822.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999161906|emb|CZM39804.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999165670|emb|CZG82776.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999168607|emb|CZI45336.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999171873|emb|CZI30095.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999174229|emb|CZL61979.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999178316|emb|CZJ55573.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999184349|emb|CZP96215.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999187830|emb|CZI95783.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999189820|emb|CZI76056.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999192940|emb|CZJ17234.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999198482|emb|CZP14270.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999199231|emb|CZH00776.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999202149|emb|CZJ22083.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999206215|emb|CZP63751.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999208452|emb|CZL35953.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999212746|emb|CZG78708.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999216896|emb|CZI65442.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999217962|emb|CZM06053.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999220931|emb|CZJ09169.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999225308|emb|CZG82720.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999228318|emb|CZP09128.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999231783|emb|CZI44589.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999235223|emb|CZP58992.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999236720|emb|CZG94073.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999240267|emb|CZH90159.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999244388|emb|CZH77171.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999247900|emb|CZH57078.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999248795|emb|CZH08823.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999252011|emb|CZH37599.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999256000|emb|CZP80182.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999259094|emb|CZP46403.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999261319|emb|CZH42262.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999265235|emb|CZP07640.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999269447|emb|CZO33801.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999272249|emb|CZP58802.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999274817|emb|CZG79978.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999277631|emb|CZP37647.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999281338|emb|CZP15466.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999283694|emb|CZP62251.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999287219|emb|CZI46109.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999291011|emb|CZP32813.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999293653|emb|CZI46906.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999296462|emb|CZP57734.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999299549|emb|CZP46794.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999302870|emb|CZI38513.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999307329|emb|CZH71271.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999309393|emb|CZP27673.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999312658|emb|CZI53556.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999315799|emb|CZI09407.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999318701|emb|CZP65651.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999322043|emb|CZH99168.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999324418|emb|CZH32505.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999328646|emb|CZG65279.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999331799|emb|CZG57381.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999333371|emb|CZL31256.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999337780|emb|CZP47820.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999340103|emb|CZH26899.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999344429|emb|CZP83882.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999347232|emb|CZP63902.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999349684|emb|CZH40384.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999353450|emb|CZP68296.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999357208|emb|CZP67548.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999359992|emb|CZI62211.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999363788|emb|CZP55897.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999367140|emb|CZP77477.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999369917|emb|CZP77176.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999373436|emb|CZG56626.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999376470|emb|CZJ18180.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999379773|emb|CZH70001.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999382668|emb|CZI58357.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999386263|emb|CZG63808.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999389118|emb|CZI57197.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999392329|emb|CZP98373.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999396884|emb|CZG08741.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999398577|emb|CZQ01217.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999403098|emb|CZP40463.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999405900|emb|CZG71184.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999408913|emb|CZH91936.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999412761|emb|CZG33381.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999415412|emb|CZG87633.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999418752|emb|CZG64045.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999421947|emb|CZH72676.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999425261|emb|CZG74588.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999428385|emb|CZG73322.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999431625|emb|CZG72720.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999434983|emb|CZH99742.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999438167|emb|CZG61879.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999441163|emb|CZK28436.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|999444644|emb|CZH77443.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999447847|emb|CZG53813.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999450646|emb|CZP36351.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999454045|emb|CZI20861.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999457588|emb|CZK22460.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999460510|emb|CZH00050.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999464829|emb|CZM51806.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999467853|emb|CZO29007.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999469336|emb|CZH07642.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999474722|emb|CZM62409.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999477179|emb|CZN75411.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999480681|emb|CZN00873.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999484228|emb|CZN88772.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999487113|emb|CZM12040.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999490286|emb|CZN79692.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999493477|emb|CZM11483.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999496273|emb|CZI47271.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999500057|emb|CZN73994.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999503183|emb|CZO08558.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999506349|emb|CZN15612.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999509552|emb|CZG50719.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999512890|emb|CZN29692.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999516022|emb|CZM00915.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999518981|emb|CZM83852.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999521889|emb|CZP17017.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999525340|emb|CZJ06991.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999528053|emb|CZI73943.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999532337|emb|CZO45682.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999535493|emb|CZN39828.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999538574|emb|CZM75303.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999542018|emb|CZO20389.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999544980|emb|CZO60627.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999548176|emb|CZN89648.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999551488|emb|CZO11598.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999554523|emb|CZN31803.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999557902|emb|CZO55418.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999561089|emb|CZM42314.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999564095|emb|CZO67344.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999567459|emb|CZM53072.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999570659|emb|CZN51004.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999573847|emb|CZN93246.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999576046|emb|CZI42668.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999580339|emb|CZO17124.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999583627|emb|CZO38431.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999586990|emb|CZM65303.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999589975|emb|CZM40028.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999593134|emb|CZN44915.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999596207|emb|CZO11608.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999599527|emb|CZO37196.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999602647|emb|CZL97368.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999605435|emb|CZN73322.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999608972|emb|CZN63658.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999611302|emb|CZI63452.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999615584|emb|CZM47829.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999618647|emb|CZN90259.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999621783|emb|CZO82437.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999625111|emb|CZN71793.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999628390|emb|CZM62594.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999631560|emb|CZM59533.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999634620|emb|CZN59783.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999637948|emb|CZN51914.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999641144|emb|CZO79884.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999644136|emb|CZO53497.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999647627|emb|CZN95057.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999650687|emb|CZO04943.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999653928|emb|CZO01223.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999657125|emb|CZM29946.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999660199|emb|CZM65322.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999663370|emb|CZN17195.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999666735|emb|CZM37750.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999669927|emb|CZL84221.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999673109|emb|CZM38042.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999676321|emb|CZN77616.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999679334|emb|CZM79523.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999682529|emb|CZM82492.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999686216|emb|CZO00392.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999689116|emb|CZN30439.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999692309|emb|CZN99096.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999695526|emb|CZN29026.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999698807|emb|CZM12475.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999701751|emb|CZM78802.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999704986|emb|CZL94965.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999708156|emb|CZN56771.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999711575|emb|CZN00817.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999714671|emb|CZN21345.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999717999|emb|CZO46181.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999720955|emb|CZM93864.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999724474|emb|CZN34521.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999727821|emb|CZL99016.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999730996|emb|CZO43652.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999734164|emb|CZM25479.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999737496|emb|CZO70844.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999740977|emb|CZM31871.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999744085|emb|CZN26578.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999747227|emb|CZM24716.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999750541|emb|CZL96540.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999753737|emb|CZM81377.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999756788|emb|CZN10732.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999760289|emb|CZM24677.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999763366|emb|CZN29973.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999766892|emb|CZM48054.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999769741|emb|CZN50511.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999773146|emb|CZH90314.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999776205|emb|CZL99805.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999777470|emb|CZH49373.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999782907|emb|CZH62812.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999786404|emb|CZM24233.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999789569|emb|CZO66851.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999792914|emb|CZO60524.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999796133|emb|CZI24238.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999799799|emb|CZO55562.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002074299|emb|CZR05523.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002078831|emb|CZQ92210.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002081592|emb|CZR00249.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002085563|emb|CZQ97502.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002088287|emb|CZQ79046.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1002092772|emb|CZQ95493.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1003018369|emb|CZR30427.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|1003021441|emb|CZR26770.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|1003024519|emb|CZR30300.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|1003029204|emb|CZR19145.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|1003032390|emb|CZR24920.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1003036387|emb|CZR17061.1| outer membrane protein OmpH [Legionella pneumophila] &gt;gi|1005832276|gb|AMQ27002.1| membrane protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431643|gb|AMV13270.1| Chaperone protein Skp precursor [Legionella pneumophila] &gt;gi|1032656684|gb|ANH11955.1| hypothetical protein A5478_02545 [Legionella pneumophila] &gt;gi|1032659651|gb|ANH14921.1| hypothetical protein A5480_02545 [Legionella pneumophila] &gt;gi|1032662618|gb|ANH17887.1| hypothetical protein A5479_02545 [Legionella pneumophila] &gt;gi|1041014546|gb|ANN91607.1| hypothetical protein A9P85_02790 [Legionella pneumophila] &gt;gi|1041017643|gb|ANN94703.1| hypothetical protein A9P84_02855 [Legionella pneumophila] &gt;gi|1073863675|gb|AOU03626.1| hypothetical protein A9E97_02515 [Legionella pneumophila] &gt;gi|1073866634|gb|AOU06584.1| hypothetical protein A9E98_02515 [Legionella pneumophila] &gt;gi|1073869639|gb|AOU09588.1| hypothetical protein A9F03_02700 [Legionella pneumophila] &gt;gi|1073872583|gb|AOU12531.1| hypothetical protein A9E99_02515 [Legionella pneumophila] &gt;gi|1073875565|gb|AOU15512.1| hypothetical protein A9F00_02700 [Legionella pneumophila] &gt;gi|1073878526|gb|AOU18472.1| hypothetical protein A9F01_02515 [Legionella pneumophila] &gt;gi|1073881521|gb|AOU21466.1| hypothetical protein A9F02_02700 [Legionella pneumophila] &gt;gi|1073884483|gb|AOU24427.1| hypothetical protein A9E77_02515 [Legionella pneumophila] &gt;gi|1073887481|gb|AOU27424.1| hypothetical protein A9E78_02515 [Legionella pneumophila] &gt;gi|1073890465|gb|AOU30407.1| hypothetical protein A9E79_02695 [Legionella pneumophila] &gt;gi|1073893430|gb|AOU33371.1| hypothetical protein A9E80_02515 [Legionella pneumophila] &gt;gi|1073896395|gb|AOU36335.1| hypothetical protein A9E81_02515 [Legionella pneumophila] &gt;gi|1073899358|gb|AOU39297.1| hypothetical protein A9E82_02515 [Legionella pneumophila] &gt;gi|1073902310|gb|AOU42248.1| hypothetical protein A9E83_02515 [Legionella pneumophila] &gt;gi|1073905221|gb|AOU45158.1| hypothetical protein A9E84_02515 [Legionella pneumophila] &gt;gi|1073908239|gb|AOU48174.1| hypothetical protein A9E85_02520 [Legionella pneumophila] &gt;gi|1073911294|gb|AOU51226.1| hypothetical protein A9E86_02520 [Legionella pneumophila] &gt;gi|1073914213|gb|AOU54144.1| hypothetical protein A9E87_02515 [Legionella pneumophila] &gt;gi|1073917171|gb|AOU57101.1| hypothetical protein A9E88_02515 [Legionella pneumophila] &gt;gi|1073920137|gb|AOU60066.1| hypothetical protein A9E89_02515 [Legionella pneumophila] &gt;gi|1073923111|gb|AOU63038.1| hypothetical protein A9E90_02515 [Legionella pneumophila] &gt;gi|1073926124|gb|AOU66050.1| hypothetical protein A9E91_02515 [Legionella pneumophila] &gt;gi|1073929104|gb|AOU69013.1| hypothetical protein A9E92_02525 [Legionella pneumophila] &gt;gi|1073932488|gb|AOU72047.1| hypothetical protein A9E93_02515 [Legionella pneumophila] &gt;gi|1073935436|gb|AOU82435.1| hypothetical protein A9E94_02515 [Legionella pneumophila] &gt;gi|1073945711|gb|AOU85435.1| hypothetical protein A9E95_02695 [Legionella pneumophila] &gt;gi|1073948674|gb|AOU88397.1| hypothetical protein A9E96_02515 [Legionella pneumophila] &gt;gi|1080002220|gb|AOW52792.1| hypothetical protein BE841_10165 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006027|gb|AOW56307.1| hypothetical protein BE842_13470 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008113|gb|AOW58101.1| hypothetical protein BE843_07465 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012225|gb|AOW61716.1| hypothetical protein BE844_11305 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014718|gb|AOW63591.1| hypothetical protein BE845_05740 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018468|gb|AOW67113.1| hypothetical protein BE846_09070 [Legionella pneumophila subsp. pneumophila] &gt;gi|1103995576|emb|SFZ36654.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1103998707|emb|SFZ36385.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1104001826|emb|SFZ36350.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1104005391|emb|SFZ36325.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1129967289|gb|APT97648.1| hypothetical protein AVR58_02505 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946255</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>338.961</Hsp_bit-score>
+      <Hsp_score>868</Hsp_score>
+      <Hsp_evalue>3.09434e-116</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>166</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1004017572|ref|WP_061485307.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485307</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>337.421</Hsp_bit-score>
+      <Hsp_score>864</Hsp_score>
+      <Hsp_evalue>9.46261e-116</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>166</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1006041602|ref|WP_061721921.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|999181662|emb|CZG51980.1| Outer membrane protein ompH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061721921</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>337.421</Hsp_bit-score>
+      <Hsp_score>864</Hsp_score>
+      <Hsp_evalue>9.56688e-116</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>166</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKLIKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDK+IKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|652976174|ref|WP_027228847.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella pneumophila] &gt;gi|985765953|gb|KXB27064.1| membrane protein [Legionella pneumophila] &gt;gi|985767737|gb|KXB28823.1| membrane protein [Legionella pneumophila] &gt;gi|999119268|emb|CZG76358.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|999122524|emb|CZH12633.1| Outer membrane protein ompH [Legionella pneumophila] &gt;gi|1024341668|gb|KZX35975.1| hypothetical protein PtVFX2014_12835 [Legionella pneumophila] &gt;gi|1108603983|gb|APF02351.1| hypothetical protein BIZ52_02795 [Legionella pneumophila subsp. fraseri] &gt;gi|1108606994|gb|APF05361.1| hypothetical protein BIZ51_02795 [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228847</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>335.88</Hsp_bit-score>
+      <Hsp_score>860</Hsp_score>
+      <Hsp_evalue>5.00491e-115</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>165</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDGAIMSASQKKELEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRD AIMSASQKKELEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652970683|ref|WP_027223575.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella pneumophila] &gt;gi|1005362781|gb|AMP88650.1| hypothetical protein AXF35_02625 [Legionella pneumophila subsp. pascullei] &gt;gi|1005365782|gb|AMP91559.1| hypothetical protein AXF36_02610 [Legionella pneumophila subsp. pascullei] &gt;gi|1005368769|gb|AMP94545.1| hypothetical protein AXF37_02615 [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223575</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>333.954</Hsp_bit-score>
+      <Hsp_score>855</Hsp_score>
+      <Hsp_evalue>2.10291e-114</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>164</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKGDMEKFKRDGAIMSASQKKELEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLK DMEKFKRD AIMSASQKKELEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|737926252|ref|WP_035891402.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella norrlandica] &gt;gi|701444823|gb|KGP62255.1| membrane protein [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891402</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>315.849</Hsp_bit-score>
+      <Hsp_score>808</Hsp_score>
+      <Hsp_evalue>4.09348e-107</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>160</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVGAVLVALVLSLFGTSVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAKEASLKSDMEKFKRDSAIMSATQKKELEKKIVAAQQQFERDGQQYQQELSTAHNEAMETLYTKVRNAITKIAKDEKYDIIVQKDAAPFSTEALDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKR+GAVLVAL L LFGT+VFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVA EASLKSDMEKFKRDSAIMSA+QKKELEKKIVA+QQQFERDGQQYQQELSTAHNEAME LY KVR AITKIAKDEKYDIIVQKDAAPFS+E+LDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|654933348|ref|WP_028383702.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella moravica] &gt;gi|962251429|gb|KTD35617.1| outer membrane protein OmpH [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383702</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>301.982</Hsp_bit-score>
+      <Hsp_score>772</Hsp_score>
+      <Hsp_evalue>1.16834e-101</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>157</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGAVLVALVFSLVGTSAFADWAKIGVVDLQKIMQTSSQMKDIQAKLEKEFKPRRDKLMAVEASLKSDMEKFKRDSAIMSATQKKDLEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYTKVRSAISKVAKDEKYDIIVQKDATPFSSDSLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKR GAVLVAL   L GT+ FADWAKIGVVDLQKIMQTS+QMK+IQ KLEKEFKPRRDKL+A+EASLKSDMEKFKRDSAIMSA+QKK+LEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLY KVR+AI+K+AKDEKYDIIVQKDA PFSS+SLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|966432006|ref|WP_058472439.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella quateirensis] &gt;gi|962271472|gb|KTD55474.1| outer membrane protein OmpH [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472439</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>297.745</Hsp_bit-score>
+      <Hsp_score>761</Hsp_score>
+      <Hsp_evalue>5.88756e-100</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>156</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGAVLVALVFSLCGTSVFADWAKIGVVDLQKIMQTSSQMKDIQAKLEKEFKPRRDKLMSVESSLKSDMEKFKRDGAIMSASQKKDLEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYTKVRAAISKIAKDEKYDIIVQKDATPFSSDSLDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKR GAVLVAL   L GT+VFADWAKIGVVDLQKIMQTS+QMK+IQ KLEKEFKPRRDKL+++E+SLKSDMEKFKRD AIMSASQKK+LEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLY KVR AI+KIAKDEKYDIIVQKDA PFSS+SLDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|517404015|ref|WP_018576828.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella shakespearei] &gt;gi|962283727|gb|KTD67499.1| outer membrane protein OmpH [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576828</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>296.975</Hsp_bit-score>
+      <Hsp_score>759</Hsp_score>
+      <Hsp_evalue>1.21271e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGAVLVALVFSLFGTAVFADWAKIGVVDLQKIMQTSTQMKDIQQKLESQFKPRRDKLVAMETTLKSDMEKFKRDAAILSATQKKEMEKKIVTAQQQFERDGQQYQQELSAAHNEAMEGLYTKVRAAITKIAKEEKYDIIVQKDAAPFSSETLDVTAKVIKAIS</Hsp_hseq>
+      <Hsp_midline>MKR GAVLVAL   LFGT VFADWAKIGVVDLQKIMQTS QMK+IQQKLE +FKPRRDKLVAME +LKSDMEKFKRD+AI+SA+QKKE+EKKIV +QQQFERDGQQYQQELS AHNEAMEGLY KVR AITKIAK+EKYDIIVQKDAAPFSSE+LDVT KVIKAI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|769980409|ref|WP_045096394.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella fallonii] &gt;gi|698844023|emb|CEG57992.1| Outer membrane protein OmpH [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096394</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>295.819</Hsp_bit-score>
+      <Hsp_score>756</Hsp_score>
+      <Hsp_evalue>2.97612e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>155</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRIGAVIVALVFGLFGTSLFADSAKIGVVDLQKIMQTSSQMKDIQQKLEKEFKPRRDKLVAAETVLKGDMEKFKRDSAIMSASQKKELEKKIVAAQQQFERDGQQYQQELSAAHNESMEGLYSKVRAAIGKIAKEEKYDIIVQKDAAPFSIEALDVTDKVIKAIN</Hsp_hseq>
+      <Hsp_midline>MKR+GAV+VAL  GLFGT++FAD AKIGVVDLQKIMQTS+QMK+IQQKLEKEFKPRRDKLVA E  LK DMEKFKRDSAIMSASQKKELEKKIVA+QQQFERDGQQYQQELS AHNE+MEGLY+KVR AI KIAK+EKYDIIVQKDAAPFS E+LDVTDKVIKAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|966460465|ref|WP_058492894.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella worsleiensis] &gt;gi|962296536|gb|KTD80173.1| outer membrane protein OmpH [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492894</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>292.352</Hsp_bit-score>
+      <Hsp_score>747</Hsp_score>
+      <Hsp_evalue>7.60283e-98</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>141</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MNRFTTALVALFFSLVGTSVFADWAKIGVVDLQKIMQTSSQMKEIQAKLEKEFKPRRDELMKAEASLKSDMERFKRDSAIMSASQKKDLEKKIVTAQQQFERNGQQYQQELSTAHNEAMEGLYTKVRAAITKIAKDEKYDIIVQKDATPFSSDSLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>M R    LVALF  L GT+VFADWAKIGVVDLQKIMQTS+QMKEIQ KLEKEFKPRRD+L+  EASLKSDME+FKRDSAIMSASQKK+LEKKIV +QQQFER+GQQYQQELSTAHNEAMEGLY KVR AITKIAKDEKYDIIVQKDA PFSS+SLDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|966440840|ref|WP_058481163.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella waltersii] &gt;gi|962291898|gb|KTD75596.1| outer membrane protein OmpH [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481163</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.952</Hsp_bit-score>
+      <Hsp_score>720</Hsp_score>
+      <Hsp_evalue>8.91208e-94</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGAGLVALIFSVFCASAFADVSKIGVVDLQKIMQTSSQMKDIQAKLEKDFKPRRDKLVAMESSIKSDMDKFKRDAAILSATQKKDLEKKIVAAQQQFERDGQQYQQELSTAHNEAMEGLYTKVRAAIAKIAKDEKYDLIVQKDAAPFSADTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLGA LVAL   +F  + FAD +KIGVVDLQKIMQTS+QMK+IQ KLEK+FKPRRDKLVAME+S+KSDM+KFKRD+AI+SA+QKK+LEKKIVA+QQQFERDGQQYQQELSTAHNEAMEGLY KVR AI KIAKDEKYD+IVQKDAAPFS+++LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966415322|ref|WP_058458607.1|</Hit_id>
+  <Hit_def>hypothetical protein [Fluoribacter bozemanae] &gt;gi|962189829|gb|KTC74931.1| outer membrane protein OmpH [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458607</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.182</Hsp_bit-score>
+      <Hsp_score>718</Hsp_score>
+      <Hsp_evalue>1.59174e-93</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSVFGASAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAIEASIKADMEKFKRDSAILSASQKKEMEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EAS+K+DMEKFKRDSAI+SASQKKE+EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|498340462|ref|WP_010654618.1|</Hit_id>
+  <Hit_def>membrane protein [Fluoribacter dumoffii] &gt;gi|962206000|gb|KTC90937.1| outer membrane protein OmpH [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654618</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.182</Hsp_bit-score>
+      <Hsp_score>718</Hsp_score>
+      <Hsp_evalue>1.85528e-93</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSIFGANAFADTAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSSIMSASQKKEMERKIISAQQQFERDGQQYQQELSTANNEAMEGLYAKVRAAISKVAKDDKYDLIVQKDAAPFSAETLDITDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDS+IMSASQKKE+E+KI+++QQQFERDGQQYQQELSTA+NEAMEGLY KVR AI+K+AKD+KYD+IVQKDAAPFS+E+LD+TDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|654930654|ref|WP_028381023.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella cherrii] &gt;gi|962197419|gb|KTC82463.1| outer membrane protein OmpH [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381023</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>279.641</Hsp_bit-score>
+      <Hsp_score>714</Hsp_score>
+      <Hsp_evalue>6.04899e-93</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSIFGTSAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSAAQKKEMEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FGT+ FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SA+QKKE+EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966436891|ref|WP_058477259.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella steigerwaltii] &gt;gi|962293668|gb|KTD77343.1| outer membrane protein OmpH [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477259</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>279.641</Hsp_bit-score>
+      <Hsp_score>714</Hsp_score>
+      <Hsp_evalue>7.20645e-93</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>152</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSIFGTSTFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSATQKKEMEKKIVGAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FGT+ FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SA+QKKE+EKKIV +QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|518063373|ref|WP_019233581.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella anisa] &gt;gi|962187528|gb|KTC72654.1| outer membrane protein OmpH [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233581</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>2.56441e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSVFGASAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSASQKKEMEKKIVGAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SASQKKE+EKKIV +QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966516717|ref|WP_058533211.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533211</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.715</Hsp_bit-score>
+      <Hsp_score>709</Hsp_score>
+      <Hsp_evalue>3.92387e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGGVL-AFVLSVFCASAFADAAKIGVVDLQKIMQTSSQMKDIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDNAIMSATQKKDLEKKIIAAQQQFERDGQQYQQELSTANNEAMEGLYTKVRAAISKVAKDGKYDLIVQKDAAPFSADTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G VL A  L +F  + FAD AKIGVVDLQKIMQTS+QMK+IQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRD+AIMSA+QKK+LEKKI+A+QQQFERDGQQYQQELSTA+NEAMEGLY KVR AI+K+AKD KYD+IVQKDAAPFS+++LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966468578|ref|WP_058499904.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella gratiana] &gt;gi|962221367|gb|KTD06027.1| outer membrane protein OmpH [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499904</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.715</Hsp_bit-score>
+      <Hsp_score>709</Hsp_score>
+      <Hsp_evalue>4.06048e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>152</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVLITLIFSVFGANAFADAAKIGVVDLQKIMQTSSQIKEIQQKLEKEFKPRRDKLLAVEAKIKADMEKFKRDSAVLSATQKKEMERKIVSAQQQFERDGQQYQQELSTANNEAMEGLYAKVRAAISKVAKDDKYDLIVQKDAAPFSSDSLDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G VL+ L   +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQQKLEKEFKPRRDKL+A+EA +K+DMEKFKRDSA++SA+QKKE+E+KIV++QQQFERDGQQYQQELSTA+NEAMEGLY KVR AI+K+AKD+KYD+IVQKDAAPFSS+SLDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966504691|ref|WP_058521350.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella tucsonensis] &gt;gi|962290680|gb|KTD74388.1| outer membrane protein OmpH [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521350</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.715</Hsp_bit-score>
+      <Hsp_score>709</Hsp_score>
+      <Hsp_evalue>4.57984e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSMFGAGAFADVAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSASQKKEMEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SASQKKE+EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966500621|ref|WP_058517294.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella parisiensis] &gt;gi|962255957|gb|KTD40094.1| outer membrane protein OmpH [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517294</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.715</Hsp_bit-score>
+      <Hsp_score>709</Hsp_score>
+      <Hsp_evalue>4.83739e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>152</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSVFGASAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAIEAGIKADMEKFKRDSAILSASQKKDIEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SASQKK++EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966493984|ref|WP_058510772.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella steelei] &gt;gi|962284938|gb|KTD68704.1| outer membrane protein OmpH [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058510772</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.33</Hsp_bit-score>
+      <Hsp_score>708</Hsp_score>
+      <Hsp_evalue>5.27992e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSVFGASAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSATQKKDIERKIVSAQQQFERDGQQYQQELSTANNEAMEGLYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SA+QKK++E+KIV++QQQFERDGQQYQQELSTA+NEAMEGLY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1113342852|gb|OJW06713.1|</Hit_id>
+  <Hit_def>hypothetical protein BGO44_18150 [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW06713</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.33</Hsp_bit-score>
+      <Hsp_score>708</Hsp_score>
+      <Hsp_evalue>5.57683e-92</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>153</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVLVAFVFSVFGASAFADVAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAVEAGIKADMEKFKRDSAILSATQKKDIERKIVSAQQQFERDGQQYQQELSTANNEAMEGLYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG VLVA    +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA+EA +K+DMEKFKRDSAI+SA+QKK++E+KIV++QQQFERDGQQYQQELSTA+NEAMEGLY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966422747|ref|WP_058465948.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella cincinnatiensis] &gt;gi|962197753|gb|KTC82792.1| outer membrane protein OmpH [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465948</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>275.018</Hsp_bit-score>
+      <Hsp_score>702</Hsp_score>
+      <Hsp_evalue>4.70977e-91</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVLLTFIFSVFGANVFADTAKIGVVDLQKIMQTSSQIKEIQQKLEKEFKPRRDKLLAVEAKIKADMEKFKRDSAVLSASQKKEMERKIVSAQQQFERDGQQYQQELSTANNEAMESLYAKVRAAIAKVAKDDKYDLIVQKDAAPFSSDSLDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G VL+     +FG  VFAD AKIGVVDLQKIMQTS+Q+KEIQQKLEKEFKPRRDKL+A+EA +K+DMEKFKRDSA++SASQKKE+E+KIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFSS+SLDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966423414|ref|WP_058466560.1|</Hit_id>
+  <Hit_def>hypothetical protein [Fluoribacter gormanii] &gt;gi|962220884|gb|KTD05546.1| outer membrane protein OmpH [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466560</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.633</Hsp_bit-score>
+      <Hsp_score>701</Hsp_score>
+      <Hsp_evalue>6.61151e-91</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGLVIMTFVLSVFGASAFADTAKIGVVDLQKIMQTSSQIKEIQKKLEKEFKPRRDKLVAFEAGIKADMEKFKRDSSIMSATQKKEMEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATTLDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKRLG V++   L +FG + FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEKEFKPRRDKLVA EA +K+DMEKFKRDS+IMSA+QKKE+EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|489731259|ref|WP_003635375.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella longbeachae] &gt;gi|269987497|gb|EEZ93752.1| putative outer membrane protein [Legionella longbeachae D-4968] &gt;gi|288859184|emb|CBJ13116.1| putative outer membrane proteins [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635375</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.248</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>9.28109e-91</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVLLTFIFSVFGANAFADTAKIGVVDLQKIMQTSSQIKEIQQKLEKEFKPRRDKLLAVEAKIKADMEKFKRDSAVLSASQKKEMERKIVSAQQQFERDGQQYQQELSTANNEAMESLYAKVRAAISKVAKDEKYDLIVQKDAAPFSSDTLDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G VL+     +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQQKLEKEFKPRRDKL+A+EA +K+DMEKFKRDSA++SASQKKE+E+KIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI+K+AKDEKYD+IVQKDAAPFSS++LDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|653017717|ref|WP_027269681.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella sainthelensi] &gt;gi|962270947|gb|KTD54950.1| outer membrane protein OmpH [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269681</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>272.707</Hsp_bit-score>
+      <Hsp_score>696</Hsp_score>
+      <Hsp_evalue>3.48756e-90</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVVLTFIFSVFGANAFADTAKIGVVDLQKIMQTSSQIKEIQQKLEKEFKPRRDKLLAVEAKIKADMEKFKRDSAVLSASQKKEMERKIVSAQQQFERDGQQYQQELSTANNEAMESLYAKVRAAISKVAKDEKYDLIVQKDAAPFSSDTLDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G V++     +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQQKLEKEFKPRRDKL+A+EA +K+DMEKFKRDSA++SASQKKE+E+KIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI+K+AKDEKYD+IVQKDAAPFSS++LDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|493927732|ref|WP_006872467.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella drancourtii] &gt;gi|363536184|gb|EHL29630.1| outer membrane protein OmpH [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872467</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>271.552</Hsp_bit-score>
+      <Hsp_score>693</Hsp_score>
+      <Hsp_evalue>9.84735e-90</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFAGVL-ALVFSVFCANAFADAAKIGVVDLQKIMQTSSQMKDIQQKLEKEFKPRRDKLVAMEGSLKADMEKFKRDSAVMGANQKKDLEKKIIATQQQFERDGQQYQQELSTANNEAMEGLYSKVRAAIAKVAKDDKYDLIVQKDAAPFSADALDVTDKVVKAIN</Hsp_hseq>
+      <Hsp_midline>MKR   VL AL   +F    FAD AKIGVVDLQKIMQTS+QMK+IQQKLEKEFKPRRDKLVAME SLK+DMEKFKRDSA+M A+QKK+LEKKI+A+QQQFERDGQQYQQELSTA+NEAMEGLY+KVR AI K+AKD+KYD+IVQKDAAPFS+++LDVTDKV+KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966498823|ref|WP_058515589.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella santicrucis] &gt;gi|962269263|gb|KTD53277.1| outer membrane protein OmpH [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515589</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>271.552</Hsp_bit-score>
+      <Hsp_score>693</Hsp_score>
+      <Hsp_evalue>1.0762e-89</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVVLTFVFSVFGANVFADTAKIGVVDLQKIMQTSSQIKDIQQKLEKEFKPRRDKLLAVEAKIKADMEKFKRDSAVLSATQKKEMERKIVSAQQQFERDGQQYQQELSTANNEAMESLYAKVRAAISKVAKDDKYDLIVQKDAAPFSSDSLDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G V++     +FG  VFAD AKIGVVDLQKIMQTS+Q+K+IQQKLEKEFKPRRDKL+A+EA +K+DMEKFKRDSA++SA+QKKE+E+KIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI+K+AKD+KYD+IVQKDAAPFSS+SLDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|671587467|ref|WP_031563692.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563692</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>271.166</Hsp_bit-score>
+      <Hsp_score>692</Hsp_score>
+      <Hsp_evalue>1.478e-89</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>149</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRFGLVLMAFVFSVFGANAFADAAKIGVVDLQKIMQTSSQIKEIQKKLEKDFKPRRDKLVAVEAGIKADMEKFKRDSAILSASQKKEMEKKIVSAQQQFERDGQQYQQELSTANNEAMEALYAKVRAAIAKVAKDDKYDLIVQKDAAPFSATALDVTDKVAKAIN</Hsp_hseq>
+      <Hsp_midline>MKR G VL+A    +FG   FAD AKIGVVDLQKIMQTS+Q+KEIQ+KLEK+FKPRRDKLVA+EA +K+DMEKFKRDSAI+SASQKKE+EKKIV++QQQFERDGQQYQQELSTA+NEAME LY KVR AI K+AKD+KYD+IVQKDAAPFS+ +LDVTDKV KAIN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|762037301|ref|WP_043873239.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella massiliensis] &gt;gi|683290153|emb|CEE12514.1| Chaperone protein Skp precursor [Legionella massiliensis] &gt;gi|685072523|emb|CDZ76776.1| Cationic 19 kDa outer membrane protein [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873239</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.996</Hsp_bit-score>
+      <Hsp_score>663</Hsp_score>
+      <Hsp_evalue>3.9944e-85</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>258</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>165</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAI</Hsp_qseq>
+      <Hsp_hseq>MKRVSGILIALALSVFGFNAFADGAKIGVVDLQKIMQTSSQMKTIQQKLEKDFKPRRDKLVAMEEGLKADMEKFKRDSAVMSDTQKKELEKKIVATQQTFEREGQQYQQELSTAHNEAMEELYAKIRKAIAKVAETDKYDIVLQKDAAPFSSDKLDITDSVVKQI</Hsp_hseq>
+      <Hsp_midline>MKR+  +L+AL L +FG   FAD AKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME  LK+DMEKFKRDSA+MS +QKKELEKKIVA+QQ FER+GQQYQQELSTAHNEAME LY K+R AI K+A+ +KYDI++QKDAAPFSS+ LD+TD V+K I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966403170|ref|WP_058446765.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella feeleii] &gt;gi|962211514|gb|KTC96406.1| outer membrane protein OmpH [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446765</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>8.68208e-85</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGILIALVFGLGAANAFADWAKIGVVDLQKIMQTSSQMKVIQQKLEKDFKPRRDKLVAMEEGLKKDMEKFKRDSAIMSQTQKKELEKKIVATQQTFEREGQQYQQELSTAHNEAMEELYGKIRKAINKVAETQKYDLILQKDAAPFSVSKLDITEEVMKQIN</Hsp_hseq>
+      <Hsp_midline>MKR+  +L+AL  GL     FADWAKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME  LK DMEKFKRDSAIMS +QKKELEKKIVA+QQ FER+GQQYQQELSTAHNEAME LY K+R AI K+A+ +KYD+I+QKDAAPFS   LD+T++V+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|518047733|ref|WP_019217941.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019217941</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>257.299</Hsp_bit-score>
+      <Hsp_score>656</Hsp_score>
+      <Hsp_evalue>4.33185e-84</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>141</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGILIALVFGLGAANAFADWAKIGVVDLQKIMQTSSQMKVIQQKLEKDFKPRRDKLVVMEEGLKKDMEKFKRDSAIMSQTQKKELEKKIVATQQTFEREGQQYQQELSTAHNEAMEELYGKIRKAINKVAETQKYDLILQKDAAPFSVSKLDITEEVMKQIN</Hsp_hseq>
+      <Hsp_midline>MKR+  +L+AL  GL     FADWAKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLV ME  LK DMEKFKRDSAIMS +QKKELEKKIVA+QQ FER+GQQYQQELSTAHNEAME LY K+R AI K+A+ +KYD+I+QKDAAPFS   LD+T++V+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966505850|ref|WP_058522496.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella birminghamensis] &gt;gi|962190367|gb|KTC75462.1| outer membrane protein OmpH [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522496</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>256.529</Hsp_bit-score>
+      <Hsp_score>654</Hsp_score>
+      <Hsp_evalue>9.41474e-84</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGLFIALLFSLGMTNAFADWSKIGVVDLQKIMQTSSQMKAIQQKLEKEFKPRRDKLVAMEEGLKKDMEKFKRDSAVMSQAQKKDMEKKIVSQQQTFEREGQQYQQELSTAHNEAMEELYGKIRKAISKVAENDKYDLILQKDATPFSNDSLDITDQVLKQIN</Hsp_hseq>
+      <Hsp_midline>MKR+  + +AL   L  T  FADW+KIGVVDLQKIMQTS+QMK IQQKLEKEFKPRRDKLVAME  LK DMEKFKRDSA+MS +QKK++EKKIV+ QQ FER+GQQYQQELSTAHNEAME LY K+R AI+K+A+++KYD+I+QKDA PFS++SLD+TD+V+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966477441|ref|WP_058508174.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella quinlivanii] &gt;gi|962264102|gb|KTD48159.1| outer membrane protein OmpH [Legionella quinlivanii] &gt;gi|1090726474|emb|SEG47483.1| outer membrane protein [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058508174</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>255.758</Hsp_bit-score>
+      <Hsp_score>652</Hsp_score>
+      <Hsp_evalue>2.18484e-83</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGLFIALLFSLGMTNAFADWSKIGVVDLQKIMQTSSQMKAIQQKLEKEFKPRRDKLVAMEESLKKDMEKFKRDSTVMSQTQKKDMEKKIVSQQQTFEREGQQYQQELSTAHNEAMEELYGKIRKAISKVAENEKYDLILQKDATPFSIDKLDITDQVLKQIN</Hsp_hseq>
+      <Hsp_midline>MKR+  + +AL   L  T  FADW+KIGVVDLQKIMQTS+QMK IQQKLEKEFKPRRDKLVAME SLK DMEKFKRDS +MS +QKK++EKKIV+ QQ FER+GQQYQQELSTAHNEAME LY K+R AI+K+A++EKYD+I+QKDA PFS + LD+TD+V+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966471604|ref|WP_058502519.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella israelensis] &gt;gi|962231335|gb|KTD15905.1| outer membrane protein OmpH [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502519</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>255.758</Hsp_bit-score>
+      <Hsp_score>652</Hsp_score>
+      <Hsp_evalue>2.23314e-83</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLSLLFIALVLSFSGTSVFANWSKIGVVDLQKIIQTSPQMKNIQEKLEKEFKPRRDKLVSMETELKNDMEKFKRDASVMSEAQKKELQTKIIDAQKKFEREGQQYQQELSTAHNKAMEGLYNKVRDAIAKVAKDQKYDLILQKDAAPYSVQQLDVTDKVVEEIS</Hsp_hseq>
+      <Hsp_midline>MKRL  + +AL L   GT+VFA+W+KIGVVDLQKI+QTS QMK IQ+KLEKEFKPRRDKLV+ME  LK+DMEKFKRD+++MS +QKKEL+ KI+ +Q++FER+GQQYQQELSTAHN+AMEGLYNKVR AI K+AKD+KYD+I+QKDAAP+S + LDVTDKV++ I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|654937182|ref|WP_028387439.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella geestiana] &gt;gi|962209835|gb|KTC94741.1| outer membrane protein OmpH [Legionella geestiana]</Hit_def>
+  <Hit_accession>WP_028387439</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>255.373</Hsp_bit-score>
+      <Hsp_score>651</Hsp_score>
+      <Hsp_evalue>2.49113e-83</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLSRVLMALSLLMAGTAALADGARIGVVDLQKIMQTSTQMKAIQEKLEKEFKPRRDKLVAMEESLKKDMEKFKRDSAVMSQTQKKELERAIVASQQKFEREGQQYQQELSTAHNEAMEELYGKIRAAITRVASTGKYDIVLQKDAAPFSSDKLDVTAQVMKEIH</Hsp_hseq>
+      <Hsp_midline>MKRL  VL+AL L + GT   AD A+IGVVDLQKIMQTS QMK IQ+KLEKEFKPRRDKLVAME SLK DMEKFKRDSA+MS +QKKELE+ IVASQQ+FER+GQQYQQELSTAHNEAME LY K+R AIT++A   KYDI++QKDAAPFSS+ LDVT +V+K I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966418965|ref|WP_058462188.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella adelaidensis] &gt;gi|962181269|gb|KTC66517.1| outer membrane protein OmpH [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058462188</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.832</Hsp_bit-score>
+      <Hsp_score>647</Hsp_score>
+      <Hsp_evalue>1.12618e-82</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>258</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>165</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAI</Hsp_qseq>
+      <Hsp_hseq>MKRVGGVLVALFLAMGSVSAIADGTKIGVVDLQKIMQTSSQMKAIQEKLEKEFKPRRDKLVATEESLKKDMENFKKESAVMSQAQRKDLEKKIIATQQQFEREGQQYQQELSTAHNEAMEAFYNKIRAAIAKVAQNEQYDVVLQKDAAPFSSDKLDVTAKVIQEI</Hsp_hseq>
+      <Hsp_midline>MKR+G VLVALFL +   +  AD  KIGVVDLQKIMQTS+QMK IQ+KLEKEFKPRRDKLVA E SLK DME FK++SA+MS +Q+K+LEKKI+A+QQQFER+GQQYQQELSTAHNEAME  YNK+R AI K+A++E+YD+++QKDAAPFSS+ LDVT KVI+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966410167|ref|WP_058453559.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella maceachernii] &gt;gi|962239620|gb|KTD24007.1| outer membrane protein OmpH [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058453559</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>251.136</Hsp_bit-score>
+      <Hsp_score>640</Hsp_score>
+      <Hsp_evalue>1.43662e-81</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVTGILISLMLSVVGFNAFAD-VKIGVVDLQKIMQTSNQMKSIQQKLEKDFKPRRDKLVAMEEGLKQDMEKFKRDSSVMSESQKKDLEKKILATQQTFEREGQQYQQELSTAHNEAMEDLYSKIRKAIAKVAETDKYDVVLQKDAAPFSSDKLDITDNVIKQIG</Hsp_hseq>
+      <Hsp_midline>MKR+  +L++L L + G   FAD  KIGVVDLQKIMQTSNQMK IQQKLEK+FKPRRDKLVAME  LK DMEKFKRDS++MS SQKK+LEKKI+A+QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A+ +KYD+++QKDAAPFSS+ LD+TD VIK I </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|769982640|ref|WP_045098622.1|</Hit_id>
+  <Hit_def>membrane protein [Tatlockia micdadei] &gt;gi|698846180|emb|CEG60163.1| Outer membrane protein OmpH [Tatlockia micdadei] &gt;gi|962245660|gb|KTD29955.1| outer membrane protein OmpH [Tatlockia micdadei] &gt;gi|1081463857|emb|SCY64252.1| outer membrane protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098622</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.595</Hsp_bit-score>
+      <Hsp_score>636</Hsp_score>
+      <Hsp_evalue>4.42886e-81</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVTGILISLMLSVVGFNAFAD-VKIGVVDLQKIMQTSNQMKAIQQKLEKDFKPRRDKLVAMEEGLKQDMEKFKRDSSVMSESQKKDLEKKILSTQQTFEREGQQYQQELSTAHNEAMEDLYSKIRKAIAKVAETDKYDVVLQKDAAPFSSDKLDITDNVIKQIS</Hsp_hseq>
+      <Hsp_midline>MKR+  +L++L L + G   FAD  KIGVVDLQKIMQTSNQMK IQQKLEK+FKPRRDKLVAME  LK DMEKFKRDS++MS SQKK+LEKKI+++QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A+ +KYD+++QKDAAPFSS+ LD+TD VIK I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966509842|ref|WP_058526433.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella erythra] &gt;gi|962213371|gb|KTC98240.1| outer membrane protein OmpH [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526433</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.595</Hsp_bit-score>
+      <Hsp_score>636</Hsp_score>
+      <Hsp_evalue>4.94499e-81</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKCVSGFLMALVFSLGAANAFADWSKIGVVDLQKIMQTSSQMKAIQQKLEKEFKPRRDKLVAMEESLKKDMEKFKRDSAVMSQTQKKELEKKIVAAQQSFERQGQQYQQELSTAHNEAMEELYGKIRKAITKVAETEKYDLILQKDAAPFSDNKLDITASVMKNID</Hsp_hseq>
+      <Hsp_midline>MK +   L+AL   L     FADW+KIGVVDLQKIMQTS+QMK IQQKLEKEFKPRRDKLVAME SLK DMEKFKRDSA+MS +QKKELEKKIVA+QQ FER GQQYQQELSTAHNEAME LY K+R AITK+A+ EKYD+I+QKDAAPFS   LD+T  V+K I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966472688|ref|WP_058503451.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella nautarum] &gt;gi|962254714|gb|KTD38876.1| outer membrane protein OmpH [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503451</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>248.054</Hsp_bit-score>
+      <Hsp_score>632</Hsp_score>
+      <Hsp_evalue>2.1371e-80</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGILISLMLSLVGFNAFAE-AKIGVVDLQKIMQTSSQMKTIQQKLEKDFKPRRDKLVAMEEGLKQDMEKFKRDGSIMSDSQKKDLEKKILATQQTFEREGQQYQQELSTAHNEAMEELYSKIRKAIAKVADTDKYDIVLQKDAAPFSSEKLDITENVIKQIS</Hsp_hseq>
+      <Hsp_midline>MKR+  +L++L L L G   FA+ AKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME  LK DMEKFKRD +IMS SQKK+LEKKI+A+QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A  +KYDI++QKDAAPFSSE LD+T+ VIK I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966398354|ref|WP_058442330.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella brunensis] &gt;gi|962192982|gb|KTC78049.1| outer membrane protein OmpH [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442330</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>247.284</Hsp_bit-score>
+      <Hsp_score>630</Hsp_score>
+      <Hsp_evalue>4.85506e-80</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGFLIALAFAFTGANAFADSAKIGVVDLQKIMQTSSQMKAIQQKLEKDFKPRRDKLVAMEENLKKDMEKFKRESAVMSQTQKKEMEKKIIATQQTFEREGQQYQQELSTAHNEAMEELYSKIRKAINKVAETDKYDLILQKDATPFSISKLDITESVIKEIN</Hsp_hseq>
+      <Hsp_midline>MKR+   L+AL     G   FAD AKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME +LK DMEKFKR+SA+MS +QKKE+EKKI+A+QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A+ +KYD+I+QKDA PFS   LD+T+ VIK IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966465323|ref|WP_058496684.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella drozanskii] &gt;gi|962201118|gb|KTC86107.1| outer membrane protein OmpH [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058496684</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>246.514</Hsp_bit-score>
+      <Hsp_score>628</Hsp_score>
+      <Hsp_evalue>9.44787e-80</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGIIISLMLSLVGFNAFAE-AKIGVVDLQKIMQTSSQMKTIQQKLEKDFKPRRDKLVAMEEGLKQDMEKFKRDGSIMSESQKKDMEKKILATQQTFEREGQQYQQELSTAHNEAMEELYSKIRKAIAKVADTDKYDIVLQKDAAPFSSEKLDITENVIKQIS</Hsp_hseq>
+      <Hsp_midline>MKR+  ++++L L L G   FA+ AKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME  LK DMEKFKRD +IMS SQKK++EKKI+A+QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A  +KYDI++QKDAAPFSSE LD+T+ VIK I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966514464|ref|WP_058530983.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella rubrilucens] &gt;gi|962264473|gb|KTD48524.1| outer membrane protein OmpH [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530983</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>246.128</Hsp_bit-score>
+      <Hsp_score>627</Hsp_score>
+      <Hsp_evalue>1.38619e-79</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKCVSGFLMALVFSLGAANAFADWSKIGVVDLQKIMQTSSQMKAIQQKLEKEFKPRRDKLVAMEESLKKDMEKFKRESTVMSQAQKKELEKKIVAAQQNFERQGQQYQQELSTAHNEAMEELYGKIRKAITKVAETEKYDLILQKDAAPFSDNKLDITASVMKNID</Hsp_hseq>
+      <Hsp_midline>MK +   L+AL   L     FADW+KIGVVDLQKIMQTS+QMK IQQKLEKEFKPRRDKLVAME SLK DMEKFKR+S +MS +QKKELEKKIVA+QQ FER GQQYQQELSTAHNEAME LY K+R AITK+A+ EKYD+I+QKDAAPFS   LD+T  V+K I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966407072|ref|WP_058450478.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella jamestowniensis] &gt;gi|962223811|gb|KTD08461.1| outer membrane protein OmpH [Legionella jamestowniensis] &gt;gi|1045920106|gb|OCH97073.1| hypothetical protein A8135_05425 [Legionella jamestowniensis] &gt;gi|1097331361|emb|SFL51384.1| outer membrane protein [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450478</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>245.358</Hsp_bit-score>
+      <Hsp_score>625</Hsp_score>
+      <Hsp_evalue>2.26668e-79</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGFLVAFALVFSTANAFADAAKIGVVDLQKIMQTSSQMKAIQQKLEKDFKPRRDKLVAMEESLKKDMEKFKRESAVMSQAQKKEMEKKIIATQQTFEREGQQYQQELSTAHNEAMEELYSKIRKAINKVAEAEKYDLILQKDATPFSVSKLDITESVMKEIN</Hsp_hseq>
+      <Hsp_midline>MKR+   LVA  L       FAD AKIGVVDLQKIMQTS+QMK IQQKLEK+FKPRRDKLVAME SLK DMEKFKR+SA+MS +QKKE+EKKI+A+QQ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A+ EKYD+I+QKDA PFS   LD+T+ V+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966428601|ref|WP_058471097.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella jordanis] &gt;gi|962232787|gb|KTD17335.1| outer membrane protein OmpH [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471097</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>244.588</Hsp_bit-score>
+      <Hsp_score>623</Hsp_score>
+      <Hsp_evalue>4.92426e-79</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLSGVLVAFALLFGGVNAFADPAKIGVVDLQKIMQTSSQMKAIQEKLEKDFKPRRDKLVAMEESLKKDMEKFKRDSTVMSQTQKKDMEKKIVTAQRTFEREGQQYQQELSTAHNEAMEELYSKIRKAINKVAETDKYDLILQKDATPFSVSQLDITDSVLKEIH</Hsp_hseq>
+      <Hsp_midline>MKRL  VLVA  L   G   FAD AKIGVVDLQKIMQTS+QMK IQ+KLEK+FKPRRDKLVAME SLK DMEKFKRDS +MS +QKK++EKKIV +Q+ FER+GQQYQQELSTAHNEAME LY+K+R AI K+A+ +KYD+I+QKDA PFS   LD+TD V+K I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|644965547|ref|WP_025386302.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella oakridgensis] &gt;gi|570285694|gb|AHE67881.1| outer membrane protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570701556|gb|ETO92514.1| periplasmic chaperone for outer membrane protein Skp [Legionella oakridgensis RV-2-2007] &gt;gi|962254539|gb|KTD38703.1| outer membrane protein OmpH [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025386302</Hit_accession>
+  <Hit_len>167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>243.817</Hsp_bit-score>
+      <Hsp_score>621</Hsp_score>
+      <Hsp_evalue>9.39047e-79</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>167</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>141</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>167</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFA-DWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKQLVGVVMALMFTLGSASALAADGTKIGVVDLQKIMQTSTQMKTIQEKLEKEFKPRRDKLIAMEEDLKKDMEKFKRDSAVMSQAKRKELEKKIVSTQQQFEREGQQYQQELSTAHNEAMEEFYNKIRAAIAKVAENDKYDIVLQKDAAPFSADKLDVTSKVMKEIN</Hsp_hseq>
+      <Hsp_midline>MK+L  V++AL   L   +  A D  KIGVVDLQKIMQTS QMK IQ+KLEKEFKPRRDKL+AME  LK DMEKFKRDSA+MS +++KELEKKIV++QQQFER+GQQYQQELSTAHNEAME  YNK+R AI K+A+++KYDI++QKDAAPFS++ LDVT KV+K IN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|654921613|ref|WP_028372173.1|</Hit_id>
+  <Hit_def>membrane protein [Legionella lansingensis] &gt;gi|962239351|gb|KTD23831.1| outer membrane protein OmpH [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372173</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>243.432</Hsp_bit-score>
+      <Hsp_score>620</Hsp_score>
+      <Hsp_evalue>1.16745e-78</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRVSGFLVAFALILGGANAFADWAKIGIVDLQKIMQTSSQMKAIQAKLEKDFKPRRDKLVAMEEGLKKDMEKLKRESAVMSQAQKKEMEKKIIATQRTFEREGQQYQQELSTAHNEAMEELYTKIRKAINKVAEVEKYDLVLQKDAAPFSIAKLDITESVIKEIH</Hsp_hseq>
+      <Hsp_midline>MKR+   LVA  L L G   FADWAKIG+VDLQKIMQTS+QMK IQ KLEK+FKPRRDKLVAME  LK DMEK KR+SA+MS +QKKE+EKKI+A+Q+ FER+GQQYQQELSTAHNEAME LY K+R AI K+A+ EKYD+++QKDAAPFS   LD+T+ VIK I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|1085367327|gb|OGV38588.1|</Hit_id>
+  <Hit_def>hypothetical protein A3F46_04865 [Legionellales bacterium RIFCSPHIGHO2_12_FULL_42_9]</Hit_def>
+  <Hit_accession>OGV38588</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>242.276</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>4.62534e-78</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>259</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MKRLGAVLVALFLGLFGTTVFADWAKIGVVDLQKIMQTSNQMKEIQQKLEKEFKPRRDKLVAMEASLKSDMEKFKRDSAIMSASQKKELEKKIVASQQQFERDGQQYQQELSTAHNEAMEGLYNKVRTAITKIAKDEKYDIIVQKDAAPFSSESLDVTDKVIKAIN</Hsp_qseq>
+      <Hsp_hseq>MKRLGGVLLALMFTMSSVCAYAEGTKIGVVDLQKIMQTSAQMKAIQDKLEKEFKPRRDKLVAMEDGLKKDMEKFKRDSAVLTAMQRKDLEKKIVTTQQQFEREGQQYQQELSTAHNEAMEEFYNKIRSAIAKVAQSEAYDLVFQKDAAPFSVDKLDVTAKVMKEIG</Hsp_hseq>
+      <Hsp_midline>MKRLG VL+AL   +     +A+  KIGVVDLQKIMQTS QMK IQ KLEKEFKPRRDKLVAME  LK DMEKFKRDSA+++A Q+K+LEKKIV +QQQFER+GQQYQQELSTAHNEAME  YNK+R+AI K+A+ E YD++ QKDAAPFS + LDVT KV+K I </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

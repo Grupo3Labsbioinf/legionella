@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_14693</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>280</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_14693</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>280</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248731|ref|WP_010946271.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|52840768|ref|YP_094567.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627879|gb|AAU26620.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507282|gb|AEW50806.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492936|gb|AGH54781.1| Aminoglycoside N (6&apos;) -acetyltransferase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081190|gb|AGN13438.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771532|emb|CZI75960.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998795774|emb|CZI44408.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998800564|emb|CZL11969.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998804112|emb|CZK63717.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998807202|emb|CZI31154.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998810726|emb|CZI17328.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998813115|emb|CZH14085.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998816445|emb|CZM21292.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998819738|emb|CZM00850.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998825558|emb|CZK39399.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998832825|emb|CZI19025.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998834465|emb|CZL50705.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998838697|emb|CZJ30572.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998840512|emb|CZL84225.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998843092|emb|CZL08168.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998846323|emb|CZL09110.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998849170|emb|CZI97264.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998852436|emb|CZL88360.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998855949|emb|CZL53323.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998858614|emb|CZM29554.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998862312|emb|CZK41068.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998864762|emb|CZJ88115.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998867211|emb|CZJ82885.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998870203|emb|CZM41843.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998873622|emb|CZK72154.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998876216|emb|CZM47391.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998879335|emb|CZJ74950.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998885787|emb|CZM35684.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998888595|emb|CZK49867.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998895804|emb|CZK08772.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998905264|emb|CZK92736.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998908419|emb|CZL68025.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998916090|emb|CZK72318.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998917489|emb|CZL63916.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998920469|emb|CZL70577.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998926828|emb|CZL98648.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998930922|emb|CZK83000.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998933675|emb|CZL67750.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998938741|emb|CZL20756.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998946254|emb|CZK71594.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998947988|emb|CZL29157.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998956956|emb|CZM66875.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998960465|emb|CZK68751.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998963159|emb|CZK79591.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998966709|emb|CZM41446.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998969379|emb|CZL06428.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998972388|emb|CZK82906.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998978502|emb|CZM01553.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998986112|emb|CZK10342.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998987500|emb|CZL89266.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998998280|emb|CZJ97196.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999006422|emb|CZL22958.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999011887|emb|CZL84548.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999014928|emb|CZM77984.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999021225|emb|CZL94176.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999024044|emb|CZL20727.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999036235|emb|CZL85900.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999045235|emb|CZM31158.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999060289|emb|CZL80455.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999066487|emb|CZJ50340.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999075370|emb|CZH16720.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999078620|emb|CZK44574.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999083087|emb|CZK86852.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999087901|emb|CZL15550.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999090963|emb|CZL90741.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999093879|emb|CZH49883.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999096969|emb|CZH52370.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999101392|emb|CZL75853.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999110922|emb|CZL04716.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999114053|emb|CZL59400.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999115945|emb|CZK73912.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999124746|emb|CZL32222.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999132509|emb|CZL69807.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999133889|emb|CZL47641.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999136975|emb|CZK88609.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999140888|emb|CZL86196.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999144847|emb|CZK81395.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999146375|emb|CZM11561.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999155609|emb|CZI37762.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999174210|emb|CZL61421.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999189801|emb|CZI75484.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999192921|emb|CZJ16414.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999199250|emb|CZH01516.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999202130|emb|CZJ21205.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999208433|emb|CZL35162.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999217943|emb|CZM05163.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999220912|emb|CZJ08339.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999333352|emb|CZL30649.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002078812|emb|CZQ92006.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1003018388|emb|CZR30500.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|1003021460|emb|CZR26858.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|1003024500|emb|CZR30241.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|1073863692|gb|AOU03643.1| MFS transporter [Legionella pneumophila] &gt;gi|1073866650|gb|AOU06600.1| MFS transporter [Legionella pneumophila] &gt;gi|1073869655|gb|AOU09604.1| GNAT family N-acetyltransferase [Legionella pneumophila] &gt;gi|1073872599|gb|AOU12547.1| GNAT family N-acetyltransferase [Legionella pneumophila] &gt;gi|1073875581|gb|AOU15528.1| GNAT family N-acetyltransferase [Legionella pneumophila] &gt;gi|1073878543|gb|AOU18489.1| GNAT family N-acetyltransferase [Legionella pneumophila] &gt;gi|1073881537|gb|AOU21482.1| GNAT family N-acetyltransferase [Legionella pneumophila] &gt;gi|1073884499|gb|AOU24443.1| MFS transporter [Legionella pneumophila] &gt;gi|1073887498|gb|AOU27441.1| MFS transporter [Legionella pneumophila] &gt;gi|1073890481|gb|AOU30423.1| MFS transporter [Legionella pneumophila] &gt;gi|1073893446|gb|AOU33387.1| MFS transporter [Legionella pneumophila] &gt;gi|1073896411|gb|AOU36351.1| MFS transporter [Legionella pneumophila] &gt;gi|1073899375|gb|AOU39314.1| MFS transporter [Legionella pneumophila] &gt;gi|1073902327|gb|AOU42265.1| MFS transporter [Legionella pneumophila] &gt;gi|1073905238|gb|AOU45175.1| MFS transporter [Legionella pneumophila] &gt;gi|1073908255|gb|AOU48190.1| MFS transporter [Legionella pneumophila] &gt;gi|1073911311|gb|AOU51243.1| MFS transporter [Legionella pneumophila] &gt;gi|1073914229|gb|AOU54160.1| MFS transporter [Legionella pneumophila] &gt;gi|1073917187|gb|AOU57117.1| MFS transporter [Legionella pneumophila] &gt;gi|1073920154|gb|AOU60083.1| MFS transporter [Legionella pneumophila] &gt;gi|1073923127|gb|AOU63054.1| MFS transporter [Legionella pneumophila] &gt;gi|1073926141|gb|AOU66067.1| MFS transporter [Legionella pneumophila] &gt;gi|1073929121|gb|AOU69030.1| MFS transporter [Legionella pneumophila] &gt;gi|1073932505|gb|AOU72064.1| MFS transporter [Legionella pneumophila] &gt;gi|1073935452|gb|AOU82451.1| MFS transporter [Legionella pneumophila] &gt;gi|1073945727|gb|AOU85451.1| MFS transporter [Legionella pneumophila] &gt;gi|1073948690|gb|AOU88413.1| MFS transporter [Legionella pneumophila] &gt;gi|1104001845|emb|SFZ36434.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1129967305|gb|APT97664.1| MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946271</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>391.349</Hsp_bit-score>
+      <Hsp_score>1004</Hsp_score>
+      <Hsp_evalue>2.03289e-136</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>187</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|653014642|ref|WP_027266672.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266672</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>387.882</Hsp_bit-score>
+      <Hsp_score>995</Hsp_score>
+      <Hsp_evalue>6.14576e-135</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>186</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYSIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSY IDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|500490152|ref|WP_011945676.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|148282633|gb|ABQ56721.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila str. Corby] &gt;gi|295647977|gb|ADG23824.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989443|dbj|GAN22624.1| bifunctional AAC/APH [Legionella pneumophila] &gt;gi|761998990|dbj|GAN28975.1| bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998801831|emb|CZI08280.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998822482|emb|CZH35019.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998912166|emb|CZH23932.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998994584|emb|CZI22994.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999003134|emb|CZI81277.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999149977|emb|CZI49220.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999159327|emb|CZJ69461.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999165688|emb|CZG83365.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999168625|emb|CZI46101.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999178334|emb|CZJ56134.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999247882|emb|CZH56328.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999287200|emb|CZI45035.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999293672|emb|CZI47473.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999302888|emb|CZI39142.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999312639|emb|CZI52839.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999454063|emb|CZI21719.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999460528|emb|CZH00979.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999773128|emb|CZH89660.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999796115|emb|CZI23354.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002092791|emb|CZQ95711.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945676</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>381.333</Hsp_bit-score>
+      <Hsp_score>978</Hsp_score>
+      <Hsp_evalue>2.4407e-132</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|742353245|ref|WP_038837519.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|998783018|emb|CZI85733.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998828324|emb|CZH38087.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998882998|emb|CZI84481.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998897709|emb|CZK08755.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998938036|emb|CZL87160.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998951075|emb|CZJ95840.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999000095|emb|CZG94807.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999058441|emb|CZM29473.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999103699|emb|CZI19476.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999128507|emb|CZH16215.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999152631|emb|CZM82990.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999161888|emb|CZM39267.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999236702|emb|CZG93391.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002085545|emb|CZQ97395.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002088305|emb|CZQ79064.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1104005409|emb|SFZ36426.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837519</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>380.563</Hsp_bit-score>
+      <Hsp_score>976</Hsp_score>
+      <Hsp_evalue>4.411e-132</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYIADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEY+ADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652973676|ref|WP_027226397.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|998923732|emb|CZK24548.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998943802|emb|CZJ50111.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998954339|emb|CZK60800.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998975510|emb|CZJ90334.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998992824|emb|CZJ47597.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999009055|emb|CZK46484.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999018218|emb|CZJ87406.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999027332|emb|CZK24831.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999030566|emb|CZH23907.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999033283|emb|CZK20803.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999039488|emb|CZJ95809.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999042445|emb|CZK04813.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999048522|emb|CZK01962.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999051575|emb|CZJ92342.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999054546|emb|CZK29443.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999063687|emb|CZK02139.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999070570|emb|CZJ64958.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999072789|emb|CZK31746.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999084995|emb|CZK30651.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999184331|emb|CZP95996.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999198464|emb|CZP13513.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999206197|emb|CZP63116.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999228300|emb|CZP08330.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999235205|emb|CZP58267.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999240285|emb|CZH90807.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999244370|emb|CZH76514.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999248776|emb|CZH08116.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999251992|emb|CZH36847.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999255982|emb|CZP79581.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999259112|emb|CZP46900.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999261300|emb|CZH41632.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999265217|emb|CZP07125.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999269429|emb|CZO33250.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999272231|emb|CZP58089.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999274798|emb|CZG78951.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999277613|emb|CZP36955.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999281356|emb|CZP16238.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999283676|emb|CZP61816.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999290993|emb|CZP32269.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999296480|emb|CZP58187.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999299567|emb|CZP47600.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999307311|emb|CZH70648.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999309375|emb|CZP26966.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999315817|emb|CZI10092.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999318683|emb|CZP65190.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999322025|emb|CZH98379.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999324436|emb|CZH33111.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999328628|emb|CZG64354.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999331819|emb|CZG58064.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999337762|emb|CZP47232.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999344447|emb|CZP84230.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999347214|emb|CZP63470.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999349703|emb|CZH41167.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999353468|emb|CZP68906.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999357226|emb|CZP67953.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999363806|emb|CZP56438.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999367122|emb|CZP76907.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999369935|emb|CZP77604.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999392311|emb|CZP98116.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999398559|emb|CZQ01023.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999403116|emb|CZP41228.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999450628|emb|CZP35823.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999464847|emb|CZM52573.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999467871|emb|CZO29781.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999469317|emb|CZH06977.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999474704|emb|CZM61588.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999477161|emb|CZN74633.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999480663|emb|CZN00163.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999484246|emb|CZN89635.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999487095|emb|CZM11464.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999490268|emb|CZN78911.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999493459|emb|CZM10893.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999500039|emb|CZN73300.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999503165|emb|CZO07552.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999506367|emb|CZN16267.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999509570|emb|CZG51421.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999512908|emb|CZN30248.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999516004|emb|CZM00269.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999518999|emb|CZM84377.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999521871|emb|CZP16211.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999532355|emb|CZO46381.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999535511|emb|CZN40359.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999538592|emb|CZM76090.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999542036|emb|CZO20967.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999544998|emb|CZO61250.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999548158|emb|CZN89047.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999551470|emb|CZO10852.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999554505|emb|CZN31129.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999557920|emb|CZO56010.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999561071|emb|CZM41448.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999564077|emb|CZO66538.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999567441|emb|CZM52386.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999570641|emb|CZN50416.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999573829|emb|CZN92540.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999580321|emb|CZO16193.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999583609|emb|CZO37705.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999586972|emb|CZM64428.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999589993|emb|CZM40671.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999593152|emb|CZN45485.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999596225|emb|CZO12299.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999599545|emb|CZO37913.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999602629|emb|CZL96579.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999605417|emb|CZN72522.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999608954|emb|CZN63017.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999615566|emb|CZM47025.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999618665|emb|CZN91082.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999621765|emb|CZO81727.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999625093|emb|CZN71154.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999628408|emb|CZM63207.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999631542|emb|CZM58873.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999634602|emb|CZN59124.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999637930|emb|CZN51179.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999641126|emb|CZO79163.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999644118|emb|CZO52654.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999647609|emb|CZN94518.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999650705|emb|CZO05376.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999653910|emb|CZO00673.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999657107|emb|CZM29176.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999660181|emb|CZM64773.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999663388|emb|CZN17859.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999666753|emb|CZM38574.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999669945|emb|CZL84799.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999673091|emb|CZM37407.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999676339|emb|CZN78397.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999679316|emb|CZM78676.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999682511|emb|CZM81957.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999686198|emb|CZN99586.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999689134|emb|CZN30939.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999692327|emb|CZN99791.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999695544|emb|CZN29795.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999698789|emb|CZM11893.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999701733|emb|CZM77941.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999704968|emb|CZL94100.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999708174|emb|CZN57300.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999711593|emb|CZN01561.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999714689|emb|CZN22155.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999717981|emb|CZO45434.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999720937|emb|CZM93074.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999724456|emb|CZN33764.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999727839|emb|CZL99566.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999730978|emb|CZO43159.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999734182|emb|CZM26010.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999737478|emb|CZO70313.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999740959|emb|CZM31385.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999744103|emb|CZN27121.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999747245|emb|CZM25171.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999750523|emb|CZL95743.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999753719|emb|CZM80763.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999756770|emb|CZN10068.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999760271|emb|CZM24056.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999763384|emb|CZN30548.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999766910|emb|CZM48961.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999769759|emb|CZN51350.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999776223|emb|CZM00407.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999777489|emb|CZH50218.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999782889|emb|CZH62407.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999786422|emb|CZM24829.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999789587|emb|CZO67630.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999792932|emb|CZO61064.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999799817|emb|CZO56406.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1003029185|emb|CZR19057.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|1003036368|emb|CZR16964.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|1005834691|gb|AMQ29417.1| MFS transporter [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431661|gb|AMV13288.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1041016992|gb|ANN94053.1| MFS transporter [Legionella pneumophila] &gt;gi|1103995594|emb|SFZ36747.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1103998726|emb|SFZ36473.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226397</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.793</Hsp_bit-score>
+      <Hsp_score>974</Hsp_score>
+      <Hsp_evalue>9.49975e-132</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNITFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M I FEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|395126508|emb|CCD04691.1|</Hit_id>
+  <Hit_def>aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|999340084|emb|CZH26367.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>CCD04691</Hit_accession>
+  <Hit_len>188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.793</Hsp_bit-score>
+      <Hsp_score>974</Hsp_score>
+      <Hsp_evalue>9.73658e-132</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>188</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNITFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M I FEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1004027668|ref|WP_061489591.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489591</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.407</Hsp_bit-score>
+      <Hsp_score>973</Hsp_score>
+      <Hsp_evalue>1.27709e-131</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGNKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIG+KNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1005410633|ref|WP_061639885.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|998793125|emb|CZI51151.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639885</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.407</Hsp_bit-score>
+      <Hsp_score>973</Hsp_score>
+      <Hsp_evalue>1.27709e-131</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGNVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSG+VSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|653012654|ref|WP_027264757.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264757</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>379.022</Hsp_bit-score>
+      <Hsp_score>972</Hsp_score>
+      <Hsp_evalue>2.06843e-131</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>178</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSKDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYIADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETS+DEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEY+ADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|504656301|ref|WP_014843403.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|395129615|emb|CCD07848.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|998774442|emb|CZH07964.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998777322|emb|CZH12220.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998783307|emb|CZH41360.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998786232|emb|CZH06462.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998791258|emb|CZG40827.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998892619|emb|CZJ23913.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002074279|emb|CZR05397.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1002081612|emb|CZR00499.1| Bifunctional AAC/APH [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843403</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.096</Hsp_bit-score>
+      <Hsp_score>967</Hsp_score>
+      <Hsp_evalue>8.78807e-131</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>178</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MDINFEKANSSHIDVIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASSNGHPFAMLMTIQETSENEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGNVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKANS+HI++IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIAS NGHPFAMLMTIQETSE+EID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSG+VSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|499526514|ref|WP_011213154.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|53750343|emb|CAH11737.1| hypothetical protein lpp0589 [Legionella pneumophila str. Paris] &gt;gi|536613636|gb|ERB42008.1| MFS transporter [Legionella pneumophila str. 121004] &gt;gi|541995601|gb|ERH41700.1| MFS transporter [Legionella pneumophila str. Leg01/11] &gt;gi|541997386|gb|ERH43432.1| MFS transporter [Legionella pneumophila str. Leg01/53] &gt;gi|542121182|gb|ERI47515.1| MFS transporter [Legionella pneumophila str. Leg01/20] &gt;gi|762002547|dbj|GAN25665.1| bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999171854|emb|CZI29412.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999181643|emb|CZG51419.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999187810|emb|CZI95305.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999212727|emb|CZG77721.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999216915|emb|CZI66213.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999225327|emb|CZG83568.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999359973|emb|CZI61414.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999373455|emb|CZG57187.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999376490|emb|CZJ18798.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999379754|emb|CZH69611.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999382649|emb|CZI57630.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999386282|emb|CZG64457.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999389099|emb|CZI56365.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999396903|emb|CZG09561.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999405919|emb|CZG72172.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999408894|emb|CZH91006.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999412742|emb|CZG32850.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999415431|emb|CZG88517.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999418771|emb|CZG64717.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999421966|emb|CZH73095.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999425280|emb|CZG75168.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999428366|emb|CZG72350.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999431644|emb|CZG73451.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999435002|emb|CZI00578.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999438186|emb|CZG62585.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999441182|emb|CZK29123.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella pneumophila] &gt;gi|999444625|emb|CZH76815.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999447828|emb|CZG53170.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999457569|emb|CZK21703.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999496254|emb|CZI46465.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999525359|emb|CZJ07747.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999528072|emb|CZI74729.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999576027|emb|CZI42036.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999611283|emb|CZI62734.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1003031222|emb|CZR32094.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1041017661|gb|ANN94721.1| MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213154</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.096</Hsp_bit-score>
+      <Hsp_score>967</Hsp_score>
+      <Hsp_evalue>1.03582e-130</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>178</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASYIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPESDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN+++I +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDP SDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1004017362|ref|WP_061485155.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485155</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.555</Hsp_bit-score>
+      <Hsp_score>963</Hsp_score>
+      <Hsp_evalue>3.69292e-130</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>177</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MNINFEKANASHIELIFSWLKEPFVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDEIKLINLSKTGHSYGIDYMIGDKNYFGKGYGARTFIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDASGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKAN++HI +IFSWLKEPF+QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEID+IKLINLSKTGHSYGIDYMIGDKNYFG GYGART IEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGD SGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|652971691|ref|WP_027224541.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella pneumophila] &gt;gi|761992500|dbj|GAN16540.1| bifunctional AAC/APH [Legionella pneumophila] &gt;gi|761995690|dbj|GAN19646.1| bifunctional AAC/APH [Legionella pneumophila] &gt;gi|998981362|emb|CZJ20464.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999107205|emb|CZI75007.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|999230523|emb|CZI91528.1| Bifunctional AAC/APH [Legionella pneumophila] &gt;gi|1032656701|gb|ANH11972.1| MFS transporter [Legionella pneumophila] &gt;gi|1032659668|gb|ANH14938.1| MFS transporter [Legionella pneumophila] &gt;gi|1032662635|gb|ANH17904.1| MFS transporter [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224541</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.555</Hsp_bit-score>
+      <Hsp_score>963</Hsp_score>
+      <Hsp_evalue>4.25834e-130</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>177</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>MDINFEKANSSHIDVIFSWLKEPFVQEFWDNTQTHKDDILNFINGRTEPSSYADGKYVYWIASSNGHPFAMLMTIQETSENEIDEIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGNVSGAGKLHHLLIKRIGLIK</Hsp_hseq>
+      <Hsp_midline>M INFEKANS+HI++IFSWLKEPF+QEFWDNTQ HKDDILNFINGRTEPSSYADGKYVYWIAS NGHPFAMLMTIQETSE+EID+IKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSG+VSGAGKLHHLLIKRIGLIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966407080|ref|WP_058450486.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella jamestowniensis] &gt;gi|962223819|gb|KTD08469.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella jamestowniensis] &gt;gi|1045920098|gb|OCH97065.1| MFS transporter [Legionella jamestowniensis] &gt;gi|1097331369|emb|SFL51504.1| Protein N-acetyltransferase, RimJ/RimL family [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450486</Hit_accession>
+  <Hit_len>186</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.798</Hsp_bit-score>
+      <Hsp_score>852</Hsp_score>
+      <Hsp_evalue>3.47405e-113</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>170</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MNIFFEKANSSHVDAIFSWLKEPYVQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASDDGRPFAMLMTIQETSEEDIDKIKLANLSKTGHSYSIDYMIGNTSYLGKGYGAKTLIEFINFFIKEIDPQADTFLIDPASDNPRAKHVYMKAGFEYVADFVMSGDVSGAGKPHHLLIKR</Hsp_hseq>
+      <Hsp_midline>M I FEKANS+H++ IFSWLKEP++QEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIAS +G PFAMLMTIQETSE++ID IKL NLSKTGHSY IDYMIG+ +Y G GYGA+TLIEFI+FFIKE+DP+ADTFLIDPASDNPRAKHVY+KAGFEYVADF+MSGDVSGAGK HHLLIKR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|769980638|ref|WP_045096623.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella fallonii] &gt;gi|698844298|emb|CEG58267.1| conserved protein of unknown function [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096623</Hit_accession>
+  <Hit_len>190</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>308.145</Hsp_bit-score>
+      <Hsp_score>788</Hsp_score>
+      <Hsp_evalue>2.19642e-103</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>141</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MNLQFKKVNANDIDTIFAWLAEPNVQEFWDNTQGHKDDILNFIDGRITPSSYADGKYVYWIAIAHGHPFAMLMTIQETPEDHIDDIKLMHLSKTGHTYGIDYMIGEQNYFGKGWGAKTLSEFIDFFRREVDASADTFLIDPASDNPRAKHVYMKAGFDHIADFVMSGDVSGAGKEHHLLIKR</Hsp_hseq>
+      <Hsp_midline>M + F+K N+N I+ IF+WL EP +QEFWDNTQ HKDDILNFI+GR  PSSYADGKYVYWIA  +GHPFAMLMTIQET ED IDDIKL++LSKTGH+YGIDYMIG++NYFG G+GA+TL EFIDFF +EVD  ADTFLIDPASDNPRAKHVY+KAGF+++ADF+MSGDVSGAGK HHLLIKR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|576111839|gb|ETZ07356.1|</Hit_id>
+  <Hit_def>bifunctional AAC/APH [Holospora obtusa F1]</Hit_def>
+  <Hit_accession>ETZ07356</Hit_accession>
+  <Hit_len>517</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.538</Hsp_bit-score>
+      <Hsp_score>802</Hsp_score>
+      <Hsp_evalue>5.31461e-101</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>161</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MSINFEKANVNHVNIIFVWLAEPFVQEFWDNTQGHKDDILNFVNGRKEPSNYCEGKYFYWIASWNRHPFAMLMTIQETAEDHIDDIKLSHLSKTGNTYGIDYMIGDKDYFGKGYGAKTLSEFLDFFRKEFDESADTFIIDPASDNPRAKHVYIKAGFEHIADFVMSADCSGAGKPHHLLIKR</Hsp_hseq>
+      <Hsp_midline>M INFEKAN NH+NIIF WL EPF+QEFWDNTQ HKDDILNF+NGR EPS+Y +GKY YWIAS N HPFAMLMTIQET+ED IDDIKL +LSKTG++YGIDYMIGDK+YFG GYGA+TL EF+DFF KE D  ADTF+IDPASDNPRAKHVYIKAGFE++ADF+MS D SGAGK HHLLIKR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|962181413|gb|KTC66661.1|</Hit_id>
+  <Hit_def>aminoglycoside N (6&apos;)-acetyltransferase [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>KTC66661</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.375</Hsp_bit-score>
+      <Hsp_score>786</Hsp_score>
+      <Hsp_evalue>1.51414e-100</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>277</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>184</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>184</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIG</Hsp_qseq>
+      <Hsp_hseq>MSIQFEKAEINHIDIIFSWLAEPFVQEFWDNTQGHKDDILNFVNGRTEPSNYCDGKYVYWIASCDGHPFAMLMTIQETAEDHIDDIKLNHLSKTGHTYGIDYMIGDKNFFGKGYGAKTLLEFLNFFRREFDVLADTFLIDPAIDNVRAKHVYMKAGFEHIADFVMGGGCSGAGKVHHLLIKRFA</Hsp_hseq>
+      <Hsp_midline>M I FEKA  NHI+IIFSWL EPF+QEFWDNTQ HKDDILNF+NGRTEPS+Y DGKYVYWIAS +GHPFAMLMTIQET+ED IDDIKL +LSKTGH+YGIDYMIGDKN+FG GYGA+TL+EF++FF +E D  ADTFLIDPA DN RAKHVY+KAGFE++ADF+M G  SGAGK+HHLLIKR  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|617756934|dbj|GAJ46866.1|</Hit_id>
+  <Hit_def>bifunctional AAC/APH [Holospora elegans E1]</Hit_def>
+  <Hit_accession>GAJ46866</Hit_accession>
+  <Hit_len>517</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>309.686</Hsp_bit-score>
+      <Hsp_score>792</Hsp_score>
+      <Hsp_evalue>1.52208e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>141</Hsp_identity>
+      <Hsp_positive>161</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MSINFEKANVNHVNIIFGWLAEPFVQEFWDNTQGHKDDILNFVNGRKEPSNYCEGKYFYWIASWNRHPFAMLMTIQETAEDHIDDIKLSHLSKTGNTYGIDYMIGDKDYFGKGYGAKTLSEFLDFFRREFDGSADTFIIDPASDNPRAEHVYMKAGFEHIADFIMGGDCSGAGKPHHLLIRR</Hsp_hseq>
+      <Hsp_midline>M INFEKAN NH+NIIF WL EPF+QEFWDNTQ HKDDILNF+NGR EPS+Y +GKY YWIAS N HPFAMLMTIQET+ED IDDIKL +LSKTG++YGIDYMIGDK+YFG GYGA+TL EF+DFF +E D  ADTF+IDPASDNPRA+HVY+KAGFE++ADF+M GD SGAGK HHLLI+R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|576109686|gb|ETZ04949.1|</Hit_id>
+  <Hit_def>bifunctional AAC/APH [Holospora undulata HU1]</Hit_def>
+  <Hit_accession>ETZ04949</Hit_accession>
+  <Hit_len>517</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>309.686</Hsp_bit-score>
+      <Hsp_score>792</Hsp_score>
+      <Hsp_evalue>2.01656e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>141</Hsp_identity>
+      <Hsp_positive>161</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MSINFEKANVNHVNIIFGWLAEPFVQEFWDNTQGHKDDILNFVNGRKEPSNYCEGKYFYWIASWNRHPFAMLMTIQETAEDHIDDIKLSHLSKTGNTYGIDYMIGDKDYFGKGYGAKTLSEFLDFFRREFDGSADTFIIDPASDNPRAEHVYMKAGFEHIADFIMGGDCSGAGKPHHLLIRR</Hsp_hseq>
+      <Hsp_midline>M INFEKAN NH+NIIF WL EPF+QEFWDNTQ HKDDILNF+NGR EPS+Y +GKY YWIAS N HPFAMLMTIQET+ED IDDIKL +LSKTG++YGIDYMIGDK+YFG GYGA+TL EF+DFF +E D  ADTF+IDPASDNPRA+HVY+KAGFE++ADF+M GD SGAGK HHLLI+R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|654939455|ref|WP_028389653.1|</Hit_id>
+  <Hit_def>MFS transporter [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028389653</Hit_accession>
+  <Hit_len>189</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>296.975</Hsp_bit-score>
+      <Hsp_score>759</Hsp_score>
+      <Hsp_evalue>4.42014e-99</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>183</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>183</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>MAIRFENLSLQHIDIVFGWLAEPFVQEFWDNTQSHKDDILNFVNGRKEPSNYCDGKYIYWIASCEGHPFAMLMTIQETVEDHLDDIKLNYLSKTGHTYGIDYMIGNKNYFGKGHGAKTLSEFLDFFRKEFDVSADTFIIDPASDNPKAKNVYMKAGFEHVADFVMSGDASGAGKPHHLLIRRF</Hsp_hseq>
+      <Hsp_midline>M I FE  +  HI+I+F WL EPF+QEFWDNTQ+HKDDILNF+NGR EPS+Y DGKY+YWIAS  GHPFAMLMTIQET ED +DDIKL  LSKTGH+YGIDYMIG+KNYFG G+GA+TL EF+DFF KE D  ADTF+IDPASDNP+AK+VY+KAGFE+VADF+MSGD SGAGK HHLLI+R </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|962261089|gb|KTD45184.1|</Hit_id>
+  <Hit_def>aminoglycoside N (6&apos;)-acetyltransferase [Legionella quinlivanii] &gt;gi|1090727888|emb|SEG05779.1| Predicted kinase, aminoglycoside phosphotransferase (APT) family [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>KTD45184</Hit_accession>
+  <Hit_len>482</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>295.819</Hsp_bit-score>
+      <Hsp_score>756</Hsp_score>
+      <Hsp_evalue>1.59041e-94</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>MPLSFEKISLQHVDIIFDWLAEPFIQKFWDNTQSHKDDILNFVNGRKEPSNYCDGKYVYWIASCDESPFAMLMTIRETTEDHIDDIKLNHLSKTGHTYGIDYMIGNKNYFGKGYGAKTLSQFLDFFRKEFDASADTFIIDPAADNPRAKNVYMKAGFEHVADFVMSGDVSGAGKPHYLLIRR</Hsp_hseq>
+      <Hsp_midline>M ++FEK +  H++IIF WL EPFIQ+FWDNTQ+HKDDILNF+NGR EPS+Y DGKYVYWIAS +  PFAMLMTI+ET+ED IDDIKL +LSKTGH+YGIDYMIG+KNYFG GYGA+TL +F+DFF KE D  ADTF+IDPA+DNPRAK+VY+KAGFE+VADF+MSGDVSGAGK H+LLI+R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|962298225|gb|KTD81835.1|</Hit_id>
+  <Hit_def>putative aminoglycoside phosphotransferase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>KTD81835</Hit_accession>
+  <Hit_len>481</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>246.514</Hsp_bit-score>
+      <Hsp_score>628</Hsp_score>
+      <Hsp_evalue>2.78298e-75</Hsp_evalue>
+      <Hsp_query-from>132</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>145</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>144</Hsp_align-len>
+      <Hsp_qseq>ILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>ILNFIDGRITPSSYADGKYVYWIASCDGHPFAMLMTIQETAEDHIDDIKLNHLSKTGHTYGIDYMIGNKNYFGKGYGAQTLSEFLDFFRKDFDVSADTFIIDPASDNPRAKKVYMRAGFEHIADFVMSGDVSGAGKPHHLLIRR</Hsp_hseq>
+      <Hsp_midline>ILNFI+GR  PSSYADGKYVYWIAS +GHPFAMLMTIQET+ED IDDIKL +LSKTGH+YGIDYMIG+KNYFG GYGA+TL EF+DFF K+ D  ADTF+IDPASDNPRAK VY++AGFE++ADF+MSGDVSGAGK HHLLI+R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|652968781|ref|WP_027221675.1|</Hit_id>
+  <Hit_def>N-acetyltransferase [Legionella pneumophila] &gt;gi|1005365153|gb|AMP91022.1| acetyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368214|gb|AMP93991.1| acetyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005371127|gb|AMP96903.1| acetyltransferase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027221675</Hit_accession>
+  <Hit_len>188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>182.185</Hsp_bit-score>
+      <Hsp_score>461</Hsp_score>
+      <Hsp_evalue>6.80141e-54</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>274</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>116</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>179</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIK</Hsp_qseq>
+      <Hsp_hseq>IHFEKVNHSHQEIIFQWLAEPHMQEFWDNSQEHKDDIINFMDGRVNPSNYFNGVFTYWIGLGDNNPFCFILTAIVNKDDDLPPIWQDNISISGATYSIDFGIGNPTYLGKKLATSTLKLFTEFFQKEIDPSADTFFIDPAEHNPRAKHVYEKAGFKMAGDFEMDIGVFKGEQTHLMVMK</Hsp_hseq>
+      <Hsp_midline>I+FEK N +H  IIF WL EP +QEFWDN+Q HKDDI+NF++GR  PS+Y +G + YWI  G+ +PF  ++T     +D++  I   N+S +G +Y ID+ IG+  Y G      TL  F +FF KE+DP ADTF IDPA  NPRAKHVY KAGF+   DF M   V    + H +++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|692232759|ref|WP_032113131.1|</Hit_id>
+  <Hit_def>acetyltransferase [Candidatus Paracaedibacter symbiosus]</Hit_def>
+  <Hit_accession>WP_032113131</Hit_accession>
+  <Hit_len>196</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>178.718</Hsp_bit-score>
+      <Hsp_score>452</Hsp_score>
+      <Hsp_evalue>1.79772e-52</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>280</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>195</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>INFEKANSN-HINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQE-TSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRIGLIK</Hsp_qseq>
+      <Hsp_hseq>IHFEKVISRAHQKTIFDWLAEPHLQEFWDNSQEHKDDILNFINGRKEPSNYFYGTIIYWMGIINDEPFCFILTDNLLTSQEDLSDLHRAHLSKTGKTICIDFGIGNKNYLSKGLAAPTLKAFTEFYKSQVDPSADTFIIDPEENNPRARHVYEKAGFNLVGDYAVTKGVF-TGQKSFLMVKELGATR</Hsp_hseq>
+      <Hsp_midline>I+FEK  S  H   IF WL EP +QEFWDN+Q HKDDILNFINGR EPS+Y  G  +YW+   N  PF  ++T    TS++++ D+   +LSKTG +  ID+ IG+KNY   G  A TL  F +F+  +VDP ADTF+IDP  +NPRA+HVY KAGF  V D+ ++  V   G+   L++K +G  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1085178260|gb|OGT66965.1|</Hit_id>
+  <Hit_def>GNAT family N-acetyltransferase [Gammaproteobacteria bacterium RIFCSPLOWO2_02_FULL_38_11] &gt;gi|1085190113|gb|OGT77447.1| GNAT family N-acetyltransferase [Gammaproteobacteria bacterium RIFCSPLOWO2_12_FULL_38_14]</Hit_def>
+  <Hit_accession>OGT66965</Hit_accession>
+  <Hit_len>190</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>174.096</Hsp_bit-score>
+      <Hsp_score>440</Hsp_score>
+      <Hsp_evalue>1.04241e-50</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>183</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>181</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>IYFEKVTQQHQETIFSWLAEPHMQEFWDNSQEHKEDIITFINGRVAPSNYFNGIFTYWVGMIDNDPFCFILTAEVDKNEDHPKIWLDNISKTGTTYSIDFGIGNIKYLGKGLASPTLKMFAKFFQEQIDSSADTFFIDPAEHNPRAKHVYEQAGFKMLGDFKMDIGVF-KGEQTHLMVKKL</Hsp_hseq>
+      <Hsp_midline>I FEK    H   IFSWL EP +QEFWDN+Q HK+DI+ FINGR  PS+Y +G + YW+   +  PF  ++T +    ++   I L N+SKTG +Y ID+ IG+  Y G G  + TL  F  FF +++D  ADTF IDPA  NPRAKHVY +AGF+ + DF M   V   G+  HL++K++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966507799|ref|WP_058524445.1|</Hit_id>
+  <Hit_def>N-acetyltransferase [Legionella birminghamensis] &gt;gi|962183698|gb|KTC68913.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058524445</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.17</Hsp_bit-score>
+      <Hsp_score>435</Hsp_score>
+      <Hsp_evalue>5.36006e-50</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>168</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>108</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>165</Hsp_align-len>
+      <Hsp_qseq>FEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDV</Hsp_qseq>
+      <Hsp_hseq>FEKLKKHHIETVFSWLAEPHMLEFWDNSQEHKDDIISFVNGRTTPSNYFSGIVSYWIGSINTNPCCFILTSPLTPDDICPQILADHRSTTGMTYCIDFGIGNKAFLGKGYASGALREFINFFRNSIDPTADTFFIDPDDNNPRAQHVYAKAGFKTVGDYIMDRGV</Hsp_hseq>
+      <Hsp_midline>FEK   +HI  +FSWL EP + EFWDN+Q HKDDI++F+NGRT PS+Y  G   YWI S N +P   ++T   T +D    I   + S TG +Y ID+ IG+K + G GY +  L EFI+FF   +DP ADTF IDP  +NPRA+HVY KAGF+ V D++M   V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|918224892|ref|WP_052358024.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|761990071|dbj|GAN18949.1| hypothetical protein lpbnt_03076 [Legionella pneumophila] &gt;gi|761993189|dbj|GAN22110.1| hypothetical protein lpofk_03136 [Legionella pneumophila] &gt;gi|999139872|emb|CZM30233.1| Uncharacterised protein [Legionella pneumophila] &gt;gi|999155439|emb|CZI42373.1| Uncharacterised protein [Legionella pneumophila] &gt;gi|999334185|emb|CZL04778.1| Uncharacterised protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_052358024</Hit_accession>
+  <Hit_len>196</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.17</Hsp_bit-score>
+      <Hsp_score>435</Hsp_score>
+      <Hsp_evalue>6.79172e-50</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>113</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>181</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>IYFEKVTQQHQKTIFSWLAEPHMQEFWDNSQEHKDDIITFINGRVTPSNYFNGIFTYWVGVVDNDPFCLILTAKVNKNDDCPEIWQDHISTTGATYSIDFGIGNIKYLGKKLATPTLKLFTKFFQEKIDPSADTFFIDPAEHNPRAKHVYEQAGFKMVGGFEMDIGVF-KGEQTHLMVKKL</Hsp_hseq>
+      <Hsp_midline>I FEK    H   IFSWL EP +QEFWDN+Q HKDDI+ FINGR  PS+Y +G + YW+   +  PF +++T +    D+  +I   ++S TG +Y ID+ IG+  Y G      TL  F  FF +++DP ADTF IDPA  NPRAKHVY +AGF+ V  F M   V   G+  HL++K++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966476655|ref|WP_058507388.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella quinlivanii] &gt;gi|962265903|gb|KTD49939.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella quinlivanii] &gt;gi|1090728046|emb|SEF97248.1| Acetyltransferase (GNAT) domain-containing protein [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058507388</Hit_accession>
+  <Hit_len>183</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.014</Hsp_bit-score>
+      <Hsp_score>432</Hsp_score>
+      <Hsp_evalue>1.24396e-49</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>168</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>108</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>165</Hsp_align-len>
+      <Hsp_qseq>FEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDV</Hsp_qseq>
+      <Hsp_hseq>FEKLEKHHLEIIFSWLAEPHMLEFWDNSQEHKDDIINFVDGRKNPSAYFSGNVSYWIGSINKEKSSFILTSPLGSKEECPKILAENRSVTGTTYCIDFGIGNREFLGKGFASEALCAFIDFFRKMVDPAADTFFIDPDANNPRAQHVYTKAGFRTLGNYIMDKGV</Hsp_hseq>
+      <Hsp_midline>FEK   +H+ IIFSWL EP + EFWDN+Q HKDDI+NF++GR  PS+Y  G   YWI S N    + ++T    S++E   I   N S TG +Y ID+ IG++ + G G+ +  L  FIDFF K VDP ADTF IDP ++NPRA+HVY KAGF  + +++M   V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1005401048|ref|WP_061635283.1|</Hit_id>
+  <Hit_def>acetyltransferase [Legionella pneumophila] &gt;gi|999398867|emb|CZP95234.1| Uncharacterised protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061635283</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.392</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>7.07298e-48</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>186</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMT-IQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGA--GKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>MNITFQKASTSYIDTIFSWLTEPHMMEFWDNSQEHKDDILNFIQGK--PQTYFAGTTQYWIGFIDKQPYAFVLSDILKKDQEDLSNTHLANMSETGHTIALDFGIGNKEYLGRGLAAPTLSEFMIFYKKDIDPKADTFFIDPDENNPRAIRVYNKAGFTKVGQYQAT---QGAFIGHNSDLMVKKL</Hsp_hseq>
+      <Hsp_midline>M I F+KA++++I+ IFSWL EP + EFWDN+Q HKDDILNFI G+  P +Y  G   YWI   +  P+A +++ I +  ++++ +  L N+S+TGH+  +D+ IG+K Y G G  A TL EF+ F+ K++DPKADTF IDP  +NPRA  VY KAGF  V  +  +    GA  G    L++K++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|737952388|ref|WP_035916148.1|</Hit_id>
+  <Hit_def>acetyltransferase [Legionella lansingensis] &gt;gi|962233994|gb|KTD18537.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_035916148</Hit_accession>
+  <Hit_len>197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.696</Hsp_bit-score>
+      <Hsp_score>413</Hsp_score>
+      <Hsp_evalue>1.5616e-46</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQ-ETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>IYFEKANRQHENIIFEWLSLPHIQEFWDNSQEHKDDIRNFIHRRKQHYFYGTTKY--WVGFVNNQPFAFLLSDEILDSQEDVTELHRKYLSRDGHTISLDFGIGNKSFLGKGLAAPTLKKFTVFYQEQIDPMADTFFIDPDENNPRAKHVYETAGFKPVGEYAMKGG-AFKGQQTHLMVMRL</Hsp_hseq>
+      <Hsp_midline>I FEKAN  H NIIF WL  P IQEFWDN+Q HKDDI NFI+ R +   Y   KY  W+   N  PFA L++ +   S++++ ++    LS+ GH+  +D+ IG+K++ G G  A TL +F  F+ +++DP ADTF IDP  +NPRAKHVY  AGF+ V ++ M G  +  G+  HL++ R+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|493926227|ref|WP_006871012.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acetyltransferase [Legionella] &gt;gi|363537521|gb|EHL30942.1| acetyltransferase [Legionella drancourtii LLAP12] &gt;gi|962272697|gb|KTD56682.1| aminoglycoside N (6&apos;)-acetyltransferase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_006871012</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.155</Hsp_bit-score>
+      <Hsp_score>409</Hsp_score>
+      <Hsp_evalue>3.82681e-46</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>186</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMT-IQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGA--GKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>MNITFQKASTSYIDTIFSWLTEPHMMEFWDNSQEHKDDILNFIQGK--PQTYFAGTTQYWIGFIDKQPYAFVLSDILKKDQEDLSNTHLANMSETGYTIALDFGIANKEYLGRGLAAPTLSEFMIFYKKDIDPKADTFFIDPDENNPRAIRVYNKAGFTKVGQYQAT---QGAFIGHNSDLMVKKL</Hsp_hseq>
+      <Hsp_midline>M I F+KA++++I+ IFSWL EP + EFWDN+Q HKDDILNFI G+  P +Y  G   YWI   +  P+A +++ I +  ++++ +  L N+S+TG++  +D+ I +K Y G G  A TL EF+ F+ K++DPKADTF IDP  +NPRA  VY KAGF  V  +  +    GA  G    L++K++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1085140270|gb|OGT32046.1|</Hit_id>
+  <Hit_def>GNAT family N-acetyltransferase [Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_35_23]</Hit_def>
+  <Hit_accession>OGT32046</Hit_accession>
+  <Hit_len>184</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>161.384</Hsp_bit-score>
+      <Hsp_score>407</Hsp_score>
+      <Hsp_evalue>9.2325e-46</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>184</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>181</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>IQFQKASSTHQETIFSWLASPHVREFWDNSPEHKTDIKLFISGRKQPSNYFDGIFSYWVGLFHKEPYSLVMTSTVYADDSCPELWRQNLSLQGTTISIDFCIGTLNYLGKGLAAPTLEAFVKFFNETVDPKADTFFIDPNKDNLRATHVYEKAGFKLIGSFAAEQGFF-IGKESFLMIKKL</Hsp_hseq>
+      <Hsp_midline>I F+KA+S H   IFSWL  P ++EFWDN+  HK DI  FI+GR +PS+Y DG + YW+   +  P++++MT    ++D   ++   NLS  G +  ID+ IG  NY G G  A TL  F+ FF + VDPKADTF IDP  DN RA HVY KAGF+ +  F         GK   L+IK++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966417718|ref|WP_058461003.1|</Hit_id>
+  <Hit_def>acetyltransferase [Fluoribacter bozemanae] &gt;gi|962182621|gb|KTC67852.1| aminoglycoside N (6&apos;)-acetyltransferase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058461003</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.073</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>8.60434e-45</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>274</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>186</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>178</Hsp_align-len>
+      <Hsp_qseq>FEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQ-ETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIK</Hsp_qseq>
+      <Hsp_hseq>FEKANLQHEKIIFDWLSLPHIQDFWDNSKEHKDDILNFIYGRKQHYFYGTTKY--WVGFVNNEPFAFLLSDEILESQNDVTDLHKYYLSKDGHTVSLDFGIGNRDFLGRGLAAPTLKKFTAFYHNQIDNLADTFFIDPDENNPRAKHVYEQAGFEPVGEYSMQGGFFTGHKTHLMVMK</Hsp_hseq>
+      <Hsp_midline>FEKAN  H  IIF WL  P IQ+FWDN++ HKDDILNFI GR +   Y   KY  W+   N  PFA L++ +   S++++ D+    LSK GH+  +D+ IG++++ G G  A TL +F  F+  ++D  ADTF IDP  +NPRAKHVY +AGFE V ++ M G      K H +++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1033158332|ref|WP_064463640.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia raoultii]</Hit_def>
+  <Hit_accession>WP_064463640</Hit_accession>
+  <Hit_len>163</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.147</Hsp_bit-score>
+      <Hsp_score>396</Hsp_score>
+      <Hsp_evalue>1.71674e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>256</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>161</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>163</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADF</Hsp_qseq>
+      <Hsp_hseq>MNIHFEKANLTHKEIIFNWLEESHIKEFWDNSQEHKNDILNFITGRKQHYFY--GTTNYWIGFINNEPFCFILLDSLEKDHNLSDIQRKYLSKSGHTITIDFGIGNKNFLGQGLASSTLAAFIKFYHKYIDPLSDTFFIDPDENNPRAMHVYSNAGFKQVGEY</Hsp_hseq>
+      <Hsp_midline>M I+FEKAN  H  IIF+WL+E  I+EFWDN+Q HK+DILNFI GR +   Y  G   YWI   N  PF  ++      +  + DI+   LSK+GH+  ID+ IG+KN+ G G  + TL  FI F+ K +DP +DTF IDP  +NPRA HVY  AGF+ V ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|499590336|ref|WP_011271104.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia felis] &gt;gi|67004700|gb|AAY61626.1| Acetyltransferase [Rickettsia felis URRWXCal2] &gt;gi|734689444|gb|KHO02987.1| acetyltransferase [Rickettsia felis str. LSU] &gt;gi|788089926|gb|KJV59296.1| acetyltransferase domain protein [Rickettsia felis str. Pedreira]</Hit_def>
+  <Hit_accession>WP_011271104</Hit_accession>
+  <Hit_len>180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>156.377</Hsp_bit-score>
+      <Hsp_score>394</Hsp_score>
+      <Hsp_evalue>6.42313e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>180</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>185</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGA--GKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>MNIYFEKANLTHKETIFIWLEEPHIKEFWDNSKEHKEDILNFITGRKQ--HYFYGTTNYWIGFINNEPFCFILSDILQKDQDLSEIQQKYLSKSGHTITLDFGIGNKNFLGKGLASSTLEAFIRFYHKHIDPLSDIFFIDPDENNPRATHVYSKAGFKQVGEYKAQ---SGAFKGNTSYLMVKNI</Hsp_hseq>
+      <Hsp_midline>M I FEKAN  H   IF WL+EP I+EFWDN++ HK+DILNFI GR +   Y  G   YWI   N  PF  +++     + ++ +I+   LSK+GH+  +D+ IG+KN+ G G  + TL  FI F+ K +DP +D F IDP  +NPRA HVY KAGF+ V ++      SGA  G   +L++K I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|918034624|ref|WP_052322875.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia felis]</Hit_def>
+  <Hit_accession>WP_052322875</Hit_accession>
+  <Hit_len>170</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.525</Hsp_bit-score>
+      <Hsp_score>384</Hsp_score>
+      <Hsp_evalue>1.34688e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>264</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>170</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>172</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADF-LMSGDVSG</Hsp_qseq>
+      <Hsp_hseq>MNIYFEKANLTHKETIFIWLEEPHIKEFWDNSKEHKEDILNFITGRKQ--HYFYGTTNYWIGFINNEPFCFILSDILQKDQDLSEIQQKYLSKSGHTITLDFGIGNKNFLGKGLASSTLEAFIRFYHKHIDPLSDIFFIDPDENNPRSTHVYSKAGFKQVGEYKAQSGAFKG</Hsp_hseq>
+      <Hsp_midline>M I FEKAN  H   IF WL+EP I+EFWDN++ HK+DILNFI GR +   Y  G   YWI   N  PF  +++     + ++ +I+   LSK+GH+  +D+ IG+KN+ G G  + TL  FI F+ K +DP +D F IDP  +NPR+ HVY KAGF+ V ++   SG   G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|1094125894|ref|WP_071115249.1|</Hit_id>
+  <Hit_def>hypothetical protein [Chromobacterium sp. 37-2] &gt;gi|1093088496|gb|OHX12547.1| hypothetical protein BI347_02780 [Chromobacterium sp. 37-2]</Hit_def>
+  <Hit_accession>WP_071115249</Hit_accession>
+  <Hit_len>183</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.599</Hsp_bit-score>
+      <Hsp_score>379</Hsp_score>
+      <Hsp_evalue>1.30226e-41</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>182</Hsp_align-len>
+      <Hsp_qseq>INFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLM-SGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>LSFESVSSQHLTMLMNWLDSPHVQEFWDNSLEHREDINIFANGRKVESTYFEGIFSYWIGKYEDIPFCLLMTSPISEGDDIPSIWMEFLSKTEKNFSIDFCIGNMSFLGKGLAANALNNFITFFNSKIEPKARVFLIDPDEKNPRAKRVYMKAGFKQVGSFKMPSGYFSGQST--SLMVKVI</Hsp_hseq>
+      <Hsp_midline>++FE  +S H+ ++ +WL  P +QEFWDN+  H++DI  F NGR   S+Y +G + YWI      PF +LMT   +  D+I  I +  LSKT  ++ ID+ IG+ ++ G G  A  L  FI FF  +++PKA  FLIDP   NPRAK VY+KAGF+ V  F M SG  SG      L++K I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|962298208|gb|KTD81818.1|</Hit_id>
+  <Hit_def>aminoglycoside N (6&apos;)-acetyltransferase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>KTD81818</Hit_accession>
+  <Hit_len>111</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.517</Hsp_bit-score>
+      <Hsp_score>371</Hsp_score>
+      <Hsp_evalue>1.8998e-41</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>184</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>91</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINL</Hsp_qseq>
+      <Hsp_hseq>MNISFEKANLNHVDIIIGWLVEPFVQEFWDNTQGHKDDILNFVNGRKEPSDYCDGKYVYWIASSDGHPSAMLMTIQATTEEDIDEIKRKTL</Hsp_hseq>
+      <Hsp_midline>M I+FEKAN NH++II  WL EPF+QEFWDNTQ HKDDILNF+NGR EPS Y DGKYVYWIAS +GHP AMLMTIQ T+E++ID+IK   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|698844302|emb|CEG58271.1|</Hit_id>
+  <Hit_def>protein of unknown function [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>CEG58271</Hit_accession>
+  <Hit_len>111</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>143.28</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>9.8187e-40</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>180</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>87</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIK</Hsp_qseq>
+      <Hsp_hseq>MNIQFEKANLNHLDIIFGWLTEQFVQEFWDNTQGHKDDILNFVNDRKEPSDYCDGKYVYWIASSDGHPSAMLMTIQATTEENIDEIK</Hsp_hseq>
+      <Hsp_midline>M I FEKAN NH++IIF WL E F+QEFWDNTQ HKDDILNF+N R EPS Y DGKYVYWIAS +GHP AMLMTIQ T+E+ ID+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|386870890|gb|AFJ42897.1|</Hit_id>
+  <Hit_def>acetyltransferase [Francisella noatunensis subsp. orientalis str. Toba 04] &gt;gi|855344226|gb|AKN85127.1| Acetyltransferase [Francisella noatunensis subsp. orientalis FNO12] &gt;gi|855349402|gb|AKN86665.1| Acetyltransferase [Francisella noatunensis subsp. orientalis FNO24] &gt;gi|855351178|gb|AKN88204.1| Acetyltransferase [Francisella noatunensis subsp. orientalis] &gt;gi|909822151|gb|AKU04958.1| Acetyltransferase [Francisella noatunensis subsp. orientalis]</Hit_def>
+  <Hit_accession>AFJ42897</Hit_accession>
+  <Hit_len>467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.902</Hsp_bit-score>
+      <Hsp_score>372</Hsp_score>
+      <Hsp_evalue>9.92665e-38</Hsp_evalue>
+      <Hsp_query-from>176</Hsp_query-from>
+      <Hsp_query-to>275</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>IDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKR</Hsp_qseq>
+      <Hsp_hseq>IGEEKLKRLSKIGHTYGLDYMIGNSKFFSKGYGSQTLSDFIDFFRESIDPKADTFLIDPDSANLRAKHVYMKAGFKHVCDFMMEGDVSGAGKLHHLLIKK</Hsp_hseq>
+      <Hsp_midline>I + KL  LSK GH+YG+DYMIG+  +F  GYG++TL +FIDFF + +DPKADTFLIDP S N RAKHVY+KAGF++V DF+M GDVSGAGKLHHLLIK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|918403434|ref|WP_052454700.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia hoogstraalii]</Hit_def>
+  <Hit_accession>WP_052454700</Hit_accession>
+  <Hit_len>167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>137.502</Hsp_bit-score>
+      <Hsp_score>345</Hsp_score>
+      <Hsp_evalue>1.05399e-36</Hsp_evalue>
+      <Hsp_query-from>109</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>167</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>170</Hsp_align-len>
+      <Hsp_qseq>IFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGK--LHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>IFNWLEEPHIKEFWDNSKEHKEDILNFITSRKQ--HYFYGTTNYWIGFINNEPFCFILSDILQKDQDLSDIQRKYLSKSGHTITLDFGIGNKNFLGKGLASSTLELFVKFYHKSVDSLSRTFFIDPDENNPRAIHVYSKAGFKQVGEYKAQ---SGAFKDNTSYLMVKNI</Hsp_hseq>
+      <Hsp_midline>IF+WL+EP I+EFWDN++ HK+DILNFI  R +   Y  G   YWI   N  PF  +++     + ++ DI+   LSK+GH+  +D+ IG+KN+ G G  + TL  F+ F+ K VD  + TF IDP  +NPRA HVY KAGF+ V ++      SGA K    +L++K I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|917358561|ref|WP_051965273.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia tamurae]</Hit_def>
+  <Hit_accession>WP_051965273</Hit_accession>
+  <Hit_len>165</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.265</Hsp_bit-score>
+      <Hsp_score>334</Hsp_score>
+      <Hsp_evalue>3.75146e-35</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>238</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>143</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>145</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDN</Hsp_qseq>
+      <Hsp_hseq>MNIHFEKANLTHKEIIFNWLEEPHIKEFWDNSQEHKNDILNFITGRKQ--HYFYGTTNYWTGFINNEPFCFILSDILEKDQNLSDIQRKYLSKSGHTITLDFGIGNKNFLGKGLASSTLEAFIKFYHKHINPLSNTFFIDPDENN</Hsp_hseq>
+      <Hsp_midline>M I+FEKAN  H  IIF+WL+EP I+EFWDN+Q HK+DILNFI GR +   Y  G   YW    N  PF  +++     +  + DI+   LSK+GH+  +D+ IG+KN+ G G  + TL  FI F+ K ++P ++TF IDP  +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|497989098|ref|WP_010303254.1|</Hit_id>
+  <Hit_def>acetyltransferase [Candidatus Odyssella thessalonicensis]</Hit_def>
+  <Hit_accession>WP_010303254</Hit_accession>
+  <Hit_len>196</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.568</Hsp_bit-score>
+      <Hsp_score>327</Hsp_score>
+      <Hsp_evalue>9.72762e-34</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>250</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>161</Hsp_align-len>
+      <Hsp_qseq>MRINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDILNFINGRTEPSSYADGKYVYWIA----SGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGF</Hsp_qseq>
+      <Hsp_hseq>MNIKFERANIHHLDVIMEWLSQPHIKDFWDNSEEHRQDIINFVHGRKTPSPYYQGIYTYWIGSILNSKKETPFSLIMT------SPFEAWVGHSLSKSGKTVTLDFAIGNTDYLGKDLAAPTLQEFMLFYQLSVEQSAHIFFIDPDEKNNKAIHVYKKAGF</Hsp_hseq>
+      <Hsp_midline>M I FE+AN +H+++I  WL +P I++FWDN++ H+ DI+NF++GR  PS Y  G Y YWI     S    PF+++MT         +     +LSK+G +  +D+ IG+ +Y G    A TL EF+ F+   V+  A  F IDP   N +A HVY KAGF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|788093146|gb|KJV62486.1|</Hit_id>
+  <Hit_def>acetyltransferase domain protein [Rickettsia amblyommatis str. Ac/Pa]</Hit_def>
+  <Hit_accession>KJV62486</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.916</Hsp_bit-score>
+      <Hsp_score>263</Hsp_score>
+      <Hsp_evalue>9.93403e-25</Hsp_evalue>
+      <Hsp_query-from>126</Hsp_query-from>
+      <Hsp_query-to>251</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>133</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>QAHKDDILNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFE</Hsp_qseq>
+      <Hsp_hseq>EQYKNDILNFITGRKQ--HYFYGTTNYWIGFINNEPFCFLDSLEK--DHSLADIQRKYLSKSGHTITLDFGIGNKNFLGQGLASSTLAAFIKFYHKYIDPLSDIFFIDPDENNPRAMHVYSKAGYR</Hsp_hseq>
+      <Hsp_midline>+ +K+DILNFI GR +   Y  G   YWI   N  PF  L ++++  +  + DI+   LSK+GH+  +D+ IG+KN+ G G  + TL  FI F+ K +DP +D F IDP  +NPRA HVY KAG+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|788123215|gb|KJV91245.1|</Hit_id>
+  <Hit_def>acetyltransferase domain protein [Rickettsia amblyommatis str. Darkwater]</Hit_def>
+  <Hit_accession>KJV91245</Hit_accession>
+  <Hit_len>132</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>8.59128e-22</Hsp_evalue>
+      <Hsp_query-from>133</Hsp_query-from>
+      <Hsp_query-to>251</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>115</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>LNFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFE</Hsp_qseq>
+      <Hsp_hseq>MNFITGRKQ--HYFYGTTNYWIGFINNEPFCFLDSLEK--DHSLADIQRKYLSKSGHTITLDFGIGNKNFLGQGLASSTLAAFIKFYHKYIDPLSDIFFIDPDENNPRAMHVYSKAGYR</Hsp_hseq>
+      <Hsp_midline>+NFI GR +   Y  G   YWI   N  PF  L ++++  +  + DI+   LSK+GH+  +D+ IG+KN+ G G  + TL  FI F+ K +DP +D F IDP  +NPRA HVY KAG+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|919120115|ref|WP_052675756.1|</Hit_id>
+  <Hit_def>hypothetical protein [Paenibacillus sp. IHBB 10380]</Hit_def>
+  <Hit_accession>WP_052675756</Hit_accession>
+  <Hit_len>183</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.41554e-20</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>272</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>172</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>180</Hsp_align-len>
+      <Hsp_qseq>RINFEKANSNHINIIFSWLKEPFIQEFWDNTQAHKDDIL-NFINGRTEPSSYADGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLM-SGDVSGAGKLHHLL</Hsp_qseq>
+      <Hsp_hseq>KITFIKADMSHLEIVIEWFNSPHVQEFWGTGDYTRNNFTNNIVNGTKE-------LFDYWVASYDNEPFSLIMT-SDASEDTPEHLVPF-LEPDGLTLTLDFLIGNKKYLEKGLSYPTINEFQNFLNDQI----SALLIDPESNNSKAIHVYEKAGFNKVSTFIPDEGDFS--GKSHDLM</Hsp_hseq>
+      <Hsp_midline>+I F KA+ +H+ I+  W   P +QEFW      +++   N +NG  E        + YW+AS +  PF+++MT  + SED  + +    L   G +  +D++IG+K Y   G    T+ EF +F   ++       LIDP S+N +A HVY KAGF  V+ F+   GD S  GK H L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|406983220|gb|EKE04457.1|</Hit_id>
+  <Hit_def>acetyltransferase [uncultured bacterium]</Hit_def>
+  <Hit_accession>EKE04457</Hit_accession>
+  <Hit_len>110</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.1149</Hsp_bit-score>
+      <Hsp_score>209</Hsp_score>
+      <Hsp_evalue>2.11334e-17</Hsp_evalue>
+      <Hsp_query-from>166</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>110</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>111</Hsp_align-len>
+      <Hsp_qseq>MTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGAGKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>MTSTVYADDSCPELWRQNLSLQGTTISIDFCIGTLNYLGKGLAAPTLEAFVKFFNETVDPKADTFFIDPNKDNLRATHVYEKAGFKLIGSFAAEQGFF-IGKESFLMIKKL</Hsp_hseq>
+      <Hsp_midline>MT    ++D   ++   NLS  G +  ID+ IG  NY G G  A TL  F+ FF + VDPKADTF IDP  DN RA HVY KAGF+ +  F         GK   L+IK++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|552943543|ref|WP_023044324.1|</Hit_id>
+  <Hit_def>hypothetical protein [Photorhabdus temperata] &gt;gi|550874536|gb|ERT13599.1| hypothetical protein O185_07935 [Photorhabdus temperata J3]</Hit_def>
+  <Hit_accession>WP_023044324</Hit_accession>
+  <Hit_len>189</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.1149</Hsp_bit-score>
+      <Hsp_score>209</Hsp_score>
+      <Hsp_evalue>1.52528e-16</Hsp_evalue>
+      <Hsp_query-from>147</Hsp_query-from>
+      <Hsp_query-to>245</Hsp_query-to>
+      <Hsp_hit-from>67</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>DGKYVYWIASGNGHPFAMLMTIQETSEDEIDDIKLINLSKTGHSYGIDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVY</Hsp_qseq>
+      <Hsp_hseq>DGIFDYWIGFKNGEPFCLMMSNKVSVDDDILELWKTNLSSTGNTVSLDFMIGEEAFLGKGLAAIAINTFIAFYLSNIDAKTDIFLIDPDRDNKKALRAY</Hsp_hseq>
+      <Hsp_midline>DG + YWI   NG PF ++M+ + + +D+I ++   NLS TG++  +D+MIG++ + G G  A  +  FI F++  +D K D FLIDP  DN +A   Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|376334438|gb|AFB31670.1|</Hit_id>
+  <Hit_def>acetyltransferase [Rickettsia massiliae str. AZT80]</Hit_def>
+  <Hit_accession>AFB31670</Hit_accession>
+  <Hit_len>103</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.411</Hsp_bit-score>
+      <Hsp_score>189</Hsp_score>
+      <Hsp_evalue>1.30611e-14</Hsp_evalue>
+      <Hsp_query-from>193</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>86</Hsp_align-len>
+      <Hsp_qseq>IDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGA--GKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>LDFDIGNKNFLGPGLASSTLAAFIKFYHKYIDPLSDTFFIDPDENNPRAMHVYSKAGFKQVGEYTTQ---SGAFKGNTSYLMIRNI</Hsp_hseq>
+      <Hsp_midline>+D+ IG+KN+ G G  + TL  FI F+ K +DP +DTF IDP  +NPRA HVY KAGF+ V ++      SGA  G   +L+I+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|788110280|gb|KJV78570.1|</Hit_id>
+  <Hit_def>acetyltransferase domain protein [Rickettsia rhipicephali str. Ect]</Hit_def>
+  <Hit_accession>KJV78570</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>2.42894e-14</Hsp_evalue>
+      <Hsp_query-from>193</Hsp_query-from>
+      <Hsp_query-to>276</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>86</Hsp_align-len>
+      <Hsp_qseq>IDYMIGDKNYFGIGYGARTLIEFIDFFIKEVDPKADTFLIDPASDNPRAKHVYIKAGFEYVADFLMSGDVSGA--GKLHHLLIKRI</Hsp_qseq>
+      <Hsp_hseq>LDFDIGNKNFLGPGLASSTLAAFIKFYHKYIDPLSDTFFIDPDENNPRAMHVYSKAGFKQVGEYTTQ---SGAFKGNTSYLMIRNI</Hsp_hseq>
+      <Hsp_midline>+D+ IG+KN+ G G  + TL  FI F+ K +DP +DTF IDP  +NPRA HVY KAGF+ V ++      SGA  G   +L+I+ I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

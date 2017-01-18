@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_122141</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>349</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_122141</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>349</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248728|ref|WP_010946268.1|</Hit_id>
+  <Hit_def>methyltransferase UbiE [Legionella pneumophila] &gt;gi|52840765|ref|YP_094564.1| UbiE/COQ5 family methlytransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627876|gb|AAU26617.1| methyltransferase, ubiE/COQ5 family [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507279|gb|AEW50803.1| methyltransferase, ubiE/COQ5 family [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946268</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>537.339</Hsp_bit-score>
+      <Hsp_score>1383</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>256</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119426383|ref|WP_072401683.1|</Hit_id>
+  <Hit_def>SAM-dependent methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401683</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.406</Hsp_bit-score>
+      <Hsp_score>1365</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>250</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPMLEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGVLLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATMKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDP+LEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEG+LLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLAT+KDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|505257697|ref|WP_015444799.1|</Hit_id>
+  <Hit_def>SAM-dependent methyltransferase [Legionella pneumophila] &gt;gi|469492940|gb|AGH54785.1| Methyltransferase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081187|gb|AGN13435.1| UbiE/COQ5 family methyltransferase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771536|emb|CZI76064.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998795770|emb|CZI44254.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998800560|emb|CZL11859.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998804116|emb|CZK63806.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998807206|emb|CZI31322.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998810730|emb|CZI17497.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998813111|emb|CZH13951.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998816449|emb|CZM21507.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998819734|emb|CZM00738.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998825562|emb|CZK39515.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998832821|emb|CZI18844.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998834461|emb|CZL50537.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998838693|emb|CZJ30391.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998840516|emb|CZL84394.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998843096|emb|CZL08321.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998846327|emb|CZL09238.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998849174|emb|CZI97392.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998852440|emb|CZL88567.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998855945|emb|CZL53192.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998858610|emb|CZM29387.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998862308|emb|CZK40940.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998864758|emb|CZJ87931.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998867207|emb|CZJ82765.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998870207|emb|CZM41983.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998873626|emb|CZK72302.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998876220|emb|CZM47528.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998879339|emb|CZJ75102.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998885791|emb|CZM35831.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998888599|emb|CZK50000.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998895800|emb|CZK08666.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998905268|emb|CZK92918.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998908423|emb|CZL68177.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998916086|emb|CZK72168.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998917493|emb|CZL64079.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998920473|emb|CZL70701.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998926832|emb|CZL98764.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998930918|emb|CZK82892.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998933679|emb|CZL67884.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998938745|emb|CZL20867.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998946250|emb|CZK71407.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998947992|emb|CZL29313.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998956960|emb|CZM67045.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998960461|emb|CZK68611.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998963163|emb|CZK79768.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998966713|emb|CZM41640.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998969375|emb|CZL06279.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998972384|emb|CZK82788.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998978498|emb|CZM01440.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998986108|emb|CZK10210.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998987504|emb|CZL89449.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998998276|emb|CZJ97062.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999006426|emb|CZL23132.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999011891|emb|CZL84680.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999014932|emb|CZM78165.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999021221|emb|CZL94020.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999024048|emb|CZL20833.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999036231|emb|CZL85784.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999045239|emb|CZM31270.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999060285|emb|CZL80288.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999066483|emb|CZJ50201.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999075366|emb|CZH16590.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999078616|emb|CZK44436.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999083083|emb|CZK86697.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999087905|emb|CZL15688.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999090967|emb|CZL90954.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999093875|emb|CZH49708.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999096973|emb|CZH52508.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999101388|emb|CZL75721.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999110926|emb|CZL04833.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999114049|emb|CZL59288.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999115941|emb|CZK73757.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999124750|emb|CZL32349.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999132513|emb|CZL69956.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999133885|emb|CZL47522.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999136979|emb|CZK88796.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999140884|emb|CZL86044.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999144843|emb|CZK81230.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999146371|emb|CZM11377.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999155613|emb|CZI37874.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999174214|emb|CZL61539.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999189805|emb|CZI75627.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999192925|emb|CZJ16606.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999199246|emb|CZH01397.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999202134|emb|CZJ21383.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999208437|emb|CZL35311.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999217947|emb|CZM05344.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999220916|emb|CZJ08514.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999333356|emb|CZL30778.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002078816|emb|CZQ92047.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1003018384|emb|CZR30485.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|1003021456|emb|CZR26839.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|1003024504|emb|CZR30255.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|1073863689|gb|AOU03640.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073866647|gb|AOU06597.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073869652|gb|AOU09601.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073872596|gb|AOU12544.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073875578|gb|AOU15525.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073878540|gb|AOU18486.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073881534|gb|AOU21479.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073884496|gb|AOU24440.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073887495|gb|AOU27438.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073890478|gb|AOU30420.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073893443|gb|AOU33384.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073896408|gb|AOU36348.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073899372|gb|AOU39311.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073902324|gb|AOU42262.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073905235|gb|AOU45172.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073908252|gb|AOU48187.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073911308|gb|AOU51240.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073914226|gb|AOU54157.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073917184|gb|AOU57114.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073920151|gb|AOU60080.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073923124|gb|AOU63051.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073926138|gb|AOU66064.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073929118|gb|AOU69027.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073932502|gb|AOU72061.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073935449|gb|AOU82448.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073945724|gb|AOU85448.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1073948687|gb|AOU88410.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1104001841|emb|SFZ36421.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1129967302|gb|APT97661.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444799</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.48</Hsp_bit-score>
+      <Hsp_score>1360</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|653012657|ref|WP_027264760.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264760</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>523.857</Hsp_bit-score>
+      <Hsp_score>1348</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATMKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKLRNLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLAT+KDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|742353232|ref|WP_038837514.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|998783014|emb|CZI85564.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998828320|emb|CZH37941.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998883002|emb|CZI84604.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998897705|emb|CZK08583.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998938032|emb|CZL86994.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998951071|emb|CZJ95629.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999000091|emb|CZG94654.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999058445|emb|CZM29643.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999103703|emb|CZI19616.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999128503|emb|CZH16050.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999152627|emb|CZM82821.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999161892|emb|CZM39405.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999236706|emb|CZG93538.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002085549|emb|CZQ97418.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002088301|emb|CZQ79060.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1104005405|emb|SFZ36401.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837514</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.702</Hsp_bit-score>
+      <Hsp_score>1345</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPMLEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGVLLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATMKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKLRNLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDP+LEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEG+LLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLAT+KDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1119392826|ref|WP_072368656.1|</Hit_id>
+  <Hit_def>SAM-dependent methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072368656</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>521.546</Hsp_bit-score>
+      <Hsp_score>1342</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MVNKMTKLKNLDTYLSLCTEVYDLSKPNPPEEDYAFYRSYVINVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MVNKMTKL+NLDTYLSLCTEVYDLSKPNPPEE YAFYRSYV+NVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1005612850|ref|WP_061693865.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|998791253|emb|CZG40594.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999287204|emb|CZI45311.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999293668|emb|CZI47367.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999312643|emb|CZI52997.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002092787|emb|CZQ95663.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061693865</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>520.776</Hsp_bit-score>
+      <Hsp_score>1340</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1005410635|ref|WP_061639887.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|998793130|emb|CZI51338.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639887</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>520.005</Hsp_bit-score>
+      <Hsp_score>1338</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLVPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFL+PLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|653014640|ref|WP_027266670.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266670</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>520.005</Hsp_bit-score>
+      <Hsp_score>1338</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGIIKSCGFKNVRLIKAFDSTATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGI+KSCGFKNVRLIKAFDS ATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1119379906|ref|WP_072356040.1|</Hit_id>
+  <Hit_def>SAM-dependent methyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356040</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>519.62</Hsp_bit-score>
+      <Hsp_score>1337</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>MVNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MVNKMTKLKNLDTYLSLCTEVYDLSKPNPPEEDYAFYRSYVINVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFSLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MVNKMTKL+NLDTYLSLCTEVYDLSKPNPPEE YAFYRSYV+NVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSF LLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1005610011|ref|WP_061692505.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|998822478|emb|CZH34900.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692505</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>518.85</Hsp_bit-score>
+      <Hsp_score>1335</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLRNLGTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPMLEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVKLALQTFYNHLSDEGVLLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATMKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKLRNL TYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDP+LEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT++LALQTFYNHLSDEG+LLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLAT+KDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|754875857|ref|WP_042236299.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236299</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>518.85</Hsp_bit-score>
+      <Hsp_score>1335</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKNCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILK+CGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|652971690|ref|WP_027224540.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|761992495|dbj|GAN16535.1| methyltransferase domain protein [Legionella pneumophila] &gt;gi|761995685|dbj|GAN19641.1| methyltransferase domain protein [Legionella pneumophila] &gt;gi|998981367|emb|CZJ20682.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999107200|emb|CZI74784.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999230518|emb|CZI91356.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1032656696|gb|ANH11967.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1032659663|gb|ANH14933.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1032662630|gb|ANH17899.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224540</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>518.079</Hsp_bit-score>
+      <Hsp_score>1333</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAKVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPA +RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|653016118|ref|WP_027268143.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|998774447|emb|CZH08131.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998777327|emb|CZH12387.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998783302|emb|CZH41188.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998786237|emb|CZH06603.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998892624|emb|CZJ24105.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002074284|emb|CZR05431.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1002081607|emb|CZR00433.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027268143</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>517.694</Hsp_bit-score>
+      <Hsp_score>1332</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVSQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAV QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652976165|ref|WP_027228838.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|985765943|gb|KXB27054.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|985767747|gb|KXB28833.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|999119255|emb|CZG75967.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999122537|emb|CZH13250.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1024341678|gb|KZX35985.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1108603993|gb|APF02361.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. fraseri] &gt;gi|1108607004|gb|APF05371.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228838</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.538</Hsp_bit-score>
+      <Hsp_score>1329</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPMLEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQRIILSQLATMKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDP+LEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQ I+LSQLAT+KDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|499533475|ref|WP_011214759.1|</Hit_id>
+  <Hit_def>methyltransferase UbiE [Legionella pneumophila] &gt;gi|53753341|emb|CAH14789.1| hypothetical protein lpl0559 [Legionella pneumophila str. Lens] &gt;gi|1080002208|gb|AOW52780.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006040|gb|AOW56320.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008101|gb|AOW58089.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012237|gb|AOW61728.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014705|gb|AOW63578.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018480|gb|AOW67125.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214759</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.153</Hsp_bit-score>
+      <Hsp_score>1328</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIYGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIEPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATMKDQVCHSIGKYELVHNNNIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDEAIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKLRNLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEI+GFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLI+PAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLAT+KDQVCHSIGKYELVHNN+IIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDE IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652967217|ref|WP_027220189.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|999247887|emb|CZH56546.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999454058|emb|CZI21480.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999460523|emb|CZH00746.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999773133|emb|CZH89840.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999796120|emb|CZI23596.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220189</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>514.998</Hsp_bit-score>
+      <Hsp_score>1325</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVINVKGPMLEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSAWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEIEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYV+NVK P+LEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGS WHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTE+EELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1004017377|ref|WP_061485166.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485166</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.457</Hsp_bit-score>
+      <Hsp_score>1321</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNRLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYN LSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|499526509|ref|WP_011213149.1|</Hit_id>
+  <Hit_def>methyltransferase UbiE [Legionella pneumophila] &gt;gi|53750338|emb|CAH11732.1| hypothetical protein lpp0584 [Legionella pneumophila str. Paris] &gt;gi|148282637|gb|ABQ56725.1| methyltransferase, ubiE/COQ5 family [Legionella pneumophila str. Corby] &gt;gi|536613632|gb|ERB42004.1| methyltransferase UbiE [Legionella pneumophila str. 121004] &gt;gi|541995597|gb|ERH41696.1| methyltransferase UbiE [Legionella pneumophila str. Leg01/11] &gt;gi|542121178|gb|ERI47511.1| methyltransferase UbiE [Legionella pneumophila str. Leg01/20] &gt;gi|761989439|dbj|GAN22620.1| methyltransferase domain protein [Legionella pneumophila] &gt;gi|761998986|dbj|GAN28971.1| methyltransferase domain protein [Legionella pneumophila] &gt;gi|762002542|dbj|GAN25660.1| methyltransferase domain protein [Legionella pneumophila] &gt;gi|998801835|emb|CZI08390.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998912162|emb|CZH23786.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998923737|emb|CZK24774.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998943807|emb|CZJ50264.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998954344|emb|CZK61019.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998975515|emb|CZJ90507.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998992819|emb|CZJ47380.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|998994580|emb|CZI22824.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999003138|emb|CZI81444.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999009050|emb|CZK46233.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999018213|emb|CZJ87196.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999027327|emb|CZK24631.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999030571|emb|CZH24113.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999033278|emb|CZK20680.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999039483|emb|CZJ95646.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999042450|emb|CZK04952.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999048517|emb|CZK01811.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999051580|emb|CZJ92540.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999054541|emb|CZK29242.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999063692|emb|CZK02310.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999070565|emb|CZJ64797.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999072784|emb|CZK31550.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999085000|emb|CZK30873.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999149973|emb|CZI49085.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999159323|emb|CZJ69327.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999165684|emb|CZG83263.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999168621|emb|CZI45942.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999171859|emb|CZI29597.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999178330|emb|CZJ55995.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999181648|emb|CZG51558.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999184336|emb|CZP96046.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999187815|emb|CZI95434.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999198469|emb|CZP13723.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999212732|emb|CZG77973.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999216910|emb|CZI66001.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999225322|emb|CZG83373.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999228305|emb|CZP08553.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999265222|emb|CZP07275.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999269434|emb|CZO33413.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999272236|emb|CZP58262.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999277618|emb|CZP37142.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999281351|emb|CZP16016.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999283681|emb|CZP61917.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999290998|emb|CZP32410.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999296475|emb|CZP58039.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999299562|emb|CZP47368.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999302884|emb|CZI39018.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999307316|emb|CZH70805.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999309380|emb|CZP27151.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999315812|emb|CZI09927.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999318688|emb|CZP65309.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999322030|emb|CZH98586.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999324431|emb|CZH32937.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999328633|emb|CZG64602.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999331814|emb|CZG57897.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999337767|emb|CZP47389.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999344442|emb|CZP84151.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999347219|emb|CZP63594.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999349698|emb|CZH40995.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999353463|emb|CZP68765.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999357221|emb|CZP67828.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999359978|emb|CZI61609.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999363801|emb|CZP56281.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999367127|emb|CZP77044.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999369930|emb|CZP77497.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999373450|emb|CZG57050.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999376485|emb|CZJ18644.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999379759|emb|CZH69714.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999382654|emb|CZI57818.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999386277|emb|CZG64284.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999389104|emb|CZI56574.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999392316|emb|CZP98184.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999396898|emb|CZG09336.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999398564|emb|CZQ01081.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999403111|emb|CZP41019.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999405914|emb|CZG71921.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999408899|emb|CZH91225.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999412747|emb|CZG32978.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999415426|emb|CZG88288.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999418766|emb|CZG64578.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999421961|emb|CZH72982.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999425275|emb|CZG75022.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999428371|emb|CZG72601.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999431639|emb|CZG73247.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999434997|emb|CZI00371.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999438181|emb|CZG62399.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999441177|emb|CZK28956.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|999444630|emb|CZH77029.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999447833|emb|CZG53341.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999450633|emb|CZP35962.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999457574|emb|CZK21919.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999464842|emb|CZM52368.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999467866|emb|CZO29585.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999474709|emb|CZM61809.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999477166|emb|CZN74808.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999480668|emb|CZN00360.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999484241|emb|CZN89419.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999487100|emb|CZM11630.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999490273|emb|CZN79123.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999493464|emb|CZM11073.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999496259|emb|CZI46668.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999500044|emb|CZN73556.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999503170|emb|CZO07772.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999506362|emb|CZN16084.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999509565|emb|CZG51252.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999512903|emb|CZN30077.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999516009|emb|CZM00420.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999518994|emb|CZM84228.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999521876|emb|CZP16438.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999525354|emb|CZJ07549.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999528067|emb|CZI74514.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999532350|emb|CZO46210.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999535506|emb|CZN40233.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999538587|emb|CZM75877.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999542031|emb|CZO20806.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999544993|emb|CZO61065.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999548163|emb|CZN89226.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999551475|emb|CZO11065.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999554510|emb|CZN31321.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999557915|emb|CZO55876.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999561076|emb|CZM41678.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999564082|emb|CZO66746.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999567446|emb|CZM52642.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999570646|emb|CZN50589.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999573834|emb|CZN92743.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999576032|emb|CZI42200.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999580326|emb|CZO16457.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999583614|emb|CZO37902.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999586977|emb|CZM64641.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999589988|emb|CZM40508.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999593147|emb|CZN45333.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999596220|emb|CZO12139.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999599540|emb|CZO37731.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999602634|emb|CZL96821.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999605422|emb|CZN72697.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999608959|emb|CZN63274.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999611288|emb|CZI62912.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999615571|emb|CZM47229.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999618660|emb|CZN90782.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999621770|emb|CZO81953.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999625098|emb|CZN71321.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999628403|emb|CZM63054.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999631547|emb|CZM59048.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999634607|emb|CZN59313.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999637935|emb|CZN51381.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999641131|emb|CZO79347.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999644123|emb|CZO52881.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999647614|emb|CZN94666.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999650700|emb|CZO05255.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999653915|emb|CZO00816.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999657112|emb|CZM29377.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999660186|emb|CZM64908.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999663383|emb|CZN17667.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999666748|emb|CZM38374.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999669940|emb|CZL84661.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999673096|emb|CZM37566.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999676334|emb|CZN78174.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999679321|emb|CZM78924.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999682516|emb|CZM82098.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999686203|emb|CZN99789.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999689129|emb|CZN30795.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999692322|emb|CZN99613.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999695539|emb|CZN29596.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999698794|emb|CZM12061.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999701738|emb|CZM78195.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999704973|emb|CZL94326.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999708169|emb|CZN57151.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999711588|emb|CZN01382.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999714684|emb|CZN21894.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999717986|emb|CZO45648.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999720942|emb|CZM93285.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999724461|emb|CZN33962.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999727834|emb|CZL99413.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999730983|emb|CZO43282.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999734177|emb|CZM25847.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999737483|emb|CZO70460.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999740964|emb|CZM31517.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999744098|emb|CZN26960.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999747240|emb|CZM25045.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999750528|emb|CZL95984.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999753724|emb|CZM80949.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999756775|emb|CZN10242.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999760276|emb|CZM24224.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999763379|emb|CZN30410.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999766905|emb|CZM48718.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999769754|emb|CZN51156.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999776218|emb|CZM00262.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999782894|emb|CZH62503.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999786417|emb|CZM24666.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999789582|emb|CZO67433.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999792927|emb|CZO60893.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999799812|emb|CZO56193.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1003029190|emb|CZR19081.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|1003033263|emb|CZR18239.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1003036373|emb|CZR16992.1| methyltransferase%2C ubiE/COQ5 family [Legionella pneumophila] &gt;gi|1005832289|gb|AMQ27015.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431656|gb|AMV13283.1| Methyltransferase domain protein [Legionella pneumophila] &gt;gi|1041014559|gb|ANN91620.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1041017656|gb|ANN94716.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1103995589|emb|SFZ36721.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213149</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.457</Hsp_bit-score>
+      <Hsp_score>1321</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEDYAFYRSYVINVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEE YAFYRSYV+NVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|652973678|ref|WP_027226399.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|999206202|emb|CZP63293.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999235210|emb|CZP58467.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999240280|emb|CZH90622.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999244375|emb|CZH76684.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999248781|emb|CZH08282.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999251997|emb|CZH37021.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999255987|emb|CZP79753.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999259107|emb|CZP46762.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999261305|emb|CZH41811.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999274803|emb|CZG79225.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999340089|emb|CZH26511.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999469322|emb|CZH07150.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|999777484|emb|CZH50012.1| Methyltransferase domain [Legionella pneumophila] &gt;gi|1103998721|emb|SFZ36449.1| Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226399</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.531</Hsp_bit-score>
+      <Hsp_score>1316</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEDYAFYRSYVINVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFSLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEE YAFYRSYV+NVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSF LLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1004334301|ref|WP_061513226.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513226</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>505.368</Hsp_bit-score>
+      <Hsp_score>1300</Hsp_score>
+      <Hsp_evalue>3.12184e-179</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>240</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEEDYAFYRSYVMNVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLMRPEKYNLIFIPSGSFCLLIEPAAVRLALQTFYNQLSDEGILLFEGETLKAVPQLDIWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTVILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPEE YAFYRSYVMNVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENL RPEKYNLIFIPSGSFCLLI+PA +RLALQTFYN LSDEGILLFEGETLKAVPQLD+WRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|652970695|ref|WP_027223587.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1005362795|gb|AMP88664.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pascullei] &gt;gi|1005365796|gb|AMP91573.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pascullei] &gt;gi|1005368783|gb|AMP94559.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223587</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.056</Hsp_bit-score>
+      <Hsp_score>1294</Hsp_score>
+      <Hsp_evalue>2.5324e-178</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPNPPEDAYAFYRSYVMNVKGPILEPMCGTGRFLLPLIEEGFEVHGFDASEYMLDALNIKAKAKNIKPKVWRGFVEDLTRPEKYNLIFIPSGSFCLIIDPATVRLALETFYNHLSDDGILLFEGETLKAVPQLDAWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPNAQDEAIIYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKPNPPE+AYAFYRSYVMNVK PILEPMCGTGRFLLPL+EEGFE+HGFDASEYML+ALNIKAKAKN+KP VWRGFVE+LTRPEKYNLIFIPSGSFCL+IDPAT+RLAL+TFYNHLSD+GILLFEGETLKAVPQLD WRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATP+ QDE I+YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|395129610|emb|CCD07843.1|</Hit_id>
+  <Hit_def>Acyl-CoA N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD07843</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.582</Hsp_bit-score>
+      <Hsp_score>1272</Hsp_score>
+      <Hsp_evalue>4.21868e-175</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>LCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVSQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>+CTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAV QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1011913805|ref|WP_062727019.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727019</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>492.271</Hsp_bit-score>
+      <Hsp_score>1266</Hsp_score>
+      <Hsp_evalue>3.99347e-174</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPKPPEDAYAFYRSYVMNVKGPILEPMCGTGRFLLPLVEEGFEVHGFDASEYMLEALNIKAKAKNIKPKVWRGFVEDLTRPEKYNLIFIPSGSFCLITDPATVRLALQTFYNHLSDDGILLFEGETLKSVPQLDVWRGSVWHKPNGQRIILSQLATLKNKICNSIGKYELVHNNNIIHTEVEELRIRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKP PPE+AYAFYRSYVMNVK PILEPMCGTGRFLLPL+EEGFE+HGFDASEYMLEALNIKAKAKN+KP VWRGFVE+LTRPEKYNLIFIPSGSFCL+ DPAT+RLALQTFYNHLSD+GILLFEGETLK+VPQLDVWRGSVWHKPNGQ I+LSQLATLK+++C+SIGKYELVHNN+IIHTEVEELR+RIYDPQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|654927540|ref|WP_028378032.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378032</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>490.345</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>2.33109e-173</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>MTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MTKLKNLDTYLSLCTEVYDLSKPKPPEDAYAFYRSYVMNVKGPILEPMCGTGRFLLPLVEEGFEVHGFDASEYMLEALNIKAKAKNIKPKVWRGFVEDLTRPEKYNLIFIPSGSFCLITDPATVRLALQTFYNHLSDDGILLFEGETLKSVPQLDVWRGSVWHKPNGQRIILSQLATLKNKICNSIGKYELVHNNNIIHTEVEELRIRIYNPQELTGILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>MTKL+NLDTYLSLCTEVYDLSKP PPE+AYAFYRSYVMNVK PILEPMCGTGRFLLPL+EEGFE+HGFDASEYMLEALNIKAKAKN+KP VWRGFVE+LTRPEKYNLIFIPSGSFCL+ DPAT+RLALQTFYNHLSD+GILLFEGETLK+VPQLDVWRGSVWHKPNGQ I+LSQLATLK+++C+SIGKYELVHNN+IIHTEVEELR+RIY+PQELTGILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|295647973|gb|ADG23820.1|</Hit_id>
+  <Hit_def>methyltransferase, ubiE/COQ5 family [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126503|emb|CCD04686.1| Acyl-CoA N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>ADG23820</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>489.96</Hsp_bit-score>
+      <Hsp_score>1260</Hsp_score>
+      <Hsp_evalue>2.38075e-173</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>LCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MCTEVYDLSKPNPPEEDYAFYRSYVINVKGPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATVRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHDNSIIHTEVEELRVRIYDPQELTAILKSCGFKNVRLIKAFDSAATPDAQDETIVYECRK</Hsp_hseq>
+      <Hsp_midline>+CTEVYDLSKPNPPEE YAFYRSYV+NVK PILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPAT+RLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVH+NSIIHTEVEELRVRIYDPQELT ILKSCGFKNVRLIKAFDSAATPD QDETIVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|654939456|ref|WP_028389654.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028389654</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>406.371</Hsp_bit-score>
+      <Hsp_score>1043</Hsp_score>
+      <Hsp_evalue>3.98698e-140</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>248</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYLGLCTEVYDLSKPNPPEDAYAFYRDYVMRANGSILEPMCGTGRFLLPLLEEGFNVHGFDASKHMLNALSAKAKAKNLEATIWKGFVEDLKRPEQYNLIFIPSGSFGLIIDPGAVKAALKVFYDHLANDGILLFEGDTHKAVPALNVWRGSAWHKPDGQMIMLSQLATMKGNVCNSIGKYELVNNNSVIHTEIEELKVRIYDPQELIKLLKNCGFK-VRAIKTFDSSAAPDENDEAVVYECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTYL LCTEVYDLSKPNPPE+AYAFYR YVM     ILEPMCGTGRFLLPLLEEGF +HGFDAS++ML AL+ KAKAKNL+ T+W+GFVE+L RPE+YNLIFIPSGSF L+IDP  ++ AL+ FY+HL+++GILLFEG+T KAVP L+VWRGS WHKP+GQMIMLSQLAT+K  VC+SIGKYELV+NNS+IHTE+EEL+VRIYDPQEL  +LK+CGFK VR IK FDS+A PD+ DE +VYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|769981621|ref|WP_045097606.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella fallonii]</Hit_def>
+  <Hit_accession>WP_045097606</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>375.555</Hsp_bit-score>
+      <Hsp_score>963</Hsp_score>
+      <Hsp_evalue>5.94078e-128</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLNTYLSLCTEVYDLSKPKPEADAYAFYRAYALNATGPILEPMCGTGRFLLPLFEEGFNVHGFDASDNMLEALHAKARDRNLKPTVWKGFVEDLKKTEKYSLIFIPCGSFCLIIDTEAIKSAIKTFYDHLSDDGVLLFEGETHKAVPPLNIWRGSKWSRPDGKMIMLSSCATLEANVCSSMGKYELIHHNSIIRTEIEELKVRIYEPSELIEILNGCGFKHIRTIKAFEHDAAPDNDDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++ L+TYLSLCTEVYDLSKP P  +AYAFYR+Y +N   PILEPMCGTGRFLLPL EEGF +HGFDAS+ MLEAL+ KA+ +NLKPTVW+GFVE+L + EKY+LIFIP GSFCL+ID   I+ A++TFY+HLSD+G+LLFEGET KAVP L++WRGS W +P+G+MIMLS  ATL+  VC S+GKYEL+H+NSII TE+EEL+VRIY+P EL  IL  CGFK++R IKAF+  A PD+ DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|546195561|ref|WP_021827464.1|</Hit_id>
+  <Hit_def>methyltransferase UbiE [Holospora obtusa] &gt;gi|576111834|gb|ETZ07351.1| putative methyltransferase [Holospora obtusa F1]</Hit_def>
+  <Hit_accession>WP_021827464</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>370.933</Hsp_bit-score>
+      <Hsp_score>951</Hsp_score>
+      <Hsp_evalue>4.3812e-126</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>255</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>VNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MDKHIKKKTLETYLSLCTEVYDLSKPNPPEDAYAFYRDYAMNSNAPILEPMCGTGRFLLPLLEEGFDVHGFDASDNMLKALHVKAEAKNLKPLVWKGFVEDLKRPEKYNLIFIPSGSLCLIIDLVQVEKSLKVIYDHLNDGGIFLFEAETMQAVPQEGIWRGSLWPKTNGQKIILSQLATMQNDICTSLCKYELMEAGNIIHTEIEELRVKIYEQDQLMEMLKAVGFKHIRILKAFDKSSAPTEQDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++K  K + L+TYLSLCTEVYDLSKPNPPE+AYAFYR Y MN   PILEPMCGTGRFLLPLLEEGF++HGFDAS+ ML+AL++KA+AKNLKP VW+GFVE+L RPEKYNLIFIPSGS CL+ID   +  +L+  Y+HL+D GI LFE ET++AVPQ  +WRGS+W K NGQ I+LSQLAT+++ +C S+ KYEL+   +IIHTE+EELRV+IY+  +L  +LK+ GFK++R++KAFD ++ P +QDE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|698844296|emb|CEG58265.1|</Hit_id>
+  <Hit_def>Acyl-CoA N-acyltransferase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>CEG58265</Hit_accession>
+  <Hit_len>414</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>376.711</Hsp_bit-score>
+      <Hsp_score>966</Hsp_score>
+      <Hsp_evalue>5.33703e-126</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>166</Hsp_hit-from>
+      <Hsp_hit-to>414</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLNTYLSLCTEVYDLSKPKPEADAYAFYRAYALNATGPILEPMCGTGRFLLPLFEEGFNVHGFDASDNMLEALHAKARDRNLKPTVWKGFVEDLKKTEKYSLIFIPCGSFCLIIDTEAIKSAIKTFYDHLSDDGVLLFEGETHKAVPPLNIWRGSKWSRPDGKMIMLSSCATLEANVCSSMGKYELIHHNSIIRTEIEELKVRIYEPSELIEILNGCGFKHIRTIKAFEHDAAPDNDDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++ L+TYLSLCTEVYDLSKP P  +AYAFYR+Y +N   PILEPMCGTGRFLLPL EEGF +HGFDAS+ MLEAL+ KA+ +NLKPTVW+GFVE+L + EKY+LIFIP GSFCL+ID   I+ A++TFY+HLSD+G+LLFEGET KAVP L++WRGS W +P+G+MIMLS  ATL+  VC S+GKYEL+H+NSII TE+EEL+VRIY+P EL  IL  CGFK++R IKAF+  A PD+ DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|493346959|ref|WP_006303718.1|</Hit_id>
+  <Hit_def>hypothetical protein [Holospora undulata] &gt;gi|576109691|gb|ETZ04954.1| putative methyltransferase [Holospora undulata HU1]</Hit_def>
+  <Hit_accession>WP_006303718</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>369.007</Hsp_bit-score>
+      <Hsp_score>946</Hsp_score>
+      <Hsp_evalue>2.08904e-125</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>248</Hsp_align-len>
+      <Hsp_qseq>RNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KALDTYLSLCSEVYDLSKPNPPEDAYAFYRDYAMNSNAPILEPMCGTGRFLLSLLEEGFNVHGFDASDHMLKVLHAKAKVKNLEATVWKGFVEDLKRPEKYNLIFIPSGSFCLIINPVQVEKSLKAIYDHLADGGIFLFEAETLQAVPKEGIWRGSVWPKPNGQKIILSQLATMQDDICTSLCKYELMEAGNIIHTEIEELRVKIYDQDQLMEILKSAGFKHIRTLKAFDQSSEPASLDESIIYECRK</Hsp_hseq>
+      <Hsp_midline>+ LDTYLSLC+EVYDLSKPNPPE+AYAFYR Y MN   PILEPMCGTGRFLL LLEEGF +HGFDAS++ML+ L+ KAK KNL+ TVW+GFVE+L RPEKYNLIFIPSGSFCL+I+P  +  +L+  Y+HL+D GI LFE ETL+AVP+  +WRGSVW KPNGQ I+LSQLAT++D +C S+ KYEL+   +IIHTE+EELRV+IYD  +L  ILKS GFK++R +KAFD ++ P   DE+I+YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|363537514|gb|EHL30935.1|</Hit_id>
+  <Hit_def>UbiE/COQ5 family methyltransferase [Legionella drancourtii LLAP12] &gt;gi|962272704|gb|KTD56689.1| methyltransferase, ubiE/COQ5 family [Legionella santicrucis]</Hit_def>
+  <Hit_accession>EHL30935</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>365.54</Hsp_bit-score>
+      <Hsp_score>937</Hsp_score>
+      <Hsp_evalue>4.81818e-124</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>255</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>VNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MDKDSDIKTLNTYLSLCTEVYELSKPNPPEDAYAFYRDYAMRANGPILEPMCGTGRFLLPLLEEGFNVHGFDASDHMLKVLHAKAKTKNLDATVWKGFVEDLKRPEKYNLIFIPSGSFCLIIDLATVKSALQAIYDHLSDNGVFLFEAETLNAVPQQGIWRGSVWPKLTGQKIILSQLATMESDICTSLCKYELMESGKIIHTEIEELRVKIYEQDQLVEMLKAVGFKHIHTLKAFDRSSQPANLDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++K + ++ L+TYLSLCTEVY+LSKPNPPE+AYAFYR Y M    PILEPMCGTGRFLLPLLEEGF +HGFDAS++ML+ L+ KAK KNL  TVW+GFVE+L RPEKYNLIFIPSGSFCL+ID AT++ ALQ  Y+HLSD G+ LFE ETL AVPQ  +WRGSVW K  GQ I+LSQLAT++  +C S+ KYEL+ +  IIHTE+EELRV+IY+  +L  +LK+ GFK++  +KAFD ++ P + DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|750233615|ref|WP_040535174.1|</Hit_id>
+  <Hit_def>MULTISPECIES: ubiquinone biosynthesis methyltransferase UbiE [Legionella]</Hit_def>
+  <Hit_accession>WP_040535174</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>363.229</Hsp_bit-score>
+      <Hsp_score>931</Hsp_score>
+      <Hsp_evalue>3.21668e-123</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>203</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKTLNTYLSLCTEVYELSKPNPPEDAYAFYRDYAMRANGPILEPMCGTGRFLLPLLEEGFNVHGFDASDHMLKVLHAKAKTKNLDATVWKGFVEDLKRPEKYNLIFIPSGSFCLIIDLATVKSALQAIYDHLSDNGVFLFEAETLNAVPQQGIWRGSVWPKLTGQKIILSQLATMESDICTSLCKYELMESGKIIHTEIEELRVKIYEQDQLVEMLKAVGFKHIHTLKAFDRSSQPANLDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++ L+TYLSLCTEVY+LSKPNPPE+AYAFYR Y M    PILEPMCGTGRFLLPLLEEGF +HGFDAS++ML+ L+ KAK KNL  TVW+GFVE+L RPEKYNLIFIPSGSFCL+ID AT++ ALQ  Y+HLSD G+ LFE ETL AVPQ  +WRGSVW K  GQ I+LSQLAT++  +C S+ KYEL+ +  IIHTE+EELRV+IY+  +L  +LK+ GFK++  +KAFD ++ P + DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|999398860|emb|CZP95119.1|</Hit_id>
+  <Hit_def>Methyltransferase domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>CZP95119</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>363.229</Hsp_bit-score>
+      <Hsp_score>931</Hsp_score>
+      <Hsp_evalue>4.14924e-123</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>255</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>VNKMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MDKDSDIKTLNTYLSLCTEVYELSKPNPPEDAYAFYRDYAMKANGPILEPMCGTGRFLLPLLEEGFNVHGFDASDHMLKVLHAKAKTKNLDATVWKSFVEDLKRPEKYNLIFIPSGSFCLIIDLATVKSALQAIYDHLSDNGVFLFEAETLNAVPQQGIWRGSVWPKLTGQKIILSQLATMESDICTSLCKYELMESGKIIHTEIEELRVKIYEQDQLVEMLKAVGFKHIHTLKAFDRSSQPANLDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++K + ++ L+TYLSLCTEVY+LSKPNPPE+AYAFYR Y M    PILEPMCGTGRFLLPLLEEGF +HGFDAS++ML+ L+ KAK KNL  TVW+ FVE+L RPEKYNLIFIPSGSFCL+ID AT++ ALQ  Y+HLSD G+ LFE ETL AVPQ  +WRGSVW K  GQ I+LSQLAT++  +C S+ KYEL+ +  IIHTE+EELRV+IY+  +L  +LK+ GFK++  +KAFD ++ P + DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1005401092|ref|WP_061635327.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061635327</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>361.688</Hsp_bit-score>
+      <Hsp_score>927</Hsp_score>
+      <Hsp_evalue>1.76973e-122</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYDPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKTLNTYLSLCTEVYELSKPNPPEDAYAFYRDYAMKANGPILEPMCGTGRFLLPLLEEGFNVHGFDASDHMLKVLHAKAKTKNLDATVWKSFVEDLKRPEKYNLIFIPSGSFCLIIDLATVKSALQAIYDHLSDNGVFLFEAETLNAVPQQGIWRGSVWPKLTGQKIILSQLATMESDICTSLCKYELMESGKIIHTEIEELRVKIYEQDQLVEMLKAVGFKHIHTLKAFDRSSQPANLDESIVYECRK</Hsp_hseq>
+      <Hsp_midline>++ L+TYLSLCTEVY+LSKPNPPE+AYAFYR Y M    PILEPMCGTGRFLLPLLEEGF +HGFDAS++ML+ L+ KAK KNL  TVW+ FVE+L RPEKYNLIFIPSGSFCL+ID AT++ ALQ  Y+HLSD G+ LFE ETL AVPQ  +WRGSVW K  GQ I+LSQLAT++  +C S+ KYEL+ +  IIHTE+EELRV+IY+  +L  +LK+ GFK++  +KAFD ++ P + DE+IVYECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1113346227|gb|OJW10040.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW10040</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.413</Hsp_bit-score>
+      <Hsp_score>851</Hsp_score>
+      <Hsp_evalue>4.76937e-111</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>153</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQNLCTEVYDLSKPNAPQDAYSFYRSYAVEAKGPILEPMCGTGRFLLPLVEEGFDVQGFDASQPMLERLHAKARSKNLNPKVWPGFIEDLNQPEKYSLIFIPSGSFCLITEKAAIQKALKIIYEHLEDKGIFVFEIETLHAVPNELGIWRGSRWPKEDGTLIVLSQLAMLNEEVCYSIGKYELIDNNCVIQTEVEEYKIRIYQDPSFLHNLLTEVGFSKVQIVKGFERNASPDEKDDSIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY +LCTEVYDLSKPN P++AY+FYRSY +  K PILEPMCGTGRFLLPL+EEGF++ GFDAS+ MLE L+ KA++KNL P VW GF+E+L +PEKY+LIFIPSGSFCL+ + A I+ AL+  Y HL D+GI +FE ETL AVP +L +WRGS W K +G +I+LSQLA L ++VC+SIGKYEL+ NN +I TEVEE ++RIY DP  L  +L   GF  V+++K F+  A+PD++D++IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966416343|ref|WP_058459628.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Fluoribacter bozemanae] &gt;gi|962188227|gb|KTC73351.1| methyltransferase, ubiE/COQ5 family [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058459628</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>2.5454e-109</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>253</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>RNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYD-PQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KSLDTYLSLCTQVYDLSKPLPPADAWNFYLSYAKETEGPILEPMCGTGRFLLPLLKEGFAIEGFDASQSMLDALHAKAKAQQVTPLVWHGYLEALSQAKYYGLIFIPSGSFGLIIDLAEVKHALKMIYHHLKDDGIFVFETETLNAVPKELGVWRGSRWYRADGQMILLSQLAMLEETMCYSIGKYELIKANQLIKTEVEEYKIRLYDNPALLLDLLRETGFREIRLVKAFDRSASPDKQDETILYECRK</Hsp_hseq>
+      <Hsp_midline>++LDTYLSLCT+VYDLSKP PP +A+ FY SY    + PILEPMCGTGRFLLPLL+EGF I GFDAS+ ML+AL+ KAKA+ + P VW G++E L++ + Y LIFIPSGSF L+ID A ++ AL+  Y+HL D+GI +FE ETL AVP +L VWRGS W++ +GQMI+LSQLA L++ +C+SIGKYEL+  N +I TEVEE ++R+YD P  L  +L+  GF+ +RL+KAFD +A+PD QDETI+YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|654929289|ref|WP_028379666.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028379666</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>2.98746e-109</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQSLCTEVYDLSKPNAPHDAYQFYRSYAAEAKGPILEPMCGTGRFLLPLAEEGFDVHGFDASQPMLERLYAKASAKNLKPNVWHGFIEDLNQSNQYQLIFIPSGSFSLITEKADIQNALKTIYEHLDDKGIFVFEAETLHAVPKELGIWRGSRWPKEDGTLIILSQLAILDEDVCYSIGKYDLIDGSHVIQTEVEEYKIRIYHEPSFLLDRLREIGFSDVRLVKAFDRQASPDETDESIVFECKK</Hsp_hseq>
+      <Hsp_midline>++ LDTY SLCTEVYDLSKPN P +AY FYRSY    K PILEPMCGTGRFLLPL EEGF++HGFDAS+ MLE L  KA AKNLKP VW GF+E+L +  +Y LIFIPSGSF L+ + A I+ AL+T Y HL D+GI +FE ETL AVP +L +WRGS W K +G +I+LSQLA L + VC+SIGKY+L+  + +I TEVEE ++RIY +P  L   L+  GF +VRL+KAFD  A+PD+ DE+IV+EC+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|652976593|ref|WP_027229260.1|</Hit_id>
+  <Hit_def>MULTISPECIES: ubiquinone biosynthesis methyltransferase UbiE [Legionella] &gt;gi|1041020250|gb|ANN97309.1| ubiquinone biosynthesis methyltransferase UbiE (plasmid) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027229260</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>327.791</Hsp_bit-score>
+      <Hsp_score>839</Hsp_score>
+      <Hsp_evalue>3.5966e-109</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQSLCTEVYDLSKPNAPQNEYSFYRSYAVEAKGPILEPMCGTGRFLLPLVEEGFDVHGFDASQPMLERLHAKAISKNLKPKVWHGFIENLNQSNQYSLIFIPSGSFGLITEKADIQKSLKIIFEHLEDKGLFVFEVETRQAVPKELGIWRGSRWPKEDGTLIVLSQLATLDNDVCYSIGKYDLVDNNCVVQTEVEEYKIRIYQDPSFLRNLLTEVGFSNVRMVKGFDRNSSPDEKDESIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY SLCTEVYDLSKPN P+  Y+FYRSY +  K PILEPMCGTGRFLLPL+EEGF++HGFDAS+ MLE L+ KA +KNLKP VW GF+ENL +  +Y+LIFIPSGSF L+ + A I+ +L+  + HL D+G+ +FE ET +AVP +L +WRGS W K +G +I+LSQLATL + VC+SIGKY+LV NN ++ TEVEE ++RIY DP  L  +L   GF NVR++K FD  ++PD++DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1003927466|ref|WP_061469933.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila] &gt;gi|1005834764|gb|AMQ29490.1| ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_061469933</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>327.02</Hsp_bit-score>
+      <Hsp_score>837</Hsp_score>
+      <Hsp_evalue>8.15497e-109</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQSLCTEVYDLSKPNAPHDVYQFYRSYALEVNGPILEPMCGTGRFLLPLTEEGFNVHGFDASQPMLERLHAKANAKNLKPNIWHGFIEDLNQSDKYRLIFIPSGSFGLITEKADIKKALKTIYEHLDDKGLLVFEVETPHAVPKELGIWRGSRWKREDGKLILLSQLAMLEEELCYSIGKYDLVDENRIIQTEIEEYKIRIYHEPGFLLNLLMQIGFSDARLVKAFDRKASPDEADESIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY SLCTEVYDLSKPN P + Y FYRSY + V  PILEPMCGTGRFLLPL EEGF +HGFDAS+ MLE L+ KA AKNLKP +W GF+E+L + +KY LIFIPSGSF L+ + A I+ AL+T Y HL D+G+L+FE ET  AVP +L +WRGS W + +G++I+LSQLA L++++C+SIGKY+LV  N II TE+EE ++RIY +P  L  +L   GF + RL+KAFD  A+PD+ DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|999372709|emb|CZG75687.1|</Hit_id>
+  <Hit_def>Uncharacterised protein [Legionella pneumophila] &gt;gi|999408418|emb|CZI32076.1| Uncharacterised protein [Legionella pneumophila] &gt;gi|999421354|emb|CZH83861.1| Uncharacterised protein [Legionella pneumophila] &gt;gi|999444169|emb|CZI01269.1| Uncharacterised protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>CZG75687</Hit_accession>
+  <Hit_len>292</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>1.20438e-108</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>38</Hsp_hit-from>
+      <Hsp_hit-to>292</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>KMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KEEPMKKLDTYQSLCTEVYDLSKPNAPQNEYSFYRSYAVEAKGPILEPMCGTGRFLLPLVEEGFDVHGFDASQPMLERLHAKAISKNLKPKVWHGFIENLNQSNQYSLIFIPSGSFGLITEKADIQKSLKIIFEHLEDKGLFVFEVETRQAVPKELGIWRGSRWPKEDGTLIVLSQLATLDNDVCYSIGKYDLVDNNCVVQTEVEEYKIRIYQDPSFLRNLLTEVGFSNVRMVKGFDRNSSPDEKDESIVFECRK</Hsp_hseq>
+      <Hsp_midline>K   ++ LDTY SLCTEVYDLSKPN P+  Y+FYRSY +  K PILEPMCGTGRFLLPL+EEGF++HGFDAS+ MLE L+ KA +KNLKP VW GF+ENL +  +Y+LIFIPSGSF L+ + A I+ +L+  + HL D+G+ +FE ET +AVP +L +WRGS W K +G +I+LSQLATL + VC+SIGKY+LV NN ++ TEVEE ++RIY DP  L  +L   GF NVR++K FD  ++PD++DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966432272|ref|WP_058472705.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472705</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.635</Hsp_bit-score>
+      <Hsp_score>836</Hsp_score>
+      <Hsp_evalue>1.23467e-108</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQSLCTEVYDLSKPNAPQDAYSFYRSYAAETKGSILEPMCGTGRFILPLAAEGFDVHGFDASQPMLERLHAKASSTNLKPKVWHGFIEDLNQSNKYSLIFIPSGSFCLITQKADIQKALKTIYQHLEDKGLFEFEVETCQAVPKELGIWRGSRWPKEDGMLIVLSQLAMLDEEVCYSIGKYELVDNNRVIQTEVEEYKIRIYQDPSFLLNLLTEIGFREVRMVKAFERHASPEETDESIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY SLCTEVYDLSKPN P++AY+FYRSY    K  ILEPMCGTGRF+LPL  EGF++HGFDAS+ MLE L+ KA + NLKP VW GF+E+L +  KY+LIFIPSGSFCL+   A I+ AL+T Y HL D+G+  FE ET +AVP +L +WRGS W K +G +I+LSQLA L ++VC+SIGKYELV NN +I TEVEE ++RIY DP  L  +L   GF+ VR++KAF+  A+P++ DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966517488|ref|WP_058533982.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533982</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>1.28977e-108</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQNLCTEVYDLSKPNAPQNEYSFYRSYAAEVKGPILEPMCGTGRFLLPLTEEGFDVHGFDASQPMLERLHAKARSKNLNPKVWPGFIEDLNQSEKYSLIFIPSGSFGLITEKTDIQKALKIIYEHLEDKGLFVFEIETLHAVPNELGIWRGSRWPKEDGTVIVLSQLAMLNEEVCYSIGKYELIDNNRVIQTEVEEYKIRIYQDPSFLRNLLTEVGFSKVRMVKGFDRNASPDEKDDNIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY +LCTEVYDLSKPN P+  Y+FYRSY   VK PILEPMCGTGRFLLPL EEGF++HGFDAS+ MLE L+ KA++KNL P VW GF+E+L + EKY+LIFIPSGSF L+ +   I+ AL+  Y HL D+G+ +FE ETL AVP +L +WRGS W K +G +I+LSQLA L ++VC+SIGKYEL+ NN +I TEVEE ++RIY DP  L  +L   GF  VR++K FD  A+PD++D+ IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1004040074|ref|WP_061495406.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061495406</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>1.62202e-108</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQSLCTEVYDLSKPNAPHDVYQFYRSYALEVNGPILEPMCGTGRFLLPLTEEGFNVHGFDASQPMLERLHAKANAKNLKPNIWHGFIEDLNQSDKYRLIFIPSGSFGLITEKADIKKALKTIYEHLDDKGLLVFEVETPHAVPKELGIWRGSRWKREDGKLILLSQLAMLEEELCYSIGKYDLIDENRIIRTEIEEYKIRIYHEPGFLLNLLMQIGFSDARLVKAFDRKASPDEADESIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY SLCTEVYDLSKPN P + Y FYRSY + V  PILEPMCGTGRFLLPL EEGF +HGFDAS+ MLE L+ KA AKNLKP +W GF+E+L + +KY LIFIPSGSF L+ + A I+ AL+T Y HL D+G+L+FE ET  AVP +L +WRGS W + +G++I+LSQLA L++++C+SIGKY+L+  N II TE+EE ++RIY +P  L  +L   GF + RL+KAFD  A+PD+ DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1006047502|ref|WP_061722388.1|</Hit_id>
+  <Hit_def>acyl-CoA acyltransferase, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061722388</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>327.791</Hsp_bit-score>
+      <Hsp_score>839</Hsp_score>
+      <Hsp_evalue>3.26149e-108</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>63</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>KMTKLRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KEEPMKKLDTYQSLCTEVYDLSKPNAPQNEYSFYRSYAVEAKGPILEPMCGTGRFLLPLVEEGFDVHGFDASQPMLERLHAKAISKNLKPKVWHGFIENLNQSNQYSLIFIPSGSFGLITEKADIQKSLKIIFEHLEDKGLFVFEVETRQAVPKELGIWRGSRWPKEDGTLIVLSQLATLDNDVCYSIGKYDLVDNNCVVQTEVEEYKIRIYQDPSFLRNLLTEVGFSNVRMVKGFDRNSSPDEKDESIVFECRK</Hsp_hseq>
+      <Hsp_midline>K   ++ LDTY SLCTEVYDLSKPN P+  Y+FYRSY +  K PILEPMCGTGRFLLPL+EEGF++HGFDAS+ MLE L+ KA +KNLKP VW GF+ENL +  +Y+LIFIPSGSF L+ + A I+ +L+  + HL D+G+ +FE ET +AVP +L +WRGS W K +G +I+LSQLATL + VC+SIGKY+LV NN ++ TEVEE ++RIY DP  L  +L   GF NVR++K FD  ++PD++DE+IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|518062416|ref|WP_019232624.1|</Hit_id>
+  <Hit_def>SAM-dependent methyltransferase [Legionella anisa] &gt;gi|962185467|gb|KTC70627.1| methyltransferase, ubiE/COQ5 family [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019232624</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.094</Hsp_bit-score>
+      <Hsp_score>832</Hsp_score>
+      <Hsp_evalue>5.23299e-108</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>253</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>RNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KSVDTYLSLCTQVYDLSKPLPPSDAWNFYLSYARETDGPILEPMCGTGRFLLPMLKEGFAIEGFDASQSMLDALHAKAKAHQLNPVVWHGYLEALSQAKQYGLIFIPSGSFGLIVDLAAVKHALKMIYHHLKDDGVFVFETETLNAVPKELGIWRGSRWYRDDGQMILLSQLAMLEETVCYSIGKYELIEANQLIKTEIEEYKIRLYDDPSFLFDVLYETGFREIRLIKAFDRAASPGKQDETILYECRK</Hsp_hseq>
+      <Hsp_midline>+++DTYLSLCT+VYDLSKP PP +A+ FY SY      PILEPMCGTGRFLLP+L+EGF I GFDAS+ ML+AL+ KAKA  L P VW G++E L++ ++Y LIFIPSGSF L++D A ++ AL+  Y+HL D+G+ +FE ETL AVP +L +WRGS W++ +GQMI+LSQLA L++ VC+SIGKYEL+  N +I TE+EE ++R+Y DP  L  +L   GF+ +RLIKAFD AA+P  QDETI+YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|750233104|ref|WP_040534776.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella drancourtii]</Hit_def>
+  <Hit_accession>WP_040534776</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.324</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>7.98165e-108</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLATYQSLCTEVYDLSKPNAPQNEYSFYRSYAVEAKGPILEPMCGTGRFLLPLVEEGFDVHGFDASQPMLERLHAKAISKNLKPKVWHGFIEDLNQSEKYSLIFIPSGSFGLITEKADIQKALKIIFEHLEDKGLFVFEVETRQAVPKELGIWRGSRWPKEDGTLIVLSQLATLDNDVCYSIGKYDLVDNNCVVQTEVEEYKIRIYQDPSLLRNLLTEVGFSNVRMVKGFDRNASTDEKDDSIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ L TY SLCTEVYDLSKPN P+  Y+FYRSY +  K PILEPMCGTGRFLLPL+EEGF++HGFDAS+ MLE L+ KA +KNLKP VW GF+E+L + EKY+LIFIPSGSF L+ + A I+ AL+  + HL D+G+ +FE ET +AVP +L +WRGS W K +G +I+LSQLATL + VC+SIGKY+LV NN ++ TEVEE ++RIY DP  L  +L   GF NVR++K FD  A+ D++D++IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|769983122|ref|WP_045099104.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Tatlockia micdadei] &gt;gi|698846763|emb|CEG60750.1| Acyl-CoA N-acyltransferase [Tatlockia micdadei] &gt;gi|962243438|gb|KTD27763.1| methyltransferase [Tatlockia micdadei] &gt;gi|1081465198|emb|SCY12059.1| Methyltransferase domain-containing protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045099104</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.324</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>8.80544e-108</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>251</Hsp_align-len>
+      <Hsp_qseq>LRNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVPQ-LDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>MKKLDTYQNLCTEVYELSKPHAPHEAYQFYRSYASEAKGPILEPMCGTGRFLLPLAEENFDIHGFDASHPMLERLHAKASIKNLKPNVWHGFIEDLNQSNQYQLIFIPSGSFGLITEKTDIQRALKTIYEHLNDSGLFVFEAETFNAVPKTLGTWRGSRWQKKDGSFILLSQLAMLDDEICYSIGKYELIDGNSVIQTEIEEYKIRIYQDPNFLLNLLTEVGFSQVRLVKAFDRQASPDKADENIVFECRK</Hsp_hseq>
+      <Hsp_midline>++ LDTY +LCTEVY+LSKP+ P EAY FYRSY    K PILEPMCGTGRFLLPL EE F+IHGFDAS  MLE L+ KA  KNLKP VW GF+E+L +  +Y LIFIPSGSF L+ +   I+ AL+T Y HL+D G+ +FE ET  AVP+ L  WRGS W K +G  I+LSQLA L D++C+SIGKYEL+  NS+I TE+EE ++RIY DP  L  +L   GF  VRL+KAFD  A+PD  DE IV+ECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|654931130|ref|WP_028381497.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381497</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.553</Hsp_bit-score>
+      <Hsp_score>828</Hsp_score>
+      <Hsp_evalue>1.81576e-107</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>253</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>RNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIY-DPQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KSLDTYLSLCTQVYDLSKPLPPKDAWDFYLSYAQEADGPILEPMCGTGRFLLPMLGEGFDVEGFDASQSMLDALHAKARAQHLNPNIWHGYLEKLQQAKQYSLIFIPSGSFGLIIDLAAVKHALNVMYDHLKENGRLIFETETLNAVPKELGIWRGSRWHRADGQIILLSQLAMLQESICYSIGKYELVEANQLIKTEIEEYKIRLYDDPSLLVDLLHETGFKEIRLLKAFDRSASPDKNDETVIYECRK</Hsp_hseq>
+      <Hsp_midline>++LDTYLSLCT+VYDLSKP PP++A+ FY SY      PILEPMCGTGRFLLP+L EGF++ GFDAS+ ML+AL+ KA+A++L P +W G++E L + ++Y+LIFIPSGSF L+ID A ++ AL   Y+HL + G L+FE ETL AVP +L +WRGS WH+ +GQ+I+LSQLA L++ +C+SIGKYELV  N +I TE+EE ++R+Y DP  L  +L   GFK +RL+KAFD +A+PD  DET++YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|963704129|ref|WP_058388175.1|</Hit_id>
+  <Hit_def>ubiquinone biosynthesis methyltransferase UbiE [Legionella cherrii] &gt;gi|962195896|gb|KTC80957.1| methyltransferase, ubiE/COQ5 family [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058388175</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.553</Hsp_bit-score>
+      <Hsp_score>828</Hsp_score>
+      <Hsp_evalue>2.02513e-107</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>253</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>RNLDTYLSLCTEVYDLSKPNPPEEAYAFYRSYVMNVKDPILEPMCGTGRFLLPLLEEGFEIHGFDASEYMLEALNIKAKAKNLKPTVWRGFVENLTRPEKYNLIFIPSGSFCLLIDPATIRLALQTFYNHLSDEGILLFEGETLKAVP-QLDVWRGSVWHKPNGQMIMLSQLATLKDQVCHSIGKYELVHNNSIIHTEVEELRVRIYD-PQELTGILKSCGFKNVRLIKAFDSAATPDDQDETIVYECRK</Hsp_qseq>
+      <Hsp_hseq>KSLDTYLSLCTQVYDLSKPLPPKDAWDFYLSYAQEADGPILEPMCGTGRFLLPMLGEGFDVEGFDASQSMLDALHAKARAQHLNPNIWHGYLEKLQQAKQYSLIFIPSGSFGLIIDLAAVKHALNVMYDHLKENGRLIFETETLNAVPKELGIWRGSRWHRADGQIILLSQLAMLQESICYSIGKYELVEANQLIKTEIEEYKIRLYDHPSLLVDLLHETGFKEIRLLKAFDRSASPDKNDETVIYECRK</Hsp_hseq>
+      <Hsp_midline>++LDTYLSLCT+VYDLSKP PP++A+ FY SY      PILEPMCGTGRFLLP+L EGF++ GFDAS+ ML+AL+ KA+A++L P +W G++E L + ++Y+LIFIPSGSF L+ID A ++ AL   Y+HL + G L+FE ETL AVP +L +WRGS WH+ +GQ+I+LSQLA L++ +C+SIGKYELV  N +I TE+EE ++R+YD P  L  +L   GFK +RL+KAFD +A+PD  DET++YECRK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

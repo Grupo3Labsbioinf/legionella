@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_20787</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>333</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_20787</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>333</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248738|ref|WP_010946278.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|52840775|ref|YP_094574.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627886|gb|AAU26627.1| succinate dehydrogenase iron-sulfur protein subunit B [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507289|gb|AEW50813.1| succinate dehydrogenase iron-sulfur protein subunit B [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492929|gb|AGH54774.1| Succinate dehydrogenase iron-sulfur protein [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081197|gb|AGN13445.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771525|emb|CZI75744.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998795781|emb|CZI44651.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998800571|emb|CZL12183.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998804105|emb|CZK63524.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998807195|emb|CZI30896.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998810719|emb|CZI17001.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998813122|emb|CZH14362.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998816438|emb|CZM20930.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998819745|emb|CZM01068.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998825551|emb|CZK39164.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998832832|emb|CZI19362.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998834472|emb|CZL51038.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998838704|emb|CZJ30882.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998840505|emb|CZL83875.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998843085|emb|CZL07873.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998846316|emb|CZL08900.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998849163|emb|CZI97032.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998852429|emb|CZL88047.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998855956|emb|CZL53599.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998858621|emb|CZM29844.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998862319|emb|CZK41281.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998864769|emb|CZJ88480.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998867218|emb|CZJ83094.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998870196|emb|CZM41581.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998873615|emb|CZK71873.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998876209|emb|CZM47143.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998879328|emb|CZJ74653.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998885780|emb|CZM35381.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998888588|emb|CZK49616.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998895811|emb|CZK08994.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998905257|emb|CZK92414.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998908412|emb|CZL67696.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998916097|emb|CZK72586.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998917482|emb|CZL63554.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998920462|emb|CZL70368.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998926821|emb|CZL98433.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998930929|emb|CZK83187.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998933668|emb|CZL67503.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998938734|emb|CZL20534.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998946261|emb|CZK71951.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998947981|emb|CZL28932.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998956949|emb|CZM66547.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998960472|emb|CZK69066.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998963152|emb|CZK79270.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998966702|emb|CZM41119.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998969386|emb|CZL06734.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998972395|emb|CZK83101.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998978509|emb|CZM01761.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998986119|emb|CZK10586.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998987493|emb|CZL89063.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998998287|emb|CZJ97516.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999006415|emb|CZL22649.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999011880|emb|CZL84307.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999014921|emb|CZM77671.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999021232|emb|CZL94499.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999024037|emb|CZL20492.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999036242|emb|CZL86130.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999045228|emb|CZM30987.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999060296|emb|CZL80822.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999066494|emb|CZJ50552.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999075377|emb|CZH16978.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999078627|emb|CZK44832.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999083094|emb|CZK87136.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999087894|emb|CZL15286.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999090956|emb|CZL90443.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999093886|emb|CZH50194.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999096962|emb|CZH52108.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999101399|emb|CZL76092.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999110915|emb|CZL04486.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999114060|emb|CZL59610.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999115952|emb|CZK74187.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999124739|emb|CZL31992.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999132502|emb|CZL69601.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999133896|emb|CZL47869.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999136968|emb|CZK88245.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999140895|emb|CZL86511.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999144854|emb|CZK81693.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999146382|emb|CZM11898.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999155602|emb|CZI37536.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999174203|emb|CZL61182.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999189794|emb|CZI75268.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999192914|emb|CZJ16112.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999199257|emb|CZH01731.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999202123|emb|CZJ20829.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999208426|emb|CZL34864.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999217936|emb|CZM04851.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999220905|emb|CZJ08022.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999333345|emb|CZL30412.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002078805|emb|CZQ91928.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1003018395|emb|CZR30521.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|1003021467|emb|CZR26892.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|1003024493|emb|CZR30210.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|1073863697|gb|AOU03648.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073866655|gb|AOU06605.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073869660|gb|AOU09609.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073872605|gb|AOU12553.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073875586|gb|AOU15533.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073878548|gb|AOU18494.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073881542|gb|AOU21487.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073884504|gb|AOU24448.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073887503|gb|AOU27446.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073890486|gb|AOU30428.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073893451|gb|AOU33392.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073896416|gb|AOU36356.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073899380|gb|AOU39319.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073902332|gb|AOU42270.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073905243|gb|AOU45180.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073908260|gb|AOU48195.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073911316|gb|AOU51248.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073914234|gb|AOU54165.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073917192|gb|AOU57122.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073920159|gb|AOU60088.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073923132|gb|AOU63059.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073926146|gb|AOU66072.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073929126|gb|AOU69035.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073932510|gb|AOU72069.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073935457|gb|AOU82456.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073945732|gb|AOU85456.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1073948695|gb|AOU88418.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1104001852|emb|SFZ36467.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1129967310|gb|APT97669.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946278</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>501.516</Hsp_bit-score>
+      <Hsp_score>1290</Hsp_score>
+      <Hsp_evalue>3.39951e-178</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>240</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1004017349|ref|WP_061485146.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485146</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>500.745</Hsp_bit-score>
+      <Hsp_score>1288</Hsp_score>
+      <Hsp_evalue>7.8209e-178</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499526521|ref|WP_011213161.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|53750350|emb|CAH11744.1| succinate dehydrogenase, iron sulfur protein [Legionella pneumophila str. Paris] &gt;gi|148282586|gb|ABQ56674.1| succinate dehydrogenase iron-sulfur protein subunit B [Legionella pneumophila str. Corby] &gt;gi|295648024|gb|ADG23871.1| succinate dehydrogenase iron-sulfur protein [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126515|emb|CCD04698.1| succinate dehydrogenase, FeS subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|395129622|emb|CCD07855.1| succinate dehydrogenase, FeS subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|536613643|gb|ERB42015.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila str. 121004] &gt;gi|541995608|gb|ERH41707.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila str. Leg01/11] &gt;gi|541997315|gb|ERH43363.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila str. Leg01/53] &gt;gi|542121189|gb|ERI47522.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila str. Leg01/20] &gt;gi|761989400|dbj|GAN22668.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|761992507|dbj|GAN16547.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|761995697|dbj|GAN19653.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|761998951|dbj|GAN29021.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|762002554|dbj|GAN25672.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998774435|emb|CZH07744.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998777315|emb|CZH11995.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998783025|emb|CZI86052.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998783314|emb|CZH41663.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998786225|emb|CZH06250.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998791265|emb|CZG41191.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998793118|emb|CZI50874.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998801824|emb|CZI08061.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998822489|emb|CZH35260.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998828331|emb|CZH38346.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998882991|emb|CZI84257.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998892612|emb|CZJ23600.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998897716|emb|CZK09040.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998912173|emb|CZH24230.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998923725|emb|CZK24208.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998938043|emb|CZL87450.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998943795|emb|CZJ49901.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998951082|emb|CZJ96174.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998954332|emb|CZK60423.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998975503|emb|CZJ90083.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998981355|emb|CZJ20148.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998992831|emb|CZJ47929.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|998994591|emb|CZI23308.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999000102|emb|CZG95164.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999003127|emb|CZI80989.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999009062|emb|CZK46850.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999018225|emb|CZJ87699.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999027339|emb|CZK25126.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999030559|emb|CZH23609.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999033290|emb|CZK20953.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999039495|emb|CZJ96069.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999042438|emb|CZK04584.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999048529|emb|CZK02229.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999051568|emb|CZJ92113.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999054553|emb|CZK29784.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999058434|emb|CZM29099.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999063680|emb|CZK01899.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999070577|emb|CZJ65200.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999072796|emb|CZK32077.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999084988|emb|CZK30348.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999103692|emb|CZI19246.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999107212|emb|CZI75361.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999128514|emb|CZH16546.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999149984|emb|CZI49471.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999152638|emb|CZM83291.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999159334|emb|CZJ69743.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999161881|emb|CZM39048.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999165736|emb|CZG85320.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999168632|emb|CZI46411.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999171847|emb|CZI29179.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999178341|emb|CZJ56381.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999181636|emb|CZG51200.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999184324|emb|CZP95895.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999187803|emb|CZI95135.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999198457|emb|CZP13201.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999206190|emb|CZP62839.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999212720|emb|CZG77380.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999216922|emb|CZI66511.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999225334|emb|CZG83889.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999228293|emb|CZP07968.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999230571|emb|CZI93172.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999235198|emb|CZP57990.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999236695|emb|CZG93162.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999240292|emb|CZH91099.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999244363|emb|CZH76233.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999247875|emb|CZH56036.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999248769|emb|CZH07877.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999251985|emb|CZH36643.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999255975|emb|CZP79342.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999259119|emb|CZP47123.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999261293|emb|CZH41343.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999265210|emb|CZP06944.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999269422|emb|CZO33052.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999272224|emb|CZP57829.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999274791|emb|CZG78549.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999277606|emb|CZP36684.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999281363|emb|CZP16552.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999283669|emb|CZP61624.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999286025|emb|CZJ07848.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999290986|emb|CZP32049.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999292396|emb|CZI87003.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999296487|emb|CZP58381.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999299574|emb|CZP47905.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999301717|emb|CZI74067.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999307304|emb|CZH70415.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999309368|emb|CZP26704.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999311306|emb|CZJ21335.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999315824|emb|CZI10351.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999318676|emb|CZP64993.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999322018|emb|CZH98135.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999324443|emb|CZH33353.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999328621|emb|CZG64029.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999331867|emb|CZG59908.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999337755|emb|CZP47012.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999340077|emb|CZH26190.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999344454|emb|CZP84351.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999347207|emb|CZP63274.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999349710|emb|CZH41476.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999353475|emb|CZP69142.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999357233|emb|CZP68145.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999359966|emb|CZI61122.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999363813|emb|CZP56645.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999367115|emb|CZP76672.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999369942|emb|CZP77768.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999373462|emb|CZG57420.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999376497|emb|CZJ19011.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999379747|emb|CZH69460.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999382642|emb|CZI57196.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999386289|emb|CZG64696.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999389092|emb|CZI56067.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999392304|emb|CZP98017.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999396910|emb|CZG09947.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999398552|emb|CZQ00938.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999403123|emb|CZP41555.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999405926|emb|CZG72539.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999408887|emb|CZH90609.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999412735|emb|CZG32651.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999415438|emb|CZG88860.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999418778|emb|CZG64965.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999421973|emb|CZH73256.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999425287|emb|CZG75394.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999428359|emb|CZG71973.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999431651|emb|CZG73813.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999435009|emb|CZI00912.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999438193|emb|CZG62863.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999441189|emb|CZK29487.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|999444618|emb|CZH76558.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999447821|emb|CZG52921.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999450621|emb|CZP35627.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999454070|emb|CZI22096.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999457562|emb|CZK21416.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999460535|emb|CZH01355.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999464854|emb|CZM52914.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999467878|emb|CZO30091.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999469310|emb|CZH06750.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999474697|emb|CZM61246.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999477154|emb|CZN74360.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999480656|emb|CZM99863.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999484253|emb|CZN89986.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999487088|emb|CZM11207.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999490261|emb|CZN78585.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999493452|emb|CZM10660.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999496247|emb|CZI46150.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999500032|emb|CZN73117.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999503158|emb|CZO07236.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999506374|emb|CZN16589.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999509577|emb|CZG51714.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999512915|emb|CZN30466.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999515997|emb|CZM00036.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999519006|emb|CZM84677.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999521864|emb|CZP15900.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999525366|emb|CZJ08031.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999528079|emb|CZI75081.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999532362|emb|CZO46666.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999535518|emb|CZN40585.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999538599|emb|CZM76460.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999542043|emb|CZO21167.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999545005|emb|CZO61522.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999548151|emb|CZN88756.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999551463|emb|CZO10579.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999554498|emb|CZN30797.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999557927|emb|CZO56249.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999561064|emb|CZM41106.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999564070|emb|CZO66234.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999567434|emb|CZM52153.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999570634|emb|CZN50198.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999573822|emb|CZN92236.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999576020|emb|CZI41820.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999580314|emb|CZO15865.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999583602|emb|CZO37339.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999586965|emb|CZM64101.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999590000|emb|CZM40891.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999593159|emb|CZN45709.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999596232|emb|CZO12742.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999599552|emb|CZO38267.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999602622|emb|CZL96296.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999605410|emb|CZN72266.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999608947|emb|CZN62829.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999611276|emb|CZI62450.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999615559|emb|CZM46714.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999618672|emb|CZN91422.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999621758|emb|CZO81420.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999625086|emb|CZN70912.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999628415|emb|CZM63413.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999631535|emb|CZM58652.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999634595|emb|CZN58812.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999637923|emb|CZN50845.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999641119|emb|CZO78840.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999644111|emb|CZO52364.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999647602|emb|CZN94284.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999650712|emb|CZO05580.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999653903|emb|CZO00443.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999657100|emb|CZM28901.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999660174|emb|CZM64576.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999663395|emb|CZN18144.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999666760|emb|CZM38853.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999669952|emb|CZL85028.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999673084|emb|CZM37195.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999676346|emb|CZN78674.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999679309|emb|CZM78355.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999682504|emb|CZM81737.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999686191|emb|CZN99320.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999689141|emb|CZN31147.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999692334|emb|CZO00112.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999695551|emb|CZN30103.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999698782|emb|CZM11682.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999701726|emb|CZM77632.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999704961|emb|CZL93785.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999708181|emb|CZN57542.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999711600|emb|CZN01845.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999714696|emb|CZN22442.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999717974|emb|CZO45095.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999720930|emb|CZM92801.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999724449|emb|CZN33449.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999727846|emb|CZL99806.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999730971|emb|CZO42971.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999734189|emb|CZM26198.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999737471|emb|CZO70052.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999740952|emb|CZM31214.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999744110|emb|CZN27336.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999747252|emb|CZM25365.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999750516|emb|CZL95404.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999753712|emb|CZM80505.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999756763|emb|CZN09751.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999760264|emb|CZM23726.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999763391|emb|CZN30822.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999766917|emb|CZM49294.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999769766|emb|CZN51632.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999773121|emb|CZH89367.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999776230|emb|CZM00667.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999777496|emb|CZH50518.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999782882|emb|CZH62247.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999786429|emb|CZM25112.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999789594|emb|CZO67970.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999792939|emb|CZO61320.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999796067|emb|CZI21162.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999799824|emb|CZO56742.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002074272|emb|CZR05356.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002081619|emb|CZR00576.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002085538|emb|CZQ97340.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002088312|emb|CZQ79071.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1002090891|emb|CZR11543.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1003029178|emb|CZR19022.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|1003031215|emb|CZR32063.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1003036361|emb|CZR16918.1| succinate dehydrogenase%2C iron sulfur protein [Legionella pneumophila] &gt;gi|1005832299|gb|AMQ27025.1| succinate dehydrogenase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431668|gb|AMV13295.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1032656707|gb|ANH11978.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1032659674|gb|ANH14944.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1032662641|gb|ANH17910.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1041014569|gb|ANN91630.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1041017667|gb|ANN94727.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1103995601|emb|SFZ36779.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1103998733|emb|SFZ36505.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1104005416|emb|SFZ36475.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213161</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.204</Hsp_bit-score>
+      <Hsp_score>1284</Hsp_score>
+      <Hsp_evalue>2.78954e-177</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRNVILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSRN+ILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|499533489|ref|WP_011214773.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|53753358|emb|CAH14808.1| succinate dehydrogenase, iron sulfur protein [Legionella pneumophila str. Lens] &gt;gi|1080002194|gb|AOW52766.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006054|gb|AOW56334.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008088|gb|AOW58076.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012251|gb|AOW61742.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014692|gb|AOW63565.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018494|gb|AOW67139.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214773</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>497.664</Hsp_bit-score>
+      <Hsp_score>1280</Hsp_score>
+      <Hsp_evalue>1.23885e-176</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRNVILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPAQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSRN+ILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNP QAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652970705|ref|WP_027223597.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|985765934|gb|KXB27045.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|985767756|gb|KXB28842.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|999119245|emb|CZG75655.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|999122547|emb|CZH13828.1| Succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila] &gt;gi|1005362804|gb|AMP88673.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pascullei] &gt;gi|1005365805|gb|AMP91582.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pascullei] &gt;gi|1005368792|gb|AMP94568.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. pascullei] &gt;gi|1024341687|gb|KZX35994.1| succinate dehydrogenase [Legionella pneumophila] &gt;gi|1108604001|gb|APF02369.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. fraseri] &gt;gi|1108607012|gb|APF05379.1| succinate dehydrogenase iron-sulfur subunit [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027223597</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>496.508</Hsp_bit-score>
+      <Hsp_score>1277</Hsp_score>
+      <Hsp_evalue>3.50993e-176</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>238</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLNTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR LILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL TDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|966440911|ref|WP_058481234.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella waltersii] &gt;gi|962291974|gb|KTD75672.1| succinate dehydrogenase iron-sulfur subunit [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481234</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>482.256</Hsp_bit-score>
+      <Hsp_score>1240</Hsp_score>
+      <Hsp_evalue>1.62261e-170</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADIRNLVLSIYRYNPEVDAKPYMKDYKLEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPAKERLQSPEERALLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAQIRKQMIQQET</Hsp_hseq>
+      <Hsp_midline>MAD RNL+LSIYRYNPEVDAKPYMKDY++EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPA+ERLQSPEERA LDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRDKATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNPTQAIA+IR QM+ QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|769978702|ref|WP_045094687.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella fallonii] &gt;gi|698841945|emb|CEG55892.1| succinate dehydrogenase, iron-sulfur subunit [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094687</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.945</Hsp_bit-score>
+      <Hsp_score>1234</Hsp_score>
+      <Hsp_evalue>1.17969e-169</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>227</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRNLILSIYRYNPEVDAKPYMKDYELAIPAKSNPMLLTLLERLKSEQDSSITYRRSCREGVCGSDGMNINGTNGLACITHISDLTTDKIVIRPLPGFPVIRDLVVDMTQFYQQYERIEPYLQNDEIAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNLILSIYRYNPEVDAKPYMKDYE+ IPAKS+PMLLTLLERLK+EQD SITYRRSCREGVCGSDGMNINGTNGLACITHIS L TDKIVIRPLPGFPVIRDL VDMTQFYQQYERIEPYLQNDE+APA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRDKATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|966460899|ref|WP_058493328.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella worsleiensis] &gt;gi|962296393|gb|KTD80034.1| succinate dehydrogenase iron-sulfur subunit [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493328</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>2.10884e-169</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MTDSRNVTLSIYRYNPEVDDKPYMKDYEIEIPVKSDPMVLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLNTDKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPSQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>M DSRN+ LSIYRYNPEVD KPYMKDYEIEIP KSDPM+LTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL TDKIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD ATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNP+QAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|966432330|ref|WP_058472763.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella quateirensis] &gt;gi|962268700|gb|KTD52716.1| succinate dehydrogenase iron-sulfur subunit [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472763</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.322</Hsp_bit-score>
+      <Hsp_score>1222</Hsp_score>
+      <Hsp_evalue>7.51146e-168</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MTDSRNVTLSIYRYNPEVDDKPYMKDYEIAIPVKSDPMILTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLNTDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPSQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>M DSRN+ LSIYRYNPEVD KPYMKDYEI IP KSDPM+LTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL TDK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD ATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNP+QAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|966420697|ref|WP_058463898.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella cincinnatiensis] &gt;gi|962206958|gb|KTC91891.1| succinate dehydrogenase iron-sulfur subunit [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463898</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>474.167</Hsp_bit-score>
+      <Hsp_score>1219</Hsp_score>
+      <Hsp_evalue>1.90674e-167</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELDIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLQTDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATMHRLDKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAIADIRVQMLKQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE++IPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL+TDK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCTNVCPKGLNPT+AIA IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|489729092|ref|WP_003633208.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella longbeachae] &gt;gi|269990019|gb|EEZ96273.1| succinate dehydrogenase iron-sulfur subunit [Legionella longbeachae D-4968] &gt;gi|288856913|emb|CBJ10727.1| succinate dehydrogenase, iron sulfur protein [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003633208</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.781</Hsp_bit-score>
+      <Hsp_score>1218</Hsp_score>
+      <Hsp_evalue>3.5223e-167</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELDIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLQTDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDKATTHRLEKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAIGEIRVQMLKQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE++IPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL+TDK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRDKAT HRL+ LQDPFSVFRCR+IMNCTNVCPKGLNPT+AI +IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|653018976|ref|WP_027270931.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella sainthelensi] &gt;gi|962274595|gb|KTD58526.1| succinate dehydrogenase iron-sulfur subunit [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270931</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.396</Hsp_bit-score>
+      <Hsp_score>1217</Hsp_score>
+      <Hsp_evalue>4.89341e-167</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELDIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLQTDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQAKRFLADSRDKATTHRLDKLQDPFSVFRCRTVMNCTNVCPKGLNPSKAIGEIRIQMLKQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE++IPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL+TDK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQA+RFLADSRDKAT HRLD LQDPFSVFRCRT+MNCTNVCPKGLNP++AI +IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|654932935|ref|WP_028383292.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella moravica] &gt;gi|962250724|gb|KTD34925.1| succinate dehydrogenase iron-sulfur subunit [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383292</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.011</Hsp_bit-score>
+      <Hsp_score>1216</Hsp_score>
+      <Hsp_evalue>6.57837e-167</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MTDSRNVTLSIYRYNPEVDDKPYMKDYEIAIPVKSDPMILTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHLSQLNSDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDQVAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPSQAIAKIRTQMLTQET</Hsp_hseq>
+      <Hsp_midline>M DSRN+ LSIYRYNPEVD KPYMKDYEI IP KSDPM+LTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL +DK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQND+VAPA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD ATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNP+QAIAKIRTQMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966496227|ref|WP_058512993.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella santicrucis] &gt;gi|962282809|gb|KTD66585.1| succinate dehydrogenase iron-sulfur subunit [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058512993</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>472.241</Hsp_bit-score>
+      <Hsp_score>1214</Hsp_score>
+      <Hsp_evalue>1.13787e-166</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELDIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLQTDKVVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAIGEIRIQMLKQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE++IPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL+TDK+VIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCTNVCPKGLNPT+AI +IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|498338339|ref|WP_010652495.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Fluoribacter dumoffii] &gt;gi|962207555|gb|KTC92486.1| succinate dehydrogenase iron-sulfur subunit [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652495</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>471.47</Hsp_bit-score>
+      <Hsp_score>1212</Hsp_score>
+      <Hsp_evalue>2.34539e-166</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELEIPVKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHVSQLKTDKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVPPARERLQSPEERSQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATTHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPSKAIGEIRLQMLGQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQLKTDKIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEV PARERLQSPEER+QLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCRTIMNCTNVCPKGLNP++AI +IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|517403195|ref|WP_018576059.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella shakespearei] &gt;gi|962276147|gb|KTD60048.1| succinate dehydrogenase iron-sulfur subunit [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576059</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>470.7</Hsp_bit-score>
+      <Hsp_score>1210</Hsp_score>
+      <Hsp_evalue>4.83431e-166</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MTDSKKITLSIYRYNPEVDAKPYMKDYEIEIPAKSDPMVLTLLERLKAEQDPTITYRRSCREGVCGSDGMNINGTNGLACITHLTQLNTDKIVLRPLPGFPVIRDLAVDMSQFYHQYEKVEPYLQNDEVAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFIGPAGLLQARRFLADSRDTATEHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLSQET</Hsp_hseq>
+      <Hsp_midline>M DS+ + LSIYRYNPEVDAKPYMKDYEIEIPAKSDPM+LTLLERLKAEQDP+ITYRRSCREGVCGSDGMNINGTNGLACITH++QL TDKIV+RPLPGFPVIRDLAVDM+QFY QYE++EPYLQNDEVAPA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KF+GPAGLLQARRFLADSRD AT+HRLD LQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQML+QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|966466521|ref|WP_058497847.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella gratiana] &gt;gi|962230014|gb|KTD14610.1| succinate dehydrogenase iron-sulfur subunit [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497847</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>470.315</Hsp_bit-score>
+      <Hsp_score>1209</Hsp_score>
+      <Hsp_evalue>6.94054e-166</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>220</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTVSIYRYNPEVDAKPYMKDYELEIPVKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHVSQLQTDKVVLRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATTQRLDKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAIADIRVQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L +SIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL+TDK+V+RPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT  RLD LQDPFSVFRCR+IMNCTNVCPKGLNPT+AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966505245|ref|WP_058521904.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella tucsonensis] &gt;gi|962287618|gb|KTD71346.1| succinate dehydrogenase iron-sulfur subunit [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521904</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>470.315</Hsp_bit-score>
+      <Hsp_score>1209</Hsp_score>
+      <Hsp_evalue>8.64131e-166</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTVSIYRYNPEVDAKPYMKDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHVSQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPAQERLQSPEERALLDGLYECILCACCTSSCPSYWWNPEKYVGPAGLLQARRFLADSRDTATTHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIADIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L +SIYRYNPEVDAKPYMKDYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPA+ERLQSPEERA LDGLYECILCACCTSSCPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966414747|ref|WP_058458032.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Fluoribacter bozemanae] &gt;gi|962192308|gb|KTC77382.1| succinate dehydrogenase iron-sulfur subunit [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458032</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>469.929</Hsp_bit-score>
+      <Hsp_score>1208</Hsp_score>
+      <Hsp_evalue>1.21372e-165</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPAQERLQSPEERSLLDGLYECILCACCTSACPSYWWNPEKYVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIADIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPA+ERLQSPEER+ LDGLYECILCACCTS+CPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966499577|ref|WP_058516250.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella parisiensis] &gt;gi|962260111|gb|KTD44226.1| succinate dehydrogenase iron-sulfur subunit [Legionella parisiensis] &gt;gi|1069290678|gb|OEH46078.1| Succinate dehydrogenase iron-sulfur subunit [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516250</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>469.544</Hsp_bit-score>
+      <Hsp_score>1207</Hsp_score>
+      <Hsp_evalue>1.46227e-165</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTVSIYRYNPEVDAKPYMKDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPAQERLQSPEERSLLDGLYECILCACCTSSCPSYWWNPEKYVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIADIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L +SIYRYNPEVDAKPYMKDYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPA+ERLQSPEER+ LDGLYECILCACCTSSCPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|518064351|ref|WP_019234559.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella anisa] &gt;gi|962187106|gb|KTC72239.1| succinate dehydrogenase iron-sulfur subunit [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234559</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>468.774</Hsp_bit-score>
+      <Hsp_score>1205</Hsp_score>
+      <Hsp_evalue>2.82216e-165</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNALACITHISQLKTDKIVVRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPAQERLQSPEERSLLDGLYECILCACCTSSCPSYWWNPEKYVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIADIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTN LACITHISQLKTDKIV+RPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPA+ERLQSPEER+ LDGLYECILCACCTSSCPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|493927291|ref|WP_006872040.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella drancourtii] &gt;gi|363536423|gb|EHL29865.1| succinate dehydrogenase iron-sulfur subunit [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872040</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>468.389</Hsp_bit-score>
+      <Hsp_score>1204</Hsp_score>
+      <Hsp_evalue>4.82819e-165</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>220</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADNRNLTLSIYRYNPEVDAKPYMKDYVLAIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHVSELKTDKIVVRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDQNAPAQERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATDHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTKAIAEIRTQMLRQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNL LSIYRYNPEVDAKPYMKDY + IPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+S+LKTDKIV+RPLPGFPVIRDLAVDM+QFYQQYERIEPYLQND+ APA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCRTIMNCTNVCPKGLNPT+AIA+IRTQML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966516877|ref|WP_058533371.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533371</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>467.618</Hsp_bit-score>
+      <Hsp_score>1202</Hsp_score>
+      <Hsp_evalue>8.53614e-165</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>219</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MSDNRNLTLSIYRYNPEVDAKPYMQDYQLTIPAKSDPMLLTLLERLKDEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLNTDKIIIRPLPGFPVIRDLAVDMSQFYKQYERIEPYLQNDQVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATEHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTKAIAEIRTQMLRQET</Hsp_hseq>
+      <Hsp_midline>M+D+RNL LSIYRYNPEVDAKPYM+DY++ IPAKSDPMLLTLLERLK EQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL TDKI+IRPLPGFPVIRDLAVDM+QFY+QYERIEPYLQND+VAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT+HRLD LQDPFSVFRCRTIMNCTNVCPKGLNPT+AIA+IRTQML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966436343|ref|WP_058476711.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella steigerwaltii] &gt;gi|962295013|gb|KTD78667.1| succinate dehydrogenase iron-sulfur subunit [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476711</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>467.233</Hsp_bit-score>
+      <Hsp_score>1201</Hsp_score>
+      <Hsp_evalue>1.21215e-164</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSKKLTLSIYRYNPEVDAKPYMKDYELEIPVKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNALACITHVSQLKTDKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDEVVPAQERLQSPEERAQLDGLYECILCACCTSACPSYWWNPEKYVGPAGLLQARRFLADSRDTATEHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIAEIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADS+ L LSIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTN LACITH+SQLKTDKIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQNDEV PA+ERLQSPEERAQLDGLYECILCACCTS+CPSYWWNP+K+VGPAGLLQARRFLADSRD AT+HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA+IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|671586680|ref|WP_031563079.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563079</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.077</Hsp_bit-score>
+      <Hsp_score>1198</Hsp_score>
+      <Hsp_evalue>3.00996e-164</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYEVEIPVKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLNTDKIVVRPLPGFPVIRDLVVDMSQFYEQYERIEPYLQNDAVAPAQERLQSPEERSKLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATLHRLDKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAIAEIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQL TDKIV+RPLPGFPVIRDL VDM+QFY+QYERIEPYLQND VAPA+ERLQSPEER++LDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCTNVCPKGLNPT+AIA+IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|654930391|ref|WP_028380760.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella cherrii] &gt;gi|962197138|gb|KTC82182.1| succinate dehydrogenase iron-sulfur subunit [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380760</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>465.692</Hsp_bit-score>
+      <Hsp_score>1197</Hsp_score>
+      <Hsp_evalue>5.68311e-164</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSKKLTLSIYRYNPEVDAKPYMKDYELEIPVKSDPMLLTLLERLKAEQDPSLTYRRSCREGVCGSDGMNINGTNALACITHVSQLKTDKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDGVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPEKYVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSVMNCTSVCPKGLNPMKAIAEIRQQMLTKET</Hsp_hseq>
+      <Hsp_midline>MADS+ L LSIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPS+TYRRSCREGVCGSDGMNINGTN LACITH+SQLKTDKIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQND VAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR++MNCT+VCPKGLNP +AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1113533377|gb|OJX93743.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJX93743</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.537</Hsp_bit-score>
+      <Hsp_score>1194</Hsp_score>
+      <Hsp_evalue>1.70014e-163</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>219</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADNRILTLSIYRYNPEVDAKPYMKDYQIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISDLKGDKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQTDELAPAKERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATDHRLNKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAISEIRTQMLKQET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNPEVDAKPYMKDY+IEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHIS LK DKIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQ DE+APA+ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRL+ LQDPFSVFRCR+IMNCTNVCPKGLNPT+AI++IRTQML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|518045093|ref|WP_019215301.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019215301</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.151</Hsp_bit-score>
+      <Hsp_score>1193</Hsp_score>
+      <Hsp_evalue>2.44079e-163</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRNLTLSIYRYNPEKDTKPYMQDYEIQVPVKSDPMLLTLLERLKAEQDPTITYRRSCREGVCGSDGMNINGTNGLACITIVSQLKTDKIVLRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDSVAPARERLQSPQERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTAKQHRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTEAIANIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNL LSIYRYNPE D KPYM+DYEI++P KSDPMLLTLLERLKAEQDP+ITYRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKIV+RPLPGFPVIRDLAVDMTQFYQQYERIEPYLQND VAPARERLQSP+ERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD A QHRLD LQDPFSVFRCR+IMNC NVCPKGLNPT+AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966400237|ref|WP_058443832.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella feeleii] &gt;gi|962218282|gb|KTD03001.1| succinate dehydrogenase iron-sulfur subunit [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443832</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>463.766</Hsp_bit-score>
+      <Hsp_score>1192</Hsp_score>
+      <Hsp_evalue>2.81447e-163</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRNLTLSIYRYNPEKDTKPYMQDYEIQVPVKSDPMLLTLLERLKAEQDPTITYRRSCREGVCGSDGMNINGTNGLACITIVSQLKTDKIVLRPLPGFPVIRDLAVDLTQFYQQYERIEPYLQNDSVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTAKQHRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTEAIANIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNL LSIYRYNPE D KPYM+DYEI++P KSDPMLLTLLERLKAEQDP+ITYRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKIV+RPLPGFPVIRDLAVD+TQFYQQYERIEPYLQND VAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD A QHRLD LQDPFSVFRCR+IMNC NVCPKGLNPT+AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966493781|ref|WP_058510569.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella steelei] &gt;gi|962284715|gb|KTD68481.1| succinate dehydrogenase iron-sulfur subunit [Legionella steelei] &gt;gi|1113342043|gb|OJW05920.1| succinate dehydrogenase iron-sulfur subunit [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510569</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.225</Hsp_bit-score>
+      <Hsp_score>1188</Hsp_score>
+      <Hsp_evalue>1.30508e-162</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADSRKLTLSIYRYNPEVDAKPYMKDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNALACITHVSQLNTDKIVVRPLPAFPVIRDLVVDMSQFYQQYERIEPYLQNNDVAPAQERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPEKYVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRSIMNCTSVCPKGLNPMKAIADIRLQMLTQET</Hsp_hseq>
+      <Hsp_midline>MADSR L LSIYRYNPEVDAKPYMKDYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTN LACITH+SQL TDKIV+RPLP FPVIRDL VDM+QFYQQYERIEPYLQN++VAPA+ERLQSPEERAQLDGLYECILCACCTSSCPSYWWNP+K+VGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT+VCPKGLNP +AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|654937970|ref|WP_028388218.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388218</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>458.759</Hsp_bit-score>
+      <Hsp_score>1179</Hsp_score>
+      <Hsp_evalue>2.65632e-161</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRTLSLSIYRYNPEVDKKPYMQDYAIEIPAKSDPMLLTLLERLKDEQDATITYRRSCREGVCGSDGMNINGTNGLACITTLSQLKTNKIVIRPLPGFPVIRDLAVDMSQFYQQYERIEPYLQNDAVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTATAHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTKAIAEIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNPEVD KPYM+DY IEIPAKSDPMLLTLLERLK EQD +ITYRRSCREGVCGSDGMNINGTNGLACIT +SQLKT+KIVIRPLPGFPVIRDLAVDM+QFYQQYERIEPYLQND VAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCRTIMNCTNVCPKGLNPT+AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966442530|ref|WP_058482792.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella spiritensis] &gt;gi|962280869|gb|KTD64684.1| succinate dehydrogenase iron-sulfur subunit [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482792</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>455.677</Hsp_bit-score>
+      <Hsp_score>1171</Hsp_score>
+      <Hsp_evalue>5.00673e-160</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>212</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTKNLSLSIYRYNPDVDEKPYMKDYEIAIPEKSDPMVLTLLERLKAEQDATIAYRRSCREGVCGSDGMNINGTNGLACITHLSQLKTDRIVIRPLPGFPVVRDLVVDMSQFYQQYERIEPYLQNDEVAPARERLQTPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTAKLHRLEQLQDPFSVFRCRSIMNCANVCPKGLNPTQAISDIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD++NL LSIYRYNP+VD KPYMKDYEI IP KSDPM+LTLLERLKAEQD +I YRRSCREGVCGSDGMNINGTNGLACITH+SQLKTD+IVIRPLPGFPV+RDL VDM+QFYQQYERIEPYLQNDEVAPARERLQ+PEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD A  HRL+ LQDPFSVFRCR+IMNC NVCPKGLNPTQAI+ IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966475001|ref|WP_058505762.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella nautarum] &gt;gi|962248924|gb|KTD33146.1| succinate dehydrogenase iron-sulfur subunit [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058505762</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>454.136</Hsp_bit-score>
+      <Hsp_score>1167</Hsp_score>
+      <Hsp_evalue>1.885e-159</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRTLSLSIYRYNPGVDTKPFMKDYEIEIPAKSDPMLLPVLERLKAEQDPTITYRRSCREGVCGSDGMNINGKNGLACITKLSQLKTDKIVIRPLPGFPIIRDLVVDMTQFYQQYERIEPYLQNNDPAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATKHRLDKLQDPFSVFRCRTIMNCADVCPKGLNPTKAIAEIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNP VD KP+MKDYEIEIPAKSDPMLL +LERLKAEQDP+ITYRRSCREGVCGSDGMNING NGLACIT +SQLKTDKIVIRPLPGFP+IRDL VDMTQFYQQYERIEPYLQN++ APARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD AT+HRLD LQDPFSVFRCRTIMNC +VCPKGLNPT+AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966406141|ref|WP_058449547.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella jamestowniensis] &gt;gi|962222774|gb|KTD07424.1| succinate dehydrogenase iron-sulfur subunit [Legionella jamestowniensis] &gt;gi|1045920874|gb|OCH97807.1| succinate dehydrogenase iron-sulfur subunit [Legionella jamestowniensis] &gt;gi|1097327772|emb|SFL93126.1| succinate dehydrogenase subunit B [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449547</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.366</Hsp_bit-score>
+      <Hsp_score>1165</Hsp_score>
+      <Hsp_evalue>3.33228e-159</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>211</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADIRNLSLSIYRYNPEANLEPYMQDYEIAIPAKSDPMLLTLLERIKAEQDPTLAYRRSCREGVCGSDGMNINGTNGLACITSLSQLKTDKIIVRPLPGFPVVRDLVVDLTQFYQQYERIEPYLQNDTVAPARERLQSPAERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATQHRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTKAIADIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD RNL LSIYRYNPE + +PYM+DYEI IPAKSDPMLLTLLER+KAEQDP++ YRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKI++RPLPGFPV+RDL VD+TQFYQQYERIEPYLQND VAPARERLQSP ERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD ATQHRLD LQDPFSVFRCR+IMNC NVCPKGLNPT+AIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966515257|ref|WP_058531774.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella rubrilucens] &gt;gi|962262678|gb|KTD46764.1| succinate dehydrogenase iron-sulfur subunit [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531774</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>451.825</Hsp_bit-score>
+      <Hsp_score>1161</Hsp_score>
+      <Hsp_evalue>1.41521e-158</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>212</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADNRILSLSIYRYNPELDESPYMKDYEIAVPAKSDPMLLTLLERLKAEQDPTIAYRRSCREGVCGSDGMNINGTNGLACITSLSQLNTDRIVIRPLPGFPVVRDLVVDMTQFYQQYERIEPYLQNDQVAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTAKRHRLDKLQDPFSVFRCRSIMNCVNVCPKGLNPTQAIADIRKQMLNQET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNPE+D  PYMKDYEI +PAKSDPMLLTLLERLKAEQDP+I YRRSCREGVCGSDGMNINGTNGLACIT +SQL TD+IVIRPLPGFPV+RDL VDMTQFYQQYERIEPYLQND+VAPARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD A +HRLD LQDPFSVFRCR+IMNC NVCPKGLNPTQAIA IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966464470|ref|WP_058495831.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella drozanskii] &gt;gi|962202957|gb|KTC87926.1| succinate dehydrogenase iron-sulfur subunit [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495831</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>451.825</Hsp_bit-score>
+      <Hsp_score>1161</Hsp_score>
+      <Hsp_evalue>1.72372e-158</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>212</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRTLSLSIYRYNPGVDTKPFMKDYEIEIPAKSDPMLLPVLERLKAEQDSTITYRRSCREGVCGSDGMNINGKNGLACITKLSQLKTDKIVIRPLPGFPIIRDLVVDMTQFYQQYERIEPYLQNDDPAPARERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQAQRFLADSRDTATKHRLDKLQDPFSVFRCRTIMNCADVCPKGLNPTKAIAEIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNP VD KP+MKDYEIEIPAKSDPMLL +LERLKAEQD +ITYRRSCREGVCGSDGMNING NGLACIT +SQLKTDKIVIRPLPGFP+IRDL VDMTQFYQQYERIEPYLQND+ APARERLQSPEERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQA+RFLADSRD AT+HRLD LQDPFSVFRCRTIMNC +VCPKGLNPT+AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966431413|ref|WP_058471858.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella jordanis] &gt;gi|962233626|gb|KTD18174.1| succinate dehydrogenase iron-sulfur subunit [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471858</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>449.514</Hsp_bit-score>
+      <Hsp_score>1155</Hsp_score>
+      <Hsp_evalue>1.39717e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRNLCLSIYRYNPEGNVEPYMQDYEIAIPAKSDPMLLTLLERIKAEQDPTLSFRRSCREGVCGSDGMNINGTNGLACVTSLSQLNTDNVVIRPLPGFPVVRDLVVDMTQFYQQYERIEPYLQTDVVAPAREYLQSPQERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATQHRLDKLQDPFSVFRCRTIMNCTNVCPKGLNPTKAIAEIRRQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNL LSIYRYNPE + +PYM+DYEI IPAKSDPMLLTLLER+KAEQDP++++RRSCREGVCGSDGMNINGTNGLAC+T +SQL TD +VIRPLPGFPV+RDL VDMTQFYQQYERIEPYLQ D VAPARE LQSP+ERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD ATQHRLD LQDPFSVFRCRTIMNCTNVCPKGLNPT+AIA+IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966399258|ref|WP_058442891.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella brunensis] &gt;gi|962191745|gb|KTC76821.1| succinate dehydrogenase iron-sulfur subunit [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442891</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>449.129</Hsp_bit-score>
+      <Hsp_score>1154</Hsp_score>
+      <Hsp_evalue>1.66486e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADIRNLSLSIYRYNPEANTEPYMQDYEIAIPVKSDPMLLTLLERLKAEQDPTLAFRRSCREGVCGSDGMNINGTNGLACVTTLSQLKTDKIVIRPLPGFPIVRDLVVDMTQFYQQYERIEPYLQNDGVVPARERLQSPAERAQLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTAKQHRLDKLQDPFSVFRCRSIMNCASVCPKGLNPTQAIADIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD RNL LSIYRYNPE + +PYM+DYEI IP KSDPMLLTLLERLKAEQDP++ +RRSCREGVCGSDGMNINGTNGLAC+T +SQLKTDKIVIRPLPGFP++RDL VDMTQFYQQYERIEPYLQND V PARERLQSP ERAQLDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD A QHRLD LQDPFSVFRCR+IMNC +VCPKGLNPTQAIA IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|762036585|ref|WP_043872523.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella massiliensis] &gt;gi|683289265|emb|CEE11626.1| Succinate dehydrogenase iron-sulfur subunit [Legionella massiliensis] &gt;gi|685071635|emb|CDZ75888.1| Succinate dehydrogenase iron-sulfur subunit [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872523</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>449.129</Hsp_bit-score>
+      <Hsp_score>1154</Hsp_score>
+      <Hsp_evalue>1.77797e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADIRNLSLSIYRYDPESGKEPHMQDYELEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGSNGLACITKLTQLNTDKIVIRPLPGFPIIRDLVVDMSQFYQQYERIEPYLQNDSVAPARERLQSPEERSQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTAKQHRLDKLQDPFSVFRCRTIMNCASVCPKGLNPTQAIAEIRKQMLNQET</Hsp_hseq>
+      <Hsp_midline>MAD RNL LSIYRY+PE   +P+M+DYE+EIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNING+NGLACIT ++QL TDKIVIRPLPGFP+IRDL VDM+QFYQQYERIEPYLQND VAPARERLQSPEER+QLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD A QHRLD LQDPFSVFRCRTIMNC +VCPKGLNPTQAIA+IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|769991160|ref|WP_045107032.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella hackeliae] &gt;gi|731153348|emb|CEK11933.1| Succinate dehydrogenase iron-sulfur subunit [Legionella hackeliae] &gt;gi|962227897|gb|KTD12519.1| succinate dehydrogenase iron-sulfur subunit [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107032</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>448.743</Hsp_bit-score>
+      <Hsp_score>1153</Hsp_score>
+      <Hsp_evalue>2.44289e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADIRNLCLSIYRYNPEANTEPYMQDYEIAIPAKSDPMLLTLLERIKAEQDPTLAYRRSCREGVCGSDGMNINGTNGLACITSLSQLKTDKIVIRPLPGFPIIRDLVVDMTQFYQQYERIEPYLQNDGVVPAHERLQSPAERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTAKQHRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTKAIAEIRKQMLTQET</Hsp_hseq>
+      <Hsp_midline>MAD RNL LSIYRYNPE + +PYM+DYEI IPAKSDPMLLTLLER+KAEQDP++ YRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKIVIRPLPGFP+IRDL VDMTQFYQQYERIEPYLQND V PA ERLQSP ERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD A QHRLD LQDPFSVFRCR+IMNC NVCPKGLNPT+AIA+IR QMLTQET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|769982217|ref|WP_045098199.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Tatlockia micdadei] &gt;gi|698845665|emb|CEG59643.1| Succinate dehydrogenase iron-sulfur subunit [Tatlockia micdadei] &gt;gi|962245170|gb|KTD29474.1| succinate dehydrogenase iron-sulfur subunit [Tatlockia micdadei] &gt;gi|1081465854|emb|SCX96288.1| succinate dehydrogenase subunit B [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098199</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>448.358</Hsp_bit-score>
+      <Hsp_score>1152</Hsp_score>
+      <Hsp_evalue>4.08812e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>211</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRTLSLSIYRYNPAVNDKPFMQDYEIEIPAKSDPMLLPVLERLKAEQDSTITYRRSCREGVCGSDGMNINGTNGLACITKISQLKTDKIVLRPLPGFPVIRDLVVDMSQFYQQYERIEPYLQNDTPAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKYVGPAGLLQARRFLADSRDTATKHRLDKLQDPFSVFRCRTIMNCADVCPKGLNPSKAIAEIRRQMLTEET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNP V+ KP+M+DYEIEIPAKSDPMLL +LERLKAEQD +ITYRRSCREGVCGSDGMNINGTNGLACIT ISQLKTDKIV+RPLPGFPVIRDL VDM+QFYQQYERIEPYLQND  APARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDK+VGPAGLLQARRFLADSRD AT+HRLD LQDPFSVFRCRTIMNC +VCPKGLNP++AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966511044|ref|WP_058527635.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella erythra] &gt;gi|962209474|gb|KTC94381.1| succinate dehydrogenase iron-sulfur subunit [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527635</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>447.588</Hsp_bit-score>
+      <Hsp_score>1150</Hsp_score>
+      <Hsp_evalue>7.63345e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADNRMLSLSIYRYNPELDESPYMKDYEIAVPAKSDSMLLTLLERLKAEQDPTIAYRRSCREGVCGSDGMNINGTNGLACITSLSQLNTDRIVIRPLPGFPVVRDLVVDMTQFYQQYERIEPYLQNNEVAPAHERLQSPEERAQLDGLYECILCACCTSSCPSFWWNPEKFVGPAGLLQARRFLADSRDTAKRHRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTQAIADIRKQMLNQET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNPE+D  PYMKDYEI +PAKSD MLLTLLERLKAEQDP+I YRRSCREGVCGSDGMNINGTNGLACIT +SQL TD+IVIRPLPGFPV+RDL VDMTQFYQQYERIEPYLQN+EVAPA ERLQSPEERAQLDGLYECILCACCTSSCPS+WWNP+KFVGPAGLLQARRFLADSRD A +HRLD LQDPFSVFRCR+IMNC NVCPKGLNPTQAIA IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|962243731|gb|KTD28048.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella maceachernii]</Hit_def>
+  <Hit_accession>KTD28048</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.432</Hsp_bit-score>
+      <Hsp_score>1147</Hsp_score>
+      <Hsp_evalue>1.77447e-156</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRTLSLSIYRYNPAVNDKPFMQNYEIEIPAKSDPMLLPVLERLKAEQDSTITYRRSCREGVCGSDGMNINGTNGLACITKISQLKSDKIVLRPLPGFPVIRDLVVDMSQFYQQYERIEPYLQNDTPAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDTAKKHRLDKLQDPFSVFRCRTIMNCADVCPKGLNPTKAIAEIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNP V+ KP+M++YEIEIPAKSDPMLL +LERLKAEQD +ITYRRSCREGVCGSDGMNINGTNGLACIT ISQLK+DKIV+RPLPGFPVIRDL VDM+QFYQQYERIEPYLQND  APARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRD A +HRLD LQDPFSVFRCRTIMNC +VCPKGLNPT+AIA+IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966476363|ref|WP_058507096.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella quinlivanii] &gt;gi|962268136|gb|KTD52166.1| succinate dehydrogenase iron-sulfur subunit [Legionella quinlivanii] &gt;gi|1090728667|emb|SEF76883.1| succinate dehydrogenase / fumarate reductase iron-sulfur subunit [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058507096</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>445.662</Hsp_bit-score>
+      <Hsp_score>1145</Hsp_score>
+      <Hsp_evalue>4.75623e-156</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MSASRTLSLHLYRYNPEVDSKPYMQEFKMEIPAKSDPMLLTLLERLKAEQDETITYRRSCREGVCGSDGMNINGTNGLACITSLSQLKTDKIVVRPLPGFPVIRDLVVDMSQFYQQYERIEPYLQNDEVAPARERLQTPEERSKLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATIKRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTQAISDIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>M+ SR L L +YRYNPEVD+KPYM+++++EIPAKSDPMLLTLLERLKAEQD +ITYRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKIV+RPLPGFPVIRDL VDM+QFYQQYERIEPYLQNDEVAPARERLQ+PEER++LDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD AT  RLD LQDPFSVFRCR+IMNC NVCPKGLNPTQAI+ IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966507167|ref|WP_058523813.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella birminghamensis] &gt;gi|962185026|gb|KTC70187.1| succinate dehydrogenase iron-sulfur subunit [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058523813</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>445.277</Hsp_bit-score>
+      <Hsp_score>1144</Hsp_score>
+      <Hsp_evalue>6.25467e-156</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MSASRILSLHLYRYNPEVDTKPYMQEFKIEIPAKSDPMLLTLLERLKAEQDESITYRRSCREGVCGSDGMNINGTNGLACITSLSQLKTDKIVVRPLPGFPVVRDLVVDMSQFYQQYERIEPYLQNDEVAPARERLQTPEERSKLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATIKRLDKLQDPFSVFRCRSIMNCANVCPKGLNPTQAISDIRKQMLTEET</Hsp_hseq>
+      <Hsp_midline>M+ SR L L +YRYNPEVD KPYM++++IEIPAKSDPMLLTLLERLKAEQD SITYRRSCREGVCGSDGMNINGTNGLACIT +SQLKTDKIV+RPLPGFPV+RDL VDM+QFYQQYERIEPYLQNDEVAPARERLQ+PEER++LDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFLADSRD AT  RLD LQDPFSVFRCR+IMNC NVCPKGLNPTQAI+ IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|644964229|ref|WP_025384984.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella oakridgensis] &gt;gi|570283919|gb|AHE66106.1| succinate dehydrogenase and fumarate reductase iron-sulfur protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570703271|gb|ETO94169.1| succinate dehydrogenase, subunit B [Legionella oakridgensis RV-2-2007] &gt;gi|962259730|gb|KTD43854.1| succinate dehydrogenase iron-sulfur subunit [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025384984</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>444.891</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>9.07745e-156</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRKLTLSIYRYNPEVDAKPYMKDYEIAIPEKSDPMLLTLLERLKMEQDATLAFRRSCREGVCGSDGMNINGTNGLACVTHLSKLNTDKIVIRPLPGFPVVRDLVVDMTQFYQQYERIEPYLQHDGVIPAREYLQSPEERAKLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDTATIHRLNKLQDPFSVFRCRTIMNCTNVCPKGLDPSKAIGEIRQQMLTHET</Hsp_hseq>
+      <Hsp_midline>MAD+R L LSIYRYNPEVDAKPYMKDYEI IP KSDPMLLTLLERLK EQD ++ +RRSCREGVCGSDGMNINGTNGLAC+TH+S+L TDKIVIRPLPGFPV+RDL VDMTQFYQQYERIEPYLQ+D V PARE LQSPEERA+LDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRD AT HRL+ LQDPFSVFRCRTIMNCTNVCPKGL+P++AI +IR QMLT ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966511732|ref|WP_058528286.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella londiniensis] &gt;gi|962238623|gb|KTD23031.1| succinate dehydrogenase iron-sulfur subunit [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528286</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>443.351</Hsp_bit-score>
+      <Hsp_score>1139</Hsp_score>
+      <Hsp_evalue>3.98321e-155</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MAETRSLTLSVYRYNPEVDDKPYMKDYEISIPSKSDPMLLTLLERLKSEQDATLAFRRSCREGVCGSDGMNINGTNALACITHVSKLNTDKIVIRPLPGFPVVRDLVVDMTQFYQQYERIEPYLQHDGTVPAREFLQSPEERAKLDGLYECILCACCTSSCPSYWWNPEKFVGPAGLLQARRFLADSRDTATMHRLGKLQDPFSVFRCRTIMNCTNVCPKGLNPTKAIAEIRLQMLKQET</Hsp_hseq>
+      <Hsp_midline>MA++R+L LS+YRYNPEVD KPYMKDYEI IP+KSDPMLLTLLERLK+EQD ++ +RRSCREGVCGSDGMNINGTN LACITH+S+L TDKIVIRPLPGFPV+RDL VDMTQFYQQYERIEPYLQ+D   PARE LQSPEERA+LDGLYECILCACCTSSCPSYWWNP+KFVGPAGLLQARRFLADSRD AT HRL  LQDPFSVFRCRTIMNCTNVCPKGLNPT+AIA+IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|654922079|ref|WP_028372636.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella lansingensis] &gt;gi|962237787|gb|KTD22226.1| succinate dehydrogenase iron-sulfur subunit [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372636</Hit_accession>
+  <Hit_len>240</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>441.81</Hsp_bit-score>
+      <Hsp_score>1135</Hsp_score>
+      <Hsp_evalue>1.6366e-154</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>240</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTRNLSLSIYRYNPEANTEPYMQDFEIAIPVKSDPMLLTLLERLKAEQDVTLAFRRSCREGVCGSDAMNINGTNGLACVIPLSQLKTDKIVVRPLPGFPVIRDLVVDLTQFYQQYERIEPYLQNDDVVPARERLQSPAERAKLDGLYECILCACCTSSCPSFWWNPDKFVGPAGLLQARRFLVDSRDTATQHRLEKLQDPFSVFRCRSIMNCTNVCPKGLNPTQAIAEIRKQMLAQET</Hsp_hseq>
+      <Hsp_midline>MAD+RNL LSIYRYNPE + +PYM+D+EI IP KSDPMLLTLLERLKAEQD ++ +RRSCREGVCGSD MNINGTNGLAC+  +SQLKTDKIV+RPLPGFPVIRDL VD+TQFYQQYERIEPYLQND+V PARERLQSP ERA+LDGLYECILCACCTSSCPS+WWNPDKFVGPAGLLQARRFL DSRD ATQHRL+ LQDPFSVFRCR+IMNCTNVCPKGLNPTQAIA+IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966470670|ref|WP_058501585.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Legionella israelensis] &gt;gi|962241734|gb|KTD26091.1| succinate dehydrogenase iron-sulfur subunit [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058501585</Hit_accession>
+  <Hit_len>241</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.269</Hsp_bit-score>
+      <Hsp_score>1131</Hsp_score>
+      <Hsp_evalue>5.85097e-154</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>241</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>241</Hsp_align-len>
+      <Hsp_qseq>MADSRNLILSIYRYNPEV-DAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>MADTKTLSLSIYRYNPEKKDAKPYMQDYEISIPAKSDPMLLTLLERLKAEQDNTIAYRRSCREGVCGSDGMNINGTNALACVTSLSHLKTDRIVIRPLPGFPVIRDLVVDMSQFYQQYERIEPYLQNEEEPPARERLQSPEERAKLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDSATLHRLDNLQDPFSVFRCRSIMNCTYVCPKGLNPTQAIAEIRKQMLNQET</Hsp_hseq>
+      <Hsp_midline>MAD++ L LSIYRYNPE  DAKPYM+DYEI IPAKSDPMLLTLLERLKAEQD +I YRRSCREGVCGSDGMNINGTN LAC+T +S LKTD+IVIRPLPGFPVIRDL VDM+QFYQQYERIEPYLQN+E  PARERLQSPEERA+LDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRD AT HRLD LQDPFSVFRCR+IMNCT VCPKGLNPTQAIA+IR QML QET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966426199|ref|WP_058468737.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Fluoribacter gormanii] &gt;gi|962216855|gb|KTD01609.1| succinate dehydrogenase iron-sulfur subunit [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468737</Hit_accession>
+  <Hit_len>241</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.269</Hsp_bit-score>
+      <Hsp_score>1131</Hsp_score>
+      <Hsp_evalue>6.97178e-154</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>241</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>239</Hsp_align-len>
+      <Hsp_qseq>ADSRNLILSIYRYNPEVDAKPYMKDYEIEIPAKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHISQLKTDKIVIRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNDEVAPARERLQSPEERAQLDGLYECILCACCTSSCPSYWWNPDKFVGPAGLLQARRFLADSRDKATQHRLDLLQDPFSVFRCRTIMNCTNVCPKGLNPTQAIAKIRTQMLTQET</Hsp_qseq>
+      <Hsp_hseq>ADSRKLTLSIYRYNPEVDAKPYMKDYELEIPVKSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITHVSQLNTDKIVVRPLPGFPVIRDLAVDMTQFYQQYERIEPYLQNNEVPPAQERLQSPEERAQLDGLYECILCACCSSSCPSFWWNPDKFVGPAGLLQARRFLADSRDTATADRLDKLQDPFSVFRCRSIMNCTNVCPKGLNPTKAISEIRQQMLTKET</Hsp_hseq>
+      <Hsp_midline>ADSR L LSIYRYNPEVDAKPYMKDYE+EIP KSDPMLLTLLERLKAEQDPSITYRRSCREGVCGSDGMNINGTNGLACITH+SQL TDKIV+RPLPGFPVIRDLAVDMTQFYQQYERIEPYLQN+EV PA+ERLQSPEERAQLDGLYECILCACC+SSCPS+WWNPDKFVGPAGLLQARRFLADSRD AT  RLD LQDPFSVFRCR+IMNCTNVCPKGLNPT+AI++IR QMLT+ET</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

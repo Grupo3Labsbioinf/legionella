@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_141081</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>476</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_141081</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>476</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248734|ref|WP_010946274.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|52840771|ref|YP_094570.1| hypothetical protein lpg0527 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627882|gb|AAU26623.1| signal transduction protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507285|gb|AEW50809.1| signal transduction protein [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|509081193|gb|AGN13441.1| signal transduction protein [Legionella pneumophila subsp. pneumophila str. Thunder Bay]</Hit_def>
+  <Hit_accession>WP_010946274</Hit_accession>
+  <Hit_len>383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>777.704</Hsp_bit-score>
+      <Hsp_score>2007</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>383</Hsp_identity>
+      <Hsp_positive>383</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>MEVFMITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MEVFMITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MEVFMITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|505257695|ref|WP_015444797.1|</Hit_id>
+  <Hit_def>HDOD domain-containing protein [Legionella pneumophila] &gt;gi|469492933|gb|AGH54778.1| hypothetical protein LPE509_02687 [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|998771529|emb|CZI75854.1| HDOD domain [Legionella pneumophila] &gt;gi|998795777|emb|CZI44521.1| HDOD domain [Legionella pneumophila] &gt;gi|998800567|emb|CZL12061.1| HDOD domain [Legionella pneumophila] &gt;gi|998804109|emb|CZK63625.1| HDOD domain [Legionella pneumophila] &gt;gi|998807199|emb|CZI31045.1| HDOD domain [Legionella pneumophila] &gt;gi|998810723|emb|CZI17164.1| HDOD domain [Legionella pneumophila] &gt;gi|998813118|emb|CZH14227.1| HDOD domain [Legionella pneumophila] &gt;gi|998816442|emb|CZM21139.1| HDOD domain [Legionella pneumophila] &gt;gi|998819741|emb|CZM00941.1| HDOD domain [Legionella pneumophila] &gt;gi|998825555|emb|CZK39280.1| HDOD domain [Legionella pneumophila] &gt;gi|998832828|emb|CZI19167.1| HDOD domain [Legionella pneumophila] &gt;gi|998834468|emb|CZL50851.1| HDOD domain [Legionella pneumophila] &gt;gi|998838700|emb|CZJ30719.1| HDOD domain [Legionella pneumophila] &gt;gi|998840509|emb|CZL84077.1| HDOD domain [Legionella pneumophila] &gt;gi|998843089|emb|CZL08031.1| HDOD domain [Legionella pneumophila] &gt;gi|998846320|emb|CZL09023.1| HDOD domain [Legionella pneumophila] &gt;gi|998849167|emb|CZI97158.1| HDOD domain [Legionella pneumophila] &gt;gi|998852433|emb|CZL88236.1| HDOD domain [Legionella pneumophila] &gt;gi|998855952|emb|CZL53438.1| HDOD domain [Legionella pneumophila] &gt;gi|998858617|emb|CZM29696.1| HDOD domain [Legionella pneumophila] &gt;gi|998862315|emb|CZK41161.1| HDOD domain [Legionella pneumophila] &gt;gi|998864765|emb|CZJ88283.1| HDOD domain [Legionella pneumophila] &gt;gi|998867214|emb|CZJ82984.1| HDOD domain [Legionella pneumophila] &gt;gi|998870200|emb|CZM41723.1| HDOD domain [Legionella pneumophila] &gt;gi|998873619|emb|CZK72029.1| HDOD domain [Legionella pneumophila] &gt;gi|998876213|emb|CZM47285.1| HDOD domain [Legionella pneumophila] &gt;gi|998879332|emb|CZJ74816.1| HDOD domain [Legionella pneumophila] &gt;gi|998885784|emb|CZM35538.1| HDOD domain [Legionella pneumophila] &gt;gi|998888592|emb|CZK49746.1| HDOD domain [Legionella pneumophila] &gt;gi|998895807|emb|CZK08875.1| HDOD domain [Legionella pneumophila] &gt;gi|998905261|emb|CZK92585.1| HDOD domain [Legionella pneumophila] &gt;gi|998908416|emb|CZL67897.1| HDOD domain [Legionella pneumophila] &gt;gi|998916093|emb|CZK72431.1| HDOD domain [Legionella pneumophila] &gt;gi|998917486|emb|CZL63773.1| HDOD domain [Legionella pneumophila] &gt;gi|998920466|emb|CZL70466.1| HDOD domain [Legionella pneumophila] &gt;gi|998926825|emb|CZL98558.1| HDOD domain [Legionella pneumophila] &gt;gi|998930925|emb|CZK83083.1| HDOD domain [Legionella pneumophila] &gt;gi|998933672|emb|CZL67639.1| HDOD domain [Legionella pneumophila] &gt;gi|998938738|emb|CZL20651.1| HDOD domain [Legionella pneumophila] &gt;gi|998946257|emb|CZK71773.1| HDOD domain [Legionella pneumophila] &gt;gi|998947985|emb|CZL29061.1| HDOD domain [Legionella pneumophila] &gt;gi|998956953|emb|CZM66739.1| HDOD domain [Legionella pneumophila] &gt;gi|998960468|emb|CZK68896.1| HDOD domain [Legionella pneumophila] &gt;gi|998963156|emb|CZK79467.1| HDOD domain [Legionella pneumophila] &gt;gi|998966706|emb|CZM41285.1| HDOD domain [Legionella pneumophila] &gt;gi|998969382|emb|CZL06556.1| HDOD domain [Legionella pneumophila] &gt;gi|998972391|emb|CZK82999.1| HDOD domain [Legionella pneumophila] &gt;gi|998978505|emb|CZM01639.1| HDOD domain [Legionella pneumophila] &gt;gi|998986115|emb|CZK10442.1| HDOD domain [Legionella pneumophila] &gt;gi|998987497|emb|CZL89183.1| HDOD domain [Legionella pneumophila] &gt;gi|998998283|emb|CZJ97294.1| HDOD domain [Legionella pneumophila] &gt;gi|999006419|emb|CZL22834.1| HDOD domain [Legionella pneumophila] &gt;gi|999011884|emb|CZL84446.1| HDOD domain [Legionella pneumophila] &gt;gi|999014925|emb|CZM77840.1| HDOD domain [Legionella pneumophila] &gt;gi|999021228|emb|CZL94322.1| HDOD domain [Legionella pneumophila] &gt;gi|999024041|emb|CZL20626.1| HDOD domain [Legionella pneumophila] &gt;gi|999036238|emb|CZL85983.1| HDOD domain [Legionella pneumophila] &gt;gi|999045232|emb|CZM31088.1| HDOD domain [Legionella pneumophila] &gt;gi|999060292|emb|CZL80603.1| HDOD domain [Legionella pneumophila] &gt;gi|999066490|emb|CZJ50434.1| HDOD domain [Legionella pneumophila] &gt;gi|999075373|emb|CZH16831.1| HDOD domain [Legionella pneumophila] &gt;gi|999078623|emb|CZK44694.1| HDOD domain [Legionella pneumophila] &gt;gi|999083090|emb|CZK86971.1| HDOD domain [Legionella pneumophila] &gt;gi|999087898|emb|CZL15435.1| HDOD domain [Legionella pneumophila] &gt;gi|999090960|emb|CZL90611.1| HDOD domain [Legionella pneumophila] &gt;gi|999093882|emb|CZH50033.1| HDOD domain [Legionella pneumophila] &gt;gi|999096966|emb|CZH52256.1| HDOD domain [Legionella pneumophila] &gt;gi|999101395|emb|CZL75963.1| HDOD domain [Legionella pneumophila] &gt;gi|999110919|emb|CZL04612.1| HDOD domain [Legionella pneumophila] &gt;gi|999114056|emb|CZL59495.1| HDOD domain [Legionella pneumophila] &gt;gi|999115948|emb|CZK74019.1| HDOD domain [Legionella pneumophila] &gt;gi|999124743|emb|CZL32121.1| HDOD domain [Legionella pneumophila] &gt;gi|999132506|emb|CZL69721.1| HDOD domain [Legionella pneumophila] &gt;gi|999133892|emb|CZL47726.1| HDOD domain [Legionella pneumophila] &gt;gi|999136972|emb|CZK88429.1| HDOD domain [Legionella pneumophila] &gt;gi|999140891|emb|CZL86327.1| HDOD domain [Legionella pneumophila] &gt;gi|999144850|emb|CZK81535.1| HDOD domain [Legionella pneumophila] &gt;gi|999146378|emb|CZM11713.1| HDOD domain [Legionella pneumophila] &gt;gi|999155606|emb|CZI37670.1| HDOD domain [Legionella pneumophila] &gt;gi|999174207|emb|CZL61332.1| HDOD domain [Legionella pneumophila] &gt;gi|999189798|emb|CZI75395.1| HDOD domain [Legionella pneumophila] &gt;gi|999192918|emb|CZJ16273.1| HDOD domain [Legionella pneumophila] &gt;gi|999199253|emb|CZH01618.1| HDOD domain [Legionella pneumophila] &gt;gi|999202127|emb|CZJ21053.1| HDOD domain [Legionella pneumophila] &gt;gi|999208430|emb|CZL35047.1| HDOD domain [Legionella pneumophila] &gt;gi|999217940|emb|CZM05018.1| HDOD domain [Legionella pneumophila] &gt;gi|999220909|emb|CZJ08192.1| HDOD domain [Legionella pneumophila] &gt;gi|999333349|emb|CZL30555.1| HDOD domain [Legionella pneumophila] &gt;gi|1002078809|emb|CZQ91973.1| HDOD domain [Legionella pneumophila] &gt;gi|1003018391|emb|CZR30509.1| signal transduction protein [Legionella pneumophila] &gt;gi|1003021463|emb|CZR26873.1| signal transduction protein [Legionella pneumophila] &gt;gi|1003024497|emb|CZR30229.1| signal transduction protein [Legionella pneumophila] &gt;gi|1073863694|gb|AOU03645.1| histidine kinase [Legionella pneumophila] &gt;gi|1073866652|gb|AOU06602.1| histidine kinase [Legionella pneumophila] &gt;gi|1073869657|gb|AOU09606.1| histidine kinase [Legionella pneumophila] &gt;gi|1073872601|gb|AOU12549.1| histidine kinase [Legionella pneumophila] &gt;gi|1073875583|gb|AOU15530.1| histidine kinase [Legionella pneumophila] &gt;gi|1073878545|gb|AOU18491.1| histidine kinase [Legionella pneumophila] &gt;gi|1073881539|gb|AOU21484.1| histidine kinase [Legionella pneumophila] &gt;gi|1073884501|gb|AOU24445.1| histidine kinase [Legionella pneumophila] &gt;gi|1073887500|gb|AOU27443.1| histidine kinase [Legionella pneumophila] &gt;gi|1073890483|gb|AOU30425.1| histidine kinase [Legionella pneumophila] &gt;gi|1073893448|gb|AOU33389.1| histidine kinase [Legionella pneumophila] &gt;gi|1073896413|gb|AOU36353.1| histidine kinase [Legionella pneumophila] &gt;gi|1073899377|gb|AOU39316.1| histidine kinase [Legionella pneumophila] &gt;gi|1073902329|gb|AOU42267.1| histidine kinase [Legionella pneumophila] &gt;gi|1073905240|gb|AOU45177.1| histidine kinase [Legionella pneumophila] &gt;gi|1073908257|gb|AOU48192.1| histidine kinase [Legionella pneumophila] &gt;gi|1073911313|gb|AOU51245.1| histidine kinase [Legionella pneumophila] &gt;gi|1073914231|gb|AOU54162.1| histidine kinase [Legionella pneumophila] &gt;gi|1073917189|gb|AOU57119.1| histidine kinase [Legionella pneumophila] &gt;gi|1073920156|gb|AOU60085.1| histidine kinase [Legionella pneumophila] &gt;gi|1073923129|gb|AOU63056.1| histidine kinase [Legionella pneumophila] &gt;gi|1073926143|gb|AOU66069.1| histidine kinase [Legionella pneumophila] &gt;gi|1073929123|gb|AOU69032.1| histidine kinase [Legionella pneumophila] &gt;gi|1073932507|gb|AOU72066.1| histidine kinase [Legionella pneumophila] &gt;gi|1073935454|gb|AOU82453.1| histidine kinase [Legionella pneumophila] &gt;gi|1073945729|gb|AOU85453.1| histidine kinase [Legionella pneumophila] &gt;gi|1073948692|gb|AOU88415.1| histidine kinase [Legionella pneumophila] &gt;gi|1104001848|emb|SFZ36447.1| HDOD domain [Legionella pneumophila] &gt;gi|1129967307|gb|APT97666.1| histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444797</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>769.229</Hsp_bit-score>
+      <Hsp_score>1985</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>379</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1004057963|ref|WP_061512135.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061512135</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>766.918</Hsp_bit-score>
+      <Hsp_score>1979</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPSNNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETP NNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|653014644|ref|WP_027266674.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266674</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.222</Hsp_bit-score>
+      <Hsp_score>1972</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIVQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMNN</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESI QAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM+N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1004017352|ref|WP_061485148.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485148</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.503</Hsp_bit-score>
+      <Hsp_score>1926</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELIRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLVNTPQQLAWLNFAEYIGLTEQLMSQSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLFNSIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQADPLLSYQLLKLVNSVGFSNGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMNN</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEEL RQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALL+NTPQQLAWLNFAEYIGLTEQLMS+SDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFL NSIAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQADPLLSYQLLKLVNSVGFS+GPSIESIDQAVARLGIINLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM+N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|499526517|ref|WP_011213157.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|53750346|emb|CAH11740.1| hypothetical protein lpp0592 [Legionella pneumophila str. Paris] &gt;gi|536613639|gb|ERB42011.1| histidine kinase [Legionella pneumophila str. 121004] &gt;gi|541995604|gb|ERH41703.1| histidine kinase [Legionella pneumophila str. Leg01/11] &gt;gi|542121185|gb|ERI47518.1| histidine kinase [Legionella pneumophila str. Leg01/20] &gt;gi|762002550|dbj|GAN25668.1| HDOD domain protein [Legionella pneumophila] &gt;gi|999171851|emb|CZI29301.1| HDOD domain [Legionella pneumophila] &gt;gi|999181640|emb|CZG51326.1| HDOD domain [Legionella pneumophila] &gt;gi|999187807|emb|CZI95235.1| HDOD domain [Legionella pneumophila] &gt;gi|999212724|emb|CZG77582.1| HDOD domain [Legionella pneumophila] &gt;gi|999216918|emb|CZI66336.1| HDOD domain [Legionella pneumophila] &gt;gi|999225330|emb|CZG83703.1| HDOD domain [Legionella pneumophila] &gt;gi|999359970|emb|CZI61296.1| HDOD domain [Legionella pneumophila] &gt;gi|999373458|emb|CZG57290.1| HDOD domain [Legionella pneumophila] &gt;gi|999376493|emb|CZJ18900.1| HDOD domain [Legionella pneumophila] &gt;gi|999379751|emb|CZH69541.1| HDOD domain [Legionella pneumophila] &gt;gi|999382646|emb|CZI57410.1| HDOD domain [Legionella pneumophila] &gt;gi|999386285|emb|CZG64572.1| HDOD domain [Legionella pneumophila] &gt;gi|999389096|emb|CZI56235.1| HDOD domain [Legionella pneumophila] &gt;gi|999396906|emb|CZG09717.1| HDOD domain [Legionella pneumophila] &gt;gi|999405922|emb|CZG72334.1| HDOD domain [Legionella pneumophila] &gt;gi|999408891|emb|CZH90799.1| HDOD domain [Legionella pneumophila] &gt;gi|999412739|emb|CZG32757.1| HDOD domain [Legionella pneumophila] &gt;gi|999415434|emb|CZG88684.1| HDOD domain [Legionella pneumophila] &gt;gi|999418774|emb|CZG64842.1| HDOD domain [Legionella pneumophila] &gt;gi|999421969|emb|CZH73154.1| HDOD domain [Legionella pneumophila] &gt;gi|999425283|emb|CZG75270.1| HDOD domain [Legionella pneumophila] &gt;gi|999428363|emb|CZG72187.1| HDOD domain [Legionella pneumophila] &gt;gi|999431647|emb|CZG73559.1| HDOD domain [Legionella pneumophila] &gt;gi|999435005|emb|CZI00741.1| HDOD domain [Legionella pneumophila] &gt;gi|999438189|emb|CZG62709.1| HDOD domain [Legionella pneumophila] &gt;gi|999441185|emb|CZK29289.1| signal transduction protein [Legionella pneumophila] &gt;gi|999444622|emb|CZH76715.1| HDOD domain [Legionella pneumophila] &gt;gi|999447825|emb|CZG53064.1| HDOD domain [Legionella pneumophila] &gt;gi|999457566|emb|CZK21582.1| HDOD domain [Legionella pneumophila] &gt;gi|999496251|emb|CZI46321.1| HDOD domain [Legionella pneumophila] &gt;gi|999525362|emb|CZJ07865.1| HDOD domain [Legionella pneumophila] &gt;gi|999528075|emb|CZI74866.1| HDOD domain [Legionella pneumophila] &gt;gi|999576024|emb|CZI41941.1| HDOD domain [Legionella pneumophila] &gt;gi|999611280|emb|CZI62620.1| HDOD domain [Legionella pneumophila] &gt;gi|1003031219|emb|CZR32082.1| HDOD domain [Legionella pneumophila] &gt;gi|1041017664|gb|ANN94724.1| histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213157</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.503</Hsp_bit-score>
+      <Hsp_score>1926</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>367</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPIEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKPIE+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504656304|ref|WP_014843406.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|395129618|emb|CCD07851.1| conserved protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|761992503|dbj|GAN16543.1| HDOD domain protein [Legionella pneumophila] &gt;gi|761995693|dbj|GAN19649.1| HDOD domain protein [Legionella pneumophila] &gt;gi|998774439|emb|CZH07870.1| HDOD domain [Legionella pneumophila] &gt;gi|998777319|emb|CZH12127.1| HDOD domain [Legionella pneumophila] &gt;gi|998783310|emb|CZH41497.1| HDOD domain [Legionella pneumophila] &gt;gi|998786229|emb|CZH06370.1| HDOD domain [Legionella pneumophila] &gt;gi|998892616|emb|CZJ23786.1| HDOD domain [Legionella pneumophila] &gt;gi|998981359|emb|CZJ20333.1| HDOD domain [Legionella pneumophila] &gt;gi|999107208|emb|CZI75149.1| HDOD domain [Legionella pneumophila] &gt;gi|999230567|emb|CZI93058.1| HDOD domain [Legionella pneumophila] &gt;gi|1002074276|emb|CZR05380.1| HDOD domain [Legionella pneumophila] &gt;gi|1002081615|emb|CZR00527.1| HDOD domain [Legionella pneumophila] &gt;gi|1032656704|gb|ANH11975.1| histidine kinase [Legionella pneumophila] &gt;gi|1032659671|gb|ANH14941.1| histidine kinase [Legionella pneumophila] &gt;gi|1032662638|gb|ANH17907.1| histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843406</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.117</Hsp_bit-score>
+      <Hsp_score>1925</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>366</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMNN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM+N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|504653962|ref|WP_014841064.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|395126511|emb|CCD04694.1| conserved protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|998791261|emb|CZG40977.1| HDOD domain [Legionella pneumophila] &gt;gi|998793122|emb|CZI51033.1| HDOD domain [Legionella pneumophila] &gt;gi|998822485|emb|CZH35112.1| HDOD domain [Legionella pneumophila] &gt;gi|998923729|emb|CZK24405.1| HDOD domain [Legionella pneumophila] &gt;gi|998943799|emb|CZJ50018.1| HDOD domain [Legionella pneumophila] &gt;gi|998954336|emb|CZK60663.1| HDOD domain [Legionella pneumophila] &gt;gi|998975507|emb|CZJ90230.1| HDOD domain [Legionella pneumophila] &gt;gi|998992827|emb|CZJ47753.1| HDOD domain [Legionella pneumophila] &gt;gi|999009058|emb|CZK46652.1| HDOD domain [Legionella pneumophila] &gt;gi|999018221|emb|CZJ87533.1| HDOD domain [Legionella pneumophila] &gt;gi|999027335|emb|CZK24976.1| HDOD domain [Legionella pneumophila] &gt;gi|999030563|emb|CZH23791.1| HDOD domain [Legionella pneumophila] &gt;gi|999033286|emb|CZK20870.1| HDOD domain [Legionella pneumophila] &gt;gi|999039491|emb|CZJ95935.1| HDOD domain [Legionella pneumophila] &gt;gi|999042442|emb|CZK04708.1| HDOD domain [Legionella pneumophila] &gt;gi|999048525|emb|CZK02100.1| HDOD domain [Legionella pneumophila] &gt;gi|999051572|emb|CZJ92240.1| HDOD domain [Legionella pneumophila] &gt;gi|999054549|emb|CZK29610.1| HDOD domain [Legionella pneumophila] &gt;gi|999063684|emb|CZK02020.1| HDOD domain [Legionella pneumophila] &gt;gi|999070573|emb|CZJ65069.1| HDOD domain [Legionella pneumophila] &gt;gi|999072792|emb|CZK31894.1| HDOD domain [Legionella pneumophila] &gt;gi|999084992|emb|CZK30525.1| HDOD domain [Legionella pneumophila] &gt;gi|999184328|emb|CZP95952.1| HDOD domain [Legionella pneumophila] &gt;gi|999198461|emb|CZP13358.1| HDOD domain [Legionella pneumophila] &gt;gi|999206194|emb|CZP62995.1| HDOD domain [Legionella pneumophila] &gt;gi|999228297|emb|CZP08201.1| HDOD domain [Legionella pneumophila] &gt;gi|999235202|emb|CZP58138.1| HDOD domain [Legionella pneumophila] &gt;gi|999240288|emb|CZH90935.1| HDOD domain [Legionella pneumophila] &gt;gi|999244367|emb|CZH76396.1| HDOD domain [Legionella pneumophila] &gt;gi|999247879|emb|CZH56205.1| HDOD domain [Legionella pneumophila] &gt;gi|999248773|emb|CZH08002.1| HDOD domain [Legionella pneumophila] &gt;gi|999251989|emb|CZH36758.1| HDOD domain [Legionella pneumophila] &gt;gi|999255979|emb|CZP79473.1| HDOD domain [Legionella pneumophila] &gt;gi|999259115|emb|CZP47003.1| HDOD domain [Legionella pneumophila] &gt;gi|999261297|emb|CZH41500.1| HDOD domain [Legionella pneumophila] &gt;gi|999265214|emb|CZP07022.1| HDOD domain [Legionella pneumophila] &gt;gi|999269426|emb|CZO33159.1| HDOD domain [Legionella pneumophila] &gt;gi|999272228|emb|CZP57991.1| HDOD domain [Legionella pneumophila] &gt;gi|999274795|emb|CZG78757.1| HDOD domain [Legionella pneumophila] &gt;gi|999277610|emb|CZP36838.1| HDOD domain [Legionella pneumophila] &gt;gi|999281359|emb|CZP16387.1| HDOD domain [Legionella pneumophila] &gt;gi|999283673|emb|CZP61731.1| HDOD domain [Legionella pneumophila] &gt;gi|999290990|emb|CZP32180.1| HDOD domain [Legionella pneumophila] &gt;gi|999296483|emb|CZP58273.1| HDOD domain [Legionella pneumophila] &gt;gi|999299570|emb|CZP47732.1| HDOD domain [Legionella pneumophila] &gt;gi|999307308|emb|CZH70553.1| HDOD domain [Legionella pneumophila] &gt;gi|999309372|emb|CZP26851.1| HDOD domain [Legionella pneumophila] &gt;gi|999315820|emb|CZI10212.1| HDOD domain [Legionella pneumophila] &gt;gi|999318680|emb|CZP65108.1| HDOD domain [Legionella pneumophila] &gt;gi|999322022|emb|CZH98269.1| HDOD domain [Legionella pneumophila] &gt;gi|999324439|emb|CZH33227.1| HDOD domain [Legionella pneumophila] &gt;gi|999328625|emb|CZG64206.1| HDOD domain [Legionella pneumophila] &gt;gi|999331863|emb|CZG59756.1| HDOD domain [Legionella pneumophila] &gt;gi|999337759|emb|CZP47138.1| HDOD domain [Legionella pneumophila] &gt;gi|999340081|emb|CZH26287.1| HDOD domain [Legionella pneumophila] &gt;gi|999344450|emb|CZP84280.1| HDOD domain [Legionella pneumophila] &gt;gi|999347211|emb|CZP63374.1| HDOD domain [Legionella pneumophila] &gt;gi|999349706|emb|CZH41253.1| HDOD domain [Legionella pneumophila] &gt;gi|999353471|emb|CZP69007.1| HDOD domain [Legionella pneumophila] &gt;gi|999357229|emb|CZP68033.1| HDOD domain [Legionella pneumophila] &gt;gi|999363809|emb|CZP56536.1| HDOD domain [Legionella pneumophila] &gt;gi|999367119|emb|CZP76809.1| HDOD domain [Legionella pneumophila] &gt;gi|999369938|emb|CZP77680.1| HDOD domain [Legionella pneumophila] &gt;gi|999392308|emb|CZP98071.1| HDOD domain [Legionella pneumophila] &gt;gi|999398556|emb|CZQ00987.1| HDOD domain [Legionella pneumophila] &gt;gi|999403119|emb|CZP41381.1| HDOD domain [Legionella pneumophila] &gt;gi|999450625|emb|CZP35738.1| HDOD domain [Legionella pneumophila] &gt;gi|999454066|emb|CZI21875.1| HDOD domain [Legionella pneumophila] &gt;gi|999460531|emb|CZH01151.1| HDOD domain [Legionella pneumophila] &gt;gi|999464850|emb|CZM52731.1| HDOD domain [Legionella pneumophila] &gt;gi|999467874|emb|CZO29909.1| HDOD domain [Legionella pneumophila] &gt;gi|999469314|emb|CZH06866.1| HDOD domain [Legionella pneumophila] &gt;gi|999474701|emb|CZM61439.1| HDOD domain [Legionella pneumophila] &gt;gi|999477158|emb|CZN74510.1| HDOD domain [Legionella pneumophila] &gt;gi|999480660|emb|CZN00037.1| HDOD domain [Legionella pneumophila] &gt;gi|999484249|emb|CZN89807.1| HDOD domain [Legionella pneumophila] &gt;gi|999487092|emb|CZM11328.1| HDOD domain [Legionella pneumophila] &gt;gi|999490265|emb|CZN78764.1| HDOD domain [Legionella pneumophila] &gt;gi|999493456|emb|CZM10791.1| HDOD domain [Legionella pneumophila] &gt;gi|999500036|emb|CZN73213.1| HDOD domain [Legionella pneumophila] &gt;gi|999503162|emb|CZO07418.1| HDOD domain [Legionella pneumophila] &gt;gi|999506370|emb|CZN16375.1| HDOD domain [Legionella pneumophila] &gt;gi|999509573|emb|CZG51543.1| HDOD domain [Legionella pneumophila] &gt;gi|999512911|emb|CZN30344.1| HDOD domain [Legionella pneumophila] &gt;gi|999516001|emb|CZM00176.1| HDOD domain [Legionella pneumophila] &gt;gi|999519002|emb|CZM84558.1| HDOD domain [Legionella pneumophila] &gt;gi|999521868|emb|CZP16076.1| HDOD domain [Legionella pneumophila] &gt;gi|999532358|emb|CZO46510.1| HDOD domain [Legionella pneumophila] &gt;gi|999535514|emb|CZN40452.1| HDOD domain [Legionella pneumophila] &gt;gi|999538595|emb|CZM76261.1| HDOD domain [Legionella pneumophila] &gt;gi|999542039|emb|CZO21051.1| HDOD domain [Legionella pneumophila] &gt;gi|999545001|emb|CZO61382.1| HDOD domain [Legionella pneumophila] &gt;gi|999548155|emb|CZN88958.1| HDOD domain [Legionella pneumophila] &gt;gi|999551467|emb|CZO10740.1| HDOD domain [Legionella pneumophila] &gt;gi|999554502|emb|CZN30960.1| HDOD domain [Legionella pneumophila] &gt;gi|999557923|emb|CZO56113.1| HDOD domain [Legionella pneumophila] &gt;gi|999561068|emb|CZM41291.1| HDOD domain [Legionella pneumophila] &gt;gi|999564074|emb|CZO66407.1| HDOD domain [Legionella pneumophila] &gt;gi|999567438|emb|CZM52283.1| HDOD domain [Legionella pneumophila] &gt;gi|999570638|emb|CZN50317.1| HDOD domain [Legionella pneumophila] &gt;gi|999573826|emb|CZN92406.1| HDOD domain [Legionella pneumophila] &gt;gi|999580318|emb|CZO16067.1| HDOD domain [Legionella pneumophila] &gt;gi|999583606|emb|CZO37507.1| HDOD domain [Legionella pneumophila] &gt;gi|999586969|emb|CZM64289.1| HDOD domain [Legionella pneumophila] &gt;gi|999589996|emb|CZM40769.1| HDOD domain [Legionella pneumophila] &gt;gi|999593155|emb|CZN45583.1| HDOD domain [Legionella pneumophila] &gt;gi|999596228|emb|CZO12453.1| HDOD domain [Legionella pneumophila] &gt;gi|999599548|emb|CZO38037.1| HDOD domain [Legionella pneumophila] &gt;gi|999602626|emb|CZL96451.1| HDOD domain [Legionella pneumophila] &gt;gi|999605414|emb|CZN72398.1| HDOD domain [Legionella pneumophila] &gt;gi|999608951|emb|CZN62935.1| HDOD domain [Legionella pneumophila] &gt;gi|999615563|emb|CZM46878.1| HDOD domain [Legionella pneumophila] &gt;gi|999618668|emb|CZN91236.1| HDOD domain [Legionella pneumophila] &gt;gi|999621762|emb|CZO81595.1| HDOD domain [Legionella pneumophila] &gt;gi|999625090|emb|CZN71041.1| HDOD domain [Legionella pneumophila] &gt;gi|999628411|emb|CZM63294.1| HDOD domain [Legionella pneumophila] &gt;gi|999631539|emb|CZM58774.1| HDOD domain [Legionella pneumophila] &gt;gi|999634599|emb|CZN58997.1| HDOD domain [Legionella pneumophila] &gt;gi|999637927|emb|CZN51036.1| HDOD domain [Legionella pneumophila] &gt;gi|999641123|emb|CZO79007.1| HDOD domain [Legionella pneumophila] &gt;gi|999644115|emb|CZO52517.1| HDOD domain [Legionella pneumophila] &gt;gi|999647606|emb|CZN94400.1| HDOD domain [Legionella pneumophila] &gt;gi|999650708|emb|CZO05465.1| HDOD domain [Legionella pneumophila] &gt;gi|999653907|emb|CZO00564.1| HDOD domain [Legionella pneumophila] &gt;gi|999657104|emb|CZM29055.1| HDOD domain [Legionella pneumophila] &gt;gi|999660178|emb|CZM64691.1| HDOD domain [Legionella pneumophila] &gt;gi|999663391|emb|CZN17979.1| HDOD domain [Legionella pneumophila] &gt;gi|999666756|emb|CZM38703.1| HDOD domain [Legionella pneumophila] &gt;gi|999669948|emb|CZL84901.1| HDOD domain [Legionella pneumophila] &gt;gi|999673088|emb|CZM37320.1| HDOD domain [Legionella pneumophila] &gt;gi|999676342|emb|CZN78518.1| HDOD domain [Legionella pneumophila] &gt;gi|999679313|emb|CZM78532.1| HDOD domain [Legionella pneumophila] &gt;gi|999682508|emb|CZM81861.1| HDOD domain [Legionella pneumophila] &gt;gi|999686195|emb|CZN99471.1| HDOD domain [Legionella pneumophila] &gt;gi|999689137|emb|CZN31029.1| HDOD domain [Legionella pneumophila] &gt;gi|999692330|emb|CZN99946.1| HDOD domain [Legionella pneumophila] &gt;gi|999695547|emb|CZN29924.1| HDOD domain [Legionella pneumophila] &gt;gi|999698786|emb|CZM11802.1| HDOD domain [Legionella pneumophila] &gt;gi|999701730|emb|CZM77815.1| HDOD domain [Legionella pneumophila] &gt;gi|999704965|emb|CZL93966.1| HDOD domain [Legionella pneumophila] &gt;gi|999708177|emb|CZN57424.1| HDOD domain [Legionella pneumophila] &gt;gi|999711596|emb|CZN01679.1| HDOD domain [Legionella pneumophila] &gt;gi|999714692|emb|CZN22287.1| HDOD domain [Legionella pneumophila] &gt;gi|999717978|emb|CZO45277.1| HDOD domain [Legionella pneumophila] &gt;gi|999720934|emb|CZM92944.1| HDOD domain [Legionella pneumophila] &gt;gi|999724453|emb|CZN33616.1| HDOD domain [Legionella pneumophila] &gt;gi|999727842|emb|CZL99673.1| HDOD domain [Legionella pneumophila] &gt;gi|999730975|emb|CZO43064.1| HDOD domain [Legionella pneumophila] &gt;gi|999734185|emb|CZM26084.1| HDOD domain [Legionella pneumophila] &gt;gi|999737475|emb|CZO70201.1| HDOD domain [Legionella pneumophila] &gt;gi|999740956|emb|CZM31302.1| HDOD domain [Legionella pneumophila] &gt;gi|999744106|emb|CZN27227.1| HDOD domain [Legionella pneumophila] &gt;gi|999747248|emb|CZM25264.1| HDOD domain [Legionella pneumophila] &gt;gi|999750520|emb|CZL95605.1| HDOD domain [Legionella pneumophila] &gt;gi|999753716|emb|CZM80663.1| HDOD domain [Legionella pneumophila] &gt;gi|999756767|emb|CZN09925.1| HDOD domain [Legionella pneumophila] &gt;gi|999760268|emb|CZM23934.1| HDOD domain [Legionella pneumophila] &gt;gi|999763387|emb|CZN30624.1| HDOD domain [Legionella pneumophila] &gt;gi|999766913|emb|CZM49124.1| HDOD domain [Legionella pneumophila] &gt;gi|999769762|emb|CZN51480.1| HDOD domain [Legionella pneumophila] &gt;gi|999773125|emb|CZH89541.1| HDOD domain [Legionella pneumophila] &gt;gi|999776226|emb|CZM00520.1| HDOD domain [Legionella pneumophila] &gt;gi|999777492|emb|CZH50355.1| HDOD domain [Legionella pneumophila] &gt;gi|999782886|emb|CZH62344.1| HDOD domain [Legionella pneumophila] &gt;gi|999786425|emb|CZM24942.1| HDOD domain [Legionella pneumophila] &gt;gi|999789590|emb|CZO67794.1| HDOD domain [Legionella pneumophila] &gt;gi|999792935|emb|CZO61180.1| HDOD domain [Legionella pneumophila] &gt;gi|999796071|emb|CZI21355.1| HDOD domain [Legionella pneumophila] &gt;gi|999799820|emb|CZO56551.1| HDOD domain [Legionella pneumophila] &gt;gi|1003029182|emb|CZR19043.1| signal transduction protein [Legionella pneumophila] &gt;gi|1003036365|emb|CZR16944.1| signal transduction protein [Legionella pneumophila] &gt;gi|1005832296|gb|AMQ27022.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431664|gb|AMV13291.1| HDOD domain protein [Legionella pneumophila] &gt;gi|1041014566|gb|ANN91627.1| histidine kinase [Legionella pneumophila] &gt;gi|1103995597|emb|SFZ36760.1| HDOD domain [Legionella pneumophila] &gt;gi|1103998729|emb|SFZ36490.1| HDOD domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841064</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>745.732</Hsp_bit-score>
+      <Hsp_score>1924</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>366</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|749507433|ref|WP_040147876.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|998783021|emb|CZI85882.1| HDOD domain [Legionella pneumophila] &gt;gi|998828327|emb|CZH38202.1| HDOD domain [Legionella pneumophila] &gt;gi|998882995|emb|CZI84381.1| HDOD domain [Legionella pneumophila] &gt;gi|998897712|emb|CZK08882.1| HDOD domain [Legionella pneumophila] &gt;gi|998938039|emb|CZL87311.1| HDOD domain [Legionella pneumophila] &gt;gi|998951078|emb|CZJ96004.1| HDOD domain [Legionella pneumophila] &gt;gi|999000098|emb|CZG95020.1| HDOD domain [Legionella pneumophila] &gt;gi|999058438|emb|CZM29286.1| HDOD domain [Legionella pneumophila] &gt;gi|999103696|emb|CZI19377.1| HDOD domain [Legionella pneumophila] &gt;gi|999128510|emb|CZH16366.1| HDOD domain [Legionella pneumophila] &gt;gi|999152634|emb|CZM83117.1| HDOD domain [Legionella pneumophila] &gt;gi|999161885|emb|CZM39182.1| HDOD domain [Legionella pneumophila] &gt;gi|999236699|emb|CZG93287.1| HDOD domain [Legionella pneumophila] &gt;gi|1002085542|emb|CZQ97371.1| HDOD domain [Legionella pneumophila] &gt;gi|1002088308|emb|CZQ79067.1| HDOD domain [Legionella pneumophila] &gt;gi|1104005412|emb|SFZ36448.1| HDOD domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040147876</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>744.962</Hsp_bit-score>
+      <Hsp_score>1922</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIYSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNI+SQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1004026631|ref|WP_061488960.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061488960</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>744.577</Hsp_bit-score>
+      <Hsp_score>1921</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEKLAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAE+LAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|652970701|ref|WP_027223593.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|1005362801|gb|AMP88670.1| histidine kinase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365802|gb|AMP91579.1| histidine kinase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368789|gb|AMP94565.1| histidine kinase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223593</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>743.806</Hsp_bit-score>
+      <Hsp_score>1919</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>366</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKMLEQFETPINNPIILKLSADEIESVYSLAELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYGLNQHVNFEKCKAMTMDYYCGDFLLNPIAEERTEIAANKLNVLQLIQELQKEDCDLNTITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEILESGLIRAHMAEALAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEHITLAEEIKNALTNKSGPLGSLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMNS</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKK+LEQFETPINNPIILKLSADEIESVYSL ELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAY LNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIE+LESGLIRAHMAE LAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVE ITLAEEIK+ALTNKSGPLG LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1004334308|ref|WP_061513233.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513233</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.88</Hsp_bit-score>
+      <Hsp_score>1914</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFATPINNPIILKLSADEIESVYSLTELQDSVFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQF TPINNPIILKLSADEIESVYSLTELQDS+FSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|499533487|ref|WP_011214771.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|53753354|emb|CAH14804.1| hypothetical protein lpl0573 [Legionella pneumophila str. Lens] &gt;gi|1080002197|gb|AOW52769.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006051|gb|AOW56331.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008091|gb|AOW58079.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012248|gb|AOW61739.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014695|gb|AOW63568.1| histidine kinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018491|gb|AOW67136.1| histidine kinase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214771</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.495</Hsp_bit-score>
+      <Hsp_score>1913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFEMPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLKTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFE PINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDL  ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|652976160|ref|WP_027228833.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|985765938|gb|KXB27049.1| histidine kinase [Legionella pneumophila] &gt;gi|985767752|gb|KXB28838.1| histidine kinase [Legionella pneumophila] &gt;gi|999119249|emb|CZG75785.1| HDOD domain [Legionella pneumophila] &gt;gi|999122543|emb|CZH13610.1| HDOD domain [Legionella pneumophila] &gt;gi|1024341683|gb|KZX35990.1| histidine kinase [Legionella pneumophila] &gt;gi|1108603998|gb|APF02366.1| histidine kinase [Legionella pneumophila subsp. fraseri] &gt;gi|1108607009|gb|APF05376.1| histidine kinase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228833</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.495</Hsp_bit-score>
+      <Hsp_score>1913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHSDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLAELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYGLNQHVNFEKCKAMTMDYYCGDFLLNSIAEERTEIAANKLNVLQLIQELQKEDCDLNTITHIIQIDPLLSYQLLKLVNSVGFSSGPSIESIDQAVIRLGIINLKKWVMLFSMKNISDKPIEILESGLIRAHMAEAIAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMNS</Hsp_hseq>
+      <Hsp_midline>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYH+DTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSL ELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAY LNQHVNFEKCKAMTMDYYCGDFLLNSIAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAV RLGIINLKKWVMLFSMKNISDKPIE+LESGLIRAHMAE +AKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|749504879|ref|WP_040145846.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|998801828|emb|CZI08193.1| HDOD domain [Legionella pneumophila] &gt;gi|999149980|emb|CZI49356.1| HDOD domain [Legionella pneumophila] &gt;gi|999165732|emb|CZG85187.1| HDOD domain [Legionella pneumophila] &gt;gi|999168628|emb|CZI46236.1| HDOD domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145846</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.11</Hsp_bit-score>
+      <Hsp_score>1912</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLPADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMNKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKL ADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLM+KSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|500490263|ref|WP_011945719.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|148282590|gb|ABQ56678.1| Predicted signal transduction protein containing EAL and modified HD-GYP domains [Legionella pneumophila str. Corby] &gt;gi|295648020|gb|ADG23867.1| Predicted signal transduction protein containing EAL and modified HD-GYP domains [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989396|dbj|GAN22664.1| HDOD domain protein [Legionella pneumophila] &gt;gi|998912169|emb|CZH24064.1| HDOD domain [Legionella pneumophila] &gt;gi|998994587|emb|CZI23135.1| HDOD domain [Legionella pneumophila] &gt;gi|999003131|emb|CZI81153.1| HDOD domain [Legionella pneumophila] &gt;gi|999159330|emb|CZJ69605.1| HDOD domain [Legionella pneumophila] &gt;gi|999178337|emb|CZJ56262.1| HDOD domain [Legionella pneumophila] &gt;gi|999286021|emb|CZJ07685.1| HDOD domain [Legionella pneumophila] &gt;gi|999292400|emb|CZI87122.1| HDOD domain [Legionella pneumophila] &gt;gi|999301721|emb|CZI74179.1| HDOD domain [Legionella pneumophila] &gt;gi|999311302|emb|CZJ21183.1| HDOD domain [Legionella pneumophila] &gt;gi|1002090887|emb|CZR11532.1| HDOD domain [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945719</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>740.339</Hsp_bit-score>
+      <Hsp_score>1910</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLPADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMNKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCRAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKL ADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLM+KSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKC+AMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|749552141|ref|WP_040185211.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185211</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>739.184</Hsp_bit-score>
+      <Hsp_score>1907</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLNELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNYIAEEHSEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMTALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSL ELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLN IAEE +EIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPM ALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1003782888|ref|WP_061467274.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467274</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.643</Hsp_bit-score>
+      <Hsp_score>1903</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>362</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIAKRPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLPADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMNKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCRAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGIKIMSN</Hsp_hseq>
+      <Hsp_midline>MI KRPIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKL ADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLM+KSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKC+AMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQG KIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|981203819|ref|WP_059428194.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella pneumophila] &gt;gi|761998966|dbj|GAN29016.1| HDOD domain protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_059428194</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>733.791</Hsp_bit-score>
+      <Hsp_score>1893</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>99</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>ITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>LTIAPIYNQQLKCVAFEILSCRNVILNEELTRQFYELIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLPADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMNKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCRAMTMDYYCGDFLLNYIAEEHTEIAANKLNVLQLIQELQKEDCDLNTITHIIQEDPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGTINLKKWVMLFSMKNISDKPVEILESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKNALTNKSGPLGNLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_hseq>
+      <Hsp_midline>+T  PIYNQQLKCVAFEILSCRNV+LNEELTRQ Y+LIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKL ADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLM+KSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKC+AMTMDYYCGDFLLN IAEE TEIAANKLNVLQLIQELQKEDCDLN ITHIIQ DPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLG INLKKWVMLFSMKNISDKP+E+LESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIK+ALTNKSGPLG+LLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|517403191|ref|WP_018576055.1|</Hit_id>
+  <Hit_def>HDOD domain-containing protein [Legionella shakespearei] &gt;gi|962276143|gb|KTD60044.1| signal transduction protein [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576055</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>579.326</Hsp_bit-score>
+      <Hsp_score>1492</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>474</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>277</Hsp_identity>
+      <Hsp_positive>329</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM</Hsp_qseq>
+      <Hsp_hseq>MLVKRPIYNQQLKCVAFEILSYQNLKLNEELTNSLFELINNSDTQLPLFIPFALKAMLEQFEPPIQNPIILKLPAEQIESTYSLNELKESIFSIALLIDTPQQLAWLNFAEYIGLTDQLMSRADVTKVVQYSKANQRKVIAYGIAQPISFDKCKAMTMDYYCGDFLFKPAEDDQTEIAANKLNLLHLIQTLQKEDCDLFTISSIIQTDPLLSFQLLRIANSVAFSGGTSIDSIEQAVARLGVINLKNWIMLFSMKNISDKPVEILESGLIRAHMAEELAKGNPDITTQSAYTAGLLSILDCLLNKPMVELINQITLAEEIKNALMNQTGPLGKLLSLVVAYEEGHWDDVSQHQVNGHDLSKLYIDSLAYVSKSSKAM</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQQLKCVAFEILS +N+ LNEELT  L++LI ++DTQLPLF+PF+LK +LEQFE PI NPIILKL A++IES YSL EL++S+FSIALLI+TPQQLAWLNFAEYIGLT+QLMS++DVTKVVQYSKA  RK+IAY + Q ++F+KCKAMTMDYYCGDFL     ++ TEIAANKLN+L LIQ LQKEDCDL  I+ IIQ DPLLS+QLL++ NSV FS G SI+SI+QAVARLG+INLK W+MLFSMKNISDKP+E+LESGLIRAHMAEELAK + +I +QSAYTAGLLSILDCLLNKPM  L+ QITLAEEIK+AL N++GPLG LLSLV+AYEEGHW++V+Q  +NG DLS+LYIDSLA VS+ +K M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|769978698|ref|WP_045094683.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella fallonii] &gt;gi|698841941|emb|CEG55888.1| conserved protein of unknown function [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094683</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>542.347</Hsp_bit-score>
+      <Hsp_score>1396</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>372</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>MLVKRPIYNQQLNCVAFEILSHQNIQPTVEISHCLFELIHNSDTELPLFIPFSLKNILENVEPPINNPIILKLPAEEIESIYSLTELQESLFSIALLINTPQQLAWLNFAEYIALTEQLMSRADVTKVVQFSRAKNRKVIAYNLNKPISFDKCKAMTMDYYCGDFLFKPLNNDSTNLAANKLNVLHLIQILQKDDCDFNEISLIIQSDPLLSFQLLKIANSIVFSSGQKIGSIEQAVVRLGMINLKNWIMLLSMKNITDKPPEILESGLIRARMAEQLAKASKDIVSQSAYIAGLLSILDCLIDRPMSELINQITLADEIKNALLHYTGPLGELLALVIAYEEGHWENVPQPSFQGHDLSKLYIESLDFVAK</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQQL CVAFEILS +N+    E++  L++LI+++DT+LPLF+PFSLK +LE  E PINNPIILKL A+EIES+YSLTELQ+SLFSIALLINTPQQLAWLNFAEYI LTEQLMS++DVTKVVQ+S+AKNRK+IAY+LN+ ++F+KCKAMTMDYYCGDFL   +  + T +AANKLNVL LIQ LQK+DCD NEI+ IIQ+DPLLS+QLLK+ NS+ FSSG  I SI+QAV RLG+INLK W+ML SMKNI+DKP E+LESGLIRA MAE+LAK S +I SQSAY AGLLSILDCL+++PM  L+ QITLA+EIK+AL + +GPLG+LL+LVIAYEEGHWE V Q +  G DLS+LYI+SL  V++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966440908|ref|WP_058481231.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella waltersii] &gt;gi|962291970|gb|KTD75668.1| signal transduction protein [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481231</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.495</Hsp_bit-score>
+      <Hsp_score>1386</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>474</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>256</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM</Hsp_qseq>
+      <Hsp_hseq>MIIKRPIFNQQLQCVAFEILSYQQLVQSPELVPIIQELVSHSDDQLPLFIPFTLKALLEQLSEPINNPIILKLYAEDIGSTLPISDIQDSSFSIALLINTPQQLSWLNFADYIGLTEHLMSQADVSKIVQYSKAKQRKVMAYGLGQPINFDKCKAMSMDYFCGDFLFKPIVDDSKDIAANKLNLLHLIQVLQQEDSDLGKISHIIQSDPLLSFQLLRVANSVAFSCGQTIESIDHAVARLGLVNLRKWVMFFSLKNISDKPQEILESGLIRAHMAEEIAKVSSGLVCQSAYTAGLLSILDCLLNKPMTELLDQITIADEIKTALIDQTGPLGNLISLVIAYEAGKWEEVAQQQINGLDLSKLYIDSLAFVSNSSKEM</Hsp_hseq>
+      <Hsp_midline>MI KRPI+NQQL+CVAFEILS + ++ + EL   + +L+ H+D QLPLF+PF+LK LLEQ   PINNPIILKL A++I S   ++++QDS FSIALLINTPQQL+WLNFA+YIGLTE LMS++DV+K+VQYSKAK RK++AY L Q +NF+KCKAM+MDY+CGDFL   I ++  +IAANKLN+L LIQ LQ+ED DL +I+HIIQ+DPLLS+QLL++ NSV FS G +IESID AVARLG++NL+KWVM FS+KNISDKP E+LESGLIRAHMAEE+AK SS +  QSAYTAGLLSILDCLLNKPM  L++QIT+A+EIK AL +++GPLG+L+SLVIAYE G WEEV Q  ING+DLS+LYIDSLA VS  +K M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966432333|ref|WP_058472766.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella quateirensis] &gt;gi|962268704|gb|KTD52720.1| signal transduction protein [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472766</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>533.102</Hsp_bit-score>
+      <Hsp_score>1372</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>474</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM</Hsp_qseq>
+      <Hsp_hseq>MLTKRPIFNQQLKCVAYEILSYQNLQSSEDLANSLLDLITNSDTQLPLFIPFALKVYLEQLDPPVKNPIILKLPAEDIESIYSVSELQESVFSIALLINTPQQLAWLNFAEYIALTDQFMNQSDVTKVVQYSKSKQRKVIAYGIAQQASFDKCKAMTVDYYCGDFLFQPSETVHNDIAANKLNLIQLIQTVQKDDCDFNHISAVIQSDPLLSYQILKVANSIGLSGGQTIESIDQAIARFGLINLKNWVMLFSMKNISNKPVEILESALIRAYMTRELAEASSKINGQSAYTAGLLSILDCLLNKPMKELMHQITLAEDIKNALIGHKGTLGNLLSLVIAYEQGQWEQVPTQNYNGVDISKLYIDSLALIHDCSKAM</Hsp_hseq>
+      <Hsp_midline>M+TKRPI+NQQLKCVA+EILS +N+  +E+L   L DLI ++DTQLPLF+PF+LK  LEQ + P+ NPIILKL A++IES+YS++ELQ+S+FSIALLINTPQQLAWLNFAEYI LT+Q M++SDVTKVVQYSK+K RK+IAY + Q  +F+KCKAMT+DYYCGDFL         +IAANKLN++QLIQ +QK+DCD N I+ +IQ+DPLLSYQ+LK+ NS+G S G +IESIDQA+AR G+INLK WVMLFSMKNIS+KP+E+LES LIRA+M  ELA+ SS I  QSAYTAGLLSILDCLLNKPM  L+ QITLAE+IK+AL    G LG+LLSLVIAYE+G WE+V   N NG+D+S+LYIDSLAL+   +K M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966460896|ref|WP_058493325.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella worsleiensis] &gt;gi|962296389|gb|KTD80030.1| signal transduction protein [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493325</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.791</Hsp_bit-score>
+      <Hsp_score>1366</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>253</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MIIKRPIFNQQLKCVAYEILSHQNQQSSEELTKGFLDLITSSDTQLPLFIPYALKIYLEQLDPPLKNPIILKLPAEDIESIYSLSELQESAFSIALLINKPQQLAWLNFAEYVALTDHLMNQSDVTKVVQYSKLKRRKVIAYDIGRPASFEKCKAMTMDYYCGDFLFHPSESGQKDIAANKLNFFQLIQRVQKDDCDFNDISALIQSDPLLSYQILRVANSIGISGGHTIESIDQAIARFGLINLKNWVMLFSMKNISDKPVEILESALIRAYMTRALAETSAHINGQSAYTAGLLSILDCLLNKPMCELIEHITLSEDIKMALIDKKGTLGQLLSLVVAYEQGQWEEVNAQNYNGVDMSKLYIDSLALITDSSKAMHD</Hsp_hseq>
+      <Hsp_midline>MI KRPI+NQQLKCVA+EILS +N   +EELT+   DLI  +DTQLPLF+P++LK  LEQ + P+ NPIILKL A++IES+YSL+ELQ+S FSIALLIN PQQLAWLNFAEY+ LT+ LM++SDVTKVVQYSK K RK+IAYD+ +  +FEKCKAMTMDYYCGDFL +       +IAANKLN  QLIQ +QK+DCD N+I+ +IQ+DPLLSYQ+L++ NS+G S G +IESIDQA+AR G+INLK WVMLFSMKNISDKP+E+LES LIRA+M   LA+ S++I  QSAYTAGLLSILDCLLNKPM  L+E ITL+E+IK AL +K G LG LLSLV+AYE+G WEEV   N NG+D+S+LYIDSLAL++  +K M +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|654932939|ref|WP_028383296.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella moravica] &gt;gi|962250720|gb|KTD34921.1| signal transduction protein [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383296</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>523.472</Hsp_bit-score>
+      <Hsp_score>1347</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>474</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>250</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM</Hsp_qseq>
+      <Hsp_hseq>MLTKRPIFNQHLKCVAYEILSYQNLQSNEELTNNLLELITNSDTQLPLFVPFAFKVFLEPLDPPLKNPVILKLSAEEIESIYSVTELQESVFSIALIINTSQQLAWLNFADYIALTDQLMTQSDVNRVVQYCKAKHRKVIGYGIAQPASFDKCKAMNMDYYCGDFLFQLSHTVHDNIAANKLNLIQLIQTVQKDDCDFNDISTLIQSDPLLSYQILRVANSIGISGGQTIESIDQAIARFGLINLKNWVMLFSMKNISNKPVEILESALIRAYMTRELAEASTNINGQSAYTAGLLSILDCLLNKPMQELMDQITLAEDIKKALIGQKGTLGTLLSLVIAYEQGQWEQVPAENYNGVDISKLYIDSLALITDSSKAM</Hsp_hseq>
+      <Hsp_midline>M+TKRPI+NQ LKCVA+EILS +N+  NEELT  L +LI ++DTQLPLFVPF+ K  LE  + P+ NP+ILKLSA+EIES+YS+TELQ+S+FSIAL+INT QQLAWLNFA+YI LT+QLM++SDV +VVQY KAK+RK+I Y + Q  +F+KCKAM MDYYCGDFL          IAANKLN++QLIQ +QK+DCD N+I+ +IQ+DPLLSYQ+L++ NS+G S G +IESIDQA+AR G+INLK WVMLFSMKNIS+KP+E+LES LIRA+M  ELA+ S+NI  QSAYTAGLLSILDCLLNKPM  L++QITLAE+IK AL  + G LG LLSLVIAYE+G WE+V   N NG+D+S+LYIDSLAL++  +K M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966400241|ref|WP_058443836.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella feeleii] &gt;gi|962218286|gb|KTD03005.1| signal transduction protein [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443836</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.787</Hsp_bit-score>
+      <Hsp_score>1096</Hsp_score>
+      <Hsp_evalue>2.89816e-144</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRPIYNQQLKCVAVDIIANQQAKEHENLFEHFTTILANTEKDLLVFIPYTLKFLIEQAKAPIANPIILKLAAIDIDTICPRAELETSKSTFALVIDKPEQLAWLNFAEYIALSEHLMQTANLTKVVKFSQDRQRKVIAYGLSEYTNFEHCKTMAMDYYCGNFLFQTQKTENTEIAANKFNLLELISKLQQAETDMETIVELIQTDPVLSYQLLKVVNSAAFSGFQAIESIEQAVVRLGIANLKNWVMVISMTNISQKPLELVESGLIRAQMAQKLAETQSNLCPQSAYTTGLLSVLDSLMDSPMSNLVDKITLTDEIKLALTAHKGPLGELLATVVAYEEGHWDTLKKNPYSGLDLSQIYVDCLEQVALGKKAMS</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQQLKCVA +I++ +    +E L      ++ +T+  L +F+P++LK L+EQ + PI NPIILKL+A +I+++    EL+ S  + AL+I+ P+QLAWLNFAEYI L+E LM  +++TKVV++S+ + RK+IAY L+++ NFE CK M MDYYCG+FL  +   E TEIAANK N+L+LI +LQ+ + D+  I  +IQ DP+LSYQLLK+VNS  FS   +IESI+QAV RLGI NLK WVM+ SM NIS KP+E++ESGLIRA MA++LA+  SN+  QSAYT GLLS+LD L++ PM  LV++ITL +EIK ALT   GPLG+LL+ V+AYEEGHW+ + +   +G+DLSQ+Y+D L  V+ G K MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966399262|ref|WP_058442895.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella brunensis] &gt;gi|962191749|gb|KTC76825.1| signal transduction protein [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442895</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.017</Hsp_bit-score>
+      <Hsp_score>1094</Hsp_score>
+      <Hsp_evalue>6.3504e-144</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRTIYNQRLECAAIEIIANKQAQEHGELFEHFATIQRNTAKHLPLFIPYALKFLVEHPETPIEQPIVLKLHAGDIETSCPRKELESLPYRLALLIDNPQQLAWLNFADYVALSEHLMTAANVTKVVSYSQAKQRKVIAYDLSHPNSFERSKAMGMDFYCGDFLFHPQAPEKTEIAANKLNLLELITTLQQQETNMDAIINLIQTDPMLSYQLLKVANSVAFSGYQDIESIQQAVVRLGIFNLKNWVMVLSMTNVSNKPLQIVESGLIRAQMAQKIAETQPDLCAQSAYTAGLLSVLDSLMDTPLENLIDKITLAAEIKLALLSRKGPLGKILDIVIAYEEGHWEHFKETEYFGLDLSQLYIDCLEQISLGTKAMS</Hsp_hseq>
+      <Hsp_midline>M+ KR IYNQ+L+C A EI++ +    + EL      +  +T   LPLF+P++LK L+E  ETPI  PI+LKL A +IE+     EL+   + +ALLI+ PQQLAWLNFA+Y+ L+E LM+ ++VTKVV YS+AK RK+IAYDL+   +FE+ KAM MD+YCGDFL +  A E TEIAANKLN+L+LI  LQ+++ +++ I ++IQ DP+LSYQLLK+ NSV FS    IESI QAV RLGI NLK WVM+ SM N+S+KP++++ESGLIRA MA+++A+   ++ +QSAYTAGLLS+LD L++ P+  L+++ITLA EIK AL ++ GPLG +L +VIAYEEGHWE   +    G+DLSQLYID L  +S GTK MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966515254|ref|WP_058531771.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella rubrilucens] &gt;gi|962262674|gb|KTD46760.1| signal transduction protein [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531771</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.55</Hsp_bit-score>
+      <Hsp_score>1085</Hsp_score>
+      <Hsp_evalue>1.4294e-142</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>283</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRPIYNQKLKCVAMEIIANQQAKQPIELLPYFTTVTHNIDSNLPLFVPYALNSLIELADPPLENPVILKLHAADINQTYTAEELKDASHSIALMIDSPDQLAWLNFAEYIALSEHLMGMADLTKVVKYSQAKQRKVIAYNISDPNRFINCKDMTMDYYCGDFLFQPEVKEVKEIAANKLNLLMLIEKLQHPDTHFNEIIPLIQTDPLLSYQLLRVANSAAFSGYQAIESIQQAVTRLGILHLKNWVMVLSMKNVSNKPLEIVESGLIRAQMAEKLAKANSHLSAESAYTAGLLSVLDSLLDTPMNVLIEKITLADDIKGALMAREGELGKLLSLVIAYEEGHWEQLDGNDYHGLDLSQIYIDCLEHVSIGKKAMS</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQ+LKCVA EI++ +      EL      + ++ D+ LPLFVP++L  L+E  + P+ NP+ILKL A +I   Y+  EL+D+  SIAL+I++P QLAWLNFAEYI L+E LM  +D+TKVV+YS+AK RK+IAY+++    F  CK MTMDYYCGDFL     +E  EIAANKLN+L LI++LQ  D   NEI  +IQ DPLLSYQLL++ NS  FS   +IESI QAV RLGI++LK WVM+ SMKN+S+KP+E++ESGLIRA MAE+LAK +S++ ++SAYTAGLLS+LD LL+ PM  L+E+ITLA++IK AL  + G LG LLSLVIAYEEGHWE++   + +G+DLSQ+YID L  VS G K MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|769991164|ref|WP_045107036.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella hackeliae] &gt;gi|731153352|emb|CEK11937.1| conserved protein of unknown function [Legionella hackeliae] &gt;gi|962227901|gb|KTD12523.1| signal transduction protein [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107036</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>8.88699e-141</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRTIYNQRLECAGIEIIANKQAQEHGDIFEHFATIQRNTAKHLPLFIPYALKFLVEKAESPIEQPIVLKLHAADINTSCPREELETSPYRLALLIDSPQQLAWLNFADYVALSEHLMTAANVSKVVKYSHERQRKVIAYDLSHPNSFERSKAMEMDFYCGDFLFHPQSPEKTEIAANKLNLLELITKLQQQDINMETVIGLIQSDPMLSYQLLKVANSVAFSGYQDIESIQQAVVRLGIFNLKNWVMVLSMTNVSNKPLEIVESGLIRAHMAQKLAETQPELCAQSAYTAGLLSVLDSLMDSPLENLIDKITLSAEIKLALLSRKGPIGKILDIVIAYEEGHWEDLPETEYFGLDLSKVYIDCLEQVSLGTKTMS</Hsp_hseq>
+      <Hsp_midline>M+ KR IYNQ+L+C   EI++ +    + ++      +  +T   LPLF+P++LK L+E+ E+PI  PI+LKL A +I +     EL+ S + +ALLI++PQQLAWLNFA+Y+ L+E LM+ ++V+KVV+YS  + RK+IAYDL+   +FE+ KAM MD+YCGDFL +  + E TEIAANKLN+L+LI +LQ++D ++  +  +IQ+DP+LSYQLLK+ NSV FS    IESI QAV RLGI NLK WVM+ SM N+S+KP+E++ESGLIRAHMA++LA+    + +QSAYTAGLLS+LD L++ P+  L+++ITL+ EIK AL ++ GP+G +L +VIAYEEGHWE++ +    G+DLS++YID L  VS GTK MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966442534|ref|WP_058482796.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella spiritensis] &gt;gi|962280873|gb|KTD64688.1| signal transduction protein [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482796</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.157</Hsp_bit-score>
+      <Hsp_score>1071</Hsp_score>
+      <Hsp_evalue>2.19074e-140</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>215</Hsp_identity>
+      <Hsp_positive>281</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MLIKRPIYNQQLKCVALEIIANDQEKEPQELLQPFTTIIRNADASLPLFVPYALRTLVELPEPPLENPIILKLHAADINQLYPIDELQNSLYSIALMIDDPKQLAWLNFAEYIALSEHLMAMADVTRVVKYSQAKQRKVIAYGIANINCFDQCKGLTMDYYCGDFLFQPHKQDTREIAANKLNLLTLIDKLQHSQVNLDDIIELIQTDPLLSYQLLKIANSAAFSGYQAVKSIQQAVTRLGIIHLKNWVMVLSMKNVSDKPVEIVESGLIRAQMAQKLAHANQNLCEQSAYTTGLLSVLDSLLDSPMSVLIDKITLADEIKMALLSREGALGELLSTVIAYEEGHWEALNGDEYCGMDLSQVYIACLEQVSFGKKAMTG</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQQLKCVA EI++       +EL +    +I + D  LPLFVP++L+ L+E  E P+ NPIILKL A +I  +Y + ELQ+SL+SIAL+I+ P+QLAWLNFAEYI L+E LM+ +DVT+VV+YS+AK RK+IAY +     F++CK +TMDYYCGDFL     ++  EIAANKLN+L LI +LQ    +L++I  +IQ DPLLSYQLLK+ NS  FS   +++SI QAV RLGII+LK WVM+ SMKN+SDKP+E++ESGLIRA MA++LA  + N+  QSAYT GLLS+LD LL+ PM  L+++ITLA+EIK AL ++ G LG+LLS VIAYEEGHWE +      G+DLSQ+YI  L  VS G K M+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966407358|ref|WP_058450764.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella jamestowniensis] &gt;gi|962222778|gb|KTD07428.1| signal transduction protein [Legionella jamestowniensis] &gt;gi|1045920870|gb|OCH97803.1| histidine kinase [Legionella jamestowniensis] &gt;gi|1097327768|emb|SFL93057.1| EAL and modified HD-GYP domain-containing signal transduction protein [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450764</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.772</Hsp_bit-score>
+      <Hsp_score>1070</Hsp_score>
+      <Hsp_evalue>2.61219e-140</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRTIYNQRLECAGIEIIANKKAKEHSELFEHFATIQRNTAKHLPLFIPYALRFLIEKAESPIEQPIVLKLHAGDINNSCPREELESSPHRLALLIDSPQQLAWLNFADYIALSEHLMTAANVSKVVKYSQERQRKVIAYDLSHPNSFERSKAMGMDFYCGDFLFHPQAPEKTEIAANKLNLLELITKLQEQDINMEMVIELIQTDPMLSYQLLKVANSVAFSGYQDIESIQQAVVRLGICNLKNWVMVLSMTNVSNKPLEIVESGLIRAHMAQKLAETQPDLCAQSAYTAGLLSVLDSLMDSPLENLIDKITLANDIKLALLSRKGPFGKILDIVIAYEEGHWENLKETEYFGLDLSKVYIECLEQVSLGTKAMS</Hsp_hseq>
+      <Hsp_midline>M+ KR IYNQ+L+C   EI++ +    + EL      +  +T   LPLF+P++L+ L+E+ E+PI  PI+LKL A +I +     EL+ S   +ALLI++PQQLAWLNFA+YI L+E LM+ ++V+KVV+YS+ + RK+IAYDL+   +FE+ KAM MD+YCGDFL +  A E TEIAANKLN+L+LI +LQ++D ++  +  +IQ DP+LSYQLLK+ NSV FS    IESI QAV RLGI NLK WVM+ SM N+S+KP+E++ESGLIRAHMA++LA+   ++ +QSAYTAGLLS+LD L++ P+  L+++ITLA +IK AL ++ GP G +L +VIAYEEGHWE + +    G+DLS++YI+ L  VS GTK MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|762036589|ref|WP_043872527.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella massiliensis] &gt;gi|683289269|emb|CEE11630.1| HDOD domain protein [Legionella massiliensis] &gt;gi|685071639|emb|CDZ75892.1| HDOD domain protein [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872527</Hit_accession>
+  <Hit_len>382</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.001</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>5.42764e-140</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>280</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRPVYNNRLECVAVEIIAHQQAKEYRELYEHFASILRNTDKQLPLFLPYALKFLIEKPDLPIENPIILKLHAADINTLCPRAELEYTTYTIALLIDSPEQLAWLNFAEYIALSEHLMTAANLTKVVKYSQDRKRKVIAYDINHTTNFERCKAMSMDLFCGDFLFQPNEQEQQDIAANQLNLLELISKLQQQDTNLDHIAELIQADPMLSYQLLRIANSVAFSGYQTVESIQQAIMRLGIINLKNWVMVLSMTNVSNKPAEIVESGLIRAQMAQRIAESQPELSAASAYTVGLLSVLDSLMDTPMENLLEKITLADEIKTALISHSGSLGQLLSTVIAYEEGHLNEEMGTSYTNVDLSKIYLECLEQISLSKKAMS</Hsp_hseq>
+      <Hsp_midline>M+ KRP+YN +L+CVA EI++ +      EL      ++ +TD QLPLF+P++LK L+E+ + PI NPIILKL A +I ++    EL+ + ++IALLI++P+QLAWLNFAEYI L+E LM+ +++TKVV+YS+ + RK+IAYD+N   NFE+CKAM+MD +CGDFL     +E  +IAAN+LN+L+LI +LQ++D +L+ I  +IQADP+LSYQLL++ NSV FS   ++ESI QA+ RLGIINLK WVM+ SM N+S+KP E++ESGLIRA MA+ +A+    + + SAYT GLLS+LD L++ PM  L+E+ITLA+EIK AL + SG LG LLS VIAYEEGH  E    +   +DLS++Y++ L  +S   K MS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966511048|ref|WP_058527639.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella erythra] &gt;gi|962209478|gb|KTC94385.1| signal transduction protein [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527639</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>414.846</Hsp_bit-score>
+      <Hsp_score>1065</Hsp_score>
+      <Hsp_evalue>1.64271e-139</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>476</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>211</Hsp_identity>
+      <Hsp_positive>282</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMSN</Hsp_qseq>
+      <Hsp_hseq>MLIKRPIYNQQLKCVAMEIIANQQAKQPIELLPYFTTVTHNIDSNLPLFVPYALNSLVELSAPPLENPVILKLHAADINQTYTPDELKEAAHSIALMIDSPDQLAWLNFAEYIALSEHLMGMADLTKVVKYSQAKQRKVIAYNISDPNRFINCKDMTMDYYCGDFLFQPEVKEVKEIAANKLNLLMLIEKLQHPDTNFNEIIPLIQTDPLLSYQLLRVANSAAFSGYQAIESIQQAVTRLGIMHLKNWVMVLSMKNVSNKPLEIVESGLIRAQMAEKLAKANPHLSAESAYTTGLLSVLDSLLDTPMNVLIEKITIADDIKGALLAREGELGQLLSMVIAYEEGHWEQLDGSDYHGLDLSEIYIDCLEHVSIGKRAMSD</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYNQQLKCVA EI++ +      EL      + ++ D+ LPLFVP++L  L+E    P+ NP+ILKL A +I   Y+  EL+++  SIAL+I++P QLAWLNFAEYI L+E LM  +D+TKVV+YS+AK RK+IAY+++    F  CK MTMDYYCGDFL     +E  EIAANKLN+L LI++LQ  D + NEI  +IQ DPLLSYQLL++ NS  FS   +IESI QAV RLGI++LK WVM+ SMKN+S+KP+E++ESGLIRA MAE+LAK + ++ ++SAYT GLLS+LD LL+ PM  L+E+IT+A++IK AL  + G LG LLS+VIAYEEGHWE++   + +G+DLS++YID L  VS G + MS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966431409|ref|WP_058471854.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella jordanis] &gt;gi|962233622|gb|KTD18170.1| signal transduction protein [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471854</Hit_accession>
+  <Hit_len>383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>407.142</Hsp_bit-score>
+      <Hsp_score>1045</Hsp_score>
+      <Hsp_evalue>1.64205e-136</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>472</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>375</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTK</Hsp_qseq>
+      <Hsp_hseq>MLIKRPIYDQRLKCAGMELIADKQAQQSKEIYQYFIKIQHTTPKEMPLFVPYALKFLVEHPELPIEQPVVLKLHAGDINQSCSREEIEACNYRLALLIDNPQQLAWLNFADYIALSEHLMAAANVSKVVTYSQAKQRKVIAYDLSHPESFERCKMMGMDFFCGDFLFHPTAPEKTEIAASKLNLFELITKLQQQDTNLDSIVDLIQTDPMLSYQLLKVANSVAFSGYQDIESIQQAVVRLGILNLKNWVMVLSMTNVSNKPLEIVESGLIRAQMAYQLASTQPELSAQSAYTAGLLSVLDSLMDSPLANLIDKITLTNEIKLALLSRKGPLGKILDVVIAYEEGHWENLEDSECFGLDLSKVYMDCLEQVAASRK</Hsp_hseq>
+      <Hsp_midline>M+ KRPIY+Q+LKC   E+++ +    ++E+ +    + + T  ++PLFVP++LK L+E  E PI  P++LKL A +I    S  E++   + +ALLI+ PQQLAWLNFA+YI L+E LM+ ++V+KVV YS+AK RK+IAYDL+   +FE+CK M MD++CGDFL +  A E TEIAA+KLN+ +LI +LQ++D +L+ I  +IQ DP+LSYQLLK+ NSV FS    IESI QAV RLGI+NLK WVM+ SM N+S+KP+E++ESGLIRA MA +LA     + +QSAYTAGLLS+LD L++ P+  L+++ITL  EIK AL ++ GPLG +L +VIAYEEGHWE +      G+DLS++Y+D L  V+   K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|769982213|ref|WP_045098195.1|</Hit_id>
+  <Hit_def>histidine kinase [Tatlockia micdadei] &gt;gi|698845661|emb|CEG59639.1| Signal transduction protein [Tatlockia micdadei] &gt;gi|962245174|gb|KTD29478.1| signal transduction protein [Tatlockia micdadei] &gt;gi|1081465850|emb|SCX96171.1| HDOD domain-containing protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098195</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>401.749</Hsp_bit-score>
+      <Hsp_score>1031</Hsp_score>
+      <Hsp_evalue>2.61097e-134</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>474</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>271</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIM</Hsp_qseq>
+      <Hsp_hseq>MLVKRPIYNPRLECVGIEIIANRHAKEHQQLFDHFSALLRNIEEHFPLFIPYAFQFLIEQHQPPIKNLIILKLHAADINQLCPQDELEASKYPIALLIDNPQQLAWLNFADYIALTEHLMSAADVTRVVQYSQARERKVIAYDISSPVNFDRCKAMSMDYYCGDFLFQPKQHAPETIAANKLNLLELISKLQLPDTDLESVANLIQADPMLSYRLLSIANSVAFSGFQAIESIQQAVIRLGILNLKNWVMVLSMTKVSNKPAELVESGLIRAQMAQRIAENQPDICPNSAYTVGLLSVLDSLMDAPMAELIDKITLTDEIKAALLSHEGKLGELLSVVIAYEKGNVDEQREATYLDLDLNKIYIDCLDQITQSKKAM</Hsp_hseq>
+      <Hsp_midline>M+ KRPIYN +L+CV  EI++ R+   +++L      L+ + +   PLF+P++ + L+EQ + PI N IILKL A +I  +    EL+ S + IALLI+ PQQLAWLNFA+YI LTE LMS +DVT+VVQYS+A+ RK+IAYD++  VNF++CKAM+MDYYCGDFL          IAANKLN+L+LI +LQ  D DL  + ++IQADP+LSY+LL + NSV FS   +IESI QAV RLGI+NLK WVM+ SM  +S+KP E++ESGLIRA MA+ +A+   +I   SAYT GLLS+LD L++ PM  L+++ITL +EIK AL +  G LG+LLS+VIAYE+G+ +E  +     +DL+++YID L  ++Q  K M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|654937974|ref|WP_028388222.1|</Hit_id>
+  <Hit_def>histidine kinase [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388222</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>393.66</Hsp_bit-score>
+      <Hsp_score>1010</Hsp_score>
+      <Hsp_evalue>3.78423e-131</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQGTKIMS</Hsp_qseq>
+      <Hsp_hseq>MLIKRPMYNAQMECVAIEIIADEQAGKHFDLFEHFATLLRNTEQNLPLFVPYALKLLVEKADSPTAHSFVLKLHAADIDKECPRQELETSPYQIALLIDTPSQLAWLNFADYIALSEQLILVANVSNVVKYSQARHHKVIAYDLSHQDHFERCKRMAMDYFCGDFIFHPADRENQDVAANQLNLMELISRLQQPDTDLDSVVELIQNDPMLSYQLLKVVNSAAFSGYQAIESIQQAVMRLGVLNLKNWVTVLSMTKVSNKPIEIIESGLIRAYMAKKLAETQPELCAQSAYTAGLLSVLDSLMDTPMARLIEKITLADEIKIALLSHKGALGELLATVIRYEEGHLNNQEEVTYFGIDLEKVYIDCIEQVAQSKKAMN</Hsp_hseq>
+      <Hsp_midline>M+ KRP+YN Q++CVA EI++      + +L      L+ +T+  LPLFVP++LK L+E+ ++P  +  +LKL A +I+      EL+ S + IALLI+TP QLAWLNFA+YI L+EQL+  ++V+ VV+YS+A++ K+IAYDL+   +FE+CK M MDY+CGDF+ +    E  ++AAN+LN+++LI  LQ+ D DL+ +  +IQ DP+LSYQLLK+VNS  FS   +IESI QAV RLG++NLK WV + SM  +S+KPIE++ESGLIRA+MA++LA+    + +QSAYTAGLLS+LD L++ PM  L+E+ITLA+EIK AL +  G LG+LL+ VI YEEGH     ++   GIDL ++YID +  V+Q  K M+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|748655647|ref|WP_039913790.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Cellvibrio mixtus]</Hit_def>
+  <Hit_accession>WP_039913790</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>174.866</Hsp_bit-score>
+      <Hsp_score>442</Hsp_score>
+      <Hsp_evalue>3.52085e-46</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>46</Hsp_gaps>
+      <Hsp_align-len>406</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRN-----------------VMLN-------EELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIES--VYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSA-YTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV--TQLNINGI---DLSQLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFNGNMQVVAYELL-CRNSELTQIGTRDGDAASSQVLLNAFTELSIEQVVGKHKAFVNFTRTLIDTPPPFSRQKL-----------VIEVLEGQKVDAAMLHSLMQLRDQGYTIALDDFELTKETETLVAYADIIKLDVLYLSAEKLKHHIDYLKPFGITLIAEKVETYEMFERCKALGFDLFQGYFLAKPKVITGKKISENKQSVLQLLSALHDPDVPIEKIERMIARDTLLSFKLLRLVNSAAFGLSRDVESLRQAIMLLGLNKLRNWVNLLALSNLSGKPHELSIAALTRARMCELISSELNQHHRPDAFFTVGLLSTLDAFLDTPLEELLANLSLSESLNKAMLNHSGPEGMVLQLVQSHEQGEWEKIDWQALATKGLTQEKLAKIYVDSLRWVAE</Hsp_hseq>
+      <Hsp_midline>++ ++PI+N  ++ VA+E+L CRN                 V+LN       E++  +    +  T T +    PFS +KL           +I  L   ++++  ++SL +L+D  ++IAL     T +    + +A+ I L    +S   +   + Y K     +IA  +  +  FE+CKA+  D + G FL       G +I+ NK +VLQL+  L   D  + +I  +I  D LLS++LL+LVNS  F     +ES+ QA+  LG+  L+ WV L ++ N+S KP E+  + L RA M E ++ + +      A +T GLLS LD  L+ P+  L+  ++L+E +  A+ N SGP G +L LV ++E+G WE++    L   G+    L+++Y+DSL  V++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|499947935|ref|WP_011628669.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Alkalilimnicola ehrlichii] &gt;gi|114226475|gb|ABI56274.1| diguanylate phosphodiesterase [Alkalilimnicola ehrlichii MLHE-1]</Hit_def>
+  <Hit_accession>WP_011628669</Hit_accession>
+  <Hit_len>416</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.785</Hsp_bit-score>
+      <Hsp_score>434</Hsp_score>
+      <Hsp_evalue>5.18572e-45</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>464</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>391</Hsp_align-len>
+      <Hsp_qseq>MEVFMITKRPIYNQQLKCVAFEIL---SCRN---VMLNEELTRQLYDLIYHTDTQL-------PLFVPFSLKKLLEQFETPINNP-----IILKLSADEIESVYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSL</Hsp_qseq>
+      <Hsp_hseq>MDTIFLARQPIYNRELEVVAYELLYRAGARDRADVVDGDQATGQLL-VNTFTDFGLERLVGDVPAFINLTRPYLIGELELPIPPDQVALEVLEDVALDDEQVLAGLRSLSDRGYVIVLDDFDYQPENEPALACADLVKLEVNDTSTEALTRVVRRLREFDLQLLAEKVETDRQFQLCLDLGFDFFQGYYFSRPNLVSGQRHASSKVGLLPLLAKLNDPDADLQELERLIARDQVLVYRLLRCANSAAVSRGP-IESLHNALLLLGTRTVRTWIILITLSAVEDKPPELCRIALARARMCELLARESGIANPEACFTAGLLSLLDTLMNQPMAELVQALPLTQAIERALLNREGAIGALLQRVCDYEQGHWQALETDDADGRRYPGAYLEAL</Hsp_hseq>
+      <Hsp_midline>M+   + ++PIYN++L+ VA+E+L     R+   V+  ++ T QL  +   TD  L       P F+  +   L+ + E PI        ++  ++ D+ + +  L  L D  + I L      P+    L  A+ + L     S   +T+VV+  +  + +++A  +     F+ C  +  D++ G +        G   A++K+ +L L+ +L   D DL E+  +I  D +L Y+LL+  NS   S GP IES+  A+  LG   ++ W++L ++  + DKP E+    L RA M E LA++S     ++ +TAGLLS+LD L+N+PM  LV+ + L + I+ AL N+ G +G LL  V  YE+GHW+ +   + +G      Y+++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|494915012|ref|WP_007641050.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Cellvibrio sp. BR] &gt;gi|387938424|gb|EIK44976.1| putative signal transduction protein [Cellvibrio sp. BR]</Hit_def>
+  <Hit_accession>WP_007641050</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.4</Hsp_bit-score>
+      <Hsp_score>433</Hsp_score>
+      <Hsp_evalue>8.03618e-45</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>408</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRN-----------------VMLN-------EELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIES--VYSLTELQDSLFSIAL----LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKK-SSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV--TQLNINGID---LSQLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFDGNMKVVAYELL-CRNSDLKFIATSDGDAASSQVLLNAFTELSIDEVVGTHKAFVNFTRALLNSPPPFSRQKL-----------VIEVLEGQQVDAAMLFSLKQLREQGYTIALDDFELSSDTEGL--VPYADIIKLDVLALSAEKLLAHVSHLKSLGITLIAEKVETYEMYEKCKALGFDLFQGYFLAKPRVITGRKISENKQSVLQLLSALHDPNAPIDKIERMIARDTLLSFKLLRLVNSAAFGLSRNVESLRQAIMLLGLNKLRNWVNLLALSNLSGKPHELSITALTRARMCEMIATKINQRSRPDSYFTVGLLSTLDAFLDTPLEELLRNLSLSEQLNQAMLKHSGPEGKVLAIVQMHEQGRWQDIDWDQLDEMGINPEILAEIYIDALRWVAE</Hsp_hseq>
+      <Hsp_midline>++ ++PI++  +K VA+E+L CRN                 V+LN       +E+       +  T   L    PFS +KL           +I  L   ++++  ++SL +L++  ++IAL    L +  + L  + +A+ I L    +S   +   V + K+    +IA  +  +  +EKCKA+  D + G FL       G +I+ NK +VLQL+  L   +  +++I  +I  D LLS++LL+LVNS  F    ++ES+ QA+  LG+  L+ WV L ++ N+S KP E+  + L RA M E +A K +      S +T GLLS LD  L+ P+  L+  ++L+E++  A+   SGP G +L++V  +E+G W+++   QL+  GI+   L+++YID+L  V++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|902714259|ref|WP_049629688.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Cellvibrio sp. pealriver]</Hit_def>
+  <Hit_accession>WP_049629688</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>168.318</Hsp_bit-score>
+      <Hsp_score>425</Hsp_score>
+      <Hsp_evalue>1.13285e-43</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>408</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRN-----------------VMLN-------EELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIES--VYSLTELQDSLFSIAL----LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKK-SSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLS-----QLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFDGNMRVIAYELL-CRNNDLKFIASTDGDAASSQVLLNAFTELSIEQVVGKHKAFVNFTRTLLHSPPPFNRQKL-----------VIEVLEGQQVDAAMLHALMELREQGYTIALDDFELDEDSKNL--VPYADIIKLDVLSLTPEKLKHHIDYLKPFGITLIAEKVETYEMFENCKALGFDLFQGYFLAKPRVITGRKISENKQSVLQLLSALHDPDVPIEKIERMIARDTLLSFKLLRLVNSAAFGLSRDVESLRQAIMLLGLQKLRNWVNLLALSNLSGKPHELSVAALTRARMCEMIATHINQRSRPDSYFTVGLLSTLDAFLDSPLEELLRNLSLSETLNQAMLAHSGPEGMVLHIVQAHEQGHWDDIDWAHLESLGLSPETLATIYVDALHWVAE</Hsp_hseq>
+      <Hsp_midline>++ ++PI++  ++ +A+E+L CRN                 V+LN       E++  +    +  T T L    PF+ +KL           +I  L   ++++  +++L EL++  ++IAL    L    + L  + +A+ I L    ++   +   + Y K     +IA  +  +  FE CKA+  D + G FL       G +I+ NK +VLQL+  L   D  + +I  +I  D LLS++LL+LVNS  F     +ES+ QA+  LG+  L+ WV L ++ N+S KP E+  + L RA M E +A   +      S +T GLLS LD  L+ P+  L+  ++L+E +  A+   SGP G +L +V A+E+GHW+++   ++  + LS      +Y+D+L  V++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|498273840|ref|WP_010587996.1|</Hit_id>
+  <Hit_def>signal transduction protein [Schlesneria paludicola]</Hit_def>
+  <Hit_accession>WP_010587996</Hit_accession>
+  <Hit_len>413</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.933</Hsp_bit-score>
+      <Hsp_score>424</Hsp_score>
+      <Hsp_evalue>1.24508e-43</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>465</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>395</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>EVFMITKRPIYNQQLKCVAFEIL----------------SCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPI----ILKLSADEIESVYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYI-----GLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLA</Hsp_qseq>
+      <Hsp_hseq>DVF-VGRQPIYDTELNIVAYELLFRSTTENQAAIQDADVATSQLLINSVIEIGLENLVFG----LPAFVNFTQNFLNGKCEIPFDPELLVIEVLETVEPDDETIASLVRWRNLGFTIALDDYIESDIRARLLQVADIVKIDLFGFKRERL-KSEVTRLKEFPL----KLLAEKVETVEEFELCKSLGFDYFQGYFLSRPQVVEGKSLANNQLSILQLLVKLREPAVAFDDVVDLLKRDVSLSIKLLRYVNSLAHGVRRQIDSVRQAAIRLGLQKICQIVTLLAMNGLSTKPRPILETALIRAKMCEVLGSSIRPDAAEICFTVGLFSTLDAFLDRPLPEILTQLPITPEIRDALLEHSGPMGRLLSSVMAFERGDWDATREFGATDSAMQSAYLSAVA</Hsp_hseq>
+      <Hsp_midline>+VF + ++PIY+ +L  VA+E+L                +   +++N  +   L +L++     LP FV F+   L  + E P +  +    +L+    + E++ SL   ++  F+IAL   I +  +   L  A+ +     G   + + KS+VT++ ++      K++A  +     FE CK++  DY+ G FL      EG  +A N+L++LQL+ +L++     +++  +++ D  LS +LL+ VNS+       I+S+ QA  RLG+  + + V L +M  +S KP  +LE+ LIRA M E L        ++  +T GL S LD  L++P+P ++ Q+ +  EI+DAL   SGP+G LLS V+A+E G W+   +       +   Y+ ++A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|916601282|ref|WP_051208373.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Saccharospirillum impatiens]</Hit_def>
+  <Hit_accession>WP_051208373</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.777</Hsp_bit-score>
+      <Hsp_score>421</Hsp_score>
+      <Hsp_evalue>2.95227e-43</Hsp_evalue>
+      <Hsp_query-from>221</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>145</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>224</Hsp_align-len>
+      <Hsp_qseq>DVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWE</Hsp_qseq>
+      <Hsp_hseq>DVKPLVDRLRQHDVTLVAEKIEDHVMYQTCRDQGFDYFQGYFFCQPETIRGQQIDPDRMGMLMLLADLYRPDVDIDAIYKHVQRDTVLSYKLLQLVNSAFYRRAQAIESLHQAVMMLGLDRIRSWVTLINMGQLSDKPGELQREALTRAFFCEHLASLESGLTAQAGFTVGLLSVLDAWLDRPMNQIVEQLPFTDDVRAALTRREGALGSILTIAVDYSHSHWD</Hsp_hseq>
+      <Hsp_midline>DV  +V   +  +  ++A  +  HV ++ C+    DY+ G F        G +I  +++ +L L+ +L + D D++ I   +Q D +LSY+LL+LVNS  +    +IES+ QAV  LG+  ++ WV L +M  +SDKP E+    L RA   E LA   S + +Q+ +T GLLS+LD  L++PM  +VEQ+   ++++ ALT + G LG +L++ + Y   HW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1057049258|ref|WP_068457363.1|</Hit_id>
+  <Hit_def>MULTISPECIES: EAL domain-containing protein [Oleiphilus] &gt;gi|1024577435|gb|KZY74728.1| hypothetical protein A3737_00125 [Oleiphilus sp. HI0065] &gt;gi|1024596016|gb|KZY87151.1| hypothetical protein A3742_04400 [Oleiphilus sp. HI0071] &gt;gi|1024602107|gb|KZY91319.1| hypothetical protein A3744_05590 [Oleiphilus sp. HI0073] &gt;gi|1024634935|gb|KZZ14132.1| hypothetical protein A3750_15475 [Oleiphilus sp. HI0079] &gt;gi|1024637806|gb|KZZ16017.1| hypothetical protein A3751_16135 [Oleiphilus sp. HI0080] &gt;gi|1024692031|gb|KZZ50367.1| hypothetical protein A3760_14055 [Oleiphilus sp. HI0122] &gt;gi|1024721026|gb|KZZ70502.1| hypothetical protein A3765_03130 [Oleiphilus sp. HI0130]</Hit_def>
+  <Hit_accession>WP_068457363</Hit_accession>
+  <Hit_len>403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.777</Hsp_bit-score>
+      <Hsp_score>421</Hsp_score>
+      <Hsp_evalue>3.57129e-43</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>471</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>113</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEIL------SCRNVMLNEELTRQ-LYDLIYHTDTQL-----PLFVPFSLKKLLEQFETPINNP---IILKLSADEIESVY--SLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGH-----WEEVTQLNINGIDLSQLYIDSLALVSQGT</Hsp_qseq>
+      <Hsp_hseq>LLARQPIYDANKEIYGYELLFRDNEQNAANILCDLSATSNVLLNLFTESDLQFVTGGAPAFVNFSGELLMER---PIFDPHSIVIEILEHVKITPSFIKRVIELKKIGYTLALDDVVRAPQYKPLLPYIDIVKVDILGQTLSDIQNTVDYLKPFDLTLLAEKVETHKEFEACKAMGFQLFQGYFLAKPEIMHGQKLATNQIAVLGLVAELQDPTTDVKRISDIISQDPVISYKLLRLINSAAYRRTKEIDSINSAVALLGINRVRSWATLLALSKLDNKPDALQYIAIVRALTCEKLAQQIDPSMQTEYYTSGLLSCLDAFFDVPIVELIEQIPVKESMREALIDRTGPQGLIINSTLLFEQGRVDEIDWEGLAEIGLDPQLINDTYYECSALAAEAS</Hsp_hseq>
+      <Hsp_midline>++ ++PIY+   +   +E+L      +  N++ +   T   L +L   +D Q      P FV FS + L+E+   PI +P   +I  L   +I   +   + EL+   +++AL  ++  PQ    L + + + +     + SD+   V Y K  +  ++A  +  H  FE CKAM    + G FL       G ++A N++ VL L+ ELQ    D+  I+ II  DP++SY+LL+L+NS  +     I+SI+ AVA LGI  ++ W  L ++  + +KP  +    ++RA   E+LA++         YT+GLLS LD   + P+  L+EQI + E +++AL +++GP G +++  + +E+G      WE + ++ ++   ++  Y +  AL ++ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1011140175|ref|WP_062061914.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Cellvibrio sp. OA-2007]</Hit_def>
+  <Hit_accession>WP_062061914</Hit_accession>
+  <Hit_len>412</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.851</Hsp_bit-score>
+      <Hsp_score>416</Hsp_score>
+      <Hsp_evalue>2.11589e-42</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>408</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRN-----------------VMLN-------EELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIES--VYSLTELQDSLFSIAL----LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAY-TAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLS-----QLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFDGNMQVVAYELL-CRNSDLKFIATTDGDAASSQVLLNAFTELSIEQVVGTHKAFVNFTRTLLDSPPPFNRQKL-----------VIEVLEGQQVDAAMLHSLKQLREQGYTIALDDFELDENSKNL--IAYADIIKLDVLSLSPEKLRQHIDYLKPFNITLIAEKVETYEMFEQCKALGFDLFQGYFLAKPRVITGRKISENKQSVLQLLSALHDQDVPIEKIERMIARDTLLSFKLLRLVNSAAFGLSRNIESLRQAIMLLGLNKLRNWVNLLALSNLSGKPHELSVAALTRARMCEMIATKMNQRNSPDTYFTVGLLSTLDAFLDSPLEELLRSLSLSESLNNAMLTHAGPEGMVLQVVQAHEQGHWQNINWPQLAALGLTPNLIAEIYVDSLHWVAE</Hsp_hseq>
+      <Hsp_midline>++ ++PI++  ++ VA+E+L CRN                 V+LN       E++       +  T T L    PF+ +KL           +I  L   ++++  ++SL +L++  ++IAL    L    + L  + +A+ I L    +S   + + + Y K  N  +IA  +  +  FE+CKA+  D + G FL       G +I+ NK +VLQL+  L  +D  + +I  +I  D LLS++LL+LVNS  F    +IES+ QA+  LG+  L+ WV L ++ N+S KP E+  + L RA M E +A K +   S   Y T GLLS LD  L+ P+  L+  ++L+E + +A+   +GP G +L +V A+E+GHW+ +    +  + L+     ++Y+DSL  V++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1057127229|ref|WP_068520368.1|</Hit_id>
+  <Hit_def>MULTISPECIES: EAL domain-containing protein [Oleiphilus] &gt;gi|1024678921|gb|KZZ42342.1| hypothetical protein A3758_07230 [Oleiphilus sp. HI0118] &gt;gi|1024738265|gb|KZZ81671.1| hypothetical protein A3767_06925 [Oleiphilus sp. HI0133]</Hit_def>
+  <Hit_accession>WP_068520368</Hit_accession>
+  <Hit_len>403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.925</Hsp_bit-score>
+      <Hsp_score>411</Hsp_score>
+      <Hsp_evalue>9.95768e-42</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>471</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEIL------SCRNVMLNEELTRQ-LYDLIYHTDTQL-----PLFVPFSLKKLLEQFETPINNP---IILKLSADEIESVY--SLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGH-----WEEVTQLNINGIDLSQLYIDSLALVSQGT</Hsp_qseq>
+      <Hsp_hseq>LLARQPIYDANKEIYGYELLFRDNEQNAANILCDLSATSNVLLNLFTESDLQFVTGGAPAFVNFSGELLMER---PIFDPHSIVIEILEHVKITPSFIKRVIELKKIGYTLALDDVVRAPQYKPLLPYIDIVKVDILGQTLSDIQNTVDYLKPFDLTLLAEKVETHKEFEACKAMGFQLFQGYFLAKPEIMHGQKLATNQIAVLGLVAELQDPTTDVKRISDIISQDPVISYKLLRLINSAAYRRTKEIDSINSAVALLGINRVRSWATLLALSKLDNKPDALQYIAIVRALTCEKLAQQIDPSMQTEYYTSGLLSCLDAFFDVPIVELIEQIPVKESMREALIDRTGSQGLIINSTLLFEQGRVDEIDWEGLAEIGLDPQLINDTYYECSALAAEAS</Hsp_hseq>
+      <Hsp_midline>++ ++PIY+   +   +E+L      +  N++ +   T   L +L   +D Q      P FV FS + L+E+   PI +P   +I  L   +I   +   + EL+   +++AL  ++  PQ    L + + + +     + SD+   V Y K  +  ++A  +  H  FE CKAM    + G FL       G ++A N++ VL L+ ELQ    D+  I+ II  DP++SY+LL+L+NS  +     I+SI+ AVA LGI  ++ W  L ++  + +KP  +    ++RA   E+LA++         YT+GLLS LD   + P+  L+EQI + E +++AL +++G  G +++  + +E+G      WE + ++ ++   ++  Y +  AL ++ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1057176805|ref|WP_068558156.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein, partial [Oleiphilus sp. HI0130] &gt;gi|1024732580|gb|KZZ78209.1| hypothetical protein A3765_22470, partial [Oleiphilus sp. HI0130]</Hit_def>
+  <Hit_accession>WP_068558156</Hit_accession>
+  <Hit_len>340</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.844</Hsp_bit-score>
+      <Hsp_score>403</Hsp_score>
+      <Hsp_evalue>3.01487e-41</Hsp_evalue>
+      <Hsp_query-from>132</Hsp_query-from>
+      <Hsp_query-to>446</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>327</Hsp_align-len>
+      <Hsp_qseq>LYDLIYHTDTQL-----PLFVPFSLKKLLEQFETPINNP---IILKLSADEIESVY--SLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV</Hsp_qseq>
+      <Hsp_hseq>LLNLFTESDLQFVTGGAPAFVNFSGELLMER---PIFDPHSIVIEILEHVKITPSFIKRVIELKKIGYTLALDDVVRAPQYKPLLPYIDIVKVDILGQTLSDIQNTVDYLKPFDLTLLAEKVETHKEFEACKAMGFQLFQGYFLAKPEIMHGQKLATNQIAVLGLVAELQDPTTDVKRISDIISQDPVISYKLLRLINSAAYRRTKEIDSINSAVALLGINRVRSWATLLALSKLDNKPDALQYIAIVRALTCEKLAQQIDPSMQTEYYTSGLLSCLDAFFDVPIVELIEQIPVKESMREALIDRTGPQGLIINSTLLFEQGRVDEI</Hsp_hseq>
+      <Hsp_midline>L +L   +D Q      P FV FS + L+E+   PI +P   +I  L   +I   +   + EL+   +++AL  ++  PQ    L + + + +     + SD+   V Y K  +  ++A  +  H  FE CKAM    + G FL       G ++A N++ VL L+ ELQ    D+  I+ II  DP++SY+LL+L+NS  +     I+SI+ AVA LGI  ++ W  L ++  + +KP  +    ++RA   E+LA++         YT+GLLS LD   + P+  L+EQI + E +++AL +++GP G +++  + +E+G  +E+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1085126030|gb|OGT19778.1|</Hit_id>
+  <Hit_def>hypothetical protein A2V90_04380 [Gammaproteobacteria bacterium RBG_16_57_12]</Hit_def>
+  <Hit_accession>OGT19778</Hit_accession>
+  <Hit_len>405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>161.384</Hsp_bit-score>
+      <Hsp_score>407</Hsp_score>
+      <Hsp_evalue>3.08839e-41</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>394</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>MEVFMITKRPIYNQQLKCVAFEILSCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPIN-------NPIILKLSADEI--ESVYSLTELQDSLFSIALLINTPQQLAWLNFAEYIGLTEQLMSKSDVTKV-----------VQYSKAKNRKI--IAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEVTQLNINGIDLSQLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>MEDIFVGRQSIYNNKLEVYAYELLYRASEENRAGVTDQ--DLA-TSQTIINAFLEIGIEKITGPHFAFINLNREFLLNENLRQLPKEKVVLEILEHVPATEDVIRSVKALVQAGYTIALDDFV-YRGALEPLIDQASIIKIDIQALSKDEIETHFRQLKKRPLTLLAEKVETPEEYEYCKALGFDLYQGFFLSRPKVVKGKRIPANRLVILQLLAKLQNPDVEMRELAQLITQDVSFSYRVLRYINSAYFSVSKKVESIPHALTLLGLKHIRQLVSLLALTKIDDKPTDLLNTAIIRAKMSEQCAAALALPDTDTYFTAGLFSVLDALLDMPMQEVIKGLPLADEVCTALLGQEGKYGTVLKAVIAYEQGDWDKVNLPGLEPGTITDIYLKSLSWADQ</Hsp_hseq>
+      <Hsp_midline>ME   + ++ IYN +L+  A+E+L   +      +T Q  DL   + T +  F+   ++K+       IN       N  + +L  +++  E +  +   +D + S+  L+     +A  +F  Y G  E L+ ++ + K+             + + K R +  +A  +     +E CKA+  D Y G FL      +G  I AN+L +LQL+ +LQ  D ++ E+  +I  D   SY++L+ +NS  FS    +ESI  A+  LG+ ++++ V L ++  I DKP ++L + +IRA M+E+ A   +   + + +TAGL S+LD LL+ PM  +++ + LA+E+  AL  + G  G +L  VIAYE+G W++V    +    ++ +Y+ SL+   Q</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|639054562|ref|WP_024460348.1|</Hit_id>
+  <Hit_def>histidine kinase [Marinimicrobium sp. LS-A18]</Hit_def>
+  <Hit_accession>WP_024460348</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>161.384</Hsp_bit-score>
+      <Hsp_score>407</Hsp_score>
+      <Hsp_evalue>3.53376e-41</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>399</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>403</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLN-------EELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPIN--------------NPIILKLSADEIES---VYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSA-YTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV-----TQLNINGIDLSQLYIDSLALVS</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFNRSMQVVAYELL-CRSGSGNLASFTNGDSASSQV---LLHT------FTDLSLEKVVGKLKAYINFTRTLLITPPPFDRRQMVVEVLEDQVVDQALLTGLTQLRSEGYTIALDDFVLTEQTRPLLEYADIVKLDVLQLSETELLDHIEQLKPLGLTLLAEKVETYEMLERCRALGFDLFQGYFLARPKILSGHKISESKQAVLQLLAALHDPDVSILRVEQLLSQDPVLSYKLLRLVNSAAFALPRTIESLRQAITLLGLDIIKNWVNLLAMANLGNKPTELSVAALTRARMCETLASAMQREARQDAFFTVGLLSTLDAFMDVPLDVLLGNLSLSPELSEALLRHQGHEGRILDIVEHYERGAWGAIDWSYLSSVGITASQLSQAYLEAIQWVS</Hsp_hseq>
+      <Hsp_midline>++ ++PI+N+ ++ VA+E+L CR+   N       +  + Q+   + HT      F   SL+K++ + +  IN                +++++  D++     +  LT+L+   ++IAL   + T Q    L +A+ + L    +S++++   ++  K     ++A  +  +   E+C+A+  D + G FL       G +I+ +K  VLQL+  L   D  +  +  ++  DP+LSY+LL+LVNS  F+   +IES+ QA+  LG+  +K WV L +M N+ +KP E+  + L RA M E LA        Q A +T GLLS LD  ++ P+  L+  ++L+ E+ +AL    G  G +L +V  YE G W  +     + + I    LSQ Y++++  VS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|653080352|ref|WP_027330916.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Marinimicrobium agarilyticum]</Hit_def>
+  <Hit_accession>WP_027330916</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.614</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>6.21453e-41</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>468</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>399</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>208</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>397</Hsp_align-len>
+      <Hsp_qseq>MITKRPIYNQQLKCVAFEILSCRNVMLN-------EELTRQLYDLIYHTDTQLPL-FVPFSLKKLLEQFETPINNP-------IILKLSADEIES---VYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKSSNIFSQSA-YTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV-----TQLNINGIDLSQLYIDSLALVS</Hsp_qseq>
+      <Hsp_hseq>LLARQPIFNRSMQVVAYELL-CRTSHLNYADFNNGDSASSQV---LLHTFTELSLESVVGKLKAYINFTRTLLVTPPPFDRRQLVIEVLEDQTVDQTLLDGLAQLKTQGYTIALDDFVLTERTRPLLAYADIIKLDVLQLTEAELIDHIQTLKPMGHTLLAEKVETYEMLERCKTLGFDLFQGYFLARPKILKGHKVTESKQAVLQLLAALHDPEVPILRVEQLLSQDPVLSYKLLRLVNSAAFALPRTIDSLRQAITLLGLDIIKNWVNLLAMANLGNKPKELSVAALNRARMCEALAGVMRNEKRQDAFFTVGLLSTLDAFMDIPLEVLLANLSLSRELSEALLQHTGHEGRVLDIVEHYERGEWEKIDWAFLDQFGISPELLSQTYLESLQWVS</Hsp_hseq>
+      <Hsp_midline>++ ++PI+N+ ++ VA+E+L CR   LN       +  + Q+   + HT T+L L  V   LK  +    T +  P       +++++  D+      +  L +L+   ++IAL   + T +    L +A+ I L    ++++++   +Q  K     ++A  +  +   E+CK +  D + G FL      +G ++  +K  VLQL+  L   +  +  +  ++  DP+LSY+LL+LVNS  F+   +I+S+ QA+  LG+  +K WV L +M N+ +KP E+  + L RA M E LA    N   Q A +T GLLS LD  ++ P+  L+  ++L+ E+ +AL   +G  G +L +V  YE G WE++      Q  I+   LSQ Y++SL  VS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|753218185|ref|WP_041523470.1|</Hit_id>
+  <Hit_def>EAL domain-containing protein [Gilvimarinus agarilyticus]</Hit_def>
+  <Hit_accession>WP_041523470</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.614</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>7.02946e-41</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>112</Hsp_identity>
+      <Hsp_positive>204</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>401</Hsp_align-len>
+      <Hsp_qseq>EVFMITKRPIYNQQLKCVAFEIL----------------SCRNVMLNEELTRQLYDLIYHTDTQLPLFVPFSLKKLLEQFETPINNPIILKLSADEIES--VYSLTELQDSLFSIAL--LINTPQQLAWLNFAEYIGLTEQLMSKSDVTKVVQYSKAKNRKIIAYDLNQHVNFEKCKAMTMDYYCGDFLLNSIAEEGTEIAANKLNVLQLIQELQKEDCDLNEITHIIQADPLLSYQLLKLVNSVGFSSGPSIESIDQAVARLGIINLKKWVMLFSMKNISDKPIEVLESGLIRAHMAEELAKKS-SNIFSQSAYTAGLLSILDCLLNKPMPALVEQITLAEEIKDALTNKSGPLGDLLSLVIAYEEGHWEEV-----TQLNINGIDLSQLYIDSLALVSQ</Hsp_qseq>
+      <Hsp_hseq>ELPLLARQPIFNRTMDVVAYELLYRADHENRAQFTDGNSASTQVLLNTFAELSIEKVVGHHRA----FINFTAALMETRFPFDTSQLVIEVLESEVINANLLHHLKRLREDGFSIALDDFVLTKESAALIPYADIIKLDVLALNDRQLIEHVNYLKPLGVQIIAEKIETFAMLEHCRELGCDLFQGYFLEKPQVLKGQRLNESKQAVLQLLARLNDPNAAFEDIETIIARDPVLSYKLLRLVNSAAFALPRTIESLRQALTLLGLKIIRNWIGLLAMAKLGDKPAELSVKALTRAKLCELVASQTRPHTQCDTFFTAGLLSTLGAFMDAPLPKVLEDIQLSPALRNALLDQTGTEGQVLKAVIHYEHGQWQDIDWAFLAEQQLDPHTLTALYLQTLAWVDE</Hsp_hseq>
+      <Hsp_midline>E+ ++ ++PI+N+ +  VA+E+L                +   V+LN      +  ++ H       F+ F+   +  +F    +  +I  L ++ I +  ++ L  L++  FSIAL   + T +  A + +A+ I L    ++   + + V Y K    +IIA  +      E C+ +  D + G FL      +G  +  +K  VLQL+  L   +    +I  II  DP+LSY+LL+LVNS  F+   +IES+ QA+  LG+  ++ W+ L +M  + DKP E+    L RA + E +A ++  +    + +TAGLLS L   ++ P+P ++E I L+  +++AL +++G  G +L  VI YE G W+++      +  ++   L+ LY+ +LA V +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

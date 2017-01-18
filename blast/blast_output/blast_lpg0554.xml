@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_223851</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>432</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_223851</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>432</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248716|ref|WP_010946256.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|52840753|ref|YP_094552.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627864|gb|AAU26605.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507266|gb|AEW50790.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492954|gb|AGH54799.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081174|gb|AGN13422.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771550|emb|CZI76488.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998795756|emb|CZI43833.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998800546|emb|CZL11451.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998804130|emb|CZK64202.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998807220|emb|CZI31736.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998810744|emb|CZI18136.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998813097|emb|CZH13468.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998816463|emb|CZM22160.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998819720|emb|CZM00267.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998825576|emb|CZK39979.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998832807|emb|CZI18173.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998834447|emb|CZL49904.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998838679|emb|CZJ29841.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998840530|emb|CZL84995.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998843110|emb|CZL08881.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998846341|emb|CZL09694.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998849188|emb|CZI97911.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998852454|emb|CZL89212.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998855931|emb|CZL52766.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998858596|emb|CZM28824.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998862294|emb|CZK40493.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998864744|emb|CZJ87169.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998867193|emb|CZJ82341.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998879353|emb|CZJ75621.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998895786|emb|CZK08226.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998916072|emb|CZK71605.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998917507|emb|CZL64713.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998920487|emb|CZL71215.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998926846|emb|CZL99280.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998930904|emb|CZK82463.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998933693|emb|CZL68379.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998938759|emb|CZL21266.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998946236|emb|CZK70790.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998948006|emb|CZL29846.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998956974|emb|CZM67677.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998960447|emb|CZK67995.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998963177|emb|CZK80348.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998966727|emb|CZM42318.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998969361|emb|CZL05669.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998972370|emb|CZK82370.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998978484|emb|CZM01011.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998986094|emb|CZK09543.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998987518|emb|CZL90016.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998998262|emb|CZJ96527.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999006440|emb|CZL23670.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999011905|emb|CZL85096.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999014946|emb|CZM78844.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999021207|emb|CZL93476.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999024062|emb|CZL21228.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999036217|emb|CZL85310.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999045253|emb|CZM31619.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999060271|emb|CZL79655.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999066469|emb|CZJ49804.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999075352|emb|CZH16112.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999078602|emb|CZK43909.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999083069|emb|CZK86187.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999087919|emb|CZL16140.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999090981|emb|CZL91527.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999093861|emb|CZH49037.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999096987|emb|CZH53084.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999101374|emb|CZL75238.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999110940|emb|CZL05236.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999114035|emb|CZL58867.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999115927|emb|CZK73196.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999124764|emb|CZL32800.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999132527|emb|CZL70335.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999133871|emb|CZL47139.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999136993|emb|CZK89499.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999140870|emb|CZL85462.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999144829|emb|CZK80662.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999146357|emb|CZM10725.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999155627|emb|CZI38314.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999174228|emb|CZL61960.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999189819|emb|CZI76039.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999192939|emb|CZJ17186.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999199232|emb|CZH00830.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999202148|emb|CZJ22031.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999208451|emb|CZL35913.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999217961|emb|CZM06008.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999220930|emb|CZJ09126.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999333370|emb|CZL31221.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002078830|emb|CZQ92196.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003018370|emb|CZR30431.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003021442|emb|CZR26774.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003024518|emb|CZR30297.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073863676|gb|AOU03627.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073866635|gb|AOU06585.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073869640|gb|AOU09589.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073872584|gb|AOU12532.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073875566|gb|AOU15513.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073878527|gb|AOU18473.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073881522|gb|AOU21467.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073884484|gb|AOU24428.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073887482|gb|AOU27425.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073890466|gb|AOU30408.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073893431|gb|AOU33372.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073896396|gb|AOU36336.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073899359|gb|AOU39298.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073902311|gb|AOU42249.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073905222|gb|AOU45159.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073908240|gb|AOU48175.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073911295|gb|AOU51227.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073914214|gb|AOU54145.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073917172|gb|AOU57102.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073920138|gb|AOU60067.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073923112|gb|AOU63039.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073926125|gb|AOU66051.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073929105|gb|AOU69014.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073932489|gb|AOU72048.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073935437|gb|AOU82436.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073945712|gb|AOU85436.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1073948675|gb|AOU88398.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1104001827|emb|SFZ36355.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1129967290|gb|APT97649.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946256</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>689.493</Hsp_bit-score>
+      <Hsp_score>1778</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>339</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1005400115|ref|WP_061634677.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998870221|emb|CZM42424.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998873640|emb|CZK72820.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998876234|emb|CZM48032.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998885805|emb|CZM36401.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998888613|emb|CZK50453.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998905282|emb|CZK93525.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998908437|emb|CZL68840.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061634677</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>686.411</Hsp_bit-score>
+      <Hsp_score>1770</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>338</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGGTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIG TYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1004057962|ref|WP_061512134.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061512134</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>685.641</Hsp_bit-score>
+      <Hsp_score>1768</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>338</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGCAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAG AAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|653014633|ref|WP_027266663.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266663</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>684.871</Hsp_bit-score>
+      <Hsp_score>1766</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>338</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSNDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSVIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASS DLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANS+IGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652970684|ref|WP_027223576.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1005362782|gb|AMP88651.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365783|gb|AMP91560.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368770|gb|AMP94546.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223576</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>598.201</Hsp_bit-score>
+      <Hsp_score>1541</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>320</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSVSSLARASSKDLAYFDNPLLRSVLNSTRAGAVLLKSEHLDWSPVNCIVVSNPAEAMFKAAKILPHFSINVCGIHPTAQIHKSAQLGQHVSVGANSVIGENVQLDDNVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIVGSGCIVGAAPFNYYKDHGLWQQGPIFGGVVIGQRTQIGANTVIHRGCIGDTYLGDGVCIDSLVLIAHDVYVGNNTAIAGCAAIGALVQIGMDCIIGGASCLTANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNTARFRHLDDYITKLKTIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFSVSSLARASSKDL YFDNPLLR VLNSTRAGAVLLKSEH DW PVNC+VVSNP+EAMFKAAKILP   + V GIHPTAQIHKSAQLGQ+VSVGANS+IGE VQ+DDNVT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVI+GSG IVGAAPFN YK+HG+WQQGPIFGGVVIGQRTQIGANTVIHRG IGDTYLG+GVCIDSLVLIAHDVYVGNNTAIAG AAIGALVQIGMDCIIGGASCL ANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRNTARFRHLDDYITKL TIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1011913798|ref|WP_062727012.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727012</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>592.423</Hsp_bit-score>
+      <Hsp_score>1526</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSVSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKSEHLDWSPVNCIVVPNPSEAMFKAAKILPHLGNKAFGIHPTAQIHKSAQLGQHVSVGANSVIGENVQLDDDVTIGSNTTIECSVLIGRGSQLGSGSIIHSGTVLGQSVIVGSGCIVGAAPFNYYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGCIGDTYLGDGVCIDSLVLIAHDVYVGNNTAIAGCAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSITRSGVYSSGTTVHEHRKWRRNTARFRHLDDYITKLKTIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFSVSSLARASSKDL YFDNPLL+ VLNSTRAGAVLLKSEH DW PVNC+VV NPSEAMFKAAKILP  G    GIHPTAQIHKSAQLGQ+VSVGANS+IGE VQ+DD+VT+G NTTIE SVLIGRGSQLG+G+IIHSGTVLGQSVI+GSG IVGAAPFN YKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRG IGDTYLG+GVCIDSLVLIAHDVYVGNNTAIAG AAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVH+HRKWRRNTARFRHLDDYITKL TIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1004017569|ref|WP_061485305.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485305</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>592.038</Hsp_bit-score>
+      <Hsp_score>1525</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANHLNGVWHGNANHAIFNLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNSIVVPNPSEAMFKAAKILPHLGTNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDNVTIGSNTIIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQGPNFGGVVIGQKTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHEHRKWRRNIARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA HLNGVWHG+ANHAIF++SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVN +VV NPSEAMFKAAKILP  G  V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DDNVT+G NT IESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQGP FGGVVIGQ+TQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVH+HRKWRRN ARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|654927534|ref|WP_028378026.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378026</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.267</Hsp_bit-score>
+      <Hsp_score>1523</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSVSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKSEHLDWSPVNCIVVPNPSEAMFKAAKILPHLGNKACGIHPTAQIHKSAQLGQHVSVGANSVIGENVQLDDNVTIGSNTTIECSVLIGRGSQLGSGSIIHSGTVLGQSVIVGSGCIVGAAPFNYYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGCIGDTYLGDGVCIDSLVLIAHDVYVGNNTAIAGCAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSITRSGVYSSGTTVHEHHKWRRNTARFRHLDDYITKLKTIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFSVSSLARASSKDL YFDNPLL+ VLNSTRAGAVLLKSEH DW PVNC+VV NPSEAMFKAAKILP  G    GIHPTAQIHKSAQLGQ+VSVGANS+IGE VQ+DDNVT+G NTTIE SVLIGRGSQLG+G+IIHSGTVLGQSVI+GSG IVGAAPFN YKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRG IGDTYLG+GVCIDSLVLIAHDVYVGNNTAIAG AAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVH+H KWRRNTARFRHLDDYITKL TIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|652976173|ref|WP_027228846.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|985765952|gb|KXB27063.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|985767738|gb|KXB28824.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999119267|emb|CZG76323.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999122525|emb|CZH12683.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1024341669|gb|KZX35976.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1108603984|gb|APF02352.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606995|gb|APF05362.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228846</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>590.882</Hsp_bit-score>
+      <Hsp_score>1522</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSVSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKSEHLDWSPVNCIVVPNPSEAMFKAAKILPHLGNKACGIHPTAQVHKSAQLGQHVSVGANSVIGENVQLDDNVTIGSNTTIECSVLIGRGSQLGSGSIIHSGTVLGQSVIVGSGCIVGAAPFNYYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGCIGDTYLGDGVCIDSLVLIAHDVYVGNNTAIAGCAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSITRSGVYSSGTTVHEHHKWRRNTARFRHLDDYITKLKTIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFSVSSLARASSKDL YFDNPLL+ VLNSTRAGAVLLKSEH DW PVNC+VV NPSEAMFKAAKILP  G    GIHPTAQ+HKSAQLGQ+VSVGANS+IGE VQ+DDNVT+G NTTIE SVLIGRGSQLG+G+IIHSGTVLGQSVI+GSG IVGAAPFN YKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRG IGDTYLG+GVCIDSLVLIAHDVYVGNNTAIAG AAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVH+H KWRRNTARFRHLDDYITKL TIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1004334292|ref|WP_061513217.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513217</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.341</Hsp_bit-score>
+      <Hsp_score>1518</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSISSLARASSKDLAYFDNPLLQFVLNSTRAGAVLLKPEHKDWCPVNYIVVPNPSESMFKAAKILPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVSIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVN +VV NPSE+MFKAAKILP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD V++G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|499533464|ref|WP_011214748.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|53753330|emb|CAH14777.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella pneumophila str. Lens] &gt;gi|1080002219|gb|AOW52791.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006028|gb|AOW56308.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014717|gb|AOW63590.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214748</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>575.474</Hsp_bit-score>
+      <Hsp_score>1482</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSESMFKAAKFLPHPGTNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVSIGSGTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSE+MFKAAK LP PG  V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD V++G  TTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1004336526|ref|WP_061515356.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061515356</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.933</Hsp_bit-score>
+      <Hsp_score>1478</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATKVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|754875976|ref|WP_042236384.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998791239|emb|CZG39949.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998793144|emb|CZI51893.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999287218|emb|CZI46059.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999293654|emb|CZI46930.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999312657|emb|CZI53516.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002092773|emb|CZQ95505.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236384</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.933</Hsp_bit-score>
+      <Hsp_score>1478</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKILPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGCDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGVYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAKILP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R G+YSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|749504896|ref|WP_040145858.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998801848|emb|CZI08845.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999165671|emb|CZG82803.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145858</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.933</Hsp_bit-score>
+      <Hsp_score>1478</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1080123414|ref|WP_070322139.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1080008112|gb|AOW58100.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012226|gb|AOW61717.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018469|gb|AOW67114.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322139</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.548</Hsp_bit-score>
+      <Hsp_score>1477</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSESMFKAAKFLPHPGTNVCGIHPTAQIHKSVQIGQHVSVGANSVIGENVQLDDYVSIGSGTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSE+MFKAAK LP PG  V GIHPTAQIHKS Q+GQ+VSVGANS+IGE VQ+DD V++G  TTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1004027698|ref|WP_061489601.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489601</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.163</Hsp_bit-score>
+      <Hsp_score>1476</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATKVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGIVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGG+VIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652966184|ref|WP_027219185.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|761989543|dbj|GAN22606.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999003151|emb|CZI81929.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999159310|emb|CZJ68862.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999178317|emb|CZJ55607.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999302871|emb|CZI38566.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219185</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.163</Hsp_bit-score>
+      <Hsp_score>1476</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|981203817|ref|WP_059428192.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|761998973|dbj|GAN28958.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_059428192</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.778</Hsp_bit-score>
+      <Hsp_score>1475</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKRLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|148282650|gb|ABQ56738.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl) glucosamine N- acyltransferase [Legionella pneumophila str. Corby] &gt;gi|295647958|gb|ADG23805.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila 2300/99 Alcoy]</Hit_def>
+  <Hit_accession>ABQ56738</Hit_accession>
+  <Hit_len>343</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.392</Hsp_bit-score>
+      <Hsp_score>1474</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>LLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>+LT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|752488088|ref|WP_041174108.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999184348|emb|CZP96199.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999198481|emb|CZP14223.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999228317|emb|CZP09078.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999265234|emb|CZP07611.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999269446|emb|CZO33767.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999272248|emb|CZP58763.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999277630|emb|CZP37602.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999281339|emb|CZP15500.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999283693|emb|CZP62223.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999291010|emb|CZP32781.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999296463|emb|CZP57754.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999299550|emb|CZP46835.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999307328|emb|CZH71230.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999309392|emb|CZP27629.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999315800|emb|CZI09449.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999318700|emb|CZP65624.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999322042|emb|CZH99126.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999324419|emb|CZH32541.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999337779|emb|CZP47780.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999344430|emb|CZP83900.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999347231|emb|CZP63883.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999353451|emb|CZP68322.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999357209|emb|CZP67569.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999363789|emb|CZP55927.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999367139|emb|CZP77436.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999369918|emb|CZP77202.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999392328|emb|CZP98357.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999398576|emb|CZQ01208.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999403099|emb|CZP40522.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999450645|emb|CZP36302.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999464830|emb|CZM51849.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999467854|emb|CZO29053.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999474721|emb|CZM62364.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999477178|emb|CZN75362.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999480680|emb|CZN00851.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999484229|emb|CZN88824.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999487112|emb|CZM12017.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999490285|emb|CZN79649.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999493476|emb|CZM11436.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999500056|emb|CZN73913.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999503182|emb|CZO08471.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999506350|emb|CZN15641.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999509553|emb|CZG50769.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999512891|emb|CZN29727.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999516021|emb|CZM00883.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999518982|emb|CZM83888.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999521888|emb|CZP16974.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999532338|emb|CZO45728.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999535494|emb|CZN39859.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999538575|emb|CZM75357.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999542019|emb|CZO20423.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999544981|emb|CZO60655.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999548175|emb|CZN89604.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999551487|emb|CZO11557.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999554522|emb|CZN31766.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999557903|emb|CZO55449.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999561088|emb|CZM42246.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999564094|emb|CZO67301.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999567458|emb|CZM53037.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999570658|emb|CZN50967.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999573846|emb|CZN93199.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999580338|emb|CZO17082.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999583626|emb|CZO38399.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999586989|emb|CZM65230.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999589976|emb|CZM40056.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999593135|emb|CZN44940.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999596208|emb|CZO11635.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999599528|emb|CZO37236.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999602646|emb|CZL97315.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999605434|emb|CZN73281.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999608971|emb|CZN63634.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999615583|emb|CZM47763.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999618648|emb|CZN90308.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999621782|emb|CZO82403.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999625110|emb|CZN71763.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999628391|emb|CZM62638.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999631559|emb|CZM59492.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999634619|emb|CZN59745.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999637947|emb|CZN51874.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999641143|emb|CZO79838.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999644135|emb|CZO53443.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999647626|emb|CZN95022.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999650688|emb|CZO04975.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999653927|emb|CZO01193.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999657124|emb|CZM29905.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999660198|emb|CZM65287.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999663371|emb|CZN17233.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999666736|emb|CZM37802.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999669928|emb|CZL84262.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999673108|emb|CZM38008.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999676322|emb|CZN77669.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999679333|emb|CZM79471.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999682528|emb|CZM82456.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999686215|emb|CZO00352.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999689117|emb|CZN30468.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999692310|emb|CZN99147.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999695527|emb|CZN29062.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999698806|emb|CZM12424.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999701750|emb|CZM78762.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999704985|emb|CZL94904.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999708157|emb|CZN56800.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999711576|emb|CZN00881.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999714672|emb|CZN21384.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999717998|emb|CZO46144.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999720954|emb|CZM93805.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999724473|emb|CZN34480.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999727822|emb|CZL99046.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999730995|emb|CZO43624.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999734165|emb|CZM25510.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999737495|emb|CZO70817.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999740976|emb|CZM31829.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999744086|emb|CZN26610.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999747228|emb|CZM24737.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999750540|emb|CZL96497.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999753736|emb|CZM81323.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999756787|emb|CZN10703.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999760288|emb|CZM24630.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999763367|emb|CZN29995.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999766893|emb|CZM48130.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999769742|emb|CZN50562.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999776206|emb|CZL99843.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999782906|emb|CZH62793.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999786405|emb|CZM24248.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999789570|emb|CZO66892.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999792915|emb|CZO60544.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999799800|emb|CZO55617.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003029203|emb|CZR19139.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003036386|emb|CZR17055.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1005834690|gb|AMQ29416.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431644|gb|AMV13271.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1041016991|gb|ANN94052.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1103995577|emb|SFZ36666.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_041174108</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.007</Hsp_bit-score>
+      <Hsp_score>1473</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNAARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRN ARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|652967229|ref|WP_027220201.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999247899|emb|CZH57035.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999454046|emb|CZI20910.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999460511|emb|CZH00086.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999773145|emb|CZH90276.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999796132|emb|CZI24184.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220201</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>571.237</Hsp_bit-score>
+      <Hsp_score>1471</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>319</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANYAIFSLSSLARASSKDLVYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSESMFKAAKILPHLGTNVCGIHPTAQIHKSAQIGEHVSVGANSVIGENVQLDDYVSIGSNTTIESSVLIGRGSQLGSGAIIHSGTVFGQSVIIDSGCIVGAAPFNCYKEHGIWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITLEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+AN+AIFS+SSLARASSKDLVYFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSE+MFKAAKILP  G  V GIHPTAQIHKSAQ+G++VSVGANS+IGE VQ+DD V++G NTTIESSVLIGRGSQLG+GAIIHSGTV GQSVII SG IVGAAPFNCYKEHG+WQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLIT+EKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|395126491|emb|CCD04674.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD04674</Hit_accession>
+  <Hit_len>343</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.852</Hsp_bit-score>
+      <Hsp_score>1470</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>LLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNAARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>+LT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRN ARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|749552153|ref|WP_040185222.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999149960|emb|CZI48587.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999168608|emb|CZI45387.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185222</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.466</Hsp_bit-score>
+      <Hsp_score>1469</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTIEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKVLPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLGDYIAIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLTIEELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK+LP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+ D + +G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1003782940|ref|WP_061467297.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467297</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.081</Hsp_bit-score>
+      <Hsp_score>1468</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHYGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIH GTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|653016120|ref|WP_027268145.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998774461|emb|CZH08583.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998777341|emb|CZH12894.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998783288|emb|CZH40629.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998786251|emb|CZH07012.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998892638|emb|CZJ24703.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002074298|emb|CZR05516.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002081593|emb|CZR00262.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027268145</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.081</Hsp_bit-score>
+      <Hsp_score>1468</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCLVNCIVVPNPSEAMFKAAKILPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGCDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGVYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWC VNC+VV NPSEAMFKAAKILP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R G+YSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1003927102|ref|WP_061469839.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998912149|emb|CZH23290.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998994567|emb|CZI22192.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469839</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>569.311</Hsp_bit-score>
+      <Hsp_score>1466</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLLHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK L      V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|653012666|ref|WP_027264769.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264769</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.926</Hsp_bit-score>
+      <Hsp_score>1465</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANDAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEYKDWCPVNCIVVPNPSESMFKAAKILPHLGTNVYGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVSIGSGTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+AN AIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK E+KDWCPVNC+VV NPSE+MFKAAKILP  G  V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD V++G  TTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|395129597|emb|CCD07830.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD07830</Hit_accession>
+  <Hit_len>343</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.926</Hsp_bit-score>
+      <Hsp_score>1465</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>LLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCLVNCIVVPNPSEAMFKAAKILPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGCDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGVYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>+LT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWC VNC+VV NPSEAMFKAAKILP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R G+YSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|652971347|ref|WP_027224206.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|761992731|dbj|GAN16519.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|761995921|dbj|GAN19625.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998982385|emb|CZI64690.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999107555|emb|CZI64051.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999231784|emb|CZI44633.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1032659077|gb|ANH14348.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1032662040|gb|ANH17310.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1032665018|gb|ANH20287.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224206</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.155</Hsp_bit-score>
+      <Hsp_score>1463</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWYGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCLVNCIVVPNPSEAMFKAAKILPHLATNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGCDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGVYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVW+G+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWC VNC+VV NPSEAMFKAAKILP     V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R G+YSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|652976797|ref|WP_027229416.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998822465|emb|CZH34529.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999386264|emb|CZG63847.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999405901|emb|CZG71239.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999525341|emb|CZJ07028.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027229416</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>567.77</Hsp_bit-score>
+      <Hsp_score>1462</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANDAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEYKDWCPVNCIVVPNPSESMFKAAKILPHLGTNVCGIHPTAQIHKSAQIGQHVSVGANSVIGENVQLDDYVSIGSGTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+AN AIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK E+KDWCPVNC+VV NPSE+MFKAAKILP  G  V GIHPTAQIHKSAQ+GQ+VSVGANS+IGE VQ+DD V++G  TTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|742353208|ref|WP_038837505.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998783001|emb|CZI85055.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998828307|emb|CZH37449.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998883015|emb|CZI85120.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998897692|emb|CZK07991.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998938019|emb|CZL86439.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998951058|emb|CZJ95031.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999000078|emb|CZG94140.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999058458|emb|CZM30196.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999103716|emb|CZI20062.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999128490|emb|CZH15529.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999152614|emb|CZM82259.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999161905|emb|CZM39785.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999236719|emb|CZG94040.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002085562|emb|CZQ97495.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1002088288|emb|CZQ79047.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1104005392|emb|SFZ36330.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837505</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>567</Hsp_bit-score>
+      <Hsp_score>1460</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANDAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEYKDWCPVNCIVVPNPSESMFKAAKILPHLGTNVCGIHPTAQIHKSAQIGQHVSVGSNSVIGENVQLDDYVSIGSGTTIESSVLIGRGSQLGSGAIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGSAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARPGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+AN AIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK E+KDWCPVNC+VV NPSE+MFKAAKILP  G  V GIHPTAQIHKSAQ+GQ+VSVG+NS+IGE VQ+DD V++G  TTIESSVLIGRGSQLG+GAIIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAGSAAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI R GIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|696253101|ref|WP_032830862.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998923750|emb|CZK25274.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998943820|emb|CZJ50654.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998954357|emb|CZK61599.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998975528|emb|CZJ90974.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|998992806|emb|CZJ46739.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999009038|emb|CZK45608.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999018200|emb|CZJ86669.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999027315|emb|CZK24165.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999030584|emb|CZH24616.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999033265|emb|CZK20336.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999039471|emb|CZJ95238.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999042463|emb|CZK05332.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999048504|emb|CZK01376.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999051593|emb|CZJ93013.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999054528|emb|CZK28660.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999063705|emb|CZK02894.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999070552|emb|CZJ64372.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999072771|emb|CZK31001.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999085013|emb|CZK31430.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999206214|emb|CZP63716.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999235222|emb|CZP58943.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999240268|emb|CZH90197.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999244387|emb|CZH77129.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999248794|emb|CZH08778.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999252010|emb|CZH37561.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999255999|emb|CZP80141.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999259095|emb|CZP46423.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999261318|emb|CZH42226.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999274816|emb|CZG79918.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999328645|emb|CZG65226.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999331800|emb|CZG57413.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999340102|emb|CZH26868.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999349685|emb|CZH40422.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999469335|emb|CZH07604.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999777471|emb|CZH49415.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1103998708|emb|SFZ36392.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_032830862</Hit_accession>
+  <Hit_len>336</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>562.377</Hsp_bit-score>
+      <Hsp_score>1448</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>428</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>335</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKL</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFKAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNAARFRHLDDYITKLITIEKKI</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMFKAAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRN ARFRHLDDYITKLITIEKK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|499526496|ref|WP_011213136.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|53750325|emb|CAH11719.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella pneumophila str. Paris] &gt;gi|536613623|gb|ERB41995.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila str. 121004] &gt;gi|541995588|gb|ERH41687.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila str. Leg01/11] &gt;gi|541997376|gb|ERH43422.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila str. Leg01/53] &gt;gi|542121170|gb|ERI47503.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila str. Leg01/20] &gt;gi|762002529|dbj|GAN25647.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999171872|emb|CZI30073.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999181661|emb|CZG51941.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999187829|emb|CZI95757.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999212745|emb|CZG78655.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999216897|emb|CZI65477.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999225309|emb|CZG82769.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999359991|emb|CZI62171.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999373437|emb|CZG56655.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999376471|emb|CZJ18214.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999379772|emb|CZH69973.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999382667|emb|CZI58299.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999389117|emb|CZI57130.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999396885|emb|CZG08779.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999408912|emb|CZH91897.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999412760|emb|CZG33357.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999415413|emb|CZG87680.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999418753|emb|CZG64087.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999421948|emb|CZH72698.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999425262|emb|CZG74611.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999428384|emb|CZG73268.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999431626|emb|CZG72762.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999434984|emb|CZH99778.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999438168|emb|CZG61915.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999441164|emb|CZK28470.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999444643|emb|CZH77413.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999447846|emb|CZG53791.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999457587|emb|CZK22413.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999496272|emb|CZI47224.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999528054|emb|CZI73992.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999576045|emb|CZI42633.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|999611301|emb|CZI63411.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1003032389|emb|CZR24914.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella pneumophila] &gt;gi|1041017644|gb|ANN94704.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213136</Hit_accession>
+  <Hit_len>336</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>561.222</Hsp_bit-score>
+      <Hsp_score>1445</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>428</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>335</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKL</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFRAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGDGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNAARFRHLDDYITKLITIEKKI</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMF+AAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG+GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRN ARFRHLDDYITKLITIEKK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1003951917|ref|WP_061474427.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061474427</Hit_accession>
+  <Hit_len>336</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>560.451</Hsp_bit-score>
+      <Hsp_score>1443</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>428</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>335</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKL</Hsp_qseq>
+      <Hsp_hseq>MLTLEELANYLNGVWHGNANHAIFSLSSLARASSKDLAYFDNPLLQSVLNSTRAGAVLLKPEHKDWCPVNCIVVPNPSEAMFRAAKSLPHLATNVCGIHPTAQIHKSAQIGQYVSVGANSVIGENVQLDDYVTIGSNTTIESSVLIGRGSQLGSGSIIHSGTVLGQSVIIDSGCIVGAAPFNCYKEHGVWQQAPNFGGVVIGQRTQIGANTVIHRGSIGDTYLGNGVCIDSLVLIAHDVYIGNNTAIAGCAAIGALVQIGSDCIIGGASCLAANIRLTNDVVITGMSTVTKSIARSGVYSSGTTVHDHRKWRRNAARFRHLDDYITKLITIEKKI</Hsp_hseq>
+      <Hsp_midline>MLT+EELA +LNGVWHG+ANHAIFS+SSLARASSKDL YFDNPLL+ VLNSTRAGAVLLK EHKDWCPVNC+VV NPSEAMF+AAK LP     V GIHPTAQIHKSAQ+GQ VSVGANS+IGE VQ+DD VT+G NTTIESSVLIGRGSQLG+G+IIHSGTVLGQSVII SG IVGAAPFNCYKEHGVWQQ P FGGVVIGQRTQIGANTVIHRGSIGDTYLG GVCIDSLVLIAHDVY+GNNTAIAG AAIGALVQIG DCIIGGASCLAANIRLTNDVVITGMSTVTKSI RSG+YSSGTTVHDHRKWRRN ARFRHLDDYITKLITIEKK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|737926255|ref|WP_035891405.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella norrlandica] &gt;gi|701444824|gb|KGP62256.1| UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891405</Hit_accession>
+  <Hit_len>340</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.077</Hsp_bit-score>
+      <Hsp_score>1198</Hsp_score>
+      <Hsp_evalue>5.05825e-161</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>340</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>340</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQP-GVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLSELAHCLGGVWHGNAKHTISGLSSLFRATPRDLVFFDNPSLFFALHLTKAGAVLLKSEYVESCPVNSIVVSNPLEAMIKAAEVLTNPQNTGIRGIHPSAQVHPSVRLGKNISVGANSVIHENAQLDDNVTIGSNTTIHPSVCIGKSSQIDSGVVIHSGSLIGQAVIIDSGCIIGAVPFNYNKEHGIWQHGLTIGGVVICQETRIGANTVIDRGSVGDTYVGERVCIDSLVLIAHDVYIGNNTAIAGCAVIGARTQIGSDCIIGGASCLAANIHLANDIVITGMSTVIKSITRSGIYSSGTIVHDHQRWRRNAARFKRLDDYIMKLKTIEKKFNNNN</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA  L GVWHG+A H I  +SSL RA+ +DLV+FDNP L   L+ T+AGAVLLKSE+ + CPVN +VVSNP EAM KAA++L  P    + GIHP+AQ+H S +LG+N+SVGANS+I E  Q+DDNVT+G NTTI  SV IG+ SQ+ +G +IHSG+++GQ+VII SG I+GA PFN  KEHG+WQ G   GGVVI Q T+IGANTVI RGS+GDTY+GE VCIDSLVLIAHDVY+GNNTAIAG A IGA  QIG DCIIGGASCLAANI L ND+VITGMSTV KSI RSGIYSSGT VHDH++WRRN ARF+ LDDYI KL TIEKK NNNN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|769980408|ref|WP_045096393.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella fallonii] &gt;gi|698844022|emb|CEG57991.1| UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096393</Hit_accession>
+  <Hit_len>341</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>434.491</Hsp_bit-score>
+      <Hsp_score>1116</Hsp_score>
+      <Hsp_evalue>1.67285e-148</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>428</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>335</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKL</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLAEHLSGVWHGNADHAIFNLSSLSRATSQDVAYFDNLLLQRSLESTSAGAVVLKQEHASVCPVNCIVVSDPLAAIYKTARLLFTEKKSMSGIHPTAQIHPSAQIGQDVSIEANSIIGKMTRLADGVCIGANTVIESHVQIERNSQIASGVIVHSGSRLGRNVLINYGVVIGSSPFNYLKQHGVWQQDPVVGGVIIADGVHIGANTVIDRGTFGDTFLAEGVCIDNLVQIAHDVIIGTNTAIAGCAAIGSHAQIGSDCIIGGASCIAANVHLSDDVVITGMSTVSRSIIKPGVYSSGTLVHEHQRWRRNAARFRRLDDYIVKLGELEKKI</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA+HL+GVWHG+A+HAIF++SSL+RA+S+D+ YFDN LL+  L ST AGAV+LK EH   CPVNC+VVS+P  A++K A++L      +SGIHPTAQIH SAQ+GQ+VS+ ANS+IG+  ++ D V +G NT IES V I R SQ+ +G I+HSG+ LG++V+I  G ++G++PFN  K+HGVWQQ P+ GGV+I     IGANTVI RG+ GDT+L EGVCID+LV IAHDV +G NTAIAG AAIG+  QIG DCIIGGASC+AAN+ L++DVVITGMSTV++SI++ G+YSSGT VH+H++WRRN ARFR LDDYI KL  +EKK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966432007|ref|WP_058472440.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella quateirensis] &gt;gi|962271473|gb|KTD55475.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472440</Hit_accession>
+  <Hit_len>342</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.18</Hsp_bit-score>
+      <Hsp_score>1110</Hsp_score>
+      <Hsp_evalue>1.30569e-147</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>211</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLAETLDGVWHGNANHAIFGLSSLVRATSKDVAYFENPLLRNTLSQTAAGAVILKSEHLHLCPVNSIVVSNPVASMNEAVKLFSPAESPNLGIHETARIHHSAQVGNHVSIGAFSVIGEHVQIADGVTLGANTVIESAVSIGKGSRIGCGVMIHSGCRLGTNVRVNSGCIIGSSPFNYMKQHGVWQQGPDVGAVILSDEVQLGANTVIDRGSLSDTYLGEGVCVDNLVQIAHDAFIGSNTAIAGCAAVGAYAHIGSDCIIGGASCIAAYVRLTDDTVITGMSTVSKSIAKSGIYSSGTLVHEHDRWRRNAARFKRLDDYMIKLGLLEKKFRNDD</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA+ L+GVWHG+ANHAIF +SSL RA+SKD+ YF+NPLLR  L+ T AGAV+LKSEH   CPVN +VVSNP  +M +A K+         GIH TA+IH SAQ+G +VS+GA S+IGE VQI D VT+G NT IES+V IG+GS++G G +IHSG  LG +V + SG I+G++PFN  K+HGVWQQGP  G V++    Q+GANTVI RGS+ DTYLGEGVC+D+LV IAHD ++G+NTAIAG AA+GA   IG DCIIGGASC+AA +RLT+D VITGMSTV+KSI +SGIYSSGT VH+H +WRRN ARF+ LDDY+ KL  +EKK  N++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966468579|ref|WP_058499905.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella gratiana] &gt;gi|962221368|gb|KTD06028.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499905</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.483</Hsp_bit-score>
+      <Hsp_score>1103</Hsp_score>
+      <Hsp_evalue>1.75577e-146</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLAEKLGGVWHGNANHAIFSFASLARATPKDIAYYDNPILQKALEATSAGAVLLRAEHKDLCQRNCIIVSNPLQMMIQATQLLSKPTISCSGVDPTARIHHSAQIGEGVSIGAYSVIHAEVQLADNVVIGANTVVESSVVIGKKTQIGHDVVIHSGCQLGAHVIIDSGCVVGASPFNYVKQQGYWRQGLSVGAVIIADQVRIGANTVIDRGSLNDTYLGDGVCIDNLVQIAHDVLIGKNTFIAGCAAIGAYVQIGEDCIIGGASSIAAYVHLTDDVVITGMSTVSKSLAKSGIYSSGTLIHEHQRWRRNAARFRRLDDYIEKLSVLEKRVN</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA+ L GVWHG+ANHAIFS +SLARA+ KD+ Y+DNP+L+  L +T AGAVLL++EHKD C  NC++VSNP + M +A ++L +P +  SG+ PTA+IH SAQ+G+ VS+GA S+I   VQ+ DNV +G NT +ESSV+IG+ +Q+G   +IHSG  LG  VII SG +VGA+PFN  K+ G W+QG   G V+I  + +IGANTVI RGS+ DTYLG+GVCID+LV IAHDV +G NT IAG AAIGA VQIG DCIIGGAS +AA + LT+DVVITGMSTV+KS+ +SGIYSSGT +H+H++WRRN ARFR LDDYI KL  +EK++N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|654930655|ref|WP_028381024.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella cherrii] &gt;gi|962197420|gb|KTC82464.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381024</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>428.328</Hsp_bit-score>
+      <Hsp_score>1100</Hsp_score>
+      <Hsp_evalue>3.82232e-146</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELANHLGGVWHGNANHAIFCYASLARATSQDVAYYDNSALLPILGTTLAGAVLLKSEHRHLCPGNCIVVAHPSQAMMHAAQLLSAPVPAVSGIDPTAMVHESAQLGHGVSIGAYSVIGANAQLADGVTIGANSVIESSVRIGKNSQIGHEVVIHSGCQLGAQIIINSGCVIGASPFNYLKQQGHWQQGFNAGAVVIENQVHIGSNTVIDRGSLSDTYLGEGVCIDNLVQVAHDVLVGKNTIIAGCAAIGAYAQIGADCIIGGASCIAAHVHLADDVVITGMSTVSKSLAKPGIYSSGTLVHEHHRWRRNAARFKRLDDYMVKLGALEKKLSS</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA HL GVWHG+ANHAIF  +SLARA+S+D+ Y+DN  L P+L +T AGAVLLKSEH+  CP NC+VV++PS+AM  AA++L  P   VSGI PTA +H+SAQLG  VS+GA S+IG   Q+ D VT+G N+ IESSV IG+ SQ+G   +IHSG  LG  +II SG ++GA+PFN  K+ G WQQG   G VVI  +  IG+NTVI RGS+ DTYLGEGVCID+LV +AHDV VG NT IAG AAIGA  QIG DCIIGGASC+AA++ L +DVVITGMSTV+KS+ + GIYSSGT VH+H +WRRN ARF+ LDDY+ KL  +EKKL++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|518063374|ref|WP_019233582.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella anisa] &gt;gi|962187527|gb|KTC72653.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233582</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>425.631</Hsp_bit-score>
+      <Hsp_score>1093</Hsp_score>
+      <Hsp_evalue>4.45553e-145</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>259</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELAEHLGGVWHGNANHAIFCFASLSRATSKDVAYYDNSALRQALDTTSAGAVILKAKDHHLYEGNCIVVSNPLQAMMQAAQFLSVPVSPRSGVDSTAIIHQSAQLGQGVSIGAYSVIGANTQIADGVTIGANTVIESSVRIGQNSQIGHKVVIHAGCQLGAYVVINSGCIIGASPFNYLKEHGHWQQGYSVGAVIIANQVQIGANTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLVGQNTVIAGCAALGAYAQIGADCIIGGASCIAAHVHLADDVVITGMSTVSKSLAKSGIYSSGTLVHEHRRWRRNVARFRRLDDYIVKLGALEKKLSH</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA+HL GVWHG+ANHAIF  +SL+RA+SKD+ Y+DN  LR  L++T AGAV+LK++       NC+VVSNP +AM +AA+ L  P    SG+  TA IH+SAQLGQ VS+GA S+IG   QI D VT+G NT IESSV IG+ SQ+G   +IH+G  LG  V+I SG I+GA+PFN  KEHG WQQG   G V+I  + QIGANTVI RGS+ DTYLGEGVCID+LV IAHDV VG NT IAG AA+GA  QIG DCIIGGASC+AA++ L +DVVITGMSTV+KS+ +SGIYSSGT VH+HR+WRRN ARFR LDDYI KL  +EKKL++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966436892|ref|WP_058477260.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella steigerwaltii] &gt;gi|962293669|gb|KTD77344.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477260</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.476</Hsp_bit-score>
+      <Hsp_score>1090</Hsp_score>
+      <Hsp_evalue>1.21613e-144</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>259</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELANHLGGVWHGNANHAISCYASLARATSQDVAYYDNSVLLPILNTTLAGAVLLKSEHQHLFQGNCIVVPNPLQAMIQATQLLSAHTSAFAGIDATAIVHESAQLGQGVSIGAYSVIGANTQLADGVIIGANSVIESSVRIGKNSQIGHDVVIHSGCQLGAQVVINSGCVIGASPFNYLKQHGHWQQGLDAGAVVIANQVQIGSNTVIDRGSLSDTYLGEGVCIDNLVQVAHDVMVGKNTIIAGCAAIGAYVQIGTDCIIGGASCIAAHVRLVDDVVITGMSTVSKSLAKSGIYSSGTLVHEHHRWRRNAARFRRLDDYIVKLSALEKKLSD</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA HL GVWHG+ANHAI   +SLARA+S+D+ Y+DN +L P+LN+T AGAVLLKSEH+     NC+VV NP +AM +A ++L       +GI  TA +H+SAQLGQ VS+GA S+IG   Q+ D V +G N+ IESSV IG+ SQ+G   +IHSG  LG  V+I SG ++GA+PFN  K+HG WQQG   G VVI  + QIG+NTVI RGS+ DTYLGEGVCID+LV +AHDV VG NT IAG AAIGA VQIG DCIIGGASC+AA++RL +DVVITGMSTV+KS+ +SGIYSSGT VH+H +WRRN ARFR LDDYI KL  +EKKL++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966415321|ref|WP_058458606.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Fluoribacter bozemanae] &gt;gi|962189828|gb|KTC74930.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458606</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.091</Hsp_bit-score>
+      <Hsp_score>1089</Hsp_score>
+      <Hsp_evalue>1.82119e-144</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>210</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELADHLGGVWHGNANHAIFCFASLARATSRDVAYYDNSVVRESLDTTLAGAVILKAKDHHLYQGNCIVVSNPFQAMMQAAGLLSAPVLSRSGIDPTAIIHQSAQLGQGVSIGAYSVIGANTQIADGVTIGANTVIESSVQIGQNSQIGHKVVIHAGCQLGAYVVINAGCIIGASPFNYLKEHGHWQQGYSVGAVIIANQVHVGSNTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLIGKNTIIAGCAALGAYAQIGADCIIGGASCIAAHVHLADDVVITGMSTVSKSLAKSGIYSSGTLVHEHRRWRRNVARFRRLDDYITKLGALEKKLS</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA HL GVWHG+ANHAIF  +SLARA+S+D+ Y+DN ++R  L++T AGAV+LK++       NC+VVSNP +AM +AA +L  P +  SGI PTA IH+SAQLGQ VS+GA S+IG   QI D VT+G NT IESSV IG+ SQ+G   +IH+G  LG  V+I +G I+GA+PFN  KEHG WQQG   G V+I  +  +G+NTVI RGS+ DTYLGEGVCID+LV IAHDV +G NT IAG AA+GA  QIG DCIIGGASC+AA++ L +DVVITGMSTV+KS+ +SGIYSSGT VH+HR+WRRN ARFR LDDYITKL  +EKKL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966504690|ref|WP_058521349.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella tucsonensis] &gt;gi|962290679|gb|KTD74387.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521349</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>423.705</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>2.81805e-144</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELAEHLGGVWHGNANHAIFCFASLARATSLDVAYYDNSVLRQFLDTTSAGAVILKAKDHHLYQGNCIVVSNPLQAMMQAAQLLSVPASPRWGIDPTAIIHQSAQLGQAVSIGAYSVIGANTQIADGVTIGANTVIESSVKIGQNSQIGHKVVIHSGCQLGAYVVINSGCIIGASPFNYLKEHGHWQQGYSVGAVIIENQVQVGSNTVIDRGSFSDTYLGEGVCIDNLVQIAHDVLVGRNTIIAGCAALGAYAQIGADCIIGGASCIAAHVHLADDVVITGMSTVSKSLAKSGIYSSGTLVHEHRRWRRNVARFRRLDDYIVKLGALEKKLS</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA+HL GVWHG+ANHAIF  +SLARA+S D+ Y+DN +LR  L++T AGAV+LK++       NC+VVSNP +AM +AA++L  P     GI PTA IH+SAQLGQ VS+GA S+IG   QI D VT+G NT IESSV IG+ SQ+G   +IHSG  LG  V+I SG I+GA+PFN  KEHG WQQG   G V+I  + Q+G+NTVI RGS  DTYLGEGVCID+LV IAHDV VG NT IAG AA+GA  QIG DCIIGGASC+AA++ L +DVVITGMSTV+KS+ +SGIYSSGT VH+HR+WRRN ARFR LDDYI KL  +EKKL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966493983|ref|WP_058510771.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella steelei] &gt;gi|962284937|gb|KTD68703.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella steelei] &gt;gi|1113342853|gb|OJW06714.1| UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510771</Hit_accession>
+  <Hit_len>342</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.935</Hsp_bit-score>
+      <Hsp_score>1086</Hsp_score>
+      <Hsp_evalue>5.46168e-144</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELASHLGGVWHGNANHAIFCYASLARATAQDIAYYDNSALRHILNNTAAGAVLLKAEHQHLYPGNCIVVSHPLQAMMQATQLLSDSRPTYSGIDSTAIVHESAQLGQNVSIGAYSVIGANTQLADGVIIGTNSVIESSVHIGKNSQIGHDVVVYSGCQLGVHVVINSGCVIGAPPFNYLKQHGHWQQGFNAGAVVIADQVHIGSNTVIDRGALGDTYLGEGVCIDNLVQVAHDVLVGKNTVIAGCAAIGAYAQIGEDCVIGGASCIAAYVHLTDDVVITGMSTVSKSLAKSGIYSSGTLVHEHRRWRRNAARFRRLDDYILKLGALEKKLSH</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA HL GVWHG+ANHAIF  +SLARA+++D+ Y+DN  LR +LN+T AGAVLLK+EH+   P NC+VVS+P +AM +A ++L       SGI  TA +H+SAQLGQNVS+GA S+IG   Q+ D V +G N+ IESSV IG+ SQ+G   +++SG  LG  V+I SG ++GA PFN  K+HG WQQG   G VVI  +  IG+NTVI RG++GDTYLGEGVCID+LV +AHDV VG NT IAG AAIGA  QIG DC+IGGASC+AA + LT+DVVITGMSTV+KS+ +SGIYSSGT VH+HR+WRRN ARFR LDDYI KL  +EKKL++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966500622|ref|WP_058517295.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella parisiensis] &gt;gi|962255958|gb|KTD40095.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella parisiensis] &gt;gi|1069289949|gb|OEH45369.1| UDP-3-O-acylglucosamine N-acyltransferase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517295</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.935</Hsp_bit-score>
+      <Hsp_score>1086</Hsp_score>
+      <Hsp_evalue>6.31956e-144</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>209</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELAEHLGGVWHGNANHAIFCFASLTRATSHDVAYYDNSVLRESLDTTLAGAVILKAKDHHLYQGNCIVVSNPFQAMMQAAQLLSAPGLSRSGIDPTAIIHQSAQLGQGVSIGAYSVIGANSQIADGVTIGANTVIESSVQIGKNSQIGHKVVIHAGCQLGADVVINAGCIIGASPFNYLKEHGQWHQSYSVGAVIIANQVQVGSNTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLVGKNTIIAGCAALGAYAQIGADCIIGGASCIAAHVHLADDVVITGMSTVNKSLAKPGIYSSGTLVHEHRRWRRNVARFRRLDDYIVKLGALEKKLSH</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA+HL GVWHG+ANHAIF  +SL RA+S D+ Y+DN +LR  L++T AGAV+LK++       NC+VVSNP +AM +AA++L  PG+  SGI PTA IH+SAQLGQ VS+GA S+IG   QI D VT+G NT IESSV IG+ SQ+G   +IH+G  LG  V+I +G I+GA+PFN  KEHG W Q    G V+I  + Q+G+NTVI RGS+ DTYLGEGVCID+LV IAHDV VG NT IAG AA+GA  QIG DCIIGGASC+AA++ L +DVVITGMSTV KS+ + GIYSSGT VH+HR+WRRN ARFR LDDYI KL  +EKKL++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|498340461|ref|WP_010654617.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Fluoribacter dumoffii] &gt;gi|962205999|gb|KTC90936.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654617</Hit_accession>
+  <Hit_len>341</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>420.624</Hsp_bit-score>
+      <Hsp_score>1080</Hsp_score>
+      <Hsp_evalue>4.88577e-143</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>430</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>337</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAELANHLDGVWHGNAEHAIFCYASLARATSKDVAYYDNPLLLPALNTTLAGAVLLKSEHQHLFQGNTIVVSQPAQAMVQATRILSAPLSSVSGIDSTAIIHASAQLGQGVAIGPYSVIGAHTQVGDGVTIGANTVIESFVRLGNNSHIGHDVVVHTGCQLGEQVMINSGCVIGASPFNYLKQHGQWQPGFNAGAVVIANQVQIGSNTVIDRGSLSDTYLGSGVCIDNLVQIAHDVMVGKNTIIAGCAAVGAYVQIGADCIIGGASCIAAHVHLADDVVVTGMSTVSKSLAKPGIYSSGTLVHEHRRWRRNAARFRRLDDYMVKLSALEKKLNH</Hsp_hseq>
+      <Hsp_midline>MLT+ ELA HL+GVWHG+A HAIF  +SLARA+SKD+ Y+DNPLL P LN+T AGAVLLKSEH+     N +VVS P++AM +A +IL  P   VSGI  TA IH SAQLGQ V++G  S+IG   Q+ D VT+G NT IES V +G  S +G   ++H+G  LG+ V+I SG ++GA+PFN  K+HG WQ G   G VVI  + QIG+NTVI RGS+ DTYLG GVCID+LV IAHDV VG NT IAG AA+GA VQIG DCIIGGASC+AA++ L +DVV+TGMSTV+KS+ + GIYSSGT VH+HR+WRRN ARFR LDDY+ KL  +EKKLN+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|654933349|ref|WP_028383703.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella moravica] &gt;gi|962251428|gb|KTD35616.1| UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383703</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.468</Hsp_bit-score>
+      <Hsp_score>1077</Hsp_score>
+      <Hsp_evalue>1.6442e-142</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>339</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLNNNN</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLADILDGVWHGNASHAIFGLSSLARATSRDVAYFDNPLLYNTLGHTAAGAVILKAEHVPLCPVNSIAVSNPLASMTEAVKLFSSAQSPNRGIHETVRIHHSAQIGNQVSIGAYSVIGEDVHIADGVILGSNTVIESAVSIGEDSRIGCGVMIHSGCRLGRNVRINSGCIIGSSPFNYYKEHGVWQQGPDIGAVILSDEVHLGANTVIDRGALGDTYLAEGVCVDNLVQIAHDVYIGSNTAIAGCAAVGAYAHIGSDCIIGGASSIAANVRLGENIVITGMSTVSKSIAKSGIYSSGTMAHEHNRWRKNAARFKRLDDYITRMGALEKKLRNDD</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA  L+GVWHG+A+HAIF +SSLARA+S+D+ YFDNPLL   L  T AGAV+LK+EH   CPVN + VSNP  +M +A K+         GIH T +IH SAQ+G  VS+GA S+IGE V I D V +G NT IES+V IG  S++G G +IHSG  LG++V I SG I+G++PFN YKEHGVWQQGP  G V++     +GANTVI RG++GDTYL EGVC+D+LV IAHDVY+G+NTAIAG AA+GA   IG DCIIGGAS +AAN+RL  ++VITGMSTV+KSI +SGIYSSGT  H+H +WR+N ARF+ LDDYIT++  +EKKL N++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966498822|ref|WP_058515588.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515588</Hit_accession>
+  <Hit_len>346</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.083</Hsp_bit-score>
+      <Hsp_score>1076</Hsp_score>
+      <Hsp_evalue>2.13174e-142</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLAEKLGGVWHGNAEHAIFSFASLARATPKDIAYYDNLLLRGALERTSAGAVLLKSEHKALYQGNCIIVSNPLQTMMQATQFLSKPTILYHGIDPTAQIHPSAQIGEGVSIGAYSVIHAEVRLADHVVVGANTVIESSVVIGKESQIGHDVVLHSGCQLGAQVVIDSGCIIGAFPFNYLKQQGHWQQGFSVGTVIIADKVRLGANTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLIGKNTIIAGCTAIGAYAQIGEDCIIGGASSIAAYVYLTDDVVITGMSTVSKSLAKSGIYSSGTLVHEHQRWRRNAARFRRLDDYIEKLNALEKKLN</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA+ L GVWHG+A HAIFS +SLARA+ KD+ Y+DN LLR  L  T AGAVLLKSEHK     NC++VSNP + M +A + L +P ++  GI PTAQIH SAQ+G+ VS+GA S+I   V++ D+V VG NT IESSV+IG+ SQ+G   ++HSG  LG  V+I SG I+GA PFN  K+ G WQQG   G V+I  + ++GANTVI RGS+ DTYLGEGVCID+LV IAHDV +G NT IAG  AIGA  QIG DCIIGGAS +AA + LT+DVVITGMSTV+KS+ +SGIYSSGT VH+H++WRRN ARFR LDDYI KL  +EKKLN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|962269262|gb|KTD53276.1|</Hit_id>
+  <Hit_def>UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>KTD53276</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>418.313</Hsp_bit-score>
+      <Hsp_score>1074</Hsp_score>
+      <Hsp_evalue>4.49581e-142</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>338</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>INMLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MTLLTLAQLAEKLGGVWHGNAEHAIFSFASLARATPKDIAYYDNLLLRGALERTSAGAVLLKSEHKALYQGNCIIVSNPLQTMMQATQFLSKPTILYHGIDPTAQIHPSAQIGEGVSIGAYSVIHAEVRLADHVVVGANTVIESSVVIGKESQIGHDVVLHSGCQLGAQVVIDSGCIIGAFPFNYLKQQGHWQQGFSVGTVIIADKVRLGANTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLIGKNTIIAGCTAIGAYAQIGEDCIIGGASSIAAYVYLTDDVVITGMSTVSKSLAKSGIYSSGTLVHEHQRWRRNAARFRRLDDYIEKLNALEKKLN</Hsp_hseq>
+      <Hsp_midline>+ +LT+ +LA+ L GVWHG+A HAIFS +SLARA+ KD+ Y+DN LLR  L  T AGAVLLKSEHK     NC++VSNP + M +A + L +P ++  GI PTAQIH SAQ+G+ VS+GA S+I   V++ D+V VG NT IESSV+IG+ SQ+G   ++HSG  LG  V+I SG I+GA PFN  K+ G WQQG   G V+I  + ++GANTVI RGS+ DTYLGEGVCID+LV IAHDV +G NT IAG  AIGA  QIG DCIIGGAS +AA + LT+DVVITGMSTV+KS+ +SGIYSSGT VH+H++WRRN ARFR LDDYI KL  +EKKLN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966422748|ref|WP_058465949.1|</Hit_id>
+  <Hit_def>UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465949</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>5.82901e-142</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>429</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>MLTIEELAKHLNGVWHGHANHAIFSVSSLARASSKDLVYFDNPLLRPVLNSTRAGAVLLKSEHKDWCPVNCVVVSNPSEAMFKAAKILPQPGVIVSGIHPTAQIHKSAQLGQNVSVGANSMIGEGVQIDDNVTVGPNTTIESSVLIGRGSQLGAGAIIHSGTVLGQSVIIGSGGIVGAAPFNCYKEHGVWQQGPIFGGVVIGQRTQIGANTVIHRGSIGDTYLGEGVCIDSLVLIAHDVYVGNNTAIAGSAAIGALVQIGMDCIIGGASCLAANIRLTNDVVITGMSTVTKSIMRSGIYSSGTTVHDHRKWRRNTARFRHLDDYITKLITIEKKLN</Hsp_qseq>
+      <Hsp_hseq>MLTLAQLAEKLGGVWHGNADHAIFSFASLARATPKDIAYYDNSILRGALGNTSAGAVLLKSEHKALYQGNCIIVSNPLQTMMQATQFLSKPTILYSGIDPTARIHHSAQIGEGVSIGAYSVIHAEARLADHVVVGANTVIESSVVIGKNSQIGHDVVLHSGCQLGAQVIIDSGCVVGAFPFNYLKQHGHWQPGFSVGTVIIADKVRIGANTVIDRGSLSDTYLGEGVCIDNLVQIAHDVLIGKNTIIAGCAAVGAYAQIGEDCIIGGASSVAAYVCLTDDVVITGMSTVSKSLAKSGIYSSGTLVHEHQRWRRNAARFRRLDDYIEKLSALEKKLN</Hsp_hseq>
+      <Hsp_midline>MLT+ +LA+ L GVWHG+A+HAIFS +SLARA+ KD+ Y+DN +LR  L +T AGAVLLKSEHK     NC++VSNP + M +A + L +P ++ SGI PTA+IH SAQ+G+ VS+GA S+I    ++ D+V VG NT IESSV+IG+ SQ+G   ++HSG  LG  VII SG +VGA PFN  K+HG WQ G   G V+I  + +IGANTVI RGS+ DTYLGEGVCID+LV IAHDV +G NT IAG AA+GA  QIG DCIIGGAS +AA + LT+DVVITGMSTV+KS+ +SGIYSSGT VH+H++WRRN ARFR LDDYI KL  +EKKLN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
