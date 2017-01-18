@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_178621</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>502</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_178621</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>502</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248740|ref|WP_010946280.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|52840777|ref|YP_094576.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627888|gb|AAU26629.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507291|gb|AEW50815.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492927|gb|AGH54772.1| Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081199|gb|AGN13447.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771523|emb|CZI75684.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998795783|emb|CZI44719.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998800573|emb|CZL12249.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998804103|emb|CZK63470.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998807193|emb|CZI30781.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998810717|emb|CZI16902.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998813124|emb|CZH14436.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998816436|emb|CZM20831.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998819747|emb|CZM01129.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998825549|emb|CZK39087.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998832834|emb|CZI19470.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998834474|emb|CZL51129.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998838706|emb|CZJ30973.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998840503|emb|CZL83768.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998843083|emb|CZL07774.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998846314|emb|CZL08830.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998849161|emb|CZI96966.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998852427|emb|CZL87960.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998855958|emb|CZL53669.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998858623|emb|CZM29920.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998862321|emb|CZK41343.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998864771|emb|CZJ88566.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998867220|emb|CZJ83172.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998870194|emb|CZM41510.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998873613|emb|CZK71781.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998876207|emb|CZM47077.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998879326|emb|CZJ74567.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998885778|emb|CZM35303.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998888586|emb|CZK49544.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998895813|emb|CZK09044.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998905255|emb|CZK92299.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998908410|emb|CZL67533.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998916099|emb|CZK72670.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998917480|emb|CZL63434.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998920460|emb|CZL70288.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998926819|emb|CZL98363.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998930931|emb|CZK83241.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998933666|emb|CZL67419.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998938732|emb|CZL20484.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998946263|emb|CZK72080.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998947979|emb|CZL28857.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998956947|emb|CZM66442.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998960474|emb|CZK69138.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998963150|emb|CZK79150.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998966700|emb|CZM41020.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998969388|emb|CZL06830.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998972397|emb|CZK83150.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998978511|emb|CZM01826.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998986121|emb|CZK10678.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998987491|emb|CZL88999.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998998289|emb|CZJ97591.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999006413|emb|CZL22549.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999011878|emb|CZL84243.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999014919|emb|CZM77568.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999021234|emb|CZL94586.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999024035|emb|CZL20428.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999036244|emb|CZL86198.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999045226|emb|CZM30926.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999060298|emb|CZL80902.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999066496|emb|CZJ50614.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999075379|emb|CZH17056.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999078629|emb|CZK44894.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999083096|emb|CZK87194.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999087892|emb|CZL15218.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999090954|emb|CZL90345.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999093888|emb|CZH50283.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999096960|emb|CZH52029.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999101401|emb|CZL76158.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999110913|emb|CZL04408.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999114062|emb|CZL59697.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999115954|emb|CZK74271.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999124737|emb|CZL31924.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999132500|emb|CZL69546.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999133898|emb|CZL47938.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999136966|emb|CZK88129.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999140897|emb|CZL86605.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999144856|emb|CZK81771.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999146384|emb|CZM11998.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999155600|emb|CZI37465.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999174201|emb|CZL61073.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999189792|emb|CZI75202.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999192912|emb|CZJ15989.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999199259|emb|CZH01799.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999202121|emb|CZJ20726.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999208424|emb|CZL34788.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999217934|emb|CZM04759.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999220903|emb|CZJ07910.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999333343|emb|CZL30337.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002078803|emb|CZQ91903.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1003018397|emb|CZR30528.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|1003021469|emb|CZR26902.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|1003024491|emb|CZR30203.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|1073863699|gb|AOU03650.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073866657|gb|AOU06607.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073869662|gb|AOU09611.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073872607|gb|AOU12555.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073875588|gb|AOU15535.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073878550|gb|AOU18496.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073881544|gb|AOU21489.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073884506|gb|AOU24450.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073887505|gb|AOU27448.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073890488|gb|AOU30430.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073893453|gb|AOU33394.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073896418|gb|AOU36358.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073899382|gb|AOU39321.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073902334|gb|AOU42272.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073905245|gb|AOU45182.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073908262|gb|AOU48197.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073911318|gb|AOU51250.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073914236|gb|AOU54167.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073917194|gb|AOU57124.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073920161|gb|AOU60090.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073923134|gb|AOU63061.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073926148|gb|AOU66074.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073929128|gb|AOU69037.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073932512|gb|AOU72071.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073935459|gb|AOU82458.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073945734|gb|AOU85458.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1073948697|gb|AOU88420.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1104001854|emb|SFZ36476.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1129967312|gb|APT97671.1| dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946280</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>835.099</Hsp_bit-score>
+      <Hsp_score>2156</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>409</Hsp_identity>
+      <Hsp_positive>409</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1003951900|ref|WP_061474422.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061474422</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>834.328</Hsp_bit-score>
+      <Hsp_score>2154</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>408</Hsp_identity>
+      <Hsp_positive>409</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|500490274|ref|WP_011945722.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|148282584|gb|ABQ56672.1| dihydrolipoamide succinyltransferase [Legionella pneumophila str. Corby] &gt;gi|295648026|gb|ADG23873.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989402|dbj|GAN22670.1| dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|761998953|dbj|GAN29023.1| dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998783027|emb|CZI86135.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998801822|emb|CZI07991.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998822491|emb|CZH35339.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998828333|emb|CZH38429.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998882989|emb|CZI84179.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998897718|emb|CZK09123.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998912175|emb|CZH24327.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998938045|emb|CZL87522.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998951084|emb|CZJ96276.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998994593|emb|CZI23411.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999000104|emb|CZG95241.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999003125|emb|CZI80903.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999058432|emb|CZM29006.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999103690|emb|CZI19178.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999128516|emb|CZH16663.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999149986|emb|CZI49528.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999152640|emb|CZM83370.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999159336|emb|CZJ69834.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999161879|emb|CZM38936.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999165738|emb|CZG85409.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999168634|emb|CZI46495.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999178343|emb|CZJ56448.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999236693|emb|CZG93080.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999247873|emb|CZH55950.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999286027|emb|CZJ07937.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999292394|emb|CZI86939.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999301715|emb|CZI74004.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999311308|emb|CZJ21428.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999454072|emb|CZI22287.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999460537|emb|CZH01460.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999773119|emb|CZH89303.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999796065|emb|CZI21066.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002085536|emb|CZQ97324.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002088314|emb|CZQ79073.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002090893|emb|CZR11547.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1104005418|emb|SFZ36489.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945722</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>831.247</Hsp_bit-score>
+      <Hsp_score>2146</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>407</Hsp_identity>
+      <Hsp_positive>408</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|499533491|ref|WP_011214775.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|53753360|emb|CAH14810.1| dihydrolipoamide succinyltransferase, E2 subunit [Legionella pneumophila str. Lens] &gt;gi|1080002192|gb|AOW52764.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006056|gb|AOW56336.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008086|gb|AOW58074.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012253|gb|AOW61744.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014690|gb|AOW63563.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018496|gb|AOW67141.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214775</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.706</Hsp_bit-score>
+      <Hsp_score>2142</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>408</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMKALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SM+ALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|499526523|ref|WP_011213163.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|53750352|emb|CAH11746.1| dihydrolipoamide succinyltransferase, E2 subunit [Legionella pneumophila str. Paris] &gt;gi|762002556|dbj|GAN25674.1| dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999171845|emb|CZI29097.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999181634|emb|CZG51137.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999187801|emb|CZI95071.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999212718|emb|CZG77292.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999216924|emb|CZI66578.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999225336|emb|CZG83983.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999359964|emb|CZI61019.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999373464|emb|CZG57481.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999376499|emb|CZJ19069.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999379745|emb|CZH69416.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999382640|emb|CZI57114.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999386291|emb|CZG64758.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999389090|emb|CZI55977.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999396912|emb|CZG10060.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999405928|emb|CZG72644.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999408885|emb|CZH90493.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999412733|emb|CZG32606.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999415440|emb|CZG88976.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999418780|emb|CZG65030.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999421975|emb|CZH73309.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999428357|emb|CZG71884.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999431653|emb|CZG73884.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999435011|emb|CZI01005.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999441191|emb|CZK29634.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|999444616|emb|CZH76485.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999457560|emb|CZK21328.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999496245|emb|CZI46033.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999525368|emb|CZJ08113.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999528081|emb|CZI75177.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999576018|emb|CZI41754.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999611274|emb|CZI62359.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1003031212|emb|CZR32049.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1041017669|gb|ANN94729.1| dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213163</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.321</Hsp_bit-score>
+      <Hsp_score>2141</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRTLSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMR LSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|504653965|ref|WP_014841067.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|395126517|emb|CCD04700.1| dihydrolipoyltranssuccinase [Legionella pneumophila subsp. pneumophila] &gt;gi|998923723|emb|CZK24118.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998943793|emb|CZJ49836.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998954330|emb|CZK60330.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998975501|emb|CZJ90008.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998992833|emb|CZJ48034.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999009064|emb|CZK46950.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999018227|emb|CZJ87819.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999027341|emb|CZK25213.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999030557|emb|CZH23527.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999033292|emb|CZK20997.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999039497|emb|CZJ96138.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999042436|emb|CZK04501.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999048531|emb|CZK02299.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999051566|emb|CZJ92044.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999054555|emb|CZK29875.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999063678|emb|CZK01826.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999070579|emb|CZJ65264.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999072798|emb|CZK32163.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999084986|emb|CZK30259.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999184322|emb|CZP95862.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999198455|emb|CZP13099.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999206188|emb|CZP62757.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999228291|emb|CZP07889.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999235196|emb|CZP57896.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999240294|emb|CZH91176.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999244361|emb|CZH76162.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999248767|emb|CZH07806.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999251983|emb|CZH36579.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999255973|emb|CZP79284.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999259121|emb|CZP47186.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999261291|emb|CZH41268.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999265208|emb|CZP06885.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999269420|emb|CZO32980.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999272222|emb|CZP57756.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999274789|emb|CZG78435.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999277604|emb|CZP36566.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999281365|emb|CZP16623.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999283667|emb|CZP61565.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999290984|emb|CZP31957.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999296489|emb|CZP58452.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999299576|emb|CZP47998.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999307302|emb|CZH70358.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999309366|emb|CZP26622.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999315826|emb|CZI10424.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999318674|emb|CZP64947.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999322016|emb|CZH98041.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999324445|emb|CZH33416.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999328619|emb|CZG63923.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999331869|emb|CZG59985.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999337753|emb|CZP46945.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999340075|emb|CZH26131.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999344456|emb|CZP84398.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999347205|emb|CZP63229.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999349712|emb|CZH41540.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999353477|emb|CZP69214.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999357235|emb|CZP68198.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999363815|emb|CZP56700.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999367113|emb|CZP76591.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999369944|emb|CZP77809.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999392302|emb|CZP97992.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999398550|emb|CZQ00913.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999403125|emb|CZP41651.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999450619|emb|CZP35576.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999464856|emb|CZM53009.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999467880|emb|CZO30190.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999469308|emb|CZH06694.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999474695|emb|CZM61156.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999477152|emb|CZN74290.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999480654|emb|CZM99767.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999484255|emb|CZN90078.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999487086|emb|CZM11136.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999490259|emb|CZN78512.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999493450|emb|CZM10575.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999500030|emb|CZN73075.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999503156|emb|CZO07050.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999506376|emb|CZN16667.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999509579|emb|CZG51798.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999512917|emb|CZN30519.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999515995|emb|CZL99949.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999519008|emb|CZM84739.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999521862|emb|CZP15799.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999532364|emb|CZO46749.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999535520|emb|CZN40675.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999538601|emb|CZM76560.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999542045|emb|CZO21224.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999545007|emb|CZO61590.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999548149|emb|CZN88699.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999551461|emb|CZO10495.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999554496|emb|CZN30724.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999557929|emb|CZO56320.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999561062|emb|CZM41012.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999564068|emb|CZO66127.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999567432|emb|CZM52091.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999570632|emb|CZN50127.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999573820|emb|CZN92137.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999580312|emb|CZO15754.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999583600|emb|CZO37243.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999586963|emb|CZM64007.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999590002|emb|CZM40947.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999593161|emb|CZN45782.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999596234|emb|CZO12795.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999599554|emb|CZO38351.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999602620|emb|CZL96180.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999605408|emb|CZN72194.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999608945|emb|CZN62773.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999615557|emb|CZM46620.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999618674|emb|CZN91529.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999621756|emb|CZO81335.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999625084|emb|CZN70834.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999628417|emb|CZM63496.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999631533|emb|CZM58606.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999634593|emb|CZN58726.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999637921|emb|CZN50739.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999641117|emb|CZO78759.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999644109|emb|CZO52280.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999647600|emb|CZN94196.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999650714|emb|CZO05629.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999653901|emb|CZO00372.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999657098|emb|CZM28819.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999660172|emb|CZM64513.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999663397|emb|CZN18240.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999666762|emb|CZM38932.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999669954|emb|CZL85099.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999673082|emb|CZM37123.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999676348|emb|CZN78765.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999679307|emb|CZM78248.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999682502|emb|CZM81658.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999686189|emb|CZN99242.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999689143|emb|CZN31214.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999692336|emb|CZO00205.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999695553|emb|CZN30144.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999698780|emb|CZM11625.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999701724|emb|CZM77534.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999704959|emb|CZL93665.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999708183|emb|CZN57605.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999711602|emb|CZN01945.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999714698|emb|CZN22516.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999717972|emb|CZO44996.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999720928|emb|CZM92692.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999724447|emb|CZN33351.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999727848|emb|CZL99872.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999730969|emb|CZO42902.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999734191|emb|CZM26264.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999737469|emb|CZO69972.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999740950|emb|CZM31143.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999744112|emb|CZN27399.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999747254|emb|CZM25423.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999750514|emb|CZL95313.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999753710|emb|CZM80443.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999756761|emb|CZN09662.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999760262|emb|CZM23634.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999763393|emb|CZN30899.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999766919|emb|CZM49370.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999769768|emb|CZN51721.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999776232|emb|CZM00725.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999777498|emb|CZH50592.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999782880|emb|CZH62207.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999786431|emb|CZM25186.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999789596|emb|CZO68067.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999792941|emb|CZO61388.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999799826|emb|CZO56862.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1003029176|emb|CZR19014.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|1003036359|emb|CZR16906.1| 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [Legionella pneumophila] &gt;gi|1005832301|gb|AMQ27027.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pneumophila] &gt;gi|1041014571|gb|ANN91632.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1103995603|emb|SFZ36790.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1103998735|emb|SFZ36511.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841067</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.321</Hsp_bit-score>
+      <Hsp_score>2141</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSAKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVS KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|652971692|ref|WP_027224542.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|761992509|dbj|GAN16549.1| dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|761995699|dbj|GAN19655.1| dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998791267|emb|CZG41295.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998793116|emb|CZI50800.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998981353|emb|CZJ20046.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999107214|emb|CZI75456.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999230573|emb|CZI93249.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1032656709|gb|ANH11980.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1032659676|gb|ANH14946.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1032662643|gb|ANH17912.1| dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224542</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>827.78</Hsp_bit-score>
+      <Hsp_score>2137</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPAKKEEIKISESESVSAKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKP KKEEIKISESESVS KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1004334311|ref|WP_061513236.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513236</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>827.395</Hsp_bit-score>
+      <Hsp_score>2136</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISENESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESKREKSNQTAEVQKESSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISE+ESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIES REK+NQTAEVQKE SMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1005402484|ref|WP_061635902.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|999425289|emb|CZG75435.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999438195|emb|CZG62935.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999447819|emb|CZG52849.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061635902</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>827.395</Hsp_bit-score>
+      <Hsp_score>2136</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSAKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRTLSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVS KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMR LSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|504656307|ref|WP_014843409.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|395129624|emb|CCD07857.1| dihydrolipoyltranssuccinase [Legionella pneumophila subsp. pneumophila] &gt;gi|998774433|emb|CZH07660.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998777313|emb|CZH11933.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998783316|emb|CZH41742.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998786223|emb|CZH06178.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|998892610|emb|CZJ23491.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002074270|emb|CZR05339.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1002081621|emb|CZR00600.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843409</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>827.009</Hsp_bit-score>
+      <Hsp_score>2135</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVEFQKTEKEEKPVKKEEIKISESESVSAKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVE QKTEKEEKPVKKEEIKISESESVS KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1003996613|ref|WP_061481506.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061481506</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>820.076</Hsp_bit-score>
+      <Hsp_score>2117</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>399</Hsp_identity>
+      <Hsp_positive>404</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQGVSAEPQKTEKEEKPAKKEEMKVSERESISSKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKASQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQ VS E QKTEKEEKP KKEE+K+SE ES+S+KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKA+QTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1011913810|ref|WP_062727024.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727024</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>816.994</Hsp_bit-score>
+      <Hsp_score>2109</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>397</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFKAGDTVGSGDLLAKISQGVSAEPQKTEKEEKPAKKEEMKVSERESISTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKASQTAEIQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILF  GDTVGSGDLLAKISQ VS E QKTEKEEKP KKEE+K+SE ES+STKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKA+QTAE+QKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|652976156|ref|WP_027228829.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|985765932|gb|KXB27043.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|985767758|gb|KXB28844.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|999119243|emb|CZG75591.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|999122549|emb|CZH13929.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella pneumophila] &gt;gi|1024341689|gb|KZX35996.1| dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1108604003|gb|APF02371.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. fraseri] &gt;gi|1108607014|gb|APF05381.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228829</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>815.839</Hsp_bit-score>
+      <Hsp_score>2106</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>397</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFKAGDTVGSGDLLAKISQGVSAEPQKTEKEEKPAKKEEMKVSERESISSKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKASQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILF  GDTVGSGDLLAKISQ VS E QKTEKEEKP KKEE+K+SE ES+S+KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKA+QTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|654927546|ref|WP_028378038.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378038</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>815.068</Hsp_bit-score>
+      <Hsp_score>2104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>396</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFKAGDTVGSGDLLAKISQGVSAEPQKTEKEEKPAKKEEMKVSERESISSKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKASQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILF  GDTVGSGDLLAKISQ VS E QKTEKEEKP KKEE+K+SE ES+S+KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKA+QTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652970707|ref|WP_027223599.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila] &gt;gi|1005362806|gb|AMP88675.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365807|gb|AMP91584.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368794|gb|AMP94570.1| dihydrolipoamide succinyltransferase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223599</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.372</Hsp_bit-score>
+      <Hsp_score>2097</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>395</Hsp_identity>
+      <Hsp_positive>400</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFKAGDTVGSGDLLAKISQGVSAEPQKTEKEEKPAKKEEMNVSERESISSKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQSTEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILF  GDTVGSGDLLAKISQ VS E QKTEKEEKP KKEE+ +SE ES+S+KEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQ+ EVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|542121191|gb|ERI47524.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella pneumophila str. Leg01/20]</Hit_def>
+  <Hit_accession>ERI47524</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>805.053</Hsp_bit-score>
+      <Hsp_score>2078</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>398</Hsp_identity>
+      <Hsp_positive>399</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVHHLWMGYCRDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKSNQTAEVQKESSMRTLSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEV     G   DILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK+NQTAEVQKE SMR LSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|737926071|ref|WP_035891233.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella norrlandica] &gt;gi|701444936|gb|KGP62357.1| dihydrolipoamide succinyltransferase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891233</Hit_accession>
+  <Hit_len>402</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>715.687</Hsp_bit-score>
+      <Hsp_score>1846</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>402</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>361</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQ-KEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKAGDKVARDENLVDLETDKVVLEVPSPVDGVLSEILFKVGDTVGSGELLAKITQGAAEETHKTEKEEKTAPKEE--------TSSKEDKSTSPVVRRMMAEDDLKPGQIQGTGKDGRITKEDVLAYIESNREKSAKESESQQKEPVVRELPAGAREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDLRAQYKDNFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTDRGLVVPVIRDADQLSMAEIELAINEAASKARTGKLSIEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGRDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKK GDKV+RDENLVDLETDKVVLEVPSPVDGVLS+ILF  GDTVGSG+LLAKI+Q  + E+ KTEKEEK   KEE         S+KEDKSTSPVVRRMMAE+DLK GQIQGTGKDGRITKEDVL+YIESNREK+ + +E Q KEP +R L  G REEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMD+R+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVST+RGLVVPVIRDADQLSMAEIELAIN+AASKARTGKLS+EEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDG+DSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966440913|ref|WP_058481236.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella waltersii] &gt;gi|962291976|gb|KTD75674.1| dihydrolipoamide succinyltransferase, E2 subunit [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481236</Hit_accession>
+  <Hit_len>404</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>704.131</Hsp_bit-score>
+      <Hsp_score>1816</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>404</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>347</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVATWHKKAGDKVARDENLVDLETDKVVLEVPSPVDGVLSEILFNVGDTVGSGELLAKISAGEAATAPVT----TPVK-EEKTASKEESVALNEDKSTSPVVRRMLAENDLSPALIQGTGKDGRITKEDVIAYIETNRGKPTSASEPAKDIGVKSTPMSTREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDVRAQYKDQFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVVRDADQLSMAEIELAINDAAAKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVA WHKK GDKV+RDENLVDLETDKVVLEVPSPVDGVLS+ILFN GDTVGSG+LLAKIS   +  +  T     PVK EE   S+ ESV+  EDKSTSPVVRRM+AENDL    IQGTGKDGRITKEDV++YIE+NR K    +E  K+  +++     REEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMD+R+QYKD FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPV+RDADQLSMAEIELAINDAA+KARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966432328|ref|WP_058472761.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella quateirensis] &gt;gi|962268698|gb|KTD52714.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472761</Hit_accession>
+  <Hit_len>402</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>703.745</Hsp_bit-score>
+      <Hsp_score>1815</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>402</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVVRDENLVDLETDKVVLEVPAPADGVLTEIVFQVGDTVGSGELLAKISSGATAAAAPAPAKEA-------STATKEPVSANEDKSTSPVVRRMMAENDLQPGQIQGTGKDGRITKEDVISYIESNREKSAKSVEPNKEQRASAVPMGAREERRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRAQYKDNFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIELAINDAATKARLGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV RDENLVDLETDKVVLEVP+P DGVL++I+F  GDTVGSG+LLAKIS   +  +     +E          +  E VS  EDKSTSPVVRRMMAENDL+ GQIQGTGKDGRITKEDV+SYIESNREK+ ++ E  KE    A+  G REE+RVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIELAINDAA+KAR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1113342041|gb|OJW05918.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW05918</Hit_accession>
+  <Hit_len>405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.975</Hsp_bit-score>
+      <Hsp_score>1813</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>405</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIMFKEGDTVNSGQLLAKIKEGSGSEAKEEKKTETAKERDE---AEGDKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLSYIESSREKTSKSAESKKEPTQSA-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDTFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMANIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I+F  GDTV SG LLAKI +    E+++ +K E   +++E   +E + VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVLSYIES+REK +++AE +KEP+  A   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA IELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|769978704|ref|WP_045094689.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella fallonii] &gt;gi|698841947|emb|CEG55894.1| dihydrolipoyltranssuccinase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094689</Hit_accession>
+  <Hit_len>401</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.975</Hsp_bit-score>
+      <Hsp_score>1813</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>345</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVS-VESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATIAAWHKKVGDKVTRDENLVDLETDKVVLEVPAPADGVLSELLFQVGDTVGSGQLLAKISEGASAVASSAPVQEEKEIAKD--------VVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKEDVISFIEVNRERTSKPMESKKEAPM-ATAMGPREERRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRAQYKDGFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAATKARSGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADAT+AAWHKKVGDKV+RDENLVDLETDKVVLEVP+P DGVLS++LF  GDTVGSG LLAKIS+  S V S    +EEK + K+         VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITKEDV+S+IE NRE+ ++  E +KE  M A + G REE+RVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMR+QYKD FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAA+KAR+GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654932933|ref|WP_028383290.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella moravica] &gt;gi|962250726|gb|KTD34927.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383290</Hit_accession>
+  <Hit_len>401</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.975</Hsp_bit-score>
+      <Hsp_score>1813</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>344</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVVRDENLVDLETDKVVLEVPAPADGVLTEILFQVGDTVGSGELLAKIASGTAIAAVS------PVKEE--SASTKEPVAAHEDKSTSPVVRRMMAEHDLQPGQIQGTGKEGRITKEDVLSYIESNRGKSVQAAEPKKAQPAVAAPMGAREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDNFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIELAINDAATKARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV RDENLVDLETDKVVLEVP+P DGVL++ILF  GDTVGSG+LLAKI+   ++ +        PVK+E    S  E V+  EDKSTSPVVRRMMAE+DL+ GQIQGTGK+GRITKEDVLSYIESNR K+ Q AE +K     A   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIELAINDAA+KAR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966426197|ref|WP_058468735.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Fluoribacter gormanii] &gt;gi|962216853|gb|KTD01607.1| dihydrolipoamide succinyltransferase subunit E2 [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468735</Hit_accession>
+  <Hit_len>404</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.59</Hsp_bit-score>
+      <Hsp_score>1812</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>404</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPADGILAEILFQEGDTVRSGQLLAKIKEGAGAET----KEEKADASKASEQSERDEVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLAYIESGREKTSKSKESGKEPTQRA-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRTQYKDTFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIELAINDAAKKAREGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENL+DLETDKVVLEVP+P DG+L++ILF  GDTV SG LLAKI +    E+    KEEK    +  + SE + VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVL+YIES REK +++ E  KEP+ RA   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIELAINDAA KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|654930393|ref|WP_028380762.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella cherrii] &gt;gi|962197140|gb|KTC82184.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380762</Hit_accession>
+  <Hit_len>406</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>699.508</Hsp_bit-score>
+      <Hsp_score>1804</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIMFQEGDTVNSGQLLAKIKEGSGSEAKEETKTATAKGRDE---SESDKVSAKEDKSTSPVVRRMMAEHDLQSGQIQGSGKDGRITKEDVLAYIESTREKTSKSAEAAPKEQQHKAPMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I+F  GDTV SG LLAKI +    E+++  K      ++E   SES+ VS KEDKSTSPVVRRMMAE+DL++GQIQG+GKDGRITKEDVL+YIES REK +++AE   +        G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|489729088|ref|WP_003633204.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella longbeachae] &gt;gi|269990017|gb|EEZ96271.1| dihydrolipoyllysine-residue succinyltransferase E2 component [Legionella longbeachae D-4968] &gt;gi|288856915|emb|CBJ10729.1| dihydrolipoamide succinyltransferase, E2 subunit [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003633204</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>698.738</Hsp_bit-score>
+      <Hsp_score>1802</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>342</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKE-EKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATIAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPVDGILSEIMFQEGDTVHSGQLLAKIKEGDAAEPKEEKKAGSKEEKKAEQADSTKENVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLAYIESSREKSSKPAESPKEQTTQ-VQMGVREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTDRGLVVPVIRDADQMSMANIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADAT+AAWHKKVGDKVSRDENL+DLETDKVVLEVP+PVDG+LS+I+F  GDTV SG LLAKI +  + E ++ +K   K  KK E   S  E+VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVL+YIES+REK+++ AE  KE + + +  G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVST+RGLVVPVIRDADQ+SMA IELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966460901|ref|WP_058493330.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella worsleiensis] &gt;gi|962296395|gb|KTD80036.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493330</Hit_accession>
+  <Hit_len>401</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>697.967</Hsp_bit-score>
+      <Hsp_score>1800</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>401</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDQVARDENLVDLETDKVVLEVPAPADGVLTEIVFQVGDTVGSGQLLAKIT------SGATPAAVAPVQEQQV--SANEPVSAHEDKSTSPVVRRMMAEHDLQPGQIQGTGKDGRITKEDVLAYIESKRGQSAQSTESPKVQTVAVAPMGAREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDNFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDVGIAVSTERGLVVPVIRDADQLSMAEIELAINDAATKARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGD+V+RDENLVDLETDKVVLEVP+P DGVL++I+F  GDTVGSG LLAKI+      S  T     PV+++++  S +E VS  EDKSTSPVVRRMMAE+DL+ GQIQGTGKDGRITKEDVL+YIES R ++ Q+ E  K  ++     G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYD+GIAVSTERGLVVPVIRDADQLSMAEIELAINDAA+KAR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|498338341|ref|WP_010652497.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Fluoribacter dumoffii] &gt;gi|962207553|gb|KTC92484.1| dihydrolipoamide succinyltransferase subunit E2 [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652497</Hit_accession>
+  <Hit_len>404</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>696.427</Hsp_bit-score>
+      <Hsp_score>1796</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>404</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>342</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILEEIKFQEGDTVHSGQLLAIIKEGSGSEV----KEEKKAAATKPSEEESDKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLAYIESNREKSSKSAESQKEQPQKA-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIEMAINDAALKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L +I F  GDTV SG LLA I +    E     KEEK     +    ES+ VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVL+YIESNREK++++AE QKE   +A   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIE+AINDAA KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|517403197|ref|WP_018576061.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella shakespearei] &gt;gi|962276149|gb|KTD60050.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576061</Hit_accession>
+  <Hit_len>402</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>695.656</Hsp_bit-score>
+      <Hsp_score>1794</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>402</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALS-FGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLVDLETDKVVLEVPAPADGVLSEIIYKLGDTVGSGELLARITAGDAPAATPA--------KEEKKAEVAAPVSASEDKSTSPVVRRMMAENDLQPGDIQGSGKDGRITKEDVISYIESNREKSAKPAETKKEQANVALAPMGAREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDMRAQYKDHFEKKHGVKLGFMSFFTKAVAESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIEMAINDAATKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGEIVIRPMMYIALSYDHRLIDGKESVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENLVDLETDKVVLEVP+P DGVLS+I++  GDTVGSG+LLA+I+   +  +           KEE K   +  VS  EDKSTSPVVRRMMAENDL+ G IQG+GKDGRITKEDV+SYIESNREK+ + AE +KE +  AL+  G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMDMR+QYKD FEKKHGVKLGFMSFFTKAV ESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIE+AINDAA+KARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKG+IVIRPMMY+ALSYDHRLIDGK+SVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|671586675|ref|WP_031563075.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563075</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>692.575</Hsp_bit-score>
+      <Hsp_score>1786</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILTEIKFQEGDTVHSGQLLATIKEGGSSEVKEERKTATDKESEGIQ-QEKDEVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKEDVLAYIESNREKTAKTPENKKEEARRT-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIIYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIEMAINDAASKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNI</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I F  GDTV SG LLA I +  S E ++  K     + E I+  E + VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITKEDVL+YIESNREK  +T E +KE + R    G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDI+YHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIE+AINDAASKAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLN+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|653018978|ref|WP_027270933.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella sainthelensi] &gt;gi|962274597|gb|KTD58528.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270933</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>691.804</Hsp_bit-score>
+      <Hsp_score>1784</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQS--VSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPVDGILSEIMFQEGDTVHSGQLLAKIKEGDAAESKEEKKAESKEEMKAEQVD-SAKETVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKEDVLSYIESNREKSTKPTESKKEQTTSA-QMGIREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTDRGLVVPVIRDADQMSMANIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENL+DLETDKVVLEVP+PVDG+LS+I+F  GDTV SG LLAKI +      + +K  + ++ +K E++  S  E+VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITKEDVLSYIESNREK+ +  E +KE +  A   G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVST+RGLVVPVIRDADQ+SMA IELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|493927289|ref|WP_006872038.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella drancourtii] &gt;gi|363536421|gb|EHL29863.1| dihydrolipoamide succinyltransferase [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872038</Hit_accession>
+  <Hit_len>398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>691.034</Hsp_bit-score>
+      <Hsp_score>1782</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGVLSEILFQVGDTVTSGQLLAKITEGSAAVA--------PVAQEE---KTADAVSAKDDKSTSPVVRRMMAEHDLQPGQIPGSGKEGRITKEDVLTYIETNREKTAKPADAKKEQAAAPAAMGPREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRSQYKDHFEKKHGVKLGFMSFFTKAVIESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIEMAINDAATRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGEIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DGVLS+ILF  GDTV SG LLAKI++  +  +        PV +EE     +++VS K+DKSTSPVVRRMMAE+DL+ GQI G+GK+GRITKEDVL+YIE+NREK  + A+ +KE +    + G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMRSQYKD FEKKHGVKLGFMSFFTKAV+ESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIE+AINDAA++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKG+IVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966496229|ref|WP_058512995.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella santicrucis] &gt;gi|962282811|gb|KTD66587.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058512995</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>689.493</Hsp_bit-score>
+      <Hsp_score>1778</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKI-SESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPVDGILSEIMFQEGDTVHSGQLLAKIKEGDAAETKEEKKTESKEEKKTEQADSTKEKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLSYIESSREKSSKPAESKKEQTTQA-QMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDLRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTDRGLVVPVIRDADQMSMADIELAINDSATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENL+DLETDKVVLEVP+PVDG+LS+I+F  GDTV SG LLAKI +  + E+++ +K E   +K+  +  S  E VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVLSYIES+REK+++ AE +KE + +A   G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMD+R+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVST+RGLVVPVIRDADQ+SMA+IELAIND+A+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966420695|ref|WP_058463896.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella cincinnatiensis] &gt;gi|962206956|gb|KTC91889.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463896</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>688.723</Hsp_bit-score>
+      <Hsp_score>1776</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISES-ESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPVDGILSEIMFQEGDTVNSGQLLAKIKEGDAAEAKEEKKAESKEEKKAEQADATKEKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLSYIESSREKSSKPAESKKEQTTQ-VQMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIELAINDSATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENL+DLETDKVVLEVP+PVDG+LS+I+F  GDTV SG LLAKI +  + E+++ +K E   +K+  +   + E VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVLSYIES+REK+++ AE +KE + + +  G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IELAIND+A+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966436345|ref|WP_058476713.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella steigerwaltii] &gt;gi|962295015|gb|KTD78669.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476713</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>686.797</Hsp_bit-score>
+      <Hsp_score>1771</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQ-SVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGVLAEIMFQEGDTVNSGQVLAKIKEGSGSEAKEEKKEEKKTETAKDHEEAGSDKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLSYIESSREKTSKSSESQKEQQQKA-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIESAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DGVL++I+F  GDTV SG +LAKI + S S   ++ ++E+K    ++ + + S+ VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVLSYIES+REK ++++E QKE   +A   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IE AINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966505243|ref|WP_058521902.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella tucsonensis] &gt;gi|962287616|gb|KTD71344.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521902</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>684.871</Hsp_bit-score>
+      <Hsp_score>1766</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQ-SVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIKFQEGDTVQSGQLLAKIKEGSSSEAKEEKKEEKKTEAAKAGEEAESDKVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKDDVLNYIESNREKTSKSAENKKEESHKA-PMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYIALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I F  GDTV SG LLAKI + S S   ++ ++E+K    +  + +ES+ VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITK+DVL+YIESNREK +++AE +KE S +A   G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMY+ALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966499579|ref|WP_058516252.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella parisiensis] &gt;gi|962260113|gb|KTD44228.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella parisiensis] &gt;gi|1069290676|gb|OEH46076.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516252</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>681.404</Hsp_bit-score>
+      <Hsp_score>1757</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVES-QKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLLDLETDKVVLEVPAPADGILAEINFQEGDTVQSGQLLATIKEGSGSEAKQEKKEEKKTETTKASEEAESDKISAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKDDVLAYIESSREKTSKSAEGKKEETHKT-PMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIELAINDSATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENL+DLETDKVVLEVP+P DG+L++I F  GDTV SG LLA I +    E+ Q+ ++E+K    +  + +ES+ +S KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITK+DVL+YIES+REK +++AE +KE + +    G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IELAIND+A+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966466519|ref|WP_058497845.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella gratiana] &gt;gi|962230012|gb|KTD14608.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497845</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>681.404</Hsp_bit-score>
+      <Hsp_score>1757</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQS-VSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPMDGILSDIMFQEGDTVRSGQLLAKIKESDAAEAKEEKKAESKEEKKTEKSDSAEERVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKEGRITKEDVLAYIESNREKSSSLAENKKEQTTRA-PMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEINLKAVMDLRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPEVNASIDGQDVVYHGFYDIGIAVSTDRGLVVPVIRDADQMSMANVESAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P+DG+LSDI+F  GDTV SG LLAKI +S  +   ++ + E K  KK E   S  E VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GK+GRITKEDVL+YIESNREK++  AE +KE + RA   G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNE+NLKAVMD+RSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFP VNASIDGQD+VYHGFYDIGIAVST+RGLVVPVIRDADQ+SMA +E AINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966414749|ref|WP_058458034.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Fluoribacter bozemanae] &gt;gi|962192310|gb|KTC77384.1| dihydrolipoamide succinyltransferase subunit E2 [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458034</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>680.633</Hsp_bit-score>
+      <Hsp_score>1755</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>335</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQ-SVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIKFQEGDTVQSGQLLAKIKEGSDSEAKEEKKEEKKTETTKASEEAESDKVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKDDVLAYIESNREKTSKSAENKKEEAPKT-PMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDNFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIEMAINDAAKKARDGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I F  GDTV SG LLAKI + S S   ++ ++E+K    +  + +ES+ VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITK+DVL+YIESNREK +++AE +KE + +    G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IE+AINDAA KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|518064350|ref|WP_019234558.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella anisa] &gt;gi|962187108|gb|KTC72241.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234558</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>680.633</Hsp_bit-score>
+      <Hsp_score>1755</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKI-SESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIKFQEGDTVQSGQLLAKIKEGSDSEAKEEKKEEKKTETSKERDEAESDKVSAKEDKSTSPVVRRMLAEHDLQPGQIQGSGKDGRITKDDVLSYIESNREKTSKSGESKKEETHKT-PMGLREERRVPMTRLRAKIAERLLAAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMADIELAINDSAKKARDGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I F  GDTV SG LLAKI +    E+++ +KEEK  +  + +  +ES+ VS KEDKSTSPVVRRM+AE+DL+ GQIQG+GKDGRITK+DVLSYIESNREK +++ E +KE + +    G REE+RVPMTRLRAKIAERLL AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA+IELAIND+A KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966493779|ref|WP_058510567.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella steelei] &gt;gi|962284713|gb|KTD68479.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058510567</Hit_accession>
+  <Hit_len>405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>679.093</Hsp_bit-score>
+      <Hsp_score>1751</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>405</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILAEIMFKEGDTVNSGQLLAKIKEGSGSEAKEEKKTETAKERDE---AEGDKVSAKEDKSTSPVVRRMMAEHDLQPGQIQGSGKDGRITKEDVLSYIESSREKSSKSAESKKEPTQSA-PMGLREERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDTFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMANIELAINDAATKARQGKLAMEDMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L++I+F  GDTV SG LLAKI +    E+++ +K E   +++E   +E + VS KEDKSTSPVVRRMMAE+DL+ GQIQG+GKDGRITKEDVLSYIES+REK++++AE +KEP+  A   G REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMA IELAINDAA+KAR GKL+ME+MQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966516879|ref|WP_058533373.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533373</Hit_accession>
+  <Hit_len>404</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>677.167</Hsp_bit-score>
+      <Hsp_score>1746</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>404</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>365</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>413</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSV----ESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVTRDENILDLETDKVVLEVPAPADGVLSEILFQTGDTVTSGQLLAKITEGAAAPAAAETSSKPSEEKPA-------ASSAEVSAHEDKSTSPVVRRMMAEHDLQPGQIPGSGKDGRITKDDVLSYIESNRGKAAPAASKPAPAPVAAMGA--REERRVPMTRLRAKIAERLLEAQHNAAMLTTFNEVNLKAVMDMRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDVVYHGFYDIGIAVSTERGLVVPVIRDADQMSMAEIELAINDAASRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGEIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADATVAAWHKKVGDKV+RDEN++DLETDKVVLEVP+P DGVLS+ILF TGDTV SG LLAKI++  +     E+     EEKP        + S  VS  EDKSTSPVVRRMMAE+DL+ GQI G+GKDGRITK+DVLSYIESNR KA   A       + A+    REE+RVPMTRLRAKIAERLL+AQHNAAMLTTFNEVNLKAVMDMR+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQD+VYHGFYDIGIAVSTERGLVVPVIRDADQ+SMAEIELAINDAAS+AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKG+IVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966400235|ref|WP_058443830.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella feeleii] &gt;gi|962218280|gb|KTD02999.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443830</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>662.914</Hsp_bit-score>
+      <Hsp_score>1709</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>399</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>319</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATIAALHKKVGDRVTRDENLIDLETDKVVLEVPAPADGVLKELLFKEGDTVQSGQLLARIEAGAAAE--------QPVAKEEKQPAKEANLAS-EDKAASPAVRRLLAENDLQSGQIPGSGKDGRITKEDVIAFIESGREKSSTPATAKAEPVAQ-LPMGAREERRVPMSRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDGFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDVGIAVSTERGLVVPVVRDADQMSMADIEKAINDSATRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPIVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADAT+AA HKKVGD+V+RDENL+DLETDKVVLEVP+P DGVL ++LF  GDTV SG LLA+I    + E        +PV KEE + ++  ++++ EDK+ SP VRR++AENDL++GQI G+GKDGRITKEDV+++IES REK++  A  + EP  + L  G REE+RVPM+RLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKD FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YD+GIAVSTERGLVVPV+RDADQ+SMA+IE AIND+A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RPIVEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|654937968|ref|WP_028388216.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388216</Hit_accession>
+  <Hit_len>397</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>659.833</Hsp_bit-score>
+      <Hsp_score>1701</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>397</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>362</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKE--PSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATVAAWHKKVGDKVTRDENILDLETDKVVLEVPAPADGILQEILFKEGETVGAGQLLARIEEGAA----------EPAKVEEKEKQEEKENEASDDKSASPAVRRMLAENDLKSSQISGSGKDGRITKEDVLSFIQSNREKTAKSSTAQAESVPAM----MGAREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDIGIAVSTERGLVVPVVRDADQMNMADIEKAINDSATRARQGKLAMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPIVEKGQIVIRPMMYVALSYDHRLIDGRESVQFLVSVKELLEDPTRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADATVAAWHKKVGDKV+RDEN++DLETDKVVLEVP+P DG+L +ILF  G+TVG+G LLA+I +  +          +P K EE +  E +     +DKS SP VRRM+AENDLK+ QI G+GKDGRITKEDVLS+I+SNREK  +++  Q E  P+M     G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YDIGIAVSTERGLVVPV+RDADQ++MA+IE AIND+A++AR GKL+MEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RPIVEKGQIVIRPMMYVALSYDHRLIDG++SVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966408498|ref|WP_058451890.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella maceachernii] &gt;gi|962243729|gb|KTD28046.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451890</Hit_accession>
+  <Hit_len>398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>659.062</Hsp_bit-score>
+      <Hsp_score>1699</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>319</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQ-SVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATIASWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILKEILFKEGDTVKASQVLARIEEGAVAKEEKPAAKEEKPA---EAKTEERES----EEKATGPAVRRMLAENNLQASQISGSGKDGRITKEDVISFIESGREKTSKPA-LKQEP----VAFGAREERRVPMSRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRTQYKDAFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDIGIAVSTERGLVVPVVRDANELSLADIEKAIQDTATRARQGKLAMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADAT+A+WHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L +ILF  GDTV +  +LA+I + +V+ E +   KEEKP    E K  E ES    E+K+T P VRRM+AEN+L+A QI G+GKDGRITKEDV+S+IES REK ++ A +++EP    ++FG REE+RVPM+RLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YDIGIAVSTERGLVVPV+RDA++LS+A+IE AI D A++AR GKL+MEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|769991158|ref|WP_045107030.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella hackeliae] &gt;gi|731153346|emb|CEK11931.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella hackeliae] &gt;gi|962227895|gb|KTD12517.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107030</Hit_accession>
+  <Hit_len>403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>656.366</Hsp_bit-score>
+      <Hsp_score>1692</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>403</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>319</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>413</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKI-SQSVSVESQKTE--KEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQ-TAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATIAAWHKKIGDMVTRDENLLDLETDKVVLEVPAPADGILKEILFREGDTVESAQILARIEAQGAAASSTKQQPVKEEKPAAKEQ-----SETIDA-EEKASGPAVRRMLAEHNLQPGQISGSGKDGRITKEDVISYIETNREKTTKSTPEKQPQP----MPMGAREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDHFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDVGIAVSTERGLVVPVLRDADQMSMADMEKSIADSANRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADAT+AAWHKK+GD V+RDENL+DLETDKVVLEVP+P DG+L +ILF  GDTV S  +LA+I +Q  +  S K +  KEEKP  KE+     SE++   E+K++ P VRRM+AE++L+ GQI G+GKDGRITKEDV+SYIE+NREK  + T E Q +P    +  G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKD FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YD+GIAVSTERGLVVPV+RDADQ+SMA++E +I D+A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|769982219|ref|WP_045098201.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Tatlockia micdadei] &gt;gi|698845667|emb|CEG59645.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Tatlockia micdadei] &gt;gi|962245168|gb|KTD29472.1| dihydrolipoamide succinyltransferase subunit E2 [Tatlockia micdadei] &gt;gi|1081465856|emb|SCX96340.1| 2-oxoglutarate dehydrogenase E2 component [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098201</Hit_accession>
+  <Hit_len>403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>655.596</Hsp_bit-score>
+      <Hsp_score>1690</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>403</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>365</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSV--ESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPVLPESVADATIASWHKKVGDKVTRDENLLDLETDKVVLEVPAPADGILKEILFKEGDTVQASEVLARIEEGAAVKEEKQPAAKEEKAAEPKE---DTKEKISAAGEKATGPAVRRMLAENELQASQISGSGKDGRITKEDVITFIESGREKSAKPA-LKQEP----VALGAREERRVPMSRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRTQYKDTFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDVGIAVSTERGLVVPVVRDADQLSLADIEKAIQDTATRARQGKLAIEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPIVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVSVKELLEDPARLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVPVLPESVADAT+A+WHKKVGDKV+RDENL+DLETDKVVLEVP+P DG+L +ILF  GDTV + ++LA+I +  +V  E Q   KEEK  + +E      E +S   +K+T P VRRM+AEN+L+A QI G+GKDGRITKEDV+++IES REK+ + A +++EP    ++ G REE+RVPM+RLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKD+FEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YD+GIAVSTERGLVVPV+RDADQLS+A+IE AI D A++AR GKL++EEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RPIVEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLVSVKELLEDP+RLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966406139|ref|WP_058449545.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella jamestowniensis] &gt;gi|962222772|gb|KTD07422.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella jamestowniensis] &gt;gi|1045920876|gb|OCH97809.1| dihydrolipoamide succinyltransferase [Legionella jamestowniensis] &gt;gi|1097327774|emb|SFL93161.1| 2-oxoglutarate dehydrogenase E2 component [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449545</Hit_accession>
+  <Hit_len>400</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>655.21</Hsp_bit-score>
+      <Hsp_score>1689</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKI-SQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK-ANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATIAAWHKKIGDMVTRDENLLDLETDKVVLEVPAPADGVLKEIFFNEGDTVESAQILAKIEAGAASDKNQQPAKEEKSATKEE-------PVVDAEEKAAGPAVRRMLAEHNLQPGQISGSGKDGRITKEDVIAYIETNREKTAKSTPDKQPQP----VPMGAREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDDQDIVYHGYYDIGIAVSTERGLVVPVLRDADQMSMADIEKSIGDSANRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPVVEKGQIVIRPMMYVALSYDHRLIDGRESVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADAT+AAWHKK+GD V+RDENL+DLETDKVVLEVP+P DGVL +I FN GDTV S  +LAKI + + S ++Q+  KEEK   KEE        V   E+K+  P VRRM+AE++L+ GQI G+GKDGRITKEDV++YIE+NREK A  T + Q +P    +  G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+RSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASID QDIVYHG+YDIGIAVSTERGLVVPV+RDADQ+SMA+IE +I D+A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERP+VEKGQIVIRPMMYVALSYDHRLIDG++SVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966399256|ref|WP_058442889.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella brunensis] &gt;gi|962191743|gb|KTC76819.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442889</Hit_accession>
+  <Hit_len>400</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>653.67</Hsp_bit-score>
+      <Hsp_score>1685</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>318</Hsp_identity>
+      <Hsp_positive>358</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSV-SVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREK-ANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATIAAWHKKIGDMVTRDENLLDLETDKVVLEVPAPADGVLREIFFKEGDTVEATQILARIEAGAGAATSQPAPKEEKVVAKES-------TADDSEEKATGPAVRRMLAEHNLQPGQISGSGKDGRITKEDVLAYIETNREKTAKLSPEKQPQPAM----MGAREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGYYDVGIAVSTERGLVVPVLRDADQMSMADMEKSIADSATRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVSVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADAT+AAWHKK+GD V+RDENL+DLETDKVVLEVP+P DGVL +I F  GDTV +  +LA+I     +  SQ   KEEK V KE        +    E+K+T P VRRM+AE++L+ GQI G+GKDGRITKEDVL+YIE+NREK A  + E Q +P+M     G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHG+YD+GIAVSTERGLVVPV+RDADQ+SMA++E +I D+A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLVSVKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|762036583|ref|WP_043872521.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella massiliensis] &gt;gi|683289263|emb|CEE11624.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella massiliensis] &gt;gi|685071633|emb|CDZ75886.1| Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872521</Hit_accession>
+  <Hit_len>398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>653.67</Hsp_bit-score>
+      <Hsp_score>1685</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVS-TKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATVATWHKKIGDKVSRDENLLDLETDKVVLEVPAPADGILKEILFKEGDIVQSSQILARIENGAAASA--------PVEKQESKQAETKQENLASEDKSTSPAVRRILAENDLQAGQIAGSGKDGRITKDDVLTFIESSREKTAKPA-ARQEP---MAPMGVREERRVPMTRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDSFEKKHGVKLGFMSFFTKAVVEALKRFPAVNSSIDGQDIVYHGYYDIGIAVSTERGLVVPVVRDADQMTMADIEKSINDTATRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEDRPVVEKGQIVIRPMMYVALSYDHRLIDGKESVQFLVTVKELLEDPSRLLLNV</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADATVA WHKK+GDKVSRDENL+DLETDKVVLEVP+P DG+L +ILF  GD V S  +LA+I    +  +        PV+K+E K +E++  +   EDKSTSP VRR++AENDL+AGQI G+GKDGRITK+DVL++IES+REK  + A  ++EP       G REE+RVPMTRLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKDSFEKKHGVKLGFMSFFTKAVVE+LKRFPAVN+SIDGQDIVYHG+YDIGIAVSTERGLVVPV+RDADQ++MA+IE +IND A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIE+RP+VEKGQIVIRPMMYVALSYDHRLIDGK+SVQFLV+VKELLEDPSRLLLNV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966464468|ref|WP_058495829.1|</Hit_id>
+  <Hit_def>dihydrolipoamide succinyltransferase [Legionella drozanskii] &gt;gi|962202955|gb|KTC87924.1| dihydrolipoamide succinyltransferase subunit E2 [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495829</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>648.662</Hsp_bit-score>
+      <Hsp_score>1672</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>502</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>399</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSIEVKVPVLPESVADATVAAWHKKVGDKVSRDENLVDLETDKVVLEVPSPVDGVLSDILFNTGDTVGSGDLLAKISQSVSVESQKTEKEEKPVKKEEIKISESESVSTKEDKSTSPVVRRMMAENDLKAGQIQGTGKDGRITKEDVLSYIESNREKANQTAEVQKEPSMRALSFGGREEKRVPMTRLRAKIAERLLQAQHNAAMLTTFNEVNLKAVMDMRSQYKDSFEKKHGVKLGFMSFFTKAVVESLKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVIRDADQLSMAEIELAINDAASKARTGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTGILGMHKIEERPIVEKGQIVIRPMMYVALSYDHRLIDGKDSVQFLVSVKELLEDPSRLLLNV</Hsp_qseq>
+      <Hsp_hseq>MSIEVKVPALPESVADATIAGWHKKIGDRVTRDENLVDLETDKVVLEVPAPVDGILKEILFKEGDTVEGGQLLARIEQGAA----EPAKESKPAASEE-KAEPKEEVSAAGEKSTGPAVRRMLAENDLQSSQIPASGKDGRLTKEDVISFIETNREKPAKPAAKQEQ-----VAFGPREERRVPMSRLRAKIAERLVQAQHNAAMLTTFNEVNLKAVMDLRAQYKDSFEKKHGVKLGFMSFFTKAVVEALKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPVVRDANLMSMADIEKTINDSATRARQGKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQTAILGMHKIQDRPVAENGQVVIRPMMYVALSYDHRLIDGKESVQFLVNVKELLEDPARLLLNI</Hsp_hseq>
+      <Hsp_midline>MSIEVKVP LPESVADAT+A WHKK+GD+V+RDENLVDLETDKVVLEVP+PVDG+L +ILF  GDTV  G LLA+I Q  +    +  KE KP   EE K    E VS   +KST P VRRM+AENDL++ QI  +GKDGR+TKEDV+S+IE+NREK  + A  Q++     ++FG REE+RVPM+RLRAKIAERL+QAQHNAAMLTTFNEVNLKAVMD+R+QYKDSFEKKHGVKLGFMSFFTKAVVE+LKRFPAVNASIDGQDIVYHGFYDIGIAVSTERGLVVPV+RDA+ +SMA+IE  IND+A++AR GKLSMEEMQGGTFTITNGGVFGSLLATPIINPPQT ILGMHKI++RP+ E GQ+VIRPMMYVALSYDHRLIDGK+SVQFLV+VKELLEDP+RLLLN+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

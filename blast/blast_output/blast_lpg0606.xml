@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_91019</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>499</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_91019</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>499</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248741|ref|WP_010946281.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|52840778|ref|YP_094577.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627889|gb|AAU26630.1| succinyl CoA synthetase beta chain [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507292|gb|AEW50816.1| succinyl CoA synthetase beta chain [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946281</Hit_accession>
+  <Hit_len>406</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>825.854</Hsp_bit-score>
+      <Hsp_score>2132</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>406</Hsp_align-len>
+      <Hsp_qseq>MFNCKARLDGSCFFKKVIRMNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MFNCKARLDGSCFFKKVIRMNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MFNCKARLDGSCFFKKVIRMNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|505257692|ref|WP_015444794.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|469492926|gb|AGH54771.1| Succinyl-CoA ligase [ADP-forming] beta chain [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081200|gb|AGN13448.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771522|emb|CZI75655.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998795784|emb|CZI44745.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998800574|emb|CZL12288.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998804102|emb|CZK63446.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998807192|emb|CZI30727.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998810716|emb|CZI16847.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998813125|emb|CZH14475.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998816435|emb|CZM20763.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998819748|emb|CZM01196.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998825548|emb|CZK39058.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998832835|emb|CZI19516.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998834475|emb|CZL51186.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998838707|emb|CZJ31014.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998840502|emb|CZL83717.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998843082|emb|CZL07744.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998846313|emb|CZL08800.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998849160|emb|CZI96931.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998852426|emb|CZL87910.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998855959|emb|CZL53716.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998858624|emb|CZM29966.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998862322|emb|CZK41389.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998864772|emb|CZJ88619.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998867221|emb|CZJ83206.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998870193|emb|CZM41475.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998873612|emb|CZK71750.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998876206|emb|CZM47037.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998879325|emb|CZJ74528.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998885777|emb|CZM35256.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998888585|emb|CZK49512.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998895814|emb|CZK09078.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998905254|emb|CZK92243.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998908409|emb|CZL67477.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998916100|emb|CZK72707.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998917479|emb|CZL63388.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998920459|emb|CZL70265.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998926818|emb|CZL98339.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998930932|emb|CZK83265.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998933665|emb|CZL67388.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998938731|emb|CZL20467.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998946264|emb|CZK72152.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998947978|emb|CZL28821.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998956946|emb|CZM66395.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998960475|emb|CZK69175.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998963149|emb|CZK79099.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998966699|emb|CZM40978.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998969389|emb|CZL06879.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998972398|emb|CZK83417.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998978512|emb|CZM01858.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998986122|emb|CZK10738.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998987490|emb|CZL88958.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998998290|emb|CZJ97622.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999006412|emb|CZL22510.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999011877|emb|CZL84206.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999014918|emb|CZM77529.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999021235|emb|CZL94644.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999024034|emb|CZL20399.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999036245|emb|CZL86234.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999045225|emb|CZM30905.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999060299|emb|CZL80941.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999066497|emb|CZJ50649.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999075380|emb|CZH17090.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999078630|emb|CZK44960.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999083097|emb|CZK87232.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999087891|emb|CZL15181.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999090953|emb|CZL90280.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999093889|emb|CZH50334.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999096959|emb|CZH51968.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999101402|emb|CZL76198.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999110912|emb|CZL04384.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999114063|emb|CZL59735.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999115955|emb|CZK74309.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999124736|emb|CZL31883.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999132499|emb|CZL69513.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999133899|emb|CZL47976.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999136965|emb|CZK88083.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999140898|emb|CZL86646.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999144857|emb|CZK81819.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999146385|emb|CZM12060.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999155599|emb|CZI37429.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999174200|emb|CZL61021.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999189791|emb|CZI75168.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999192911|emb|CZJ15939.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999199260|emb|CZH01835.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999202120|emb|CZJ20674.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999208423|emb|CZL34711.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999217933|emb|CZM04703.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999220902|emb|CZJ07876.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999333342|emb|CZL30304.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002078802|emb|CZQ91889.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1003018398|emb|CZR30531.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|1003021470|emb|CZR26907.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|1003024490|emb|CZR30199.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|1073863700|gb|AOU03651.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073866658|gb|AOU06608.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073869663|gb|AOU09612.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073872608|gb|AOU12556.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073875589|gb|AOU15536.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073878551|gb|AOU18497.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073881545|gb|AOU21490.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073884507|gb|AOU24451.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073887506|gb|AOU27449.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073890489|gb|AOU30431.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073893454|gb|AOU33395.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073896419|gb|AOU36359.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073899383|gb|AOU39322.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073902335|gb|AOU42273.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073905246|gb|AOU45183.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073908263|gb|AOU48198.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073911319|gb|AOU51251.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073914237|gb|AOU54168.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073917195|gb|AOU57125.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073920162|gb|AOU60091.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073923135|gb|AOU63062.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073926149|gb|AOU66075.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073929129|gb|AOU69038.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073932513|gb|AOU72072.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073935460|gb|AOU82459.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073945735|gb|AOU85459.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1073948698|gb|AOU88421.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1104001855|emb|SFZ36487.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1129967313|gb|APT97672.1| succinate--CoA ligase subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444794</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>785.793</Hsp_bit-score>
+      <Hsp_score>2028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>387</Hsp_identity>
+      <Hsp_positive>387</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499533492|ref|WP_011214776.1|</Hit_id>
+  <Hit_def>succinyl-CoA ligase subunit beta [Legionella pneumophila] &gt;gi|81369203|sp|Q5WZ04.1|SUCC_LEGPL RecName: Full=Succinate--CoA ligase [ADP-forming] subunit beta; AltName: Full=Succinyl-CoA synthetase subunit beta; Short=SCS-beta &gt;gi|189030250|sp|A5IH21.1|SUCC_LEGPC RecName: Full=Succinate--CoA ligase [ADP-forming] subunit beta; AltName: Full=Succinyl-CoA synthetase subunit beta; Short=SCS-beta &gt;gi|53753361|emb|CAH14811.1| succinyl-CoA synthetase, beta subunit [Legionella pneumophila str. Lens] &gt;gi|148282583|gb|ABQ56671.1| succinyl CoA synthetase beta chain [Legionella pneumophila str. Corby] &gt;gi|295648027|gb|ADG23874.1| succinyl-CoA synthetase beta chain [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395129625|emb|CCD07858.1| succinyl-CoA synthetase, beta subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|761989403|dbj|GAN22671.1| succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|761992510|dbj|GAN16550.1| succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|761995700|dbj|GAN19656.1| succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|761998954|dbj|GAN29024.1| succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998774432|emb|CZH07614.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998777312|emb|CZH11896.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998783028|emb|CZI86158.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998783317|emb|CZH41781.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998786222|emb|CZH06148.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998822492|emb|CZH35386.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998828334|emb|CZH38466.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998882988|emb|CZI84151.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998892609|emb|CZJ23445.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998897719|emb|CZK09178.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998912176|emb|CZH24368.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998938046|emb|CZL87619.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998951085|emb|CZJ96324.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998981352|emb|CZJ19996.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998994594|emb|CZI23457.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999000105|emb|CZG95277.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999003124|emb|CZI80857.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999058431|emb|CZM28967.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999103689|emb|CZI19138.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999107215|emb|CZI75514.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999128517|emb|CZH16704.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999149987|emb|CZI49590.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999152641|emb|CZM83426.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999159337|emb|CZJ69883.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999161878|emb|CZM38904.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999168635|emb|CZI46553.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999178344|emb|CZJ56473.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999230574|emb|CZI93289.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999236692|emb|CZG93041.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999247872|emb|CZH55903.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999286028|emb|CZJ07979.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999292393|emb|CZI86904.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999301714|emb|CZI73969.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999311309|emb|CZJ21473.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999454073|emb|CZI22338.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999460538|emb|CZH01500.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999773118|emb|CZH89262.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999796064|emb|CZI21016.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002074269|emb|CZR05331.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002081622|emb|CZR00614.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002085535|emb|CZQ97314.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002088315|emb|CZQ79074.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1002090894|emb|CZR11549.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1032656710|gb|ANH11981.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1032659677|gb|ANH14947.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1032662644|gb|ANH17913.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1080002191|gb|AOW52763.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006057|gb|AOW56337.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008085|gb|AOW58073.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012254|gb|AOW61745.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014689|gb|AOW63562.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018497|gb|AOW67142.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1104005419|emb|SFZ36492.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011214776</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>781.171</Hsp_bit-score>
+      <Hsp_score>2016</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>385</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|749504876|ref|WP_040145844.1|</Hit_id>
+  <Hit_def>succinyl-CoA ligase subunit beta [Legionella pneumophila] &gt;gi|998801821|emb|CZI07947.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999165739|emb|CZG85453.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145844</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>780.4</Hsp_bit-score>
+      <Hsp_score>2014</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAIVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGA+VDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1004334312|ref|WP_061513237.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513237</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>779.63</Hsp_bit-score>
+      <Hsp_score>2012</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELATVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELA VAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|499526524|ref|WP_011213164.1|</Hit_id>
+  <Hit_def>succinyl-CoA ligase subunit beta [Legionella pneumophila] &gt;gi|81371112|sp|Q5X7K6.1|SUCC_LEGPA RecName: Full=Succinate--CoA ligase [ADP-forming] subunit beta; AltName: Full=Succinyl-CoA synthetase subunit beta; Short=SCS-beta &gt;gi|53750353|emb|CAH11747.1| succinyl-CoA synthetase, beta subunit [Legionella pneumophila str. Paris] &gt;gi|395126518|emb|CCD04701.1| succinyl-CoA synthetase, beta subunit [Legionella pneumophila subsp. pneumophila] &gt;gi|536613645|gb|ERB42017.1| malate--CoA ligase subunit beta [Legionella pneumophila str. 121004] &gt;gi|541995610|gb|ERH41709.1| malate--CoA ligase subunit beta [Legionella pneumophila str. Leg01/11] &gt;gi|541997317|gb|ERH43365.1| malate--CoA ligase subunit beta [Legionella pneumophila str. Leg01/53] &gt;gi|542121192|gb|ERI47525.1| malate--CoA ligase subunit beta [Legionella pneumophila str. Leg01/20] &gt;gi|762002557|dbj|GAN25675.1| succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998923722|emb|CZK24070.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998943792|emb|CZJ49809.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998954329|emb|CZK60285.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998975500|emb|CZJ89952.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998992834|emb|CZJ48090.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999009065|emb|CZK47030.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999018228|emb|CZJ87866.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999027342|emb|CZK25254.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999030556|emb|CZH23484.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999033293|emb|CZK21031.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999039498|emb|CZJ96176.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999042435|emb|CZK04462.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999048532|emb|CZK02335.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999051565|emb|CZJ92012.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999054556|emb|CZK29919.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999063677|emb|CZK01794.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999070580|emb|CZJ65303.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999072799|emb|CZK32216.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999084985|emb|CZK30216.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999171844|emb|CZI29062.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999181633|emb|CZG51091.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999184321|emb|CZP95849.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999187800|emb|CZI95061.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999198454|emb|CZP13053.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999212717|emb|CZG77233.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999216925|emb|CZI66623.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999225337|emb|CZG84029.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999228290|emb|CZP07849.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999248766|emb|CZH07774.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999251982|emb|CZH36546.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999261290|emb|CZH41228.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999265207|emb|CZP06853.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999269419|emb|CZO32949.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999272221|emb|CZP57717.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999274788|emb|CZG78382.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999277603|emb|CZP36532.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999281366|emb|CZP16676.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999283666|emb|CZP61533.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999290983|emb|CZP31928.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999296490|emb|CZP58482.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999299577|emb|CZP48049.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999307301|emb|CZH70316.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999309365|emb|CZP26578.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999315827|emb|CZI10445.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999318673|emb|CZP64922.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999322015|emb|CZH97994.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999324446|emb|CZH33448.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999328618|emb|CZG63867.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999331870|emb|CZG60027.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999337752|emb|CZP46914.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999340074|emb|CZH26103.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999344457|emb|CZP84425.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999347204|emb|CZP63199.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999349713|emb|CZH41576.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999353478|emb|CZP69247.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999357236|emb|CZP68224.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999359963|emb|CZI60976.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999363816|emb|CZP56724.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999367112|emb|CZP76554.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999369945|emb|CZP77827.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999373465|emb|CZG57516.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999376500|emb|CZJ19105.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999379744|emb|CZH69394.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999382639|emb|CZI57070.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999386292|emb|CZG64802.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999389089|emb|CZI55936.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999392301|emb|CZP97981.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999396913|emb|CZG10112.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999398549|emb|CZQ00897.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999403126|emb|CZP41700.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999405929|emb|CZG72706.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999408884|emb|CZH90428.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999412732|emb|CZG32566.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999415441|emb|CZG89020.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999418781|emb|CZG65064.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999421976|emb|CZH73336.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999425290|emb|CZG75465.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999428356|emb|CZG71822.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999431654|emb|CZG73944.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999435012|emb|CZI01056.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999438196|emb|CZG62972.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999441192|emb|CZK29697.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|999444615|emb|CZH76454.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999447818|emb|CZG52817.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999450618|emb|CZP35546.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999457559|emb|CZK21281.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999464857|emb|CZM53060.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999467881|emb|CZO30241.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999469307|emb|CZH06667.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999474694|emb|CZM61113.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999477151|emb|CZN74251.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999480653|emb|CZM99703.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999484256|emb|CZN90126.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999487085|emb|CZM11098.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999490258|emb|CZN78478.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999493449|emb|CZM10550.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999496244|emb|CZI45990.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999500029|emb|CZN73052.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999503155|emb|CZO06993.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999506377|emb|CZN16722.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999509580|emb|CZG51846.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999512918|emb|CZN30610.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999515994|emb|CZL99925.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999519009|emb|CZM84769.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999521861|emb|CZP15753.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999525369|emb|CZJ08161.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999528082|emb|CZI75220.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999532365|emb|CZO46797.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999535521|emb|CZN40706.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999538602|emb|CZM76610.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999542046|emb|CZO21240.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999545008|emb|CZO61637.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999548148|emb|CZN88659.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999551460|emb|CZO10445.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999554495|emb|CZN30681.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999557930|emb|CZO56352.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999561061|emb|CZM40928.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999564067|emb|CZO66076.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999567431|emb|CZM52063.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999570631|emb|CZN50081.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999573819|emb|CZN92086.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999576017|emb|CZI41722.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999580311|emb|CZO15711.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999583599|emb|CZO37197.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999586962|emb|CZM63962.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999590003|emb|CZM40976.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999593162|emb|CZN45824.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999596235|emb|CZO12826.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999599555|emb|CZO38389.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999602619|emb|CZL96138.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999605407|emb|CZN72157.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999608944|emb|CZN62735.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999611273|emb|CZI62314.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999615556|emb|CZM46569.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999618675|emb|CZN91576.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999621755|emb|CZO81279.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999625083|emb|CZN70786.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999628418|emb|CZM63520.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999631532|emb|CZM58570.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999634592|emb|CZN58678.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999637920|emb|CZN50673.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999641116|emb|CZO78718.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999644108|emb|CZO52239.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999647599|emb|CZN94165.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999650715|emb|CZO05664.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999653900|emb|CZO00339.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999657097|emb|CZM28771.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999660171|emb|CZM64482.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999663398|emb|CZN18289.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999666763|emb|CZM38985.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999669955|emb|CZL85131.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999673081|emb|CZM37088.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999676349|emb|CZN78824.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999679306|emb|CZM78206.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999682501|emb|CZM81614.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999686188|emb|CZN99203.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999689144|emb|CZN31242.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999692337|emb|CZO00256.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999695554|emb|CZN30189.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999698779|emb|CZM11598.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999701723|emb|CZM77493.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999704958|emb|CZL93616.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999708184|emb|CZN57640.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999711603|emb|CZN01988.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999714699|emb|CZN22570.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999717971|emb|CZO44945.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999720927|emb|CZM92651.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999724446|emb|CZN33296.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999727849|emb|CZL99911.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999730968|emb|CZO42866.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999734192|emb|CZM26294.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999737468|emb|CZO69948.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999740949|emb|CZM31104.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999744113|emb|CZN27432.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999747255|emb|CZM25452.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999750513|emb|CZL95257.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999753709|emb|CZM80401.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999756760|emb|CZN09614.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999760261|emb|CZM23582.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999763394|emb|CZN30932.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999766920|emb|CZM49425.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999769769|emb|CZN51775.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999776233|emb|CZM00758.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999777499|emb|CZH50643.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999782879|emb|CZH62176.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999786432|emb|CZM25227.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999789597|emb|CZO68112.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999792942|emb|CZO61435.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999799827|emb|CZO56915.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1003029175|emb|CZR19008.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|1003036358|emb|CZR16899.1| succinyl CoA synthetase beta chain [Legionella pneumophila] &gt;gi|1005832302|gb|AMQ27028.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431672|gb|AMV13299.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1041014572|gb|ANN91633.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1041017670|gb|ANN94730.1| succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1103995604|emb|SFZ36795.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1103998736|emb|SFZ36515.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213164</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>779.63</Hsp_bit-score>
+      <Hsp_score>2012</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1005410631|ref|WP_061639883.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|998791268|emb|CZG41342.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|998793115|emb|CZI50758.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639883</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>779.245</Hsp_bit-score>
+      <Hsp_score>2011</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>384</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSK</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|652976155|ref|WP_027228828.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|985765931|gb|KXB27042.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila] &gt;gi|985767759|gb|KXB28845.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila] &gt;gi|999119242|emb|CZG75560.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999122550|emb|CZH13984.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|1024341690|gb|KZX35997.1| succinyl-CoA synthetase subunit beta [Legionella pneumophila] &gt;gi|1108604004|gb|APF02372.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. fraseri] &gt;gi|1108607015|gb|APF05382.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228828</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.474</Hsp_bit-score>
+      <Hsp_score>2009</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>382</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDRELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETGFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSK</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEID+ELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRET FKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+TKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1002315575|ref|WP_061363807.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|999206187|emb|CZP62726.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999235195|emb|CZP57875.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999240295|emb|CZH91224.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999244360|emb|CZH76121.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999255972|emb|CZP79251.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila] &gt;gi|999259122|emb|CZP47219.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061363807</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.089</Hsp_bit-score>
+      <Hsp_score>2008</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>383</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSNKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFV+CDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652970708|ref|WP_027223600.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella pneumophila] &gt;gi|1005362807|gb|AMP88676.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pascullei] &gt;gi|1005365808|gb|AMP91585.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pascullei] &gt;gi|1005368795|gb|AMP94571.1| succinate--CoA ligase subunit beta [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223600</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.622</Hsp_bit-score>
+      <Hsp_score>1999</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFVSYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELATVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDRELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETGFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSK</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLF SYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELA VAKSMLGTRLVTYQTDARGQPVNAILVEETCEID+ELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRET FKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+TKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|966460902|ref|WP_058493331.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella worsleiensis] &gt;gi|962296396|gb|KTD80037.1| succinyl CoA synthetase beta chain [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493331</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>736.873</Hsp_bit-score>
+      <Hsp_score>1901</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>497</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>385</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>357</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>385</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAV</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPRGEVAYNVEDALQVASQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKDELAAVAKSLLGTHLVTYQTDAKGQPVNSVLVEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIVKIVVDPLVGVMPFQCRDTAFKLGLADDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKTGQLICLDGKINIDGNALYRQPKLKSMRDATQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDDKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSDLNVIAATSLTDAAKKIVAAV</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVPRGEVAYNVEDAL VASQLST RWVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKS+LGT LVTYQTDA+GQPVN++LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKI K+VVDPLVGVMPFQCR+TAFKLGL DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+TK+GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SD+KVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKS+LNVIAATSLTDAAKKIVAAV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|966440914|ref|WP_058481237.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella waltersii] &gt;gi|962291977|gb|KTD75675.1| succinyl CoA synthetase beta chain [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481237</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>735.717</Hsp_bit-score>
+      <Hsp_score>1898</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>357</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVSE</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYDLPVPKGEVAYHVDDALQVASQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKEELAAAAKSLLGTRLVTYQTDAHGQPVNALLIEETCDIDRELYLGAVVDRSTRRVVFMASTEGGVEIEKVAEETPEKIVKIIVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMLGLGKMFEECDLSLLEINPLVVTKTGQLICLDGKINIDGNALYRQPKLKAMRDVSQEDARENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATGLTDAAKKIVAAVSK</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASYDLPVP+GEVAY+V+DAL VASQLST RWVVKAQVHAGGRGKAGGVKLVS+K+ELAA AKS+LGTRLVTYQTDA GQPVNA+L+EETC+ID+ELYLGAVVDRSTRRVV MASTEGGVEIEKVA ETPEKI K++VDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLM+GLGKMF ECDLSLLEINPLV+TK+GQLICLDGKINIDGNAL+RQPKLK MRDVSQED RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAAT LTDAAKKIVAAVS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|517403199|ref|WP_018576062.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella shakespearei] &gt;gi|962276150|gb|KTD60051.1| succinyl CoA synthetase beta chain [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576062</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>724.161</Hsp_bit-score>
+      <Hsp_score>1868</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPRGEVAYNVEDAIQVASQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKDELAAVAKSLLGTHLVTYQTDAKGQPVNAVLVEETCDIDRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKIVVDPLVGVMPFQCRETGFKLGLKEDQIKQFTHLMMSLGKMFVECDLSLLEINPLVVTKSGQLICLDGKINIDANALYRQPKLKSMRDTSQEDARENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVPRGEVAYNVEDA+ VASQLST RWVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKS+LGT LVTYQTDA+GQPVNA+LVEETC+ID+ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFK+VVDPLVGVMPFQCRET FKLGLK+DQIKQFTHLMM LGKMFVECDLSLLEINPLV+TKSGQLICLDGKINID NAL+RQPKLK+MRD SQED RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|769978705|ref|WP_045094690.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella fallonii] &gt;gi|698841948|emb|CEG55895.1| succinyl-CoA synthetase beta chain [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094690</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>723.391</Hsp_bit-score>
+      <Hsp_score>1866</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>347</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDATQVASQLSTPKWVVKAQVHAGGRGKAGGVKIVSSKDELSAVTKSLLGTRLVTYQTDAHGQPVNAVLIEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRETAFKLGLKDDQIRQFTHLMMGLGKMFVECDLSLLEINPLVVTQTGQLICLDGKINIDGNALYRQPKLKSMRDTSQEDDRENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDDKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDA  VASQLST +WVVKAQVHAGGRGKAGGVK+VSSKDEL+AV KS+LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCRETAFKLGLKDDQI+QFTHLMMGLGKMFVECDLSLLEINPLV+T++GQLICLDGKINIDGNAL+RQPKLK+MRD SQEDDRENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SD+KVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|966432327|ref|WP_058472760.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella quateirensis] &gt;gi|962268697|gb|KTD52713.1| succinyl CoA synthetase beta chain [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472760</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>723.005</Hsp_bit-score>
+      <Hsp_score>1865</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>347</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPTPRGEVAYNVEDALQVASQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKDELAAVAKSLLGTHLVTYQTDAKGQPVNSVLVEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDTAFKLGLEDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKTGQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDEQVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LP PRGEVAYNVEDAL VASQLST RWVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKS+LGT LVTYQTDA+GQPVN++LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+TAFKLGL+DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+TK+GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SDE+VKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|654932932|ref|WP_028383289.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella moravica] &gt;gi|962250727|gb|KTD34928.1| succinyl CoA synthetase beta chain [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383289</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>718.768</Hsp_bit-score>
+      <Hsp_score>1854</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>345</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPTPRGEVAYNVEDALQVASQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKEELAAVAKSLLGTHLVTYQTDAKGQPVNSVLVEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDTAFKLGLEDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKTGQLICLDGKINIDGNALYRQPKLKGMRDTTQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDEHVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LP PRGEVAYNVEDAL VASQLST RWVVKAQVHAGGRGKAGGVKLVS+K+ELAAVAKS+LGT LVTYQTDA+GQPVN++LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+TAFKLGL+DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+TK+GQLICLDGKINIDGNAL+RQPKLK MRD +QED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SDE VKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|269990016|gb|EEZ96270.1|</Hit_id>
+  <Hit_def>succinyl-CoA synthetase subunit beta [Legionella longbeachae D-4968]</Hit_def>
+  <Hit_accession>EEZ96270</Hit_accession>
+  <Hit_len>397</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>716.457</Hsp_bit-score>
+      <Hsp_score>1848</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>105</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>384</Hsp_align-len>
+      <Hsp_qseq>CFFKKVIRMNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>AFFRKVIAMNLHEYQAKQLFAKYNLPVPNGQVAYSVDDALQVASQLSTNRWVVKAQVHAGGRGKAGGVKVVANKDELASVVKSLLGTRLVTYQTDAQGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPDKIFKIIVDPLVGVMPFQCREAGFKLGLQDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVSQSGQLICLDGKINIDGNALYRQPQLKSLRDASQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIISDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline> FF+KVI MNLHEYQAKQLFA Y+LPVP G+VAY+V+DAL VASQLST+RWVVKAQVHAGGRGKAGGVK+V++KDELA+V KS+LGTRLVTYQTDA+GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETP+KIFK++VDPLVGVMPFQCRE  FKLGL+DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+++SGQLICLDGKINIDGNAL+RQP+LK++RD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|498338342|ref|WP_010652498.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Fluoribacter dumoffii] &gt;gi|962207552|gb|KTC92483.1| succinyl CoA synthetase beta chain [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652498</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>711.835</Hsp_bit-score>
+      <Hsp_score>1836</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPKGEVAYNVEDAIQVASQLSTARWVVKAQVHAGGRGKAGGVKLVSNKDELAQAVKSLLGTRLVTYQTDAHGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKIIVDPLVGVMPFQCRDVGFKLGLQDEQMKQFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNALYRQPKLKSMRDTSQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP+GEVAYNVEDA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFK++VDPLVGVMPFQCR+  FKLGL+D+Q+KQFTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|493927288|ref|WP_006872037.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella drancourtii] &gt;gi|363536420|gb|EHL29862.1| succinyl CoA synthetase beta chain [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872037</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.909</Hsp_bit-score>
+      <Hsp_score>1831</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>363</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPHGEVAYNVEDALQVASQLSTTRWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKALLGTRLVTYQTDAHGQPVNAVLVEETCEIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKVVVDPLVGVMPFQAREAGFKLGLDDAQIKQFTHLMLGLGKMFVECDLSLLEINPLVVTQAGQLICLDGKINIDGNALYRQPKLKSMRDTSQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDDKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDAL VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  K++LGTRLVTYQTDA GQPVNA+LVEETCEI +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFKVVVDPLVGVMPFQ RE  FKLGL D QIKQFTHLM+GLGKMFVECDLSLLEINPLV+T++GQLICLDGKINIDGNAL+RQPKLK+MRD SQED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SD+KVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966516880|ref|WP_058533374.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533374</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.523</Hsp_bit-score>
+      <Hsp_score>1830</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>362</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGQVAYTVEDALQVASQLSTKRWVVKAQVHAGGRGKAGGVKLVSDRDELAAAVKALLGTRLVTYQTDAHGQPVNAVLIEETCDIDRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPEKIFKVVVDPLVGVMPFQAREAGFKLGLKDEQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKTGQLLCLDGKINIDGNALYRQPKLKGMRDTSQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDDKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP G+VAY VEDAL VASQLST RWVVKAQVHAGGRGKAGGVKLVS +DELAA  K++LGTRLVTYQTDA GQPVNA+L+EETC+ID+ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETPEKIFKVVVDPLVGVMPFQ RE  FKLGLKD+QIKQFTHLMMGLGKMFVECDLSLLEINPLV+TK+GQL+CLDGKINIDGNAL+RQPKLK MRD SQED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SD+KVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966493778|ref|WP_058510566.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella steelei] &gt;gi|962284712|gb|KTD68478.1| succinyl-CoA synthetase subunit beta [Legionella steelei] &gt;gi|1113342040|gb|OJW05917.1| succinate--CoA ligase subunit beta [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510566</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>709.138</Hsp_bit-score>
+      <Hsp_score>1829</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPKGEVAYSVEDAVQVASQLSTDRWVVKAQVHAGGRGKAGGVKLVANKDELAAAVKALLGTRLVTYQTDAHGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCREVGFKLGLQDEQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKPGQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP+GEVAY+VEDA+ VASQLST RWVVKAQVHAGGRGKAGGVKLV++KDELAA  K++LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCRE  FKLGL+D+QIKQFTHLMMGLGKMFVECDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654930394|ref|WP_028380763.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella cherrii] &gt;gi|962197141|gb|KTC82185.1| succinyl-CoA synthetase subunit beta [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380763</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>706.827</Hsp_bit-score>
+      <Hsp_score>1823</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAHYDLPVPKGEVAYSVEDAMQVASQLSTDRWVVKAQVHAGGRGKAGGVKLVSNKDELATAVKALLGTRLVTYQTDAHGQPVNTVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLQDEQIKQFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA YDLPVP+GEVAY+VEDA+ VASQLST RWVVKAQVHAGGRGKAGGVKLVS+KDELA   K++LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGL+D+QIKQFTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|963705526|ref|WP_058388484.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella anisa] &gt;gi|962187109|gb|KTC72242.1| succinyl CoA synthetase beta chain [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_058388484</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>706.442</Hsp_bit-score>
+      <Hsp_score>1822</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>340</Hsp_identity>
+      <Hsp_positive>362</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYNVEDAIQVASQLSTARWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKSLLGTRLVTYQTDAYGQPVNCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLKEEQIKHFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNAMYRQPKLKNMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  KS+LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGLK++QIK FTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNA++RQPKLKNMRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966505242|ref|WP_058521901.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella tucsonensis] &gt;gi|962287615|gb|KTD71343.1| succinyl CoA synthetase beta chain [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521901</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>706.057</Hsp_bit-score>
+      <Hsp_score>1821</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYNVEDAIQVASQLSTTRWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKSLLGTRLVTYQTDAHGQPVNCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLKEEQIKYFTHLMMGLGKMFVECDLSLLEINPLVVTKQGQLICLDGKINIDGNALYRQAKLKNMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  KS+LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGLK++QIK FTHLMMGLGKMFVECDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQ KLKNMRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966496230|ref|WP_058512996.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella santicrucis] &gt;gi|962282812|gb|KTD66588.1| succinyl-CoA synthetase subunit beta [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058512996</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>706.057</Hsp_bit-score>
+      <Hsp_score>1821</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAKYNLPVPNGQVAYNVDDALQVASQLSTNRWVVKAQVHAGGRGKAGGVKVVANKDELAAAVKSLLGTRLVTYQTDAQGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEKTPEKIFKIIVDPLVGVMPFQCREAGFKLGLQDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVISQSGQLICLDGKINIDGNALYRQPQLKSLRDASQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIISDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y+LPVP G+VAYNV+DAL VASQLST+RWVVKAQVHAGGRGKAGGVK+V++KDELAA  KS+LGTRLVTYQTDA+GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA +TPEKIFK++VDPLVGVMPFQCRE  FKLGL+DDQIKQFTHLMMGLGKMFVECDLSLLEINPLVI++SGQLICLDGKINIDGNAL+RQP+LK++RD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966436346|ref|WP_058476714.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella steigerwaltii] &gt;gi|962295016|gb|KTD78670.1| succinyl-CoA synthetase subunit beta [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476714</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>705.671</Hsp_bit-score>
+      <Hsp_score>1820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYSVEDAMQVASQLTTDRWVVKAQVHAGGRGKAGGVKLVSNKDELATAVKSLLGTRLVTYQTDAHGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLQDDQIKQFTHLMMGLGKMFVDCDLSLLEINPLVVTKKGQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEHVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAY+VEDA+ VASQL+T RWVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGL+DDQIKQFTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDE VKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966426268|ref|WP_058468806.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Fluoribacter gormanii] &gt;gi|962216852|gb|KTD01606.1| succinyl-CoA synthetase subunit beta [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468806</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>705.671</Hsp_bit-score>
+      <Hsp_score>1820</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>362</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYSVEDAMQVASQLSTARWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKSLLGTRLVTYQTDAHGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCREVGFKLGLKDEQIKQFTHLMMGLGKMFVDCDLSLLEINPLVVTKQEQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDDNVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAY+VEDA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  KS+LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCRE  FKLGLKD+QIKQFTHLMMGLGKMFV+CDLSLLEINPLV+TK  QLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SD+ VKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966466518|ref|WP_058497844.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella gratiana] &gt;gi|962230011|gb|KTD14607.1| succinyl-CoA synthetase subunit beta [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497844</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>705.286</Hsp_bit-score>
+      <Hsp_score>1819</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAKYNLPVPNGQVAYNVEDALQVASQLATNRWVVKAQVHAGGRGKAGGVKVVANKDELAATVKSLLGTRLVTYQTDAHGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVMMASTEGGVEIEKVAEETPEKIFKIVVDPLVGVMPFQCREAGFKLGLHDDQIKQFTHLMIGLGKMFVECDLSLLEINPLVVTQSGQLICLDGKINIDGNALYRQPQLKSLRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y+LPVP G+VAYNVEDAL VASQL+T+RWVVKAQVHAGGRGKAGGVK+V++KDELAA  KS+LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVV+MASTEGGVEIEKVA ETPEKIFK+VVDPLVGVMPFQCRE  FKLGL DDQIKQFTHLM+GLGKMFVECDLSLLEINPLV+T+SGQLICLDGKINIDGNAL+RQP+LK++RD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966420694|ref|WP_058463895.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella cincinnatiensis] &gt;gi|962206955|gb|KTC91888.1| succinyl-CoA synthetase subunit beta [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463895</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>704.901</Hsp_bit-score>
+      <Hsp_score>1818</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAKYNLPVPNGQVAYNVDDALQVASQLSTNRWVVKAQVHAGGRGKAGGVKVVANKDELAAAVKALLGTRLVTYQTDAHGQPVNAVLIEETCEIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEKTPEKIFKIIVDPLVGVMPFQCREAGFKLGLHDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVSQSGQLICLDGKINIDGNALYRQPQLKSLRDASQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIISDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y+LPVP G+VAYNV+DAL VASQLST+RWVVKAQVHAGGRGKAGGVK+V++KDELAA  K++LGTRLVTYQTDA GQPVNA+L+EETCEI +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA +TPEKIFK++VDPLVGVMPFQCRE  FKLGL DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+++SGQLICLDGKINIDGNAL+RQP+LK++RD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|502743802|ref|WP_012978786.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella longbeachae] &gt;gi|288856916|emb|CBJ10730.1| succinyl-CoA synthetase, beta subunit [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_012978786</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>704.901</Hsp_bit-score>
+      <Hsp_score>1818</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>335</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAKYNLPVPNGQVAYSVDDALQVASQLSTNRWVVKAQVHAGGRGKAGGVKVVANKDELASVVKSLLGTRLVTYQTDAQGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEETPDKIFKIIVDPLVGVMPFQCREAGFKLGLQDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVSQSGQLICLDGKINIDGNALYRQPQLKSLRDASQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIISDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y+LPVP G+VAY+V+DAL VASQLST+RWVVKAQVHAGGRGKAGGVK+V++KDELA+V KS+LGTRLVTYQTDA+GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA ETP+KIFK++VDPLVGVMPFQCRE  FKLGL+DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+++SGQLICLDGKINIDGNAL+RQP+LK++RD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|518064349|ref|WP_019234557.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234557</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>704.516</Hsp_bit-score>
+      <Hsp_score>1817</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>339</Hsp_identity>
+      <Hsp_positive>362</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYNVEDAIQVASKLSTARWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKSLLGTRLVTYQTDAYGQPVNCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLKEEQIKHFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNAMYRQPKLKNMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDA+ VAS+LST+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  KS+LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGLK++QIK FTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNA++RQPKLKNMRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|671586673|ref|WP_031563073.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563073</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.205</Hsp_bit-score>
+      <Hsp_score>1811</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYNVEDAIQVASQLSTTRWVVKAQVHAGGRGKAGGVKLVSNKDELAQAVKSLLGTRLVTYQTDAQGQPVRCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLKDEQIKQFTHLMMGLGKMFVDCDLSLLEINPLVVTKQDQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA+GQPV  +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGLKD+QIKQFTHLMMGLGKMFV+CDLSLLEINPLV+TK  QLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|653018979|ref|WP_027270934.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella sainthelensi] &gt;gi|962274598|gb|KTD58529.1| succinyl-CoA synthetase subunit beta [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270934</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.205</Hsp_bit-score>
+      <Hsp_score>1811</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>365</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFAKYNLPVPNGQVAYNVDDALQVASQLATNRWVVKAQVHAGGRGKAGGVKVVANKDELAAAVKSLLGTRLVTYQTDAQGQPVNAVLIEETCDIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAEKTPEKIFKIIVDPLVGVMPFQCREAGFKLGLHDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVVSQSGQLICLDGKINIDGNALYRQPQLKSLRDASQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGDPANFLDVGGGATKERVSEALKIIISDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y+LPVP G+VAYNV+DAL VASQL+T+RWVVKAQVHAGGRGKAGGVK+V++KDELAA  KS+LGTRLVTYQTDA+GQPVNA+L+EETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVA +TPEKIFK++VDPLVGVMPFQCRE  FKLGL DDQIKQFTHLMMGLGKMFVECDLSLLEINPLV+++SGQLICLDGKINIDGNAL+RQP+LK++RD SQED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGG+PANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966499580|ref|WP_058516253.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella parisiensis] &gt;gi|962260114|gb|KTD44229.1| succinyl CoA synthetase beta chain [Legionella parisiensis] &gt;gi|1069290675|gb|OEH46075.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516253</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>701.049</Hsp_bit-score>
+      <Hsp_score>1808</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGEVAYNVEDAIQVATQLLTARWVVKAQVHAGGRGKAGGVKLVSNKDELAAAVKSLLGTRLVTYQTDAHGQPVNCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLKEEQIKHFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNALYRQPKLKSMRDTSQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDENVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP GEVAYNVEDA+ VA+QL T+RWVVKAQVHAGGRGKAGGVKLVS+KDELAA  KS+LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFKV+VDPLVGVMPFQCR+  FKLGLK++QIK FTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD SQED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDE VKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966414750|ref|WP_058458035.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Fluoribacter bozemanae] &gt;gi|962192311|gb|KTC77385.1| succinyl-CoA synthetase subunit beta [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458035</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>700.664</Hsp_bit-score>
+      <Hsp_score>1807</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPNGDVAYNVDDAIQVASQLSTARWVVKAQVHAGGRGKAGGVKLVSNKDELATAVKSLLGTRLVTYQTDAHGQPVNCVLIEETCDIGRELYLGAVVDRATRRVVFMASTEGGVEIEKVAEETPEKIFKIIVDPLVGVMPFQCRDVGFKLGLKEEQIKHFTHLMMGLGKMFVDCDLSLLEINPLVVTKQGQLICLDGKINIDGNALYRQPKLKSMRDTTQEDERENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGADILNKSDLNVIAATSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP G+VAYNV+DA+ VASQLST+RWVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA GQPVN +L+EETC+I +ELYLGAVVDR+TRRVV MASTEGGVEIEKVA ETPEKIFK++VDPLVGVMPFQCR+  FKLGLK++QIK FTHLMMGLGKMFV+CDLSLLEINPLV+TK GQLICLDGKINIDGNAL+RQPKLK+MRD +QED+RENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGA+ILNKS+LNVIAATSLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1113577293|gb|OJY37002.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY37002</Hit_accession>
+  <Hit_len>388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>691.034</Hsp_bit-score>
+      <Hsp_score>1782</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>498</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>344</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>386</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYNLPVPKGEVAYNVEDALQVASQLSTSRWVVKAQVHAGGRGKAGGVKLVGTKDELAAAVKALLGTRLVTYQTDAHGQPVHAVLVEETCDIGRELYLGAVVDRATRRVVVMASTEGGVEIEKVAEETPEKIFKVIVDPLLGVMPFQARETGFKLGLDEHQIKQFSQLMVALGKMFVECDLSLLEINPLVVTKSGQLLCLDGKVNVDGNALYRQPKLKSMRDTSQEDERENRASDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIILSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKVPVVVRLEGNNAQLGAELLNKSGLNVIAATSLTDAAKKIVAAVS</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY+LPVP+GEVAYNVEDAL VASQLSTSRWVVKAQVHAGGRGKAGGVKLV +KDELAA  K++LGTRLVTYQTDA GQPV+A+LVEETC+I +ELYLGAVVDR+TRRVV+MASTEGGVEIEKVA ETPEKIFKV+VDPL+GVMPFQ RET FKLGL + QIKQF+ LM+ LGKMFVECDLSLLEINPLV+TKSGQL+CLDGK+N+DGNAL+RQPKLK+MRD SQED+RENRASDWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKII+SDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVK+PVVVRLEGNNAQLGAE+LNKS LNVIAATSLTDAAKKIVAAVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966515260|ref|WP_058531777.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella rubrilucens] &gt;gi|962262681|gb|KTD46767.1| succinyl CoA synthetase beta chain [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531777</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>687.952</Hsp_bit-score>
+      <Hsp_score>1774</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>329</Hsp_identity>
+      <Hsp_positive>357</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFARYGLPVPNGKVAYSVEDALKAAEQLSTPKWVVKAQVHAGGRGKAGGVKLVSNKEELAAVTQSLLGTRLVTYQTDAKGQPVNAVLVEETCDIGRELYLGAVVDRSSRRVVFMASTEGGVEIEKVAHETPEKIFKVTMDPLVGIMPFQCREVAFKLGLNEEQIKQFTHLMMGLGKMFVECDLSLLEINPLVVTKSGQILCLDGKINIDGNALYRQPELKNMRDKSQEDERENRATDWELNYIPLEGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDENVKGILVNIFGGIVRCDLIAEGILAAVKEVGVKIPVVVRLEGNNAQLGADILNKSGLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y LPVP G+VAY+VEDAL  A QLST +WVVKAQVHAGGRGKAGGVKLVS+K+ELAAV +S+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDRS+RRVV MASTEGGVEIEKVAHETPEKIFKV +DPLVG+MPFQCRE AFKLGL ++QIKQFTHLMMGLGKMFVECDLSLLEINPLV+TKSGQ++CLDGKINIDGNAL+RQP+LKNMRD SQED+RENRA+DWELNYIPL+G+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GILAAVKEV VKIPVVVRLEGNNAQLGA+ILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966442527|ref|WP_058482789.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella spiritensis] &gt;gi|962280866|gb|KTD64681.1| succinyl CoA synthetase beta chain [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482789</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>683.715</Hsp_bit-score>
+      <Hsp_score>1763</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>498</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>342</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>386</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPTPRGEVAYNVEDALQVAAQLSTPKLVVKAQVHAGGRGKAGGVKLVSSKDELAAVTKSLLGTRLVTYQTDARGQPVNAVLVEETCDIDRELYLGAVVDRASRRVVIMASTEGGVEIEKVAHETPEKIFKVTVDPLVGVMPYQCRETGFNLGLDNDQIKSFTQLMIGLGKMFMECDLSLLEINPLVVTKSGQLLCLDGKINIDGNALYRQPHLKSMRDSTQEDERENRATDWELNYIPLDGAIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDEHVKGILVNIFGGIVRCDLIAEGILAAVKEVDVKVPVVVRLEGNNAQLGADILNKSDLNVIAANSLTDAARKIVAEVS</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LP PRGEVAYNVEDAL VA+QLST + VVKAQVHAGGRGKAGGVKLVSSKDELAAV KS+LGTRLVTYQTDARGQPVNA+LVEETC+ID+ELYLGAVVDR++RRVVIMASTEGGVEIEKVAHETPEKIFKV VDPLVGVMP+QCRET F LGL +DQIK FT LM+GLGKMF+ECDLSLLEINPLV+TKSGQL+CLDGKINIDGNAL+RQP LK+MRD +QED+RENRA+DWELNYIPLDG IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GILAAVKEVDVK+PVVVRLEGNNAQLGA+ILNKS+LNVIAA SLTDAA+KIVA VS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966511041|ref|WP_058527632.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella erythra] &gt;gi|962209471|gb|KTC94378.1| succinyl CoA synthetase beta chain [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527632</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>681.789</Hsp_bit-score>
+      <Hsp_score>1758</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>325</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFARYGLPVPNGQVAYSVDEAVKAAEQLSTPKWVVKAQVHAGGRGKAGGVKLVSSKDEVAAVAQSLLGTRLVTYQTDAKGQPVNAVLVEETCDIGRELYLGAVVDRSSRRVVFMASTEGGVEIEKVAHETPEKIFKVIMDPLVGIMPFQCREIGFKLGLNDEQIKQFTQLMMGLGKMFVECDLSLLEINPLVVTKGGQILCLDGKINIDGNALYRQPELKNMRDKSQEDERENRATDWELNYIPLEGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDENVKGILVNIFGGIVRCDLIAEGILAAVKEVGVKIPVVVRLEGNNAELGADILNKSGLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFA Y LPVP G+VAY+V++A+  A QLST +WVVKAQVHAGGRGKAGGVKLVSSKDE+AAVA+S+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDRS+RRVV MASTEGGVEIEKVAHETPEKIFKV++DPLVG+MPFQCRE  FKLGL D+QIKQFT LMMGLGKMFVECDLSLLEINPLV+TK GQ++CLDGKINIDGNAL+RQP+LKNMRD SQED+RENRA+DWELNYIPL+G+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GILAAVKEV VKIPVVVRLEGNNA+LGA+ILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966400234|ref|WP_058443829.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella feeleii] &gt;gi|962218279|gb|KTD02998.1| succinyl CoA synthetase beta chain [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443829</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>679.093</Hsp_bit-score>
+      <Hsp_score>1751</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>363</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPTPRGQVAYNVEDALQVASQLTTPRWVVKAQVHAGGRGKAGGVKLVSTKDELAAVAKSLLGTRLVTYQTDAKGQPVNAVLVEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPYQCREVGFKLGLNDEQIKQFTHLMLALGKMFVECDLSLLEINPLVVTKTGQLLCLDGKINIDGNALYRQPKLKSMRDTTQEDERENRATDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDENVKGILVNIFGGIVRCDLIAEGIIAAVKEVDVKVPVVVRLEGNNAKLGAEILNKSDLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LP PRG+VAYNVEDAL VASQL+T RWVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKS+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMP+QCRE  FKLGL D+QIKQFTHLM+ LGKMFVECDLSLLEINPLV+TK+GQL+CLDGKINIDGNAL+RQPKLK+MRD +QED+RENRA+DWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GI+AAVKEVDVK+PVVVRLEGNNA+LGAEILNKS+LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966418904|ref|WP_058462127.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella adelaidensis] &gt;gi|962181209|gb|KTC66457.1| succinyl CoA synthetase beta chain [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058462127</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>674.855</Hsp_bit-score>
+      <Hsp_score>1740</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>497</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>385</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>325</Hsp_identity>
+      <Hsp_positive>357</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>385</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAV</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKELFASYGLPVPRGEVAYSADDAVQVAAKLSTPRWVVKAQVHAGGRGKAGGVKLVSTKEELIQYTKSILGTRLVTYQTDATGQPVNAVLVEETSDIDRELYLGAVVDRASRRVVIMASTEGGVEIEKVAEETPEKIFKVVVDPLVGVMPYQCREVGFKLGLTEDQIKQFTQLMIKLGKMFVECDLSLLEVNPLVVDKAGKLICLDGKINIDSNALFRQPKLKAMRDTTQENERENRAHEWDLNYIPLDGVIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDENVKGILVNIFGGIVRCDLIAEGILAAVKEESVQVPVVVRLEGNNAELGAEILNKSDLNVIGATDLTDAAKKIVAAV</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAK+LFASY LPVPRGEVAY+ +DA+ VA++LST RWVVKAQVHAGGRGKAGGVKLVS+K+EL    KS+LGTRLVTYQTDA GQPVNA+LVEET +ID+ELYLGAVVDR++RRVVIMASTEGGVEIEKVA ETPEKIFKVVVDPLVGVMP+QCRE  FKLGL +DQIKQFT LM+ LGKMFVECDLSLLE+NPLV+ K+G+LICLDGKINID NALFRQPKLK MRD +QE++RENRA +W+LNYIPLDG IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GILAAVKE  V++PVVVRLEGNNA+LGAEILNKS+LNVI AT LTDAAKKIVAAV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|654937967|ref|WP_028388215.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388215</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>673.315</Hsp_bit-score>
+      <Hsp_score>1736</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>332</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPRGEVAHSVEDALQAASQLSTTKWVVKAQVHAGGRGKAGGVKLVSTKDELAAVAKSLLGTRLVTYQTDAKGQPVNVVLVEETCDIDRELYLGAVVDRASRRVVIMASTEGGVEIEKVAHETPEKIFKVTVDPLVGVMPYQCREVGFKLGLNEQQVKQFTHLMLALGKMFVECDLSLLEINPLVVTKSGQLLCLDGKVNIDGNALYRQPKLKGMRDTTQEDERENRATDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDEQVKGILVNIFGGIVRCDLIAEGILAAVKEVDVKVPVVVRLEGNNARLGAEILNKSGLNVIAADSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVPRGEVA++VEDAL  ASQLST++WVVKAQVHAGGRGKAGGVKLVS+KDELAAVAKS+LGTRLVTYQTDA+GQPVN +LVEETC+ID+ELYLGAVVDR++RRVVIMASTEGGVEIEKVAHETPEKIFKV VDPLVGVMP+QCRE  FKLGL + Q+KQFTHLM+ LGKMFVECDLSLLEINPLV+TKSGQL+CLDGK+NIDGNAL+RQPKLK MRD +QED+RENRA+DWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE+VKGILVNIFGGIVRCDLIA+GILAAVKEVDVK+PVVVRLEGNNA+LGAEILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966399255|ref|WP_058442888.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella brunensis] &gt;gi|962191742|gb|KTC76818.1| succinyl CoA synthetase beta chain [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442888</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>671.774</Hsp_bit-score>
+      <Hsp_score>1732</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>333</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPNGQVAYSVEDALQVASQLATPKWVIKAQVHAGGRGKAGGVKLVSNKDELATVAKSLLGTRLVTYQTDAKGQPVNAVLVEETCDIGRELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVAVDPLVGVMPFQCREVGFKLGLTDEQIKQFTQLMIALGKMFVECDLSLLEINPLVVTKSGQLLCLDGKINVDGNALYRQPKLKSMRDASQEDERENRATDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDKNVKGILVNIFGGIVRCDLIADGIIAAVKEVDVKVPVVVRLEGNNAQLGADILNKSDLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVP G+VAY+VEDAL VASQL+T +WV+KAQVHAGGRGKAGGVKLVS+KDELA VAKS+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKV VDPLVGVMPFQCRE  FKLGL D+QIKQFT LM+ LGKMFVECDLSLLEINPLV+TKSGQL+CLDGKIN+DGNAL+RQPKLK+MRD SQED+RENRA+DWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SD+ VKGILVNIFGGIVRCDLIADGI+AAVKEVDVK+PVVVRLEGNNAQLGA+ILNKS+LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|762036582|ref|WP_043872520.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella massiliensis] &gt;gi|683289262|emb|CEE11623.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella massiliensis] &gt;gi|685071632|emb|CDZ75885.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872520</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>668.692</Hsp_bit-score>
+      <Hsp_score>1724</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>333</Hsp_identity>
+      <Hsp_positive>359</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPNGQVAQSVEDALQVASQLSTSKWVVKAQVHAGGRGKAGGVKLVSSKDELASVAKSLLGTRLVTYQTDAKGQPVNTLLIEETCDIGRELYLGAVVDRSSRRVVIMASTEGGVEIEKVAHETPEKIFKIEVDPLVGVMPYQCRDTGFKLDLTDDQIKQFTHLMMALGKMFVECDLSLLEINPLVVTKAGNLICLDGKINIDGNALYRQPKLKMMRDTSQEDERENRATDWELNYIPLDGSIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDESVKGILVNIFGGIVRCDLIADGIIAAVKEVDVKVPVVVRLEGNNAKLGADILNKSDLNVIAADSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVP G+VA +VEDAL VASQLSTS+WVVKAQVHAGGRGKAGGVKLVSSKDELA+VAKS+LGTRLVTYQTDA+GQPVN +L+EETC+I +ELYLGAVVDRS+RRVVIMASTEGGVEIEKVAHETPEKIFK+ VDPLVGVMP+QCR+T FKL L DDQIKQFTHLMM LGKMFVECDLSLLEINPLV+TK+G LICLDGKINIDGNAL+RQPKLK MRD SQED+RENRA+DWELNYIPLDG+IGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIADGI+AAVKEVDVK+PVVVRLEGNNA+LGA+ILNKS+LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1085380412|gb|OGV51079.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionellales bacterium RIFCSPHIGHO2_12_FULL_42_9]</Hit_def>
+  <Hit_accession>OGV51079</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.381</Hsp_bit-score>
+      <Hsp_score>1718</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>498</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>319</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>386</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTDAAKKIVAAVS</Hsp_qseq>
+      <Hsp_hseq>MNIHEYQAKELFASYTLPVPHGQIAYHVDDALQVASGLSTPKWVVKAQVHAGGRGKAGGVKIVSTKEELVTVVQALLGTRLVTYQTDATGQPVNAVLIEETCDIARELYLGAVVDRASRRVVFMASTKGGVEIEKVAHETPHKICKVIVDPMVGVMPYQCRELAFKLDLTFEQIKQFTHLMTGLGKLFVECDLSLLEINPLVVTKQGNLICLDGKVNIDDNALYRQPKLKEMRDSSQEDERVNRAMDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDENVKGILVNIFGGIVRCDLIAEGIIAAVKEVGVTIPVVVRLEGNNAELGAEILNQSSLNVIAATGLTDAARKIVAAVA</Hsp_hseq>
+      <Hsp_midline>MN+HEYQAK+LFASY LPVP G++AY+V+DAL VAS LST +WVVKAQVHAGGRGKAGGVK+VS+K+EL  V +++LGTRLVTYQTDA GQPVNA+L+EETC+I +ELYLGAVVDR++RRVV MAST+GGVEIEKVAHETP KI KV+VDP+VGVMP+QCRE AFKL L  +QIKQFTHLM GLGK+FVECDLSLLEINPLV+TK G LICLDGK+NID NAL+RQPKLK MRD SQED+R NRA DWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDE VKGILVNIFGGIVRCDLIA+GI+AAVKEV V IPVVVRLEGNNA+LGAEILN+S+LNVIAAT LTDAA+KIVAAV+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966408497|ref|WP_058451889.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella maceachernii] &gt;gi|962243728|gb|KTD28045.1| succinyl CoA synthetase beta chain [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451889</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>665.226</Hsp_bit-score>
+      <Hsp_score>1715</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>323</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKELFASYGLPIPRGQVAQNVEDALQVASQLNTSRWVVKAQVHAGGRGKAGGVKLVSTKDELATTVKSLLGTRLVTYQTDAKGQPINAVLIEETCDIGRELYLGAVVDRSSRRVVIMASTEGGVEIEKVAHETPEKIFQVVVDPLVGVMPYQCREVGFKLDLSEDQVKQFTHLMMALGKMFVECDLSLLEINPLVVTKKGQLLCLDGKVNIDGNALYRQSKLKVLRDTSQEDERENRATDWELNYIPLDGSIGCLVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVTEAFKIILSDEKVRGILVNIFGGIVRCDLIADGILAAVREVDVTVPVVVRLEGNNAKLGADILNKSGLNVIAADSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAK+LFASY LP+PRG+VA NVEDAL VASQL+TSRWVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA+GQP+NA+L+EETC+I +ELYLGAVVDRS+RRVVIMASTEGGVEIEKVAHETPEKIF+VVVDPLVGVMP+QCRE  FKL L +DQ+KQFTHLMM LGKMFVECDLSLLEINPLV+TK GQL+CLDGK+NIDGNAL+RQ KLK +RD SQED+RENRA+DWELNYIPLDG+IGC+VNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERV+EA KII+SDEKV+GILVNIFGGIVRCDLIADGILAAV+EVDV +PVVVRLEGNNA+LGA+ILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966406138|ref|WP_058449544.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella jamestowniensis] &gt;gi|962222771|gb|KTD07421.1| succinyl CoA synthetase beta chain [Legionella jamestowniensis] &gt;gi|1045920877|gb|OCH97810.1| succinate--CoA ligase subunit beta [Legionella jamestowniensis] &gt;gi|1097327775|emb|SFL93171.1| succinyl-CoA synthetase (ADP-forming) beta subunit [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449544</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>663.685</Hsp_bit-score>
+      <Hsp_score>1711</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>328</Hsp_identity>
+      <Hsp_positive>358</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPNGQVAYSVEDALQVATQLSTPRWVVKAQVHAGGRGKAGGVKLVSTKDELATVTKSLLGTRLVTYQTDAKGQPVNAVLVEETCDIARELYLGAVVDRATRRVVIMASTEGGVEIEKVAHETPEKIFKVIVDPLVGVMPFQCREVGFKLGLTDEQVKQFTQLMIALGKMFVECDLSLLEINPLVVTKNDRLLCLDGKVNVDGNALYRQPKLKGMRDATQEDERENRATDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDKNVKGILVNIFGGIVRCDLIAEGIIAAVKEVDVKVPVVVRLEGNNAQLGAEILNKSDLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVP G+VAY+VEDAL VA+QLST RWVVKAQVHAGGRGKAGGVKLVS+KDELA V KS+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDR+TRRVVIMASTEGGVEIEKVAHETPEKIFKV+VDPLVGVMPFQCRE  FKLGL D+Q+KQFT LM+ LGKMFVECDLSLLEINPLV+TK+ +L+CLDGK+N+DGNAL+RQPKLK MRD +QED+RENRA+DWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SD+ VKGILVNIFGGIVRCDLIA+GI+AAVKEVDVK+PVVVRLEGNNAQLGAEILNKS+LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|769991157|ref|WP_045107029.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella hackeliae] &gt;gi|731153345|emb|CEK11930.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Legionella hackeliae] &gt;gi|962227894|gb|KTD12516.1| succinyl CoA synthetase beta chain [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107029</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>662.144</Hsp_bit-score>
+      <Hsp_score>1707</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>328</Hsp_identity>
+      <Hsp_positive>359</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKQLFASYGLPVPNGQVAYSVEDALQVAAQLATPRWVVKAQVHAGGRGKAGGVKLVSTKEELASVTKSLLGTRLVTYQTDAKGQPVNAVLVEETCDIARELYLGAVVDRASRRVVIMASTEGGVEIEKVAHETPEKIFKVIVDPLVGVMPFQCRDVGFKLGLTDEQIKQFTQLMMALGKMFVECDLSLLEINPLVVTKSERLLCLDGKINVDGNALYRQPKLKAMRDATQEDERENRATDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDKNVKGILVNIFGGIVRCDLIADGIIAAVKEVDVKVPVVVRLEGNNAQLGADILNKSDLNVIAANSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAKQLFASY LPVP G+VAY+VEDAL VA+QL+T RWVVKAQVHAGGRGKAGGVKLVS+K+ELA+V KS+LGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDR++RRVVIMASTEGGVEIEKVAHETPEKIFKV+VDPLVGVMPFQCR+  FKLGL D+QIKQFT LMM LGKMFVECDLSLLEINPLV+TKS +L+CLDGKIN+DGNAL+RQPKLK MRD +QED+RENRA+DWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SD+ VKGILVNIFGGIVRCDLIADGI+AAVKEVDVK+PVVVRLEGNNAQLGA+ILNKS+LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966464467|ref|WP_058495828.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Legionella drozanskii] &gt;gi|962202954|gb|KTC87923.1| succinyl CoA synthetase beta chain [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495828</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>661.374</Hsp_bit-score>
+      <Hsp_score>1705</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>322</Hsp_identity>
+      <Hsp_positive>352</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKELFASYGLPTPNGQVAQNIEDALQVASQLSTTKWVVKAQVHAGGRGKAGGVKIVSDKDELANAVKSMLGTRLVTYQTDAKGQPVNAVLVEETCDIGRELYLGAVVDRASRRVVIMASTEGGVEIEKVAHETPEKIFKAIVDPLVGIMPYQCREMAFNLDLNDDQMKQFTHLMMALGKMFVECDLSLLEINPLVVTKKGQLLCLDGKVNIDSNALYRQPKLKMLRDTSQEDERENRATDWELNYIPLDGSIGCLVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEAFKIILSDEKVKGILVNIFGGIVRCDLIAEGILAAVREVDVIVPVVVRLEGNNAKLGAEILNKSGLNVIAADSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAK+LFASY LP P G+VA N+EDAL VASQLST++WVVKAQVHAGGRGKAGGVK+VS KDELA   KSMLGTRLVTYQTDA+GQPVNA+LVEETC+I +ELYLGAVVDR++RRVVIMASTEGGVEIEKVAHETPEKIFK +VDPLVG+MP+QCRE AF L L DDQ+KQFTHLMM LGKMFVECDLSLLEINPLV+TK GQL+CLDGK+NID NAL+RQPKLK +RD SQED+RENRA+DWELNYIPLDG+IGC+VNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEA KII+SDEKVKGILVNIFGGIVRCDLIA+GILAAV+EVDV +PVVVRLEGNNA+LGAEILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|769982220|ref|WP_045098202.1|</Hit_id>
+  <Hit_def>succinate--CoA ligase subunit beta [Tatlockia micdadei] &gt;gi|698845668|emb|CEG59646.1| Succinyl-CoA ligase [ADP-forming] subunit beta [Tatlockia micdadei] &gt;gi|962245167|gb|KTD29471.1| succinyl CoA synthetase beta chain [Tatlockia micdadei] &gt;gi|1081465857|emb|SCX96374.1| succinyl-CoA synthetase (ADP-forming) beta subunit [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098202</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>660.603</Hsp_bit-score>
+      <Hsp_score>1703</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>320</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>376</Hsp_align-len>
+      <Hsp_qseq>MNLHEYQAKQLFASYDLPVPRGEVAYNVEDALLVASQLSTSRWVVKAQVHAGGRGKAGGVKLVSSKDELAAVAKSMLGTRLVTYQTDARGQPVNAILVEETCEIDKELYLGAVVDRSTRRVVIMASTEGGVEIEKVAHETPEKIFKVVVDPLVGVMPFQCRETAFKLGLKDDQIKQFTHLMMGLGKMFVECDLSLLEINPLVITKSGQLICLDGKINIDGNALFRQPKLKNMRDVSQEDDRENRASDWELNYIPLDGTIGCMVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVSEALKIIVSDEKVKGILVNIFGGIVRCDLIADGILAAVKEVDVKIPVVVRLEGNNAQLGAEILNKSNLNVIAATSLTD</Hsp_qseq>
+      <Hsp_hseq>MNLHEYQAKELFASYGMPIPRGQVAQSVEDALQVASQLNTSKWVVKAQVHAGGRGKAGGVKLVSTKDELANTVKSLLGTRLVTYQTDAKGQPINEVLIEETCDIGRELYLGAVVDRSSRRVVIMASTEGGVEIEKVAHETPEKIFQVVVDPLVGVMPYQCREVGFKLDLSEDQIKQFTHLMMALGKMFVECDLSLLEINPLVVTKKGQLLCLDGKVNIDGNALYRQPKLKVLRDTTQEDERENRATDWELNYIPLDGSIGCLVNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERVTEAFKIILSDEKVRGILVNIFGGIVRCDLIADGILAAVREVDVTVPVVVRLEGNNAKLGADILNKSGLNVIAADSLTD</Hsp_hseq>
+      <Hsp_midline>MNLHEYQAK+LFASY +P+PRG+VA +VEDAL VASQL+TS+WVVKAQVHAGGRGKAGGVKLVS+KDELA   KS+LGTRLVTYQTDA+GQP+N +L+EETC+I +ELYLGAVVDRS+RRVVIMASTEGGVEIEKVAHETPEKIF+VVVDPLVGVMP+QCRE  FKL L +DQIKQFTHLMM LGKMFVECDLSLLEINPLV+TK GQL+CLDGK+NIDGNAL+RQPKLK +RD +QED+RENRA+DWELNYIPLDG+IGC+VNGAGLAMATMDVIKLHGGEPANFLDVGGGATKERV+EA KII+SDEKV+GILVNIFGGIVRCDLIADGILAAV+EVDV +PVVVRLEGNNA+LGA+ILNKS LNVIAA SLTD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

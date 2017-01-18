@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_169903</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>172</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_169903</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>172</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248674|ref|WP_010946214.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|52840710|ref|YP_094509.1| hypothetical protein lpg0465 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627821|gb|AAU26562.1| hypothetical protein lpg0465 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507222|gb|AEW50746.1| hypothetical protein lp12_0468 [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946214</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.54</Hsp_bit-score>
+      <Hsp_score>410</Hsp_score>
+      <Hsp_evalue>2.67993e-49</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>172</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_qseq>
+      <Hsp_hseq>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_hseq>
+      <Hsp_midline>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379882|ref|WP_072356016.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356016</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.458</Hsp_bit-score>
+      <Hsp_score>402</Hsp_score>
+      <Hsp_evalue>5.43571e-48</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>172</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_qseq>
+      <Hsp_hseq>MGITQGDICYKRFRHKLFLAQEINKNIIILKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_hseq>
+      <Hsp_midline>MGITQGDICYKRFRHKLFLAQEINKNII LKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119426354|ref|WP_072401654.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401654</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>156.762</Hsp_bit-score>
+      <Hsp_score>395</Hsp_score>
+      <Hsp_evalue>5.41082e-47</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>172</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_qseq>
+      <Hsp_hseq>MGITQGDICYKRFRHKLFLAQEINKNIIILKLVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_hseq>
+      <Hsp_midline>MGITQGDICYKRFRHKLFLAQEINKNII LK VHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|295647916|gb|ADG23763.1|</Hit_id>
+  <Hit_def>3-dehydroquinate dehydratase II [Legionella pneumophila 2300/99 Alcoy]</Hit_def>
+  <Hit_accession>ADG23763</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.999</Hsp_bit-score>
+      <Hsp_score>406</Hsp_score>
+      <Hsp_evalue>1.02908e-46</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>172</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MGITQGDICYKRFRHKLFLAQEINKNIINLKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_qseq>
+      <Hsp_hseq>MGITQGDICYKRFRHKLFLAQEINKNIIILKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_hseq>
+      <Hsp_midline>MGITQGDICYKRFRHKLFLAQEINKNII LKSVHSLSTIHCFLLNIKFLAKLAEILPISSQIYRHVHKVQAKSANLRLY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1108893591|ref|XP_019139061.1|</Hit_id>
+  <Hit_def>PREDICTED: IgGFc-binding protein-like [Corvus cornix cornix]</Hit_def>
+  <Hit_accession>XP_019139061</Hit_accession>
+  <Hit_len>1398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>6.99823</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>733</Hsp_hit-from>
+      <Hsp_hit-to>825</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>USAAUNKJANDEFINITIONACCESSIONVERSION---------------------KEYWORD--SSOURCEORGANISMFEATURESLOCA</Hsp_qseq>
+      <Hsp_hseq>CAAACPATCVDPMAPVTCSLPCVEGCVCDSGYLLYNDRCVPSQQCGCWHNGQHYPVGSEFWTDDTCSSKCTCPARGSKVQCFNASCPEGLYCG</Hsp_hseq>
+      <Hsp_midline>++AA+     D    +T    C E  + +    + N                      E+W  D  SS + C  RG+ +  F A++ E L C </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

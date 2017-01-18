@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_67505</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>695</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_67505</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>695</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248675|ref|WP_010946215.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|52840711|ref|YP_094510.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627822|gb|AAU26563.1| oxaloacetate decarboxylase alpha subunit [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507223|gb|AEW50747.1| oxaloacetate decarboxylase alpha subunit [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946215</Hit_accession>
+  <Hit_len>602</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1251.88</Hsp_bit-score>
+      <Hsp_score>3238</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>602</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>602</Hsp_identity>
+      <Hsp_positive>602</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>602</Hsp_align-len>
+      <Hsp_qseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379884|ref|WP_072356018.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356018</Hit_accession>
+  <Hit_len>602</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1240.71</Hsp_bit-score>
+      <Hsp_score>3209</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>602</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>597</Hsp_identity>
+      <Hsp_positive>599</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>602</Hsp_align-len>
+      <Hsp_qseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPCVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQTVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIP VRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQ VLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119426356|ref|WP_072401656.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401656</Hit_accession>
+  <Hit_len>602</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1239.17</Hsp_bit-score>
+      <Hsp_score>3205</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>602</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>596</Hsp_identity>
+      <Hsp_positive>598</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>602</Hsp_align-len>
+      <Hsp_qseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSQKKHAQGAICYTTSPVHTLDNFLELGEKLAEMGCDSIAIKDMAGLLTPAVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSQEELMSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKS KKHAQGAICYTTSPVHTLDNFLELG+KLAEMGCDSIAIKDMAGLLTP VTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|505257722|ref|WP_015444824.1|</Hit_id>
+  <Hit_def>3-dehydroquinate dehydratase II [Legionella pneumophila] &gt;gi|469493003|gb|AGH54848.1| 3-dehydroquinate dehydratase II [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081131|gb|AGN13379.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771687|emb|CZI67124.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998774547|emb|CZH01108.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998777523|emb|CZG99149.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998783607|emb|CZH33439.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998786295|emb|CZG99704.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998795713|emb|CZI42473.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998798548|emb|CZL71646.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998804419|emb|CZK48131.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998808960|emb|CZH73835.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998810787|emb|CZI20266.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998814802|emb|CZG50865.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998816683|emb|CZM05442.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998819675|emb|CZL98798.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998825621|emb|CZK41504.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998831313|emb|CZI84281.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998834527|emb|CZL39847.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998838634|emb|CZJ27834.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998840576|emb|CZL86924.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998843426|emb|CZK84762.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998846432|emb|CZL03399.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998850746|emb|CZI23524.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998852668|emb|CZL84773.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998855846|emb|CZL49897.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998858676|emb|CZM19836.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998862251|emb|CZK38985.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998864699|emb|CZJ84798.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998867150|emb|CZJ80898.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998870419|emb|CZM39063.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998873683|emb|CZK74523.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998876391|emb|CZM36966.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998879396|emb|CZJ77495.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998885848|emb|CZM38404.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998888814|emb|CZK46348.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998894455|emb|CZK51238.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998905366|emb|CZK83489.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998908773|emb|CZL57556.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998914375|emb|CZL38955.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998917777|emb|CZL54224.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998920686|emb|CZL59684.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998927930|emb|CZL74797.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998929851|emb|CZL07897.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998932808|emb|CZM05310.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998939380|emb|CZK98954.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998945001|emb|CZL45545.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998948092|emb|CZL21952.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998957130|emb|CZM63082.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998960404|emb|CZK66130.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998963264|emb|CZK71560.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998966096|emb|CZM81632.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998969441|emb|CZK95888.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998972564|emb|CZK78993.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998978564|emb|CZL93955.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998984486|emb|CZK71902.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998987673|emb|CZL78944.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998996810|emb|CZK33093.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999006484|emb|CZL25570.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999011992|emb|CZL77978.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999017204|emb|CZL83823.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999021535|emb|CZL71163.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999024314|emb|CZL06194.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999036297|emb|CZL78056.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999045504|emb|CZM18561.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999060464|emb|CZL65861.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999066550|emb|CZJ44604.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999075714|emb|CZH07743.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999078745|emb|CZK35209.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999081831|emb|CZL26420.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999087962|emb|CZL17739.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999091177|emb|CZL75201.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999094354|emb|CZH33660.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999097312|emb|CZH41688.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999100185|emb|CZM12146.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999109472|emb|CZL50783.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999112476|emb|CZM01930.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999115884|emb|CZK71532.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999124985|emb|CZL20401.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999130786|emb|CZM17514.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999134275|emb|CZL37892.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999138431|emb|CZK10399.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999140825|emb|CZL83313.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999143448|emb|CZL42832.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999146437|emb|CZM01381.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999155879|emb|CZI31488.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999174593|emb|CZL50456.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999189946|emb|CZI66906.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999193180|emb|CZJ08487.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999200016|emb|CZG75109.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999202490|emb|CZJ08174.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999208663|emb|CZL31923.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999218419|emb|CZL88281.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999221058|emb|CZI97205.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999333848|emb|CZL15507.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1002074456|emb|CZR04718.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1002077358|emb|CZR11118.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1003018327|emb|CZR30274.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1003021400|emb|CZR26597.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1003024562|emb|CZR30463.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073863638|gb|AOU03589.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073866596|gb|AOU06546.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073869601|gb|AOU09550.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073872545|gb|AOU12493.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073875527|gb|AOU15474.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073878488|gb|AOU18434.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073881483|gb|AOU21428.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073884445|gb|AOU24389.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073887443|gb|AOU27386.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073890428|gb|AOU30370.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073893393|gb|AOU33334.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073896357|gb|AOU36297.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073899321|gb|AOU39260.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073902272|gb|AOU42210.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073905183|gb|AOU45120.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073908201|gb|AOU48136.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073911256|gb|AOU51188.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073914175|gb|AOU54106.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073917133|gb|AOU57063.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073920099|gb|AOU60028.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073923074|gb|AOU63001.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073926086|gb|AOU66012.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073929066|gb|AOU68975.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073932451|gb|AOU72010.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073935398|gb|AOU82397.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073945673|gb|AOU85397.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1073948636|gb|AOU88359.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1104001783|emb|SFZ36147.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1129967251|gb|APT97610.1| pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444824</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1238.79</Hsp_bit-score>
+      <Hsp_score>3204</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>596</Hsp_identity>
+      <Hsp_positive>596</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1011929118|ref|WP_062739324.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062739324</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1237.25</Hsp_bit-score>
+      <Hsp_score>3200</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>595</Hsp_identity>
+      <Hsp_positive>595</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLTSICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGL SICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652967256|ref|WP_027220228.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999247940|emb|CZH58751.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999453513|emb|CZI52633.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999459976|emb|CZH29410.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999773186|emb|CZH91779.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220228</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1233.39</Hsp_bit-score>
+      <Hsp_score>3190</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>593</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEIKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDE+KAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1006038751|ref|WP_061721648.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999796174|emb|CZI26354.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061721648</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1232.62</Hsp_bit-score>
+      <Hsp_score>3188</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>694</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>592</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>595</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEIKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDE+KAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499526464|ref|WP_011213104.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase [Legionella pneumophila] &gt;gi|53750285|emb|CAH11679.1| oxaloacetate decarboxylase alpha-chain [Legionella pneumophila str. Paris] &gt;gi|536613588|gb|ERB41960.1| pyruvate carboxylase [Legionella pneumophila str. 121004] &gt;gi|541995553|gb|ERH41652.1| pyruvate carboxylase [Legionella pneumophila str. Leg01/11] &gt;gi|541996598|gb|ERH42671.1| pyruvate carboxylase [Legionella pneumophila str. Leg01/53] &gt;gi|542120016|gb|ERI46406.1| pyruvate carboxylase [Legionella pneumophila str. Leg01/20] &gt;gi|762002487|dbj|GAN25605.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998923913|emb|CZK21488.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998942312|emb|CZK18755.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998955166|emb|CZK14923.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998975741|emb|CZJ85466.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998991223|emb|CZK23065.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999009335|emb|CZK25012.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999018475|emb|CZJ81078.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999027484|emb|CZK13161.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999031316|emb|CZG91438.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999033484|emb|CZK10762.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999039966|emb|CZJ81072.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999042733|emb|CZJ89809.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999049506|emb|CZJ62515.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999051934|emb|CZJ82349.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999054932|emb|CZK16391.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999063925|emb|CZJ88099.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999070509|emb|CZJ62873.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999073021|emb|CZK15391.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999085282|emb|CZK11801.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999171914|emb|CZI31578.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999181703|emb|CZG53426.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999187871|emb|CZI96717.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999212787|emb|CZG80940.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999216855|emb|CZI63725.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999225267|emb|CZG80529.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999324800|emb|CZH23507.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999328687|emb|CZG67190.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999340356|emb|CZH21226.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999360033|emb|CZI63848.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999373395|emb|CZG55200.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999376429|emb|CZJ16822.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999379814|emb|CZH70942.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999382709|emb|CZI60199.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999386222|emb|CZG62302.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999389159|emb|CZI58920.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999396843|emb|CZG06417.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999405859|emb|CZG68922.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999408954|emb|CZH93906.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999412802|emb|CZG34699.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999415371|emb|CZG85720.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999418711|emb|CZG62527.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999421906|emb|CZH71697.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999425220|emb|CZG73131.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999428426|emb|CZG75252.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999431584|emb|CZG71012.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999434942|emb|CZH97766.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999438126|emb|CZG60554.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999441122|emb|CZK26840.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|999444685|emb|CZH79469.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999447888|emb|CZG55240.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999457629|emb|CZK24289.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999496314|emb|CZI48928.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999525299|emb|CZJ05303.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999528012|emb|CZI72139.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999576087|emb|CZI43976.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999611343|emb|CZI65098.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1003031270|emb|CZR31765.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1041017606|gb|ANN94666.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213104</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1232.24</Hsp_bit-score>
+      <Hsp_score>3187</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>592</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQTVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQ VLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1002315583|ref|WP_061363815.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999206258|emb|CZP65115.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999235266|emb|CZP60530.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999240224|emb|CZH88662.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999244431|emb|CZH79061.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999256043|emb|CZP81618.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999259051|emb|CZP45133.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1005832238|gb|AMQ26964.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_061363815</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1231.85</Hsp_bit-score>
+      <Hsp_score>3186</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQTVLVIEAMKMETEIKAPANGVIAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQ VLVIEAMKMETEIKAPANGV+AEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|500490075|ref|WP_011945635.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase [Legionella pneumophila] &gt;gi|1490322|emb|CAA67994.1| oxaloacetate decarboxylase alpha-chain [Legionella pneumophila str. Corby] &gt;gi|148282691|gb|ABQ56779.1| oxaloacetate decarboxylase alpha subunit [Legionella pneumophila str. Corby] &gt;gi|295647917|gb|ADG23764.1| oxaloacetate decarboxylase, alpha subunit [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989503|dbj|GAN22566.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|761999086|dbj|GAN28916.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999003198|emb|CZI83651.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999159264|emb|CZJ67181.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999178271|emb|CZJ54248.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999293612|emb|CZI45612.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999302830|emb|CZI37168.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999312699|emb|CZI55336.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1002092731|emb|CZQ95004.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945635</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1231.85</Hsp_bit-score>
+      <Hsp_score>3186</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>592</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGENYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGE+YHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|749504916|ref|WP_040145873.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998801890|emb|CZI10474.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999149919|emb|CZI46766.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999165630|emb|CZG81243.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999168567|emb|CZI43502.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145873</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1231.47</Hsp_bit-score>
+      <Hsp_score>3185</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGENYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSINNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGE+YHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSS+NNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|754875896|ref|WP_042236327.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998793185|emb|CZI53564.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236327</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1231.08</Hsp_bit-score>
+      <Hsp_score>3184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>595</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMMEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGEEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGM+EHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS G+EVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1080123426|ref|WP_070322149.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1080008150|gb|AOW58138.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012188|gb|AOW61679.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018432|gb|AOW67077.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322149</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1230.7</Hsp_bit-score>
+      <Hsp_score>3183</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>592</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPAVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTP VTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|499533431|ref|WP_011214715.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase [Legionella pneumophila] &gt;gi|53753290|emb|CAH14737.1| oxaloacetate decarboxylase alpha-chain [Legionella pneumophila str. Lens] &gt;gi|1080002256|gb|AOW52828.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila] &gt;gi|1080005991|gb|AOW56271.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014755|gb|AOW63628.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214715</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1229.93</Hsp_bit-score>
+      <Hsp_score>3181</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPAVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQIVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTP VTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQ+VGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1011910629|ref|WP_062725314.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062725314</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1229.16</Hsp_bit-score>
+      <Hsp_score>3179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>592</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALGKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNAL KMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1003927064|ref|WP_061469830.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998912107|emb|CZH21719.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998994526|emb|CZI20158.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469830</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1229.16</Hsp_bit-score>
+      <Hsp_score>3179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLAVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGENYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGL VHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGE+YHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|504653931|ref|WP_014841033.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase [Legionella pneumophila] &gt;gi|395126450|emb|CCD04633.1| oxaloacetate decarboxylase alpha-chain [Legionella pneumophila subsp. pneumophila] &gt;gi|999184391|emb|CZP96860.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999198524|emb|CZP16172.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999228360|emb|CZP11039.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999249090|emb|CZG90829.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999252439|emb|CZH14021.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999261607|emb|CZH33433.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999265277|emb|CZP08899.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999269489|emb|CZO34991.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999272291|emb|CZP60360.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999274147|emb|CZH26640.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999277673|emb|CZP39481.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999281296|emb|CZP13686.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999283736|emb|CZP63333.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999291053|emb|CZP34086.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999296420|emb|CZP56622.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999299507|emb|CZP45072.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999307371|emb|CZH72571.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999309435|emb|CZP29395.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999315757|emb|CZI07877.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999318743|emb|CZP66606.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999322085|emb|CZI00652.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999337822|emb|CZP49062.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999344387|emb|CZP82930.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999347274|emb|CZP64846.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999350270|emb|CZH11774.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999353408|emb|CZP66804.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999357166|emb|CZP66556.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999363746|emb|CZP54745.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999367182|emb|CZP78725.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999369875|emb|CZP76204.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999392371|emb|CZP98958.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999398619|emb|CZQ01605.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999403056|emb|CZP38689.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999450688|emb|CZP37534.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999464787|emb|CZM49828.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999467811|emb|CZO27286.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999469580|emb|CZH01063.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999474764|emb|CZM64303.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999477221|emb|CZN77169.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999480723|emb|CZN02612.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999484186|emb|CZN86864.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999487155|emb|CZM13379.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999490328|emb|CZN81545.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999493519|emb|CZM12878.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999500099|emb|CZN75421.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999503225|emb|CZO10583.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999506307|emb|CZN13886.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999509510|emb|CZG48963.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999512848|emb|CZN28361.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999516064|emb|CZM02223.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999518939|emb|CZM82524.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999521931|emb|CZP18713.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999532295|emb|CZO43856.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999535451|emb|CZN38442.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999538532|emb|CZM73433.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999541976|emb|CZO19068.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999544938|emb|CZO59262.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999548218|emb|CZN90941.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999551530|emb|CZO13426.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999554565|emb|CZN33375.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999557860|emb|CZO54087.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999561131|emb|CZM44362.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999564137|emb|CZO69190.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999567501|emb|CZM54526.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999570701|emb|CZN52355.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999573889|emb|CZN95082.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999580381|emb|CZO18840.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999583669|emb|CZO40144.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999587032|emb|CZM67189.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999589933|emb|CZM38652.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999593092|emb|CZN43612.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999596165|emb|CZO09935.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999599485|emb|CZO35627.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999602689|emb|CZL99300.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999605477|emb|CZN74996.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999609014|emb|CZN64814.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999615626|emb|CZM49892.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999618605|emb|CZN88347.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999621825|emb|CZO83977.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999625153|emb|CZN73286.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999628348|emb|CZM61151.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999631602|emb|CZM60964.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999634662|emb|CZN61499.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999637990|emb|CZN53719.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999641186|emb|CZO81720.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999644178|emb|CZO55389.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999647669|emb|CZN96677.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999650645|emb|CZO03690.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999653970|emb|CZO02418.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999657167|emb|CZM31634.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999660241|emb|CZM66629.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999663328|emb|CZN15434.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999666693|emb|CZM35759.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999669885|emb|CZL82703.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999673151|emb|CZM39307.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999676279|emb|CZN75784.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999679376|emb|CZM81496.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999682571|emb|CZM83783.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999686258|emb|CZO02228.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999689074|emb|CZN29171.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999692267|emb|CZN97315.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999695484|emb|CZN27177.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999698849|emb|CZM13819.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999701793|emb|CZM80787.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999705028|emb|CZL96921.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999708114|emb|CZN55572.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999711533|emb|CZM98943.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999714629|emb|CZN19448.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999718041|emb|CZO47814.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999720997|emb|CZM95696.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999724516|emb|CZN36291.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999727779|emb|CZL97686.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999731038|emb|CZO44980.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999734122|emb|CZM24339.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999737538|emb|CZO72418.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999741019|emb|CZM33097.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999744043|emb|CZN25391.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999747185|emb|CZM23543.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999750583|emb|CZL98450.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999753779|emb|CZM82778.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999756830|emb|CZN12521.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999760331|emb|CZM26435.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999763324|emb|CZN28669.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999766850|emb|CZM46162.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999769699|emb|CZN48686.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999776163|emb|CZL98436.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999778033|emb|CZH31172.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999782949|emb|CZH63664.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999786362|emb|CZM22554.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999789527|emb|CZO64953.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999792872|emb|CZO59119.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999799757|emb|CZO53528.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1003029246|emb|CZR19329.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1003036429|emb|CZR17342.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1015431600|gb|AMV13227.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1041014508|gb|ANN91569.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila] &gt;gi|1103995534|emb|SFZ36450.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1103998664|emb|SFZ36172.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841033</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1228.39</Hsp_bit-score>
+      <Hsp_score>3177</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPCVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQTVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIP VRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQ VLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1006028651|ref|WP_061720608.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999287260|emb|CZI48362.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061720608</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1228</Hsp_bit-score>
+      <Hsp_score>3176</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGENYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIEGSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGE+YHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIE SSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|653012684|ref|WP_027264787.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264787</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1228</Hsp_bit-score>
+      <Hsp_score>3176</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>591</Hsp_identity>
+      <Hsp_positive>592</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDSRVQLYQVPGGMISNLYNQLREQNALDKMDTVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNID RVQLYQVPGGMISNLYNQLREQNALDKMD VHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1006048457|ref|WP_061722474.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999331756|emb|CZG55862.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061722474</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1226.46</Hsp_bit-score>
+      <Hsp_score>3172</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>590</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPCVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHEKIERSSVNNKIGPGDITVAIPGSIIAIHVSAGDEVKAGQTVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIP VRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELH+KIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQ VLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|742353088|ref|WP_038837459.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998782959|emb|CZI83573.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998828265|emb|CZH35906.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998883057|emb|CZI86823.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998897650|emb|CZK06179.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998937977|emb|CZL84467.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|998951016|emb|CZJ93152.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999000036|emb|CZG92674.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999058500|emb|CZM31838.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999103758|emb|CZI21462.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999128448|emb|CZH13632.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999152572|emb|CZM80288.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999161947|emb|CZM41123.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999236761|emb|CZG95633.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1002085604|emb|CZQ97817.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1002088246|emb|CZQ79005.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1104005350|emb|SFZ36080.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837459</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1226.46</Hsp_bit-score>
+      <Hsp_score>3172</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>590</Hsp_identity>
+      <Hsp_positive>592</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSQKKHAQGAICYTTSPVHTLDNFLELGEKLAEMGCDSIAIKDMAGLLTPAVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKS KKHAQGAICYTTSPVHTLDNFLELG+KLAEMGCDSIAIKDMAGLLTP VTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1005609998|ref|WP_061692492.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998822423|emb|CZH33115.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692492</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1225.69</Hsp_bit-score>
+      <Hsp_score>3170</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>590</Hsp_identity>
+      <Hsp_positive>591</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWLRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLSGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDSRVQLYQVPGGMISNLYNQLREQNALDKMDTVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSSGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPW RLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVL+GCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNID RVQLYQVPGGMISNLYNQLREQNALDKMD VHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVS GDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|652971364|ref|WP_027224223.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|761992690|dbj|GAN16478.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|761995880|dbj|GAN19584.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999107514|emb|CZI62331.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999231743|emb|CZI42872.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1032656647|gb|ANH11918.1| pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|1032659615|gb|ANH14885.1| pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|1032662582|gb|ANH17851.1| pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224223</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1224.92</Hsp_bit-score>
+      <Hsp_score>3168</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>588</Hsp_identity>
+      <Hsp_positive>594</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNNIDTAISSFSGGSSHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMMEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSYVNNKIGPGDITVAIPGSIIAIHVSAGEEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCN+IDTAISSFSGG+SHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGM+EHGQQSCFLWVDGVPEEVVVQHSELHDKIERS VNNKIGPGDITVAIPGSIIAIHVS G+EVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1006055728|ref|WP_061723088.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|998982426|emb|CZI66342.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061723088</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1222.61</Hsp_bit-score>
+      <Hsp_score>3162</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>587</Hsp_identity>
+      <Hsp_positive>593</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQVLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNNIDTAISSFSGGSSHPPTEALVAALTDTPYDTELDLNILLEIDGYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMMEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSYVNNKIGPGDITVAIPGSIIAIHVSAGEEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ+LPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCN+IDTAISSFSGG+SHPPTEALVAALTDTPYDTELDLNILLEID YFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGM+EHGQQSCFLWVDGVPEEVVVQHSELHDKIERS VNNKIGPGDITVAIPGSIIAIHVS G+EVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|652976208|ref|WP_027228881.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|985765988|gb|KXB27099.1| pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|985767701|gb|KXB28787.1| pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|999119309|emb|CZG77920.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|999122483|emb|CZH10577.1| 2-oxoglutarate carboxylase large subunit [Legionella pneumophila] &gt;gi|1024341632|gb|KZX35939.1| pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|1108603947|gb|APF02315.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. fraseri] &gt;gi|1108606958|gb|APF05325.1| oxaloacetate decarboxylase subunit alpha [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228881</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1173.3</Hsp_bit-score>
+      <Hsp_score>3034</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>560</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDEVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVQAFVKLAVNNGVDVFRVFDALNDARNLKVAIDVIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAAMGCDSIAIKDMAGLLTPAVTVKLYTGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTNTKFDTELDLNILLEIDDYFKSVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQSALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISPTLRKKAIGRTEVIEVRPADLLPNELEQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLAQSSEPDNSAMSEFDIILHGESYHVKVAGYGMAEHGHQSCFLWVDGVPEEVVVQRSELHDKVEHYSVNNKIGPGDITVAIPGSIIAVHVSAGDEVKAGQVVLVIEAMKMETEIKAPVNGVVTEVLCQKGDKVTPEQVLIRMAVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMD+VGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVV+AFVKLAVNNGVDVFRVFDALNDARNLKVAID IKSHKKHAQGAICYTTSPVHTLDNFLELGKKLA MGCDSIAIKDMAGLLTP VTV+LY GLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALT+T +DTELDLNILLEIDDYFK+VRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQ+ALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKIS  LRKKAIGRTEVIEVRP DLLPNEL+QLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLL QSS PDNS MSEFDIILHGESYHVKVAGYGM EHG QSCFLWVDGVPEEVVVQ SELHDK+E  SVNNKIGPGDITVAIPGSIIA+HVS GDEVKAGQ VLVIEAMKMETEIKAP NGVV E+LCQKGDKVTP QVLIR+ VS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|652970646|ref|WP_027223538.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila] &gt;gi|1005362746|gb|AMP88615.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pascullei] &gt;gi|1005365747|gb|AMP91524.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pascullei] &gt;gi|1005368735|gb|AMP94511.1| pyruvate carboxylase subunit B [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223538</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1170.61</Hsp_bit-score>
+      <Hsp_score>3027</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>559</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDEVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVQAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAAMGCDSIAIKDMAGLLTPEVTVKLYTGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTNTKFDTELDLNILLEIDDYFKSVRKKYSQFESEAQNIDPRIQLYQVPGGMISNLYNQLKEQSALGKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPSGKISPTLRKKAIGRTEVIEVRPADLLPNELEQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLAQSSEPDNSAMSEFDIILHGESYHVKVAGYGMAEHGHQSCFLWVDGVPEEVVVQRSELHDKIEHSSVNNKIGPGDITVAIPGSIIAVHVSAGDEVKAGQVMLVIEAMKMETEIKAPVNGVVTEVLCQKGDKVTPEQALIRMEVS</Hsp_hseq>
+      <Hsp_midline>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMD+VGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVV+AFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLA MGCDSIAIKDMAGLLTP VTV+LY GLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALT+T +DTELDLNILLEIDDYFK+VRKKYSQFESEAQNIDPR+QLYQVPGGMISNLYNQL+EQ+AL KMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTP GKIS  LRKKAIGRTEVIEVRP DLLPNEL+QLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLL QSS PDNS MSEFDIILHGESYHVKVAGYGM EHG QSCFLWVDGVPEEVVVQ SELHDKIE SSVNNKIGPGDITVAIPGSIIA+HVS GDEVKAGQ +LVIEAMKMETEIKAP NGVV E+LCQKGDKVTP Q LIR+EVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1011913455|ref|WP_062726669.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726669</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1170.22</Hsp_bit-score>
+      <Hsp_score>3026</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>559</Hsp_identity>
+      <Hsp_positive>572</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MPKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDEVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQALPNTQLSMLLRGQNLLGYRNYADDVVQAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHTQGAICYTTSPVHTLDNFLELGKKLAAMGCDSIAIKDMAGLLTPAVTVKLYTGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTNTKFDTELDLNILLEIDDYFKSVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLKEQSALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPSGKISPTLRKKAIGRTEVIEVRPADLLPNELEQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLAQSSEPDNSAMSEFDIILHGESYHVKVAGYGMAEHGHQSCFLWVDGVPEQVVVQRSELHDKIEHYSVNNKIGPGDITVAIPGSIIAVHVSAGDEVKAGQVVLVIEAMKMETEIKAPVNGVVTEVLCQKGDKVTPEQVLIRMEVS</Hsp_hseq>
+      <Hsp_midline>M KTFITDVTLRDAHQCLIATRMRTEDMLPICNKMD+VGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQ LPNTQLSMLLRGQNLLGYRNYADDVV+AFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKH QGAICYTTSPVHTLDNFLELGKKLA MGCDSIAIKDMAGLLTP VTV+LY GLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALT+T +DTELDLNILLEIDDYFK+VRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQL+EQ+ALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTP GKIS  LRKKAIGRTEVIEVRP DLLPNEL+QLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLL QSS PDNS MSEFDIILHGESYHVKVAGYGM EHG QSCFLWVDGVPE+VVVQ SELHDKIE  SVNNKIGPGDITVAIPGSIIA+HVS GDEVKAGQ VLVIEAMKMETEIKAP NGVV E+LCQKGDKVTP QVLIR+EVS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|737925576|ref|WP_035890763.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella norrlandica] &gt;gi|701445233|gb|KGP62629.1| pyruvate carboxylase subunit B [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890763</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1065.06</Hsp_bit-score>
+      <Hsp_score>2753</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>695</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>513</Hsp_identity>
+      <Hsp_positive>552</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEVS</Hsp_qseq>
+      <Hsp_hseq>MAKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDSVGFWAMEVWGGATFDACLRYLKEDPWLRLRQIRQALPNTQLSMLLRGQNLLGYRHYADDVVQTFIKLAANNGIDIFRVFDALNDPRNLKVAIDAVKIHKKHIQGAICYTTSPVHTLDNFLELGKKLAELGCDSIAIKDMAGLLTPAATVELYTGLKQVTGLPIHLHSHSTSGLANICHYEAVLSGCNHLDTAISSFSGGASHPSTEALVAALTGTQYDTELNLNLLLEIDDYFKIVRKKYSQFESEARDIDPRVQLYQVPGGMISNLYSQLKEQNALDKMAAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTAPGKISSTLRKKAIGRTEVIEVRPADLLPNELNQLRNEIGDLALSDEDVLTYAMFPEVGCQFLEQRKNNQLIPEPLLTQASPQNNSAMSEFDIILHGENYHVKVAGFGTAEHGHQSCFLWVDGVPEEVVVQRAEPTETIQKSVISKR-SPGDITVSIPGSVIAIHVQVGDEVKAGQVVLVIEAMKMETELQTPINGVVSEILCQKGDKVTPEQVLIRVNAS</Hsp_hseq>
+      <Hsp_midline>M+KTFITDVTLRDAHQCLIATRMRTEDMLPICNKMD VGFWAMEVWGGATFDACLR+LKEDPW RLRQ+RQ LPNTQLSMLLRGQNLLGYR+YADDVV+ F+KLA NNG+D+FRVFDALND RNLKVAIDA+K HKKH QGAICYTTSPVHTLDNFLELGKKLAE+GCDSIAIKDMAGLLTP  TVELY GLKQ TGLP+HLHSHSTSGLA+ICHYEAVL+GCNH+DTAISSFSGGASHP TEALVAALT T YDTEL+LN+LLEIDDYFK VRKKYSQFESEA++IDPRVQLYQVPGGMISNLY+QL+EQNALDKM AVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGT PGKISS LRKKAIGRTEVIEVRP DLLPNEL+QL+NEI DLALSDEDVL YAMFPE+G QFLEQRKNNQLIPEPLLTQ+S  +NS MSEFDIILHGE+YHVKVAG+G  EHG QSCFLWVDGVPEEVVVQ +E  + I++S ++ +  PGDITV+IPGS+IAIHV VGDEVKAGQ VLVIEAMKMETE++ P NGVV+EILCQKGDKVTP QVLIRV  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|517403983|ref|WP_018576798.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella shakespearei] &gt;gi|962283758|gb|KTD67530.1| oxaloacetate decarboxylase subunit alpha [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576798</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1028.47</Hsp_bit-score>
+      <Hsp_score>2658</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>484</Hsp_identity>
+      <Hsp_positive>534</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>593</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MAKTNITDVTLRDAHQCLIATRMRTEDMLPACKQMDEVGFWAMEVWGGATFDSCLRFLKEDPWSRLRLLRHALPNTQLSMLLRGQNLLGYRHYADDVVKAFVTLAANNGVDVFRIFDALNDPRNLKVAIEAVKAHKKHAQGTICYTTSPVHTLQNFLDLGTSLAEMGCDSIAIKDMAGLLTPTATVELFQGLSDTTGLPIHLHSHATSGLASVCHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALAGTVYDTGLDLNLLLEIDDYFKMVRKKYAQFESEARDTDPRVQLYQVPGGMISNLYNQLKEQNALDKIDDVHMEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGAAPGKISPSLRKKAIGRTDAIDVRPADLLPHELKQLRKEIDGLALNDEDVLIYAMFPEIGRQFLEQRNNDSLVPEPLLTPSAVADNSALSEFDITLHGENYNIKVAGFGTAEHGQQSCFLWVDGVPEEVVVYRSEGEEHQSLTSVKHRSEPGDVTVAIPGTIIAIHVQVGDKVKKGQAILVLEAMKMETEIQAPVDGVVSEILCQKGDKVTPDQVLIKM</Hsp_hseq>
+      <Hsp_midline>M+KT ITDVTLRDAHQCLIATRMRTEDMLP C +MD+VGFWAMEVWGGATFD+CLRFLKEDPWSRLR LR  LPNTQLSMLLRGQNLLGYR+YADDVV+AFV LA NNGVDVFR+FDALND RNLKVAI+A+K+HKKHAQG ICYTTSPVHTL NFL+LG  LAEMGCDSIAIKDMAGLLTPT TVEL+ GL   TGLP+HLHSH+TSGLAS+CHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAAL  T YDT LDLN+LLEIDDYFK VRKKY+QFESEA++ DPRVQLYQVPGGMISNLYNQL+EQNALDK+D VH EIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIGRT+ I+VRP DLLP+EL QL+ EI  LAL+DEDVL+YAMFPEIGRQFLEQR N+ L+PEPLLT S+  DNS +SEFDI LHGE+Y++KVAG+G  EHGQQSCFLWVDGVPEEVVV  SE  +    +SV ++  PGD+TVAIPG+IIAIHV VGD+VK GQA+LV+EAMKMETEI+AP +GVV+EILCQKGDKVTP QVLI++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966440807|ref|WP_058481130.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella waltersii] &gt;gi|962291863|gb|KTD75561.1| oxaloacetate decarboxylase subunit alpha [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481130</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1001.12</Hsp_bit-score>
+      <Hsp_score>2587</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>472</Hsp_identity>
+      <Hsp_positive>529</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MAKTNLTDVTLRDAHQCLLATRLRTEDMVPICHKMDAVGFWAMEVWGGATFDACLRFLKEDPWGRLRQLRQALPNTQLSMLLRGQNLLGYRHYADDVVKEFIQLAVKNGVDVFRIFDALNDVRNIKVAIETVKAYKKHAQGTICYTTSPVHTMDNFLDLGLKLAELGCDSIAIKDMAGLLTPEVTVELYSRLASKTKLPIHLHSHSTSGLASICHYEAILAGCQHVDTAISSFSGGASHPPSEPLVAALAGTKYDTELNLSLLLEIDDYFKKVRKKYDQYESEAKEIDPRVQHYQVPGGMISNLYSQLKEQNALDKLDEVHKEIPIVRKDLGYPPLVTPTSQVVGSQAVINVLTGERYKTITNEVKLYCQGRYGAPPGKISSSLRKKAIGHTEVIDVRPADLLPNELSQLKKEIGTLALSEEDVLVYAMFPEVGRQFLEQRKQNQLIPEPLLTQEHSQSSHASSEFDISLHGEMYHVKVTGFGASEHNQQSCYLWVDGVPEEVVVHWADV-EKNADFVVSHKIGPGDITVAIPGSIVAIHVAVGESVKKGQVVLVLEAMKMETEILAPVDGVVHAILCSKGDKVTPEQVLIKLE</Hsp_hseq>
+      <Hsp_midline>M+KT +TDVTLRDAHQCL+ATR+RTEDM+PIC+KMD VGFWAMEVWGGATFDACLRFLKEDPW RLRQLRQ LPNTQLSMLLRGQNLLGYR+YADDVV+ F++LAV NGVDVFR+FDALND RN+KVAI+ +K++KKHAQG ICYTTSPVHT+DNFL+LG KLAE+GCDSIAIKDMAGLLTP VTVELY+ L   T LP+HLHSHSTSGLASICHYEA+LAGC H+DTAISSFSGGASHPP+E LVAAL  T YDTEL+L++LLEIDDYFK VRKKY Q+ESEA+ IDPRVQ YQVPGGMISNLY+QL+EQNALDK+D VHKEIP VRKDLGYPPLVTPTSQVVG+QAVINVLTGERYKTITNEVKLYCQG+YG PPGKISS+LRKKAIG TEVI+VRP DLLPNEL QL+ EI  LALS+EDVL+YAMFPE+GRQFLEQRK NQLIPEPLLTQ  +  +   SEFDI LHGE YHVKV G+G  EH QQSC+LWVDGVPEEVVV  +++ +K     V++KIGPGDITVAIPGSI+AIHV+VG+ VK GQ VLV+EAMKMETEI AP +GVV  ILC KGDKVTP QVLI++E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966431979|ref|WP_058472412.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella quateirensis] &gt;gi|962271437|gb|KTD55439.1| oxaloacetate decarboxylase subunit alpha [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472412</Hit_accession>
+  <Hit_len>593</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>994.956</Hsp_bit-score>
+      <Hsp_score>2571</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>478</Hsp_identity>
+      <Hsp_positive>530</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MVKTYITDVTLRDAHQCLIATRMRTEDMLPVCSKMDQVGYWAMEVWGGATFDSCLRFLKEDPWVRLRLLRQALPNTQLSMLLRGQNLLGYRHYADDVVKAFIKSAAHNGVDVFRIFDALNDPRNLKVAIDEVKLHKKHAQGTICYTTSPVHTLDNFLDLGKSLAEMGCDSIAIKDMAGLLTPFATVELFRGLSEATHLPVHLHSHATSGLATTCHYEAVLAGCQHIDTAISSFSGGASHPPTEALVAAFAGTDYDTGLDLGLLLEIDDYFKKVRKKYAQFESEARDIDPRVQLYQVPGGMISNLYSQLKEQNALDKIDAVHLEIPKVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGMAPGKISSALCKKAIGNTDVIDVRPADLLPNELDQLRKEVDELALCDEDVLIYAMFPEIGRQFLEQRNNDKLVPELLLPESGSTDKKALSEFDIAFHGESYHVKVAGFGTAEQGQQSCFLWVDGVPEEVVVQRAELED-IANPSVKSRLGPGDITVAIPGTIIAVHVRAGDQVKRGQPVLVLEAMKMETEIQATRDGVILDVFCQKGDKVTPDQVLIRMK</Hsp_hseq>
+      <Hsp_midline>M KT+ITDVTLRDAHQCLIATRMRTEDMLP+C+KMD VG+WAMEVWGGATFD+CLRFLKEDPW RLR LRQ LPNTQLSMLLRGQNLLGYR+YADDVV+AF+K A +NGVDVFR+FDALND RNLKVAID +K HKKHAQG ICYTTSPVHTLDNFL+LGK LAEMGCDSIAIKDMAGLLTP  TVEL+ GL +AT LPVHLHSH+TSGLA+ CHYEAVLAGC HIDTAISSFSGGASHPPTEALVAA   T YDT LDL +LLEIDDYFK VRKKY+QFESEA++IDPRVQLYQVPGGMISNLY+QL+EQNALDK+DAVH EIP+VRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYG  PGKISSAL KKAIG T+VI+VRP DLLPNELDQL+ E+ +LAL DEDVL+YAMFPEIGRQFLEQR N++L+PE LL +S + D   +SEFDI  HGESYHVKVAG+G  E GQQSCFLWVDGVPEEVVVQ +EL D I   SV +++GPGDITVAIPG+IIA+HV  GD+VK GQ VLV+EAMKMETEI+A  +GV+ ++ CQKGDKVTP QVLIR++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|654933316|ref|WP_028383670.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella moravica] &gt;gi|962248452|gb|KTD32676.1| oxaloacetate decarboxylase subunit alpha [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383670</Hit_accession>
+  <Hit_len>593</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>993.03</Hsp_bit-score>
+      <Hsp_score>2566</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>466</Hsp_identity>
+      <Hsp_positive>524</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MVRTYITDVTLRDAHQCLIATRMRTEDMLPVCRKMDQVGYWAMEVWGGATFDSCLRFLKEDPWARLRLLRNALPNTQLSMLLRGQNLLGYRHYADDVVKAFIQSAAHNGVDVFRIFDALNDPRNLRVAIDEVKLLKKHAQGTICYTTSPVHTLKNFVDLGRSLAEMGCDSIAIKDMAGLLTPSATVELFNALSETTHLPVHLHSHATSGLATTCHYEAVVAGCHHIDTAISSFSGGASHPPTEALVAAFAGTEYDTGLDLNLLLEIDDYFKKVRKKYAQFESEARDTDPRVQLYQVPGGMISNLYSQLKEQNALDKIDAVHMEIPKVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGMAPGKISPALRKKAIGNTDVIDVRPADLLPDEIVQLRKEIAELALSDEDVLIYAMFPEIGRQFLEQRKNNVLVPEPLLPESGSKDKKALSEFDIAFHGESYHVKVAGFGTAEQGQQSCFLWVDGVPEEVVVQRAEFED-IATPSAKTRLGPNDITVAIPGTIVAVHVSAGDLVKRGQPVLVIEAMKMETEIQATRDGEILEVLCHKGDKVTPEQVLIKMK</Hsp_hseq>
+      <Hsp_midline>M +T+ITDVTLRDAHQCLIATRMRTEDMLP+C KMD VG+WAMEVWGGATFD+CLRFLKEDPW+RLR LR  LPNTQLSMLLRGQNLLGYR+YADDVV+AF++ A +NGVDVFR+FDALND RNL+VAID +K  KKHAQG ICYTTSPVHTL NF++LG+ LAEMGCDSIAIKDMAGLLTP+ TVEL+  L + T LPVHLHSH+TSGLA+ CHYEAV+AGC+HIDTAISSFSGGASHPPTEALVAA   T YDT LDLN+LLEIDDYFK VRKKY+QFESEA++ DPRVQLYQVPGGMISNLY+QL+EQNALDK+DAVH EIP+VRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYG  PGKIS ALRKKAIG T+VI+VRP DLLP+E+ QL+ EI++LALSDEDVL+YAMFPEIGRQFLEQRKNN L+PEPLL +S + D   +SEFDI  HGESYHVKVAG+G  E GQQSCFLWVDGVPEEVVVQ +E  D I   S   ++GP DITVAIPG+I+A+HVS GD VK GQ VLVIEAMKMETEI+A  +G + E+LC KGDKVTP QVLI+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|769980438|ref|WP_045096423.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella fallonii] &gt;gi|698844056|emb|CEG58025.1| Pyruvate carboxylase subunit B [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096423</Hit_accession>
+  <Hit_len>604</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>989.178</Hsp_bit-score>
+      <Hsp_score>2556</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>694</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>465</Hsp_identity>
+      <Hsp_positive>531</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>595</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_qseq>
+      <Hsp_hseq>MVKTLITDVTLRDAHQCLIATRLRTEDMLPICKKMDEVGFWAMEVWGGATFDACLRFLKEDPWERLRLLRRALPNTRLSMLLRGQNLLGYRHYADDVVKEFIKLAANNGVDVFRIFDALNDSRNLRVAIEAVKAEKKHAQGAICYTTSPVHTLEGFVNLGKELADMGCDSLAIKDMAGLLTPSITTELYKGLSQATGLPIHLHSHATSGLANVCHYEAVLAGCYHLDTAISSFSGGASHPPTEALVAALAGSEFDTELDLNLLLEIDDYFKVVRKKYSQFESEASAIDPRVQLYQVPGGMISNLYSQLKEQNALDKIDAVHQEIPRVREDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGAPPGKISPKLRKKAIGRTDVIEVRPADLLSNEFKQLKKEIEALALSEEDVLIYAMFPEIGRQFLEQRQNDSLVPEPLLPQSGTAEHHSLSEYDITLHGEHYHVKVAGFGTPQHGRQTCFLWVDGVPEEVVIHGSEFEEQNKAVARAKNNEPGDVSVSIPGTIMAIHVAVGERVKKGQALFAIEAMKMETEVQASEDGVVTEICCQKGDKVTPGQVLIRLNL</Hsp_hseq>
+      <Hsp_midline>M KT ITDVTLRDAHQCLIATR+RTEDMLPIC KMD+VGFWAMEVWGGATFDACLRFLKEDPW RLR LR+ LPNT+LSMLLRGQNLLGYR+YADDVV+ F+KLA NNGVDVFR+FDALND+RNL+VAI+A+K+ KKHAQGAICYTTSPVHTL+ F+ LGK+LA+MGCDS+AIKDMAGLLTP++T ELY GL QATGLP+HLHSH+TSGLA++CHYEAVLAGC H+DTAISSFSGGASHPPTEALVAAL  + +DTELDLN+LLEIDDYFK VRKKYSQFESEA  IDPRVQLYQVPGGMISNLY+QL+EQNALDK+DAVH+EIPRVR+DLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYG PPGKIS  LRKKAIGRT+VIEVRP DLL NE  QL+ EI  LALS+EDVL+YAMFPEIGRQFLEQR+N+ L+PEPLL QS   ++  +SE+DI LHGE YHVKVAG+G  +HG+Q+CFLWVDGVPEEVV+  SE  ++ +  +      PGD++V+IPG+I+AIHV+VG+ VK GQA+  IEAMKMETE++A  +GVV EI CQKGDKVTPGQVLIR+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966398504|ref|WP_058442402.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella brunensis] &gt;gi|962193059|gb|KTC78126.1| oxaloacetate decarboxylase subunit alpha [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442402</Hit_accession>
+  <Hit_len>597</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>968.378</Hsp_bit-score>
+      <Hsp_score>2502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>453</Hsp_identity>
+      <Hsp_positive>518</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>593</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MATTHITDVTLRDAHQCLIATRMRTEDMLPACPKMDEVGFWAMEVWGGATFDACLRFLKEDPWVRLRQLRKALPNTRLSMLLRGQNLLGYRHYADDVVRSFVKLAANNGIDVFRVFDALNDVRNLRVAFEAVKANKKHAQGAICYTTSPVHTLENFVELGKALADMGCDSIAIKDMAGLLTPTATVTLYEALAEATKLPIHLHSHSTSGLASVCHYQAVLAGCNHVDTAISSFSGGASHPATEPLVAALAGTEFDTGLDLNLLLDIGEYFKKVRKKYHQFESEAHDIDPRVQVYQVPGGMISNLYSQLKEQQALDKINAVHTEIPCVRHDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKISPSLRKKAIGHTEVIDVRPADLIPNELERLRKEIGELADNDEDILSYAMFPEIGKQFLEQRKNNALLPEPLVNKTTAAQGSTLSEFDITLHGENYHVKVAGYGEREGSQQACFLWVDGVPEEVIINLEEFDEVPTTSGKKRTSGPGDITVAMPGTIVNLNVEVGQQVTTGQALLVLEAMKMETEIQAPFNGMVAGIFCQKGDKVTPAQVLMHL</Hsp_hseq>
+      <Hsp_midline>M+ T ITDVTLRDAHQCLIATRMRTEDMLP C KMD+VGFWAMEVWGGATFDACLRFLKEDPW RLRQLR+ LPNT+LSMLLRGQNLLGYR+YADDVVR+FVKLA NNG+DVFRVFDALND RNL+VA +A+K++KKHAQGAICYTTSPVHTL+NF+ELGK LA+MGCDSIAIKDMAGLLTPT TV LY  L +AT LP+HLHSHSTSGLAS+CHY+AVLAGCNH+DTAISSFSGGASHP TE LVAAL  T +DT LDLN+LL+I +YFK VRKKY QFESEA +IDPRVQ+YQVPGGMISNLY+QL+EQ ALDK++AVH EIP VR DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIG TEVI+VRP DL+PNEL++L+ EI +LA +DED+L YAMFPEIG+QFLEQRKNN L+PEPL+ +++A   S +SEFDI LHGE+YHVKVAGYG  E  QQ+CFLWVDGVPEEV++   E  +    S      GPGDITVA+PG+I+ ++V VG +V  GQA+LV+EAMKMETEI+AP NG+VA I CQKGDKVTP QVL+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966472003|ref|WP_058502918.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella israelensis] &gt;gi|962229826|gb|KTD14423.1| oxaloacetate decarboxylase subunit alpha [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502918</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>959.518</Hsp_bit-score>
+      <Hsp_score>2479</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>694</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>517</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>595</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_qseq>
+      <Hsp_hseq>MTKTYITDVTLRDAHQCLIATRMRTEDMLPICKKMDAVGFWAMEVWGGATFDACLRYLKEDPWVRLRQLRKALPNTRLSMLLRGQNLLGYRHYADDVVRAFIHLAAKNGIDVFRVFDALNDVRNLQVSIEAVKKNKCHAQGTICYTISPVHTTERFVELGKALKDLGCDSIAIKDMAGLLTPKVAVDLFKALSKATQLPIHLHSHSTSGLASTCLYEAALAGCQHIDTAISSFSGGASHPATEALVAALADTAYDTELDLNLLMEIGDYFKEVRKKYQQFESEAQYIDSRVQVYQVPGGMISNLYNQLKEQQALDKIDAVHDEIPRVRKDLGYPPLVTPTSQVVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKISPSLRKKAIGRTEVIDVRPADLLSNELNKLRKDIADLAESDEDVLTYAMFPEIGHQFLEQRKNNTLVPEPLLTRAAVDERSKLSEFDISVHGENYHIQIAGFGERAPGQRACFLWVDGVPEEVIVEHGAVENEPESKQKPKPNQAGDITVAMPGTIVSVDVKTGDKIKKGQGLLVLEAMKMETEIQAPSAGKIKEVLCEKGDKVTPEQVLIRMDL</Hsp_hseq>
+      <Hsp_midline>M+KT+ITDVTLRDAHQCLIATRMRTEDMLPIC KMD VGFWAMEVWGGATFDACLR+LKEDPW RLRQLR+ LPNT+LSMLLRGQNLLGYR+YADDVVRAF+ LA  NG+DVFRVFDALND RNL+V+I+A+K +K HAQG ICYT SPVHT + F+ELGK L ++GCDSIAIKDMAGLLTP V V+L+  L +AT LP+HLHSHSTSGLAS C YEA LAGC HIDTAISSFSGGASHP TEALVAAL DT YDTELDLN+L+EI DYFK VRKKY QFESEAQ ID RVQ+YQVPGGMISNLYNQL+EQ ALDK+DAVH EIPRVRKDLGYPPLVTPTSQVVGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIGRTEVI+VRP DLL NEL++L+ +I+DLA SDEDVL YAMFPEIG QFLEQRKNN L+PEPLLT+++  + S +SEFDI +HGE+YH+++AG+G    GQ++CFLWVDGVPEEV+V+H  + ++ E          GDITVA+PG+I+++ V  GD++K GQ +LV+EAMKMETEI+AP+ G + E+LC+KGDKVTP QVLIR+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966472728|ref|WP_058503491.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella nautarum] &gt;gi|962254757|gb|KTD38919.1| oxaloacetate decarboxylase subunit alpha [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503491</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>948.347</Hsp_bit-score>
+      <Hsp_score>2450</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>594</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>438</Hsp_identity>
+      <Hsp_positive>515</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MTTTYITDVTLRDAHQCLIATRLRTEDMLPICQKMDQVGFWAMEVWGGATFDACLRFLKEDPWERLRKLRFALPNTQLSMLLRGQNLLGYRHYADDVVRAFIALAANNGVDVFRVFDALNDVRNLRTSIAAINRHKKHAQGAICYTTSPVHTLASFVDTGKALADLGCASLAIKDMAGLLTPSATVELYRALAKATKLPIHLHSHATSGLAAICHYQAVLAGCDHVDTAISSFSGGASHPATEPLVAALIGSEFDTGIDLNLLLEIGDYFHKVRQKYAQFETEARDIDPRVQLYQVPGGMISNLYSQLKEQQALDKLDAVHKEIPRVRKDLGYPPLVTPTSQLVGSQAVMNVLTGGRYTTITNEVKLYCEGKYGAAPGKINPSLRKKAIGHTEVIDVRPADLLPNELRRLRKEIAELATCDEDVLSYAMFPEVGKQFLEQRKNRSLIPEPLIPPSKQSQSDLSSEFEIGLHGESYRIKVAGYGPREQGQQACFLWVDGMPEEVVIHYEDSKEQPVATLAKQPSGPGDITVAMPGALVSVNVAVGDKVTEGQTLLVLEAMKMETEIQAPFNGTVAEVFCQKGDRVTPAQLLLRIE</Hsp_hseq>
+      <Hsp_midline>M+ T+ITDVTLRDAHQCLIATR+RTEDMLPIC KMD VGFWAMEVWGGATFDACLRFLKEDPW RLR+LR  LPNTQLSMLLRGQNLLGYR+YADDVVRAF+ LA NNGVDVFRVFDALND RNL+ +I AI  HKKHAQGAICYTTSPVHTL +F++ GK LA++GC S+AIKDMAGLLTP+ TVELY  L +AT LP+HLHSH+TSGLA+ICHY+AVLAGC+H+DTAISSFSGGASHP TE LVAAL  + +DT +DLN+LLEI DYF  VR+KY+QFE+EA++IDPRVQLYQVPGGMISNLY+QL+EQ ALDK+DAVHKEIPRVRKDLGYPPLVTPTSQ+VG+QAV+NVLTG RY TITNEVKLYC+GKYG  PGKI+ +LRKKAIG TEVI+VRP DLLPNEL +L+ EI++LA  DEDVL YAMFPE+G+QFLEQRKN  LIPEPL+  S    + + SEF+I LHGESY +KVAGYG  E GQQ+CFLWVDG+PEEVV+ + +  ++   +      GPGDITVA+PG++++++V+VGD+V  GQ +LV+EAMKMETEI+AP NG VAE+ CQKGD+VTP Q+L+R+E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966509882|ref|WP_058526473.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella erythra] &gt;gi|962213412|gb|KTC98281.1| oxaloacetate decarboxylase subunit alpha [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526473</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>947.192</Hsp_bit-score>
+      <Hsp_score>2447</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>591</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>513</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>593</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MATTHITDVTLRDAHQCLIATRLRTEDMLPVCKKMDEVGFWAMEVWGGATFDACLRFLKEDPWQRLRLLRKALPNTPLSMLLRGQNLLGYRHYADDVVSAFIGLAANNGIDVFRVFDALNDVRNLRVPIACVKMHKKHAQGAICYTTSPVHTLTSFVDMGKALADLGCDSLAIKDMAGLLTPQATVELFTALRKATDLPVHLHTHATSGLAAICHYQAVLAGCEHIDTAISSFSGGASHPAAEPLVAALAGTAFDTGLDLNLLLEIGDYFHDVRKKYQQFESEARDIDPRVQLYQVPGGMISNLYSQLKEQQALDRMADVHQEIPRVRKDLGYPPLVTPTSQIVGTQAVLNVLTGERYKTITNEVKLYCQGKYGAPPGKINAKLRKKAIGQTEVIDVRPADLIPNELARLRREIGDLALTEEDVLSFAMFPEIGRQFLKERQDNALTPERLLG-SDASQNNELSEFDIILHGENYHVKVAGYGTPARGQQSCFLWVDGVPEEVIIQHDDREEK-EPAAIKRAAAPGDIKVAMPGTIVSIQVAVGDKVKAGQALFVLEAMKMETEIQAPFAGTVAAVWCAKGDKVTPADTLMEL</Hsp_hseq>
+      <Hsp_midline>M+ T ITDVTLRDAHQCLIATR+RTEDMLP+C KMD+VGFWAMEVWGGATFDACLRFLKEDPW RLR LR+ LPNT LSMLLRGQNLLGYR+YADDVV AF+ LA NNG+DVFRVFDALND RNL+V I  +K HKKHAQGAICYTTSPVHTL +F+++GK LA++GCDS+AIKDMAGLLTP  TVEL+  L++AT LPVHLH+H+TSGLA+ICHY+AVLAGC HIDTAISSFSGGASHP  E LVAAL  T +DT LDLN+LLEI DYF  VRKKY QFESEA++IDPRVQLYQVPGGMISNLY+QL+EQ ALD+M  VH+EIPRVRKDLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG PPGKI++ LRKKAIG+TEVI+VRP DL+PNEL +L+ EI DLAL++EDVL +AMFPEIGRQFL++R++N L PE LL  S A  N+ +SEFDIILHGE+YHVKVAGYG    GQQSCFLWVDGVPEEV++QH +  +K E +++     PGDI VA+PG+I++I V+VGD+VKAGQA+ V+EAMKMETEI+AP  G VA + C KGDKVTP   L+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|769989207|ref|WP_045105158.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella hackeliae] &gt;gi|731151119|emb|CEK09665.1| Pyruvate carboxylase subunit B [Legionella hackeliae] &gt;gi|962225527|gb|KTD10171.1| oxaloacetate decarboxylase subunit alpha [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105158</Hit_accession>
+  <Hit_len>600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>946.806</Hsp_bit-score>
+      <Hsp_score>2446</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>597</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>451</Hsp_identity>
+      <Hsp_positive>515</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>597</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNK---IGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MPTVHITDVTLRDAHQCLIATRMRTEDMLPACPKMDKVGFWAMEVWGGATFDACLRFLKEDPWLRLRQLRKVLPNTRLSMLLRGQNLLGYRHYADDVVQAFVKLAANNGVDVFRVFDALNDVRNLRVALQAVKANKKHAQGTICYTTSPVHTLESFVDLGKALTEMGCDSIAIKDMAGLLTPSATVELYEALAQATQLPIHLHSHSTSGLASMCHYQAILAGCTHIDTAISSFSGGASHPATESLVAALTETEFDTGLDLNLLLDIGEYFKQVRKKYQQFESEARDIDPRVQVYQVPGGMISNLYSQLKEQQALDKIDAVQAEIPRVRHDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKISPGLRKKAIGHTEAIDVRPADLIPNELNRLRQEIGELAKSDEDVLSFAMFPEIGRQFLHERKHNTLQPEPLITEPNTTTNSNLSEFDITLHGENYHVKIAGYGERERGQQACFLWVDGVPEEVIITEEEEESEDAHAKTSNKKKTSSPGDITVAMPGSIVNLTVVVGQKVNAGQTLLVLEAMKMETEIQAPFGGTITEIFCQKGDKVTPAQVLLHLE</Hsp_hseq>
+      <Hsp_midline>M    ITDVTLRDAHQCLIATRMRTEDMLP C KMD VGFWAMEVWGGATFDACLRFLKEDPW RLRQLR++LPNT+LSMLLRGQNLLGYR+YADDVV+AFVKLA NNGVDVFRVFDALND RNL+VA+ A+K++KKHAQG ICYTTSPVHTL++F++LGK L EMGCDSIAIKDMAGLLTP+ TVELY  L QAT LP+HLHSHSTSGLAS+CHY+A+LAGC HIDTAISSFSGGASHP TE+LVAALT+T +DT LDLN+LL+I +YFK VRKKY QFESEA++IDPRVQ+YQVPGGMISNLY+QL+EQ ALDK+DAV  EIPRVR DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS  LRKKAIG TE I+VRP DL+PNEL++L+ EI +LA SDEDVL +AMFPEIGRQFL +RK+N L PEPL+T+ +   NS +SEFDI LHGE+YHVK+AGYG  E GQQ+CFLWVDGVPEEV++   E   +   +  +NK     PGDITVA+PGSI+ + V VG +V AGQ +LV+EAMKMETEI+AP  G + EI CQKGDKVTP QVL+ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1046230766|ref|WP_065621273.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella jamestowniensis] &gt;gi|1045920138|gb|OCH97105.1| oxaloacetate decarboxylase subunit alpha [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065621273</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>945.651</Hsp_bit-score>
+      <Hsp_score>2443</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>516</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVV-VQHSELHDKIER-SSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MSTVQITDVTLRDAHQCLIATRMRTEDMLPACPKMDKVGFWAMEVWGGATFDACLRFLKEDPWLRLRLLRKVLPNTRLSMLLRGQNLLGYRHYADDVVQTFVKLAAKNGVDVFRVFDALNDVRNLRVALEAVKANKKHAQGTICYTTSPVHTLESFVDLGKALAEMGCDSIAIKDMAGLLTPTATVTLYEALARATKLPIHLHSHATSGLASMCHYEAIIAGCTHVDTAISSFSGGASHPATESLVAALAGTKFDTGLDLNLLLDIGEYFKAVRKKYHQFEGEARDIDPRVQVYQVPGGMISNLYSQLKEQQALDKIDAVHAEIPRVRRDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKISPSLRKKAIGHTEAIDVRPADLIPHELKRLRQEIGELAESDEDVLSYAMFPEIGKQFLEQRKNNSLQPEPLLPEPAVNTNGNLSEFEITLHGESYHVKIAGYGEREQGQQACFLWVDGVPEEVIFLEQNETEAEIHSTTSVKKKTGPGDITVAMPGSIVNVMVEAGQTVKAKQTLLVLEAMKMETEIQAPFDGVVTAIFCEKGDKVTPAQVLLHME</Hsp_hseq>
+      <Hsp_midline>MS   ITDVTLRDAHQCLIATRMRTEDMLP C KMD VGFWAMEVWGGATFDACLRFLKEDPW RLR LR++LPNT+LSMLLRGQNLLGYR+YADDVV+ FVKLA  NGVDVFRVFDALND RNL+VA++A+K++KKHAQG ICYTTSPVHTL++F++LGK LAEMGCDSIAIKDMAGLLTPT TV LY  L +AT LP+HLHSH+TSGLAS+CHYEA++AGC H+DTAISSFSGGASHP TE+LVAAL  T +DT LDLN+LL+I +YFKAVRKKY QFE EA++IDPRVQ+YQVPGGMISNLY+QL+EQ ALDK+DAVH EIPRVR+DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIG TE I+VRP DL+P+EL +L+ EI +LA SDEDVL YAMFPEIG+QFLEQRKNN L PEPLL + +   N  +SEF+I LHGESYHVK+AGYG  E GQQ+CFLWVDGVPEEV+ ++ +E   +I   +SV  K GPGDITVA+PGSI+ + V  G  VKA Q +LV+EAMKMETEI+AP +GVV  I C+KGDKVTP QVL+ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966514427|ref|WP_058530946.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella rubrilucens] &gt;gi|962264432|gb|KTD48483.1| oxaloacetate decarboxylase subunit alpha [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530946</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>944.88</Hsp_bit-score>
+      <Hsp_score>2441</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>592</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>442</Hsp_identity>
+      <Hsp_positive>513</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MATTHITDVTLRDAHQCLIATRLRTEDMLPVCRKMDEVGFWAMEVWGGATFDACLRFLKEDPWQRLRLLRKALPNTRLSMLLRGQNLLGYRHYADDVVEAFIGLAANNGVDVFRVFDALNDVRNLRVPIACVKMHKKHAQGAICYTTSPVHTLANFVDMGMALADLGCDSLAIKDMAGLLTPDATVELFTALAEATGLPVHLHTHATSGLAAICHYQAVLAGCQHIDTAISSFSGGASHPAAEPLVAALAGTEFDTGLDLNLLLEIGDYFHDVRKKYQQFESEARDIDPRVQLYQVPGGMISNLYSQLKEQQALDKMAEVHQEIPRVRKDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKINPRVLKKAIGQTEIIDVRPADLIPNELGRLRREIGELALSEEDVLSFAMFPEIGRQFLKERQDNALTPEPLLS-ADASHNNELSEFDIILHGENYHVKVAGYGTPARGQQSCFLWVDGVPEEVIIQHDD-REKKEPAATKKTTGPGDIKVAMPGTIVSIQVAVGDKVKAGQALFVLEAMKMETEIQAPFAGTVAAVWCAKGDRVTPADTLMELQ</Hsp_hseq>
+      <Hsp_midline>M+ T ITDVTLRDAHQCLIATR+RTEDMLP+C KMD+VGFWAMEVWGGATFDACLRFLKEDPW RLR LR+ LPNT+LSMLLRGQNLLGYR+YADDVV AF+ LA NNGVDVFRVFDALND RNL+V I  +K HKKHAQGAICYTTSPVHTL NF+++G  LA++GCDS+AIKDMAGLLTP  TVEL+  L +ATGLPVHLH+H+TSGLA+ICHY+AVLAGC HIDTAISSFSGGASHP  E LVAAL  T +DT LDLN+LLEI DYF  VRKKY QFESEA++IDPRVQLYQVPGGMISNLY+QL+EQ ALDKM  VH+EIPRVRKDLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKI+  + KKAIG+TE+I+VRP DL+PNEL +L+ EI +LALS+EDVL +AMFPEIGRQFL++R++N L PEPLL+ + A  N+ +SEFDIILHGE+YHVKVAGYG    GQQSCFLWVDGVPEEV++QH +  +K E ++     GPGDI VA+PG+I++I V+VGD+VKAGQA+ V+EAMKMETEI+AP  G VA + C KGD+VTP   L+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966407040|ref|WP_058450446.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella jamestowniensis] &gt;gi|962223777|gb|KTD08427.1| oxaloacetate decarboxylase subunit alpha [Legionella jamestowniensis] &gt;gi|1097331327|emb|SFL50896.1| pyruvate carboxylase subunit B [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450446</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>944.88</Hsp_bit-score>
+      <Hsp_score>2441</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>451</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>599</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVV-----QHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MSTVQITDVTLRDAHQCLIATRMRTEDMLPACPKMDKVGFWAMEVWGGATFDACLRFLKEDPWLRLRLLRKVLPNTRLSMLLRGQNLLGYRHYADDVVQTFVKLAAKNGVDVFRVFDALNDVRNLRVALEAVKANKKHAQGTICYTTSPVHTLESFVDLGKALAEMGCDSIAIKDMAGLLTPTATVTLYEALARATKLPIHLHSHATSGLASMCHYEAIIAGCTHVDTAISSFSGGASHPATESLVAALAGTKFDTGLDLNLLLDIGEYFKAVRKKYHQFEGEARDIDPRVQVYQVPGGMISNLYSQLKEQQALDKIDAVHAEIPRVRRDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGAAPGKISPSLRKKAIGHTEAIDVRPADLIPHELKRLRQEIGELAESDEDVLSYAMFPEIGKQFLEQRKNNSLQPEPLLPEPAVNTNGNLSEFEITLHGESYHVKIAGYGEREQGQQACFLWVDGVPEEVIFLEQNETEAEVHSTI---SVKKKTGPGDITVAMPGSIVNVMVEAGQTVKAKQTLLVLEAMKMETEIQAPFDGVVTAIFCEKGDKVTPAQVLLHME</Hsp_hseq>
+      <Hsp_midline>MS   ITDVTLRDAHQCLIATRMRTEDMLP C KMD VGFWAMEVWGGATFDACLRFLKEDPW RLR LR++LPNT+LSMLLRGQNLLGYR+YADDVV+ FVKLA  NGVDVFRVFDALND RNL+VA++A+K++KKHAQG ICYTTSPVHTL++F++LGK LAEMGCDSIAIKDMAGLLTPT TV LY  L +AT LP+HLHSH+TSGLAS+CHYEA++AGC H+DTAISSFSGGASHP TE+LVAAL  T +DT LDLN+LL+I +YFKAVRKKY QFE EA++IDPRVQ+YQVPGGMISNLY+QL+EQ ALDK+DAVH EIPRVR+DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIG TE I+VRP DL+P+EL +L+ EI +LA SDEDVL YAMFPEIG+QFLEQRKNN L PEPLL + +   N  +SEF+I LHGESYHVK+AGYG  E GQQ+CFLWVDGVPEEV+        +E+H  I   SV  K GPGDITVA+PGSI+ + V  G  VKA Q +LV+EAMKMETEI+AP +GVV  I C+KGDKVTP QVL+ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966401258|ref|WP_058444853.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella feeleii] &gt;gi|962216481|gb|KTD01242.1| oxaloacetate decarboxylase subunit alpha [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444853</Hit_accession>
+  <Hit_len>597</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>935.25</Hsp_bit-score>
+      <Hsp_score>2416</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>690</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>590</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>434</Hsp_identity>
+      <Hsp_positive>506</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>588</Hsp_align-len>
+      <Hsp_qseq>TFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLI</Hsp_qseq>
+      <Hsp_hseq>THITDVTLRDAHQCLIATRMRTEDMLPICHKMDQVGFWAMEVWGGATFDACLRFLKEDPWLRLKSLRQALPNTQLSMLLRGQNLLGYRHYADDVVQTFVRLAAKNGVDVFRVFDALNDVRNVRVAVESIKAQKKHAQGAICYTTSPVHNLESFVTIGKAFADIGCDSIAIKDMAGLLTPTATITLYQALADATQLPIHLHTHATSGLAGICHFQAVLAGCQHIDTAISSFSGGASHPATEPLVAALAGSEFDTGLDLNLLLEIADYFQDIRKKYQQFESEARDIDPRVQLYQVPGGMISNLYSQLKEQHALDKINAVHEEIPRVRKDLGYPPLVTPTSQIVGTQAVLNVLTGIRYKTITNEVKLYCQGKYGAAPGKINASLRKKAIGHTEVIEVRPADLLPKELKRLREESGEFAKSDEDVLSYAMFPEIGKQFLEQRKANTLQPEPLIINRSPAPSDRLSEFDIALHGENYHIKIAGYGTREQGQQACFLWVDGVPEEVLISLEDTEETNLAPAAKRPSGPGDITVAMPGNIVSVNVTVGDKVTKGQTLLVLEAMKMETEIQAPFNGTVADVMCQKGDKVMPTQVLV</Hsp_hseq>
+      <Hsp_midline>T ITDVTLRDAHQCLIATRMRTEDMLPIC+KMD VGFWAMEVWGGATFDACLRFLKEDPW RL+ LRQ LPNTQLSMLLRGQNLLGYR+YADDVV+ FV+LA  NGVDVFRVFDALND RN++VA+++IK+ KKHAQGAICYTTSPVH L++F+ +GK  A++GCDSIAIKDMAGLLTPT T+ LY  L  AT LP+HLH+H+TSGLA ICH++AVLAGC HIDTAISSFSGGASHP TE LVAAL  + +DT LDLN+LLEI DYF+ +RKKY QFESEA++IDPRVQLYQVPGGMISNLY+QL+EQ+ALDK++AVH+EIPRVRKDLGYPPLVTPTSQ+VGTQAV+NVLTG RYKTITNEVKLYCQGKYG  PGKI+++LRKKAIG TEVIEVRP DLLP EL +L+ E  + A SDEDVL YAMFPEIG+QFLEQRK N L PEPL+   S   +  +SEFDI LHGE+YH+K+AGYG  E GQQ+CFLWVDGVPEEV++   +  +     +     GPGDITVA+PG+I++++V+VGD+V  GQ +LV+EAMKMETEI+AP NG VA+++CQKGDKV P QVL+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|769982607|ref|WP_045098589.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Tatlockia micdadei] &gt;gi|698846146|emb|CEG60129.1| Pyruvate carboxylase subunit B [Tatlockia micdadei] &gt;gi|962245694|gb|KTD29989.1| oxaloacetate decarboxylase subunit alpha [Tatlockia micdadei] &gt;gi|1081463891|emb|SCY64967.1| pyruvate carboxylase subunit B [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098589</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>934.865</Hsp_bit-score>
+      <Hsp_score>2415</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>437</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>597</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPL---LTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MATTYITDVTLRDAHQCLIATRMRTEDMLPICKKMDEIGFWAMEVWGGATFDTCLRFLREDPWERLRLLRHALPHTRLSMLLRGQNLLGYRHYADDVVKAFITSAANKGIDVFRVFDALNDVRNLDTAIKAIKRHKKHAQGAICYTTSPVHTLENFVNTGKALADMGCDSIAIKDMAGLLTPMAAVELYRALAEATRLPIHLHSHSTSGLAAICHYQAILAGCNHVDTAISSFSGGASHPATEPLVAALAGSEFDTGLDLNALLEIADYFRNVRKKYAKFESEAREIDPRVQLYQIPGGMISNLYSQLKEQQALDKLAAVHKEIPRVRKDLGYPPLVTPTSQVVATQAVLNVLTGGRYKTITNEVKLYCEGKYGAAPGKISASLRKKAIGQTEVIDIRPADLIPNELYRLREEIGALAICDEDVLSYAMFPEIAKQFLEQRKNKALIPEPLHATIQQST----DLSSEFDIALHGESYHIKVAGYGPKEQGKQACFLWVDGVPEEVIIHHEDNLIQPVPTETKKPSGPGDISVAMPGVLVSVNVAVGHKVAEGQTLLVLEAMKMETEIQAPFNGIVVDVFCQKGDKVTPAQVLLTIE</Hsp_hseq>
+      <Hsp_midline>M+ T+ITDVTLRDAHQCLIATRMRTEDMLPIC KMD++GFWAMEVWGGATFD CLRFL+EDPW RLR LR  LP+T+LSMLLRGQNLLGYR+YADDVV+AF+  A N G+DVFRVFDALND RNL  AI AIK HKKHAQGAICYTTSPVHTL+NF+  GK LA+MGCDSIAIKDMAGLLTP   VELY  L +AT LP+HLHSHSTSGLA+ICHY+A+LAGCNH+DTAISSFSGGASHP TE LVAAL  + +DT LDLN LLEI DYF+ VRKKY++FESEA+ IDPRVQLYQ+PGGMISNLY+QL+EQ ALDK+ AVHKEIPRVRKDLGYPPLVTPTSQVV TQAV+NVLTG RYKTITNEVKLYC+GKYG  PGKIS++LRKKAIG+TEVI++RP DL+PNEL +L+ EI  LA+ DEDVL YAMFPEI +QFLEQRKN  LIPEPL   + QS+     + SEFDI LHGESYH+KVAGYG  E G+Q+CFLWVDGVPEEV++ H +   +   +      GPGDI+VA+PG +++++V+VG +V  GQ +LV+EAMKMETEI+AP NG+V ++ CQKGDKVTP QVL+ +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966442012|ref|WP_058482274.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella spiritensis] &gt;gi|962282122|gb|KTD65912.1| oxaloacetate decarboxylase subunit alpha [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482274</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>932.939</Hsp_bit-score>
+      <Hsp_score>2410</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>594</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>440</Hsp_identity>
+      <Hsp_positive>509</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>595</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDK--IERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MAATHITDVTLRDAHQCLIATRLRTEDMLPACKKMDQVGFWAMEVWGGATFDSCLRFLKEDPWQRLHLLRQALPNTRLSMLLRGQNLLGYRHYADDVVKAFVKLAANNGVDVFRVFDALNDVRNLRVAIESVKACKKHAQGTICYTTSPVHTIENFVDMGKALTDLGCDSIAIKDMAGLLTPSDTVNLYQALARATQLPIHLHTHATSGLAAICHYQAVLAGCRHIDTAISSFSGGASHPATEPLVAALAGSEFDTGLDLNLLLEIGDYFHEIRKKYQQFESEARDIDPRVQLYQVPGGMISNLYNQLKEQQALDKMAAVHEEIPNVRKDLGYPPLVTPTSQVVGTQAVMNVLTGERYKTITNEVKLYCQGKYGATPGKINARLRKKAIGRTEVIDVRPADLLPNELNRLRKEIGDLAESEEDVLSYAMFPEIARQFLRERQSNTLAPEPLLGKQLSDERSKLSEFDITLHGESYHVKVAGFGDRERGRQACFLWVDEVPEEVIIELPQ-QDKGLTDSRPVTKTSGPGDIKVAMPGTIVNVFVKTGDKVKIGQVLFVLEAMKMETEIQAPFDGKVTEVYCSKGDKVTPEQVLMQL</Hsp_hseq>
+      <Hsp_midline>M+ T ITDVTLRDAHQCLIATR+RTEDMLP C KMD VGFWAMEVWGGATFD+CLRFLKEDPW RL  LRQ LPNT+LSMLLRGQNLLGYR+YADDVV+AFVKLA NNGVDVFRVFDALND RNL+VAI+++K+ KKHAQG ICYTTSPVHT++NF+++GK L ++GCDSIAIKDMAGLLTP+ TV LY  L +AT LP+HLH+H+TSGLA+ICHY+AVLAGC HIDTAISSFSGGASHP TE LVAAL  + +DT LDLN+LLEI DYF  +RKKY QFESEA++IDPRVQLYQVPGGMISNLYNQL+EQ ALDKM AVH+EIP VRKDLGYPPLVTPTSQVVGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKI++ LRKKAIGRTEVI+VRP DLLPNEL++L+ EI DLA S+EDVL YAMFPEI RQFL +R++N L PEPLL +  + + S +SEFDI LHGESYHVKVAG+G  E G+Q+CFLWVD VPEEV+++  +  DK   +   V    GPGDI VA+PG+I+ + V  GD+VK GQ + V+EAMKMETEI+AP +G V E+ C KGDKVTP QVL+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966505890|ref|WP_058522536.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella birminghamensis] &gt;gi|962190409|gb|KTC75504.1| oxaloacetate decarboxylase subunit alpha [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522536</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>926.776</Hsp_bit-score>
+      <Hsp_score>2394</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>693</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>594</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>433</Hsp_identity>
+      <Hsp_positive>506</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVE</Hsp_qseq>
+      <Hsp_hseq>MAVTYLTDVTLRDAHQCLIATRLRTEDMLPICSKMNEVGFWAMEVWGGATFDACLRFLKEDPWIRLRMLRAALPDTRLSMLLRGQNLLGYRHYADDVVHAFVKLAVKNGIDVFRVFDALNDVRNIRASIASIKAHKKHAQGAICYTTSPVHTLEKFVETGKELAELGCDSLAIKDMAGLLTPAVTVELFKSLTQATGLPVHLHTHATSGLASMCHYQAVLAGCRHIDTAISSFSGGASHPATESLVAALAGTEFDTGLDLNRLLEIDLYFREVRKKYHQFESEARDIDPQVQVYQVPGGMISNLYNQLQEQQALDKLPEVHIEIPKVRKDLGYPPLVTPTSQIVGTQAVMNVLSGERYKTITNEVKLYCQGKYGQAPGKMNARVRKKAIGNTEVIEGRPADLIPNELEVLQREIGTLASTDEDVLIYAMFPEIGKDFLVKRQNNALEPEQLLANPQHAHTGPLSEFEIALHGENYHVKVAGFGAREQGKQSCFLWVDGVPEEVIIDTESGMEQAEETSFRKATTAGDITVSMPGTIVCINSQTGDKVKKGQTLLVLEAMKMETEIQSPFAGTVREVFCEKGDKVTPAQVLMHVE</Hsp_hseq>
+      <Hsp_midline>M+ T++TDVTLRDAHQCLIATR+RTEDMLPIC+KM++VGFWAMEVWGGATFDACLRFLKEDPW RLR LR  LP+T+LSMLLRGQNLLGYR+YADDVV AFVKLAV NG+DVFRVFDALND RN++ +I +IK+HKKHAQGAICYTTSPVHTL+ F+E GK+LAE+GCDS+AIKDMAGLLTP VTVEL+  L QATGLPVHLH+H+TSGLAS+CHY+AVLAGC HIDTAISSFSGGASHP TE+LVAAL  T +DT LDLN LLEID YF+ VRKKY QFESEA++IDP+VQ+YQVPGGMISNLYNQL+EQ ALDK+  VH EIP+VRKDLGYPPLVTPTSQ+VGTQAV+NVL+GERYKTITNEVKLYCQGKYG  PGK+++ +RKKAIG TEVIE RP DL+PNEL+ LQ EI  LA +DEDVL+YAMFPEIG+ FL +R+NN L PE LL          +SEF+I LHGE+YHVKVAG+G  E G+QSCFLWVDGVPEEV++      ++ E +S       GDITV++PG+I+ I+   GD+VK GQ +LV+EAMKMETEI++P  G V E+ C+KGDKVTP QVL+ VE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966428636|ref|WP_058471132.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella jordanis] &gt;gi|962232823|gb|KTD17371.1| oxaloacetate decarboxylase subunit alpha [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471132</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>926.391</Hsp_bit-score>
+      <Hsp_score>2393</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>438</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>596</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLL-TQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKI--GPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MATTHITDVTLRDAHQCLIATRMRTEDMLPACGRMDQVGFWAMEVWGGATFDACLRFLKEDPWQRLKSLRKAIKNTQLSMLLRGQNLLGYRHYADDVVQAFVKLAAKNGVDVFRVFDALNDLRNLQAALEAVKANKKHAQGTICYTTSPVHTLENFVDLGKALADMGCDSIAIKDMAGLLTPQAAVNLYQALAKATGLPIHLHSHSTAGLASICHYEAVLAGCNHIDTAISSFAGGASHPATEVLVAALAETPFATGLDMNLLLDIAEYFKEVRKKYYQFESEARDIDPRVQAYQVPGGMISNLYSQLKEQQALDKIKEVHAEIPLVRRDLGYPPLVTPTSQIVGTQAVMNVLTGERYKTITNEVKLYCQGKYGHAPGKISPSLRKKAIGNTEVIDVRPADLIPSELNRLRKEIGALANSEEDVLSYAMFPEIARRFLEERKSNDLHPEPIVAAHTPKQDELRLSEFDIGLHGESYHIKIAGYGERERGQQACFLWVDGVPEEVIIKLDEETESGETETIKKKKAGGPGDITVAMPGTVVNISVVVGQQVTAGQSLLVLEAMKMETEIQAPFNGIVAEIFCSKGEKVMPNQVLMHL</Hsp_hseq>
+      <Hsp_midline>M+ T ITDVTLRDAHQCLIATRMRTEDMLP C +MD VGFWAMEVWGGATFDACLRFLKEDPW RL+ LR+ + NTQLSMLLRGQNLLGYR+YADDVV+AFVKLA  NGVDVFRVFDALND RNL+ A++A+K++KKHAQG ICYTTSPVHTL+NF++LGK LA+MGCDSIAIKDMAGLLTP   V LY  L +ATGLP+HLHSHST+GLASICHYEAVLAGCNHIDTAISSF+GGASHP TE LVAAL +TP+ T LD+N+LL+I +YFK VRKKY QFESEA++IDPRVQ YQVPGGMISNLY+QL+EQ ALDK+  VH EIP VR+DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS +LRKKAIG TEVI+VRP DL+P+EL++L+ EI  LA S+EDVL YAMFPEI R+FLE+RK+N L PEP++   +   D   +SEFDI LHGESYH+K+AGYG  E GQQ+CFLWVDGVPEEV+++  E  +  E  ++  K   GPGDITVA+PG+++ I V VG +V AGQ++LV+EAMKMETEI+AP NG+VAEI C KG+KV P QVL+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|654921575|ref|WP_028372135.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella lansingensis] &gt;gi|962239390|gb|KTD23870.1| oxaloacetate decarboxylase subunit alpha [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372135</Hit_accession>
+  <Hit_len>600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>925.62</Hsp_bit-score>
+      <Hsp_score>2391</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>598</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>439</Hsp_identity>
+      <Hsp_positive>513</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>598</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSEL--HDKIERSSVNNKI---GPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MAKTYITDVTLRDAHQCLIATRMRTEDMLPACQKMDKAGFWAMEVWGGATFDACLRFLKEDPWVRLRLLRKAIPNTRLSMLLRGQNLLGYRHYADDVVRGFIKLAAKNGVDVFRVFDALNDVRNLRVALEEVKRQKKHAQGAICYTTSPVHTLESFVDLGKKLADMGCDSIAIKDMAGLLTPMAAVSLYKALVDATGLPIHLHSHATAGLASISLYQAILAGCNHVDTAISSFSGGASHPATEALVAALVETEFDTGLNLNLLLDIGEYFKEVRKKYQQFEGEAREIDPRVQVYQVPGGMISNLYSQLKEQQALNKMSAVHAEIPRVRHDLGYPPLVTPTSQIVGTQAVLNVLTGERYKTITNEVKLYCQGKYGAAPGKISPRLRKKAIGHTEVIDVRPADLIPNELHRLRDEIGELAETDEDVLSYAMFPEIGKQFLAERKSNALRPEPLMTTPAVTKGNNFSEFNITLHGENYHIKVAGYGERERGQQACFLWVDGVPEEVIINVEEEPQEEAIVANGMNNKKRSPGFGDITVAMPGNIVNVNVTVGEQVMAGQALLVLEAMKMETEIQAPFAGIVKEVFCQKGDKVMPGQILMQL</Hsp_hseq>
+      <Hsp_midline>M+KT+ITDVTLRDAHQCLIATRMRTEDMLP C KMD  GFWAMEVWGGATFDACLRFLKEDPW RLR LR+ +PNT+LSMLLRGQNLLGYR+YADDVVR F+KLA  NGVDVFRVFDALND RNL+VA++ +K  KKHAQGAICYTTSPVHTL++F++LGKKLA+MGCDSIAIKDMAGLLTP   V LY  L  ATGLP+HLHSH+T+GLASI  Y+A+LAGCNH+DTAISSFSGGASHP TEALVAAL +T +DT L+LN+LL+I +YFK VRKKY QFE EA+ IDPRVQ+YQVPGGMISNLY+QL+EQ AL+KM AVH EIPRVR DLGYPPLVTPTSQ+VGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS  LRKKAIG TEVI+VRP DL+PNEL +L++EI +LA +DEDVL YAMFPEIG+QFL +RK+N L PEPL+T  +    +  SEF+I LHGE+YH+KVAGYG  E GQQ+CFLWVDGVPEEV++   E    + I  + +NNK    G GDITVA+PG+I+ ++V+VG++V AGQA+LV+EAMKMETEI+AP  G+V E+ CQKGDKV PGQ+L+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|644964403|ref|WP_025385158.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella oakridgensis] &gt;gi|570284159|gb|AHE66346.1| oxaloacetate decarboxylase alpha subunit [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570702944|gb|ETO93852.1| oxaloacetate decarboxylase alpha subunit [Legionella oakridgensis RV-2-2007] &gt;gi|962259869|gb|KTD43989.1| oxaloacetate decarboxylase subunit alpha [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385158</Hit_accession>
+  <Hit_len>598</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>924.465</Hsp_bit-score>
+      <Hsp_score>2388</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>694</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>596</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>594</Hsp_align-len>
+      <Hsp_qseq>TFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELH-DK-IERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRVEV</Hsp_qseq>
+      <Hsp_hseq>THITDVTLRDAHQCLIATRLRTEDMLPVCKRMDSVGFWAMEVWGGATFDACLRFLKEDPWQRLRRLRKAIPNTPLSMLLRGQNLLGYRHYADDVVREFVRLSVDNGIDVFRVFDALNDVRNLQVAIDVIKQYKRHAQGAISYTISPVHTLENFIELGKAMADMGCDSIAIKDMAGLLTPTATVELYQALSQATQLPIHLHSHSTSGLASICLYQGVLSGCNHIDTAISSLSGGASHPATESLVAALAGTPYDTDLDLNLLLEIGDYFKDVRKKYQQFESEAQRIDPRVQLYQVPGGMISNLYSQLKEQQALDKINAVHAEIPKVRRDLGYPPLVTPTSQVVGTQAVLNVLTGERYKTITNEVKLYCQGKYGAAPGKISASLRKKAIGRTEAIDVRPADLLPLELKRLRKELGDLVENDEDVLSYAMFPEIGRLFLEERKHNALKPEPLISGKDKSEQRGMSEFDIGLHGESYHVKVAGFGIREQARQAFYLWVDGVPEEVIVHYVEPDPDKAINTLPSLREFGPGDIRVAMPGTIVNIQIKAGDRVAAGQVLLVVEAMKMETEIQAPKSGVVEEVLCQKGERVTPEQVLIRLSL</Hsp_hseq>
+      <Hsp_midline>T ITDVTLRDAHQCLIATR+RTEDMLP+C +MD VGFWAMEVWGGATFDACLRFLKEDPW RLR+LR+ +PNT LSMLLRGQNLLGYR+YADDVVR FV+L+V+NG+DVFRVFDALND RNL+VAID IK +K+HAQGAI YT SPVHTL+NF+ELGK +A+MGCDSIAIKDMAGLLTPT TVELY  L QAT LP+HLHSHSTSGLASIC Y+ VL+GCNHIDTAISS SGGASHP TE+LVAAL  TPYDT+LDLN+LLEI DYFK VRKKY QFESEAQ IDPRVQLYQVPGGMISNLY+QL+EQ ALDK++AVH EIP+VR+DLGYPPLVTPTSQVVGTQAV+NVLTGERYKTITNEVKLYCQGKYG  PGKIS++LRKKAIGRTE I+VRP DLLP EL +L+ E+ DL  +DEDVL YAMFPEIGR FLE+RK+N L PEPL++     +   MSEFDI LHGESYHVKVAG+G+ E  +Q+ +LWVDGVPEEV+V + E   DK I       + GPGDI VA+PG+I+ I +  GD V AGQ +LV+EAMKMETEI+AP +GVV E+LCQKG++VTP QVLIR+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966511519|ref|WP_058528073.1|</Hit_id>
+  <Hit_def>pyruvate carboxylase subunit B [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528073</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>908.286</Hsp_bit-score>
+      <Hsp_score>2346</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>593</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>426</Hsp_identity>
+      <Hsp_positive>494</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>593</Hsp_align-len>
+      <Hsp_qseq>MSKTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>MMKTHITDVTLRDAHQCLIATRLRTEDMLPVCHKMDQVGFWAMEVWGGATFDACLRFLKEDPWERLKKLRNALPNTALSMLLRGQNLLGYRHYADDVVKEFIRLAVKNGIDVFRVFDALNDTRNLKVAIECIKKYKKHAQGAISYTTSPVHTLERFVELGKVMADMGCDSIAIKDMAGLLTPKAAVELTVALADATGLPIHVHSHATSGLAGICLYEAVVSGCRHIDTAISAYSGGASHTATESMVAALADTPYDTGLDLSLLLEIGDYFQGIRKKYQQFESEAREIDPRVQLYQVPGGMISNLYNQLKEQQALDKMQEVHAEIPRVRKDLGYPPLVTPTSQIVGAQAVLNVLTGERYKTITNEVKLYCQGKYGAPPGKINARLRQKAIGQTEVIEGRPADLLPCELERLRKNIGGLAENEEDVLSYAMFPEVAKQFLEERKNLALSPEPLLAPELNVKKQPLSEFEFSLHGEQYHVKVGGTGKRENGKQAYYLWVDGVPEEVILHYTEENRKDSSPLPQKPISAGDITAAMPGTVVSVQVKAGDEVKVGQALLVMEAMKMETEIQAPFAGKVQEVYCQKGDSITPRQVLIHL</Hsp_hseq>
+      <Hsp_midline>M KT ITDVTLRDAHQCLIATR+RTEDMLP+C+KMD VGFWAMEVWGGATFDACLRFLKEDPW RL++LR  LPNT LSMLLRGQNLLGYR+YADDVV+ F++LAV NG+DVFRVFDALND RNLKVAI+ IK +KKHAQGAI YTTSPVHTL+ F+ELGK +A+MGCDSIAIKDMAGLLTP   VEL   L  ATGLP+H+HSH+TSGLA IC YEAV++GC HIDTAIS++SGGASH  TE++VAAL DTPYDT LDL++LLEI DYF+ +RKKY QFESEA+ IDPRVQLYQVPGGMISNLYNQL+EQ ALDKM  VH EIPRVRKDLGYPPLVTPTSQ+VG QAV+NVLTGERYKTITNEVKLYCQGKYG PPGKI++ LR+KAIG+TEVIE RP DLLP EL++L+  I  LA ++EDVL YAMFPE+ +QFLE+RKN  L PEPLL          +SEF+  LHGE YHVKV G G  E+G+Q+ +LWVDGVPEEV++ ++E + K         I  GDIT A+PG+++++ V  GDEVK GQA+LV+EAMKMETEI+AP  G V E+ CQKGD +TP QVLI +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|962238763|gb|KTD23167.1|</Hit_id>
+  <Hit_def>oxaloacetate decarboxylase subunit alpha [Legionella londiniensis]</Hit_def>
+  <Hit_accession>KTD23167</Hit_accession>
+  <Hit_len>595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>906.36</Hsp_bit-score>
+      <Hsp_score>2341</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>692</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>592</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>425</Hsp_identity>
+      <Hsp_positive>493</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>591</Hsp_align-len>
+      <Hsp_qseq>KTFITDVTLRDAHQCLIATRMRTEDMLPICNKMDDVGFWAMEVWGGATFDACLRFLKEDPWSRLRQLRQMLPNTQLSMLLRGQNLLGYRNYADDVVRAFVKLAVNNGVDVFRVFDALNDARNLKVAIDAIKSHKKHAQGAICYTTSPVHTLDNFLELGKKLAEMGCDSIAIKDMAGLLTPTVTVELYAGLKQATGLPVHLHSHSTSGLASICHYEAVLAGCNHIDTAISSFSGGASHPPTEALVAALTDTPYDTELDLNILLEIDDYFKAVRKKYSQFESEAQNIDPRVQLYQVPGGMISNLYNQLREQNALDKMDAVHKEIPRVRKDLGYPPLVTPTSQVVGTQAVINVLTGERYKTITNEVKLYCQGKYGTPPGKISSALRKKAIGRTEVIEVRPGDLLPNELDQLQNEISDLALSDEDVLLYAMFPEIGRQFLEQRKNNQLIPEPLLTQSSAPDNSVMSEFDIILHGESYHVKVAGYGMIEHGQQSCFLWVDGVPEEVVVQHSELHDKIERSSVNNKIGPGDITVAIPGSIIAIHVSVGDEVKAGQAVLVIEAMKMETEIKAPANGVVAEILCQKGDKVTPGQVLIRV</Hsp_qseq>
+      <Hsp_hseq>KTHITDVTLRDAHQCLIATRLRTEDMLPVCHKMDQVGFWAMEVWGGATFDACLRFLKEDPWERLKKLRNALPNTALSMLLRGQNLLGYRHYADDVVKEFIRLAVKNGIDVFRVFDALNDTRNLKVAIECIKKYKKHAQGAISYTTSPVHTLERFVELGKVMADMGCDSIAIKDMAGLLTPKAAVELTVALADATGLPIHVHSHATSGLAGICLYEAVVSGCRHIDTAISAYSGGASHTATESMVAALADTPYDTGLDLSLLLEIGDYFQGIRKKYQQFESEAREIDPRVQLYQVPGGMISNLYNQLKEQQALDKMQEVHAEIPRVRKDLGYPPLVTPTSQIVGAQAVLNVLTGERYKTITNEVKLYCQGKYGAPPGKINARLRQKAIGQTEVIEGRPADLLPCELERLRKNIGGLAENEEDVLSYAMFPEVAKQFLEERKNLALSPEPLLAPELNVKKQPLSEFEFSLHGEQYHVKVGGTGKRENGKQAYYLWVDGVPEEVILHYTEENRKDSSPLPQKPISAGDITAAMPGTVVSVQVKAGDEVKVGQALLVMEAMKMETEIQAPFAGKVQEVYCQKGDSITPRQVLIHL</Hsp_hseq>
+      <Hsp_midline>KT ITDVTLRDAHQCLIATR+RTEDMLP+C+KMD VGFWAMEVWGGATFDACLRFLKEDPW RL++LR  LPNT LSMLLRGQNLLGYR+YADDVV+ F++LAV NG+DVFRVFDALND RNLKVAI+ IK +KKHAQGAI YTTSPVHTL+ F+ELGK +A+MGCDSIAIKDMAGLLTP   VEL   L  ATGLP+H+HSH+TSGLA IC YEAV++GC HIDTAIS++SGGASH  TE++VAAL DTPYDT LDL++LLEI DYF+ +RKKY QFESEA+ IDPRVQLYQVPGGMISNLYNQL+EQ ALDKM  VH EIPRVRKDLGYPPLVTPTSQ+VG QAV+NVLTGERYKTITNEVKLYCQGKYG PPGKI++ LR+KAIG+TEVIE RP DLLP EL++L+  I  LA ++EDVL YAMFPE+ +QFLE+RKN  L PEPLL          +SEF+  LHGE YHVKV G G  E+G+Q+ +LWVDGVPEEV++ ++E + K         I  GDIT A+PG+++++ V  GDEVK GQA+LV+EAMKMETEI+AP  G V E+ CQKGD +TP QVLI +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

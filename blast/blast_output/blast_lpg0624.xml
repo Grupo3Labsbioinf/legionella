@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_75503</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>408</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_75503</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>408</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248750|ref|WP_010946290.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|52840787|ref|YP_094586.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627898|gb|AAU26639.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|53753369|emb|CAH14819.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila str. Lens] &gt;gi|148282573|gb|ABQ56661.1| Ribose-phosphate pyrophosphokinase (RPPK) (Phosphoribosyl pyrophosphate synthetase) (P-Rib-PP synthetase) (PRPP synthetase) [Legionella pneumophila str. Corby] &gt;gi|364507301|gb|AEW50825.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492918|gb|AGH54763.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081209|gb|AGN13457.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771514|emb|CZI75380.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998783037|emb|CZI86520.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998791276|emb|CZG41763.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998793107|emb|CZI50464.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998795792|emb|CZI45011.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998800582|emb|CZL12568.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998804094|emb|CZK63216.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998807184|emb|CZI30469.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998810708|emb|CZI16473.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998813133|emb|CZH14738.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998816427|emb|CZM20399.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998819756|emb|CZM01431.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998822500|emb|CZH35669.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998825540|emb|CZK38828.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998828342|emb|CZH38768.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998832843|emb|CZI19988.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998834483|emb|CZL51486.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998838715|emb|CZJ31347.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998840494|emb|CZL83333.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998843074|emb|CZL07408.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998846305|emb|CZL08567.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998849152|emb|CZI96654.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998852418|emb|CZL87542.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998855967|emb|CZL54029.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998858632|emb|CZM30266.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998862330|emb|CZK41633.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998864780|emb|CZJ89032.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998867229|emb|CZJ83498.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998870185|emb|CZM41196.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998873604|emb|CZK71452.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998876198|emb|CZM46790.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998879317|emb|CZJ74223.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998882153|emb|CZJ30155.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998885769|emb|CZM34914.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998888577|emb|CZK49194.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998895822|emb|CZK09323.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998897489|emb|CZK15038.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998905246|emb|CZK91822.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998908401|emb|CZL67104.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998916108|emb|CZK72993.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998917471|emb|CZL63011.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998920451|emb|CZL70020.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998926810|emb|CZL98086.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998930940|emb|CZK83464.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998933657|emb|CZL67124.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998938054|emb|CZL87929.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998938723|emb|CZL20182.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998946272|emb|CZK72483.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998947970|emb|CZL28531.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998950717|emb|CZK11171.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998956938|emb|CZM66036.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998960483|emb|CZK69550.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998963141|emb|CZK78736.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998966691|emb|CZM40603.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998969397|emb|CZL07200.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998972406|emb|CZK83640.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998978520|emb|CZM02085.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998986130|emb|CZK11062.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998987482|emb|CZL88675.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998998298|emb|CZJ97920.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999000113|emb|CZG95591.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999006404|emb|CZL22145.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999011869|emb|CZL83910.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999014910|emb|CZM77110.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999021243|emb|CZL95039.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999024026|emb|CZL20151.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999036253|emb|CZL86497.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999045217|emb|CZM30666.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999058423|emb|CZM28589.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999060307|emb|CZL81248.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999066505|emb|CZJ50960.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999078638|emb|CZK45322.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999083105|emb|CZK87522.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999087883|emb|CZL14924.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999090945|emb|CZL89880.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999101410|emb|CZL76452.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999103681|emb|CZI18787.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999110904|emb|CZL04155.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999114071|emb|CZL59997.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999115963|emb|CZK74643.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999124728|emb|CZL31588.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999128525|emb|CZH17092.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999132491|emb|CZL69279.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999133907|emb|CZL48272.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999136957|emb|CZK87644.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999140906|emb|CZL87001.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999144865|emb|CZK82165.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999146393|emb|CZM12438.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999152248|emb|CZM98146.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999155591|emb|CZI37182.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999161536|emb|CZM55565.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999174192|emb|CZL60722.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999208415|emb|CZL34423.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999217925|emb|CZM04252.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999236684|emb|CZG92757.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999333334|emb|CZL30025.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002078794|emb|CZQ91787.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002085527|emb|CZQ97253.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002088323|emb|CZQ79082.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003018406|emb|CZR30561.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003021478|emb|CZR26944.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003024482|emb|CZR30167.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1032656718|gb|ANH11989.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1032659685|gb|ANH14955.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1032662652|gb|ANH17921.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073863708|gb|AOU03659.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073866666|gb|AOU06616.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073869671|gb|AOU09620.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073872616|gb|AOU12564.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073875597|gb|AOU15544.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073878559|gb|AOU18505.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073881553|gb|AOU21498.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073884515|gb|AOU24459.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073887514|gb|AOU27457.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073890497|gb|AOU30439.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073893462|gb|AOU33403.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073896427|gb|AOU36367.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073899391|gb|AOU39330.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073902343|gb|AOU42281.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073905254|gb|AOU45191.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073908271|gb|AOU48206.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073911327|gb|AOU51259.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073914245|gb|AOU54176.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073917203|gb|AOU57133.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073920170|gb|AOU60099.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073923143|gb|AOU63070.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073926157|gb|AOU66083.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073929137|gb|AOU69046.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073932521|gb|AOU72080.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073935468|gb|AOU82467.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073945743|gb|AOU85467.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1073948706|gb|AOU88429.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1080002183|gb|AOW52755.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006064|gb|AOW56344.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008077|gb|AOW58065.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012262|gb|AOW61753.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014681|gb|AOW63554.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018505|gb|AOW67150.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1104001863|emb|SFZ36525.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1104005428|emb|SFZ36536.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1129967321|gb|APT97680.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946290</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.81</Hsp_bit-score>
+      <Hsp_score>1662</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|652970716|ref|WP_027223608.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1005362816|gb|AMP88685.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365817|gb|AMP91594.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368804|gb|AMP94580.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223608</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>643.269</Hsp_bit-score>
+      <Hsp_score>1658</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKSGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKK+GAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499526528|ref|WP_011213168.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|53750361|emb|CAH11755.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila str. Paris] &gt;gi|295648035|gb|ADG23882.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126526|emb|CCD04709.1| phosphoribosylpyrophosphate synthase [Legionella pneumophila subsp. pneumophila] &gt;gi|395129633|emb|CCD07866.1| phosphoribosylpyrophosphate synthase [Legionella pneumophila subsp. pneumophila] &gt;gi|536613651|gb|ERB42023.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila str. 121004] &gt;gi|541995617|gb|ERH41716.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila str. Leg01/11] &gt;gi|541997323|gb|ERH43371.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila str. Leg01/53] &gt;gi|542121199|gb|ERI47532.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila str. Leg01/20] &gt;gi|761989411|dbj|GAN22679.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|761992518|dbj|GAN16558.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|761995708|dbj|GAN19664.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|761998923|dbj|GAN29032.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|762002565|dbj|GAN25683.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998774424|emb|CZH07359.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998777304|emb|CZH11593.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998783325|emb|CZH42058.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998786214|emb|CZH05912.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998801813|emb|CZI07634.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998892601|emb|CZJ23082.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998912184|emb|CZH24651.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998923714|emb|CZK23714.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998943784|emb|CZJ49558.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998954321|emb|CZK59978.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998975492|emb|CZJ89684.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998981344|emb|CZJ19590.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998992842|emb|CZJ48450.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|998994602|emb|CZI23843.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999003116|emb|CZI80529.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999009073|emb|CZK47546.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999018236|emb|CZJ88164.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999027350|emb|CZK25578.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999030548|emb|CZH23183.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999033301|emb|CZK21253.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999039506|emb|CZJ96441.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999042427|emb|CZK04215.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999048540|emb|CZK02541.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999051557|emb|CZJ91715.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999054564|emb|CZK30363.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999063669|emb|CZK01503.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999070588|emb|CZJ65572.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999072807|emb|CZK32588.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999075388|emb|CZH17380.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999084977|emb|CZK29854.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999093897|emb|CZH50652.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999096951|emb|CZH51633.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999107223|emb|CZI75878.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999149995|emb|CZI49927.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999159345|emb|CZJ70174.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999165747|emb|CZG85714.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999168643|emb|CZI46945.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999171836|emb|CZI28792.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999178352|emb|CZJ56721.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999181625|emb|CZG50877.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999184313|emb|CZP95730.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999187792|emb|CZI94864.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999189783|emb|CZI74922.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999192903|emb|CZJ15517.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999198446|emb|CZP12701.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999199268|emb|CZH02076.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999202112|emb|CZJ20261.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999206179|emb|CZP62409.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999212709|emb|CZG76789.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999216933|emb|CZI66932.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999220894|emb|CZJ07530.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999225345|emb|CZG84389.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999228282|emb|CZP07510.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999230582|emb|CZI93592.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999235187|emb|CZP57562.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999240303|emb|CZH91507.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999244352|emb|CZH75844.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999247864|emb|CZH55587.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999248758|emb|CZH07506.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999251974|emb|CZH36303.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999255964|emb|CZP78999.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999259130|emb|CZP47468.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999261282|emb|CZH40848.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999265199|emb|CZP06632.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999269411|emb|CZO32698.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999272213|emb|CZP57411.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999274780|emb|CZG77948.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999277595|emb|CZP36168.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999281374|emb|CZP17009.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999283658|emb|CZP61336.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999286036|emb|CZJ08355.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999290975|emb|CZP31674.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999292385|emb|CZI86691.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999296498|emb|CZP58713.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999299585|emb|CZP48429.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999301777|emb|CZI71366.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999307293|emb|CZH70073.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999309357|emb|CZP26231.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999311317|emb|CZJ21825.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999315835|emb|CZI10700.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999318665|emb|CZP64714.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999322007|emb|CZH97688.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999324454|emb|CZH33692.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999328610|emb|CZG63464.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999331878|emb|CZG60317.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999337744|emb|CZP46673.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999340066|emb|CZH25905.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999344465|emb|CZP84602.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999347196|emb|CZP62959.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999349721|emb|CZH41886.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999353486|emb|CZP69508.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999357244|emb|CZP68419.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999359955|emb|CZI60705.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999363824|emb|CZP56930.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999367104|emb|CZP76307.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999369953|emb|CZP78009.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999373473|emb|CZG57751.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999376508|emb|CZJ19356.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999379736|emb|CZH69213.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999382631|emb|CZI56707.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999386300|emb|CZG65092.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999389081|emb|CZI55606.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999392293|emb|CZP97880.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999396921|emb|CZG10553.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999398541|emb|CZQ00805.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999403134|emb|CZP42035.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999405937|emb|CZG73218.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999408876|emb|CZH89978.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999412724|emb|CZG32280.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999415449|emb|CZG89429.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999418789|emb|CZG65314.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999421984|emb|CZH73542.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999425298|emb|CZG75703.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999428348|emb|CZG71402.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999431662|emb|CZG74216.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999435020|emb|CZI01402.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999438204|emb|CZG63282.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999441200|emb|CZK30005.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999444607|emb|CZH76202.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999447810|emb|CZG52565.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999450610|emb|CZP35326.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999454081|emb|CZI22708.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999457551|emb|CZK20951.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999460546|emb|CZH01916.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999464865|emb|CZM53427.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999467889|emb|CZO30608.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999469299|emb|CZH06386.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999474686|emb|CZM60777.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999477143|emb|CZN73931.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999480645|emb|CZM99347.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999484264|emb|CZN90502.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999487077|emb|CZM10842.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999490250|emb|CZN78113.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999493441|emb|CZM10306.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999496236|emb|CZI45636.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999500021|emb|CZN72836.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999503147|emb|CZO06636.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999506385|emb|CZN17064.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999509588|emb|CZG52225.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999512926|emb|CZN30817.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999515986|emb|CZL99662.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999519017|emb|CZM85053.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999521853|emb|CZP15435.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999525377|emb|CZJ08525.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999528090|emb|CZI75612.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999532373|emb|CZO47123.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999535529|emb|CZN40977.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999538610|emb|CZM76933.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999542054|emb|CZO21465.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999545016|emb|CZO61886.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999548140|emb|CZN88376.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999551452|emb|CZO10106.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999554487|emb|CZN30379.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999557938|emb|CZO56659.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999561053|emb|CZM40544.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999564059|emb|CZO65691.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999567423|emb|CZM51810.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999570623|emb|CZN49846.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999573811|emb|CZN91707.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999576009|emb|CZI41455.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999580303|emb|CZO15331.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999583591|emb|CZO36882.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999586954|emb|CZM63587.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999590011|emb|CZM41226.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999593170|emb|CZN46095.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999596243|emb|CZO13070.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999599563|emb|CZO38755.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999602611|emb|CZL95715.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999605399|emb|CZN71842.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999608936|emb|CZN62535.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999611265|emb|CZI61993.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999615548|emb|CZM46218.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999618683|emb|CZN91963.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999621747|emb|CZO80927.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999625075|emb|CZN70496.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999628426|emb|CZM63757.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999631524|emb|CZM58335.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999634584|emb|CZN58335.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999637912|emb|CZN50301.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999641108|emb|CZO78372.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999644100|emb|CZO51853.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999647591|emb|CZN93938.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999650723|emb|CZO05906.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999653892|emb|CZO00086.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999657089|emb|CZM28361.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999660163|emb|CZM64232.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999663406|emb|CZN18635.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999666771|emb|CZM39364.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999669963|emb|CZL85412.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999673073|emb|CZM36832.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999676357|emb|CZN79163.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999679298|emb|CZM77814.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999682493|emb|CZM81354.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999686180|emb|CZN98886.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999689152|emb|CZN31473.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999692345|emb|CZO00590.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999695562|emb|CZN30663.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999698771|emb|CZM11356.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999701715|emb|CZM77054.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999704950|emb|CZL93284.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999708192|emb|CZN57866.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999711611|emb|CZN02269.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999714707|emb|CZN22924.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999717963|emb|CZO44617.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999720919|emb|CZM92305.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999724438|emb|CZN32961.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999727857|emb|CZM00184.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999730960|emb|CZO42650.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999734200|emb|CZM26524.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999737460|emb|CZO69655.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999740941|emb|CZM30875.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999744121|emb|CZN27725.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999747263|emb|CZM25686.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999750505|emb|CZL94876.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999753701|emb|CZM80156.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999756752|emb|CZN09300.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999760253|emb|CZM23239.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999763402|emb|CZN31150.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999766928|emb|CZM49805.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999769777|emb|CZN52078.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999773110|emb|CZH88981.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999776241|emb|CZM01001.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999777507|emb|CZH51005.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999782871|emb|CZH61990.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999786440|emb|CZM25507.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999789605|emb|CZO68476.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999792950|emb|CZO61757.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999796056|emb|CZI20640.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999799835|emb|CZO57255.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002074261|emb|CZR05275.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002081630|emb|CZR00707.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1002090902|emb|CZR11573.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003029167|emb|CZR18977.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003031204|emb|CZR32017.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1003036350|emb|CZR16838.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1005832310|gb|AMQ27036.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431680|gb|AMV13307.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1041014580|gb|ANN91641.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1041017678|gb|ANN94738.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1103995612|emb|SFZ36827.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1103998744|emb|SFZ36547.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213168</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>642.114</Hsp_bit-score>
+      <Hsp_score>1655</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAQELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAA ELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1004334317|ref|WP_061513242.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513242</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>640.958</Hsp_bit-score>
+      <Hsp_score>1652</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNSIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAQELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLN+IMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAA ELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1004026640|ref|WP_061488966.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061488966</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>640.188</Hsp_bit-score>
+      <Hsp_score>1650</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPVNKNCIIVDDIVDTAGTLCTAAQELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLCTAA ELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652976148|ref|WP_027228821.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|985765923|gb|KXB27034.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|985767767|gb|KXB28853.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999119234|emb|CZG75305.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|999122558|emb|CZH14387.1| Ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1024341698|gb|KZX36005.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila] &gt;gi|1108604012|gb|APF02380.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. fraseri] &gt;gi|1108607023|gb|APF05390.1| ribose-phosphate pyrophosphokinase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228821</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>637.876</Hsp_bit-score>
+      <Hsp_score>1644</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>312</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAQELKKSGANSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAA ELKK+GA SVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|737926332|ref|WP_035891479.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella norrlandica] &gt;gi|701444804|gb|KGP62239.1| ribose-phosphate pyrophosphokinase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035891479</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.869</Hsp_bit-score>
+      <Hsp_score>1631</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQNLDNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGDPANKNCIIVDDIVDTAGTLCTAAHELKKSGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVITDTIPLSKDAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQ L+NIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIG+PANKNCIIVDDIVDTAGTLCTAAHELKK+GAKSVRAYITHPVLSGPAVNNIKHSGLDEVV+TDTIPLS +AQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|966432317|ref|WP_058472750.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella quateirensis] &gt;gi|962268685|gb|KTD52701.1| ribose-phosphate pyrophosphokinase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472750</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>624.009</Hsp_bit-score>
+      <Hsp_score>1608</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>311</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGQATVGTFSDGETMVEILENVRGKDVFVLQSTCAPSNNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILIEDIAKQNLNNIMIVSPDVGGVVRARAVAKRLDDAELSIIDKRRSGPNKSEVMHIIGEPAGKNCIIVDDIVDTAGTLCSAAHELKKNGAQSVRAYITHPVLSGPAVKNIRHSGLDEVVVTDTIPLSAEAQSCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIG+ATVGTFSDGETMVEILENVRGKDVFVLQSTCAP+NNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+L+EDI KQ LNNIMIVSPDVGGVVRARAVAKRL+DAELSIIDKRRSGPNKSEVMHIIGEPA KNCIIVDDIVDTAGTLC+AAHELKKNGA+SVRAYITHPVLSGPAV NI+HSGLDEVVVTDTIPLSAEAQ+CEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|966440921|ref|WP_058481244.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella waltersii] &gt;gi|962291985|gb|KTD75683.1| ribose-phosphate pyrophosphokinase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481244</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>621.698</Hsp_bit-score>
+      <Hsp_score>1602</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQTPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPVLLEEITQKQLNNIMVVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPADKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHAVLSGPAVNNIKHSSLDEVVVTDTIPLSEEAQQCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQ PIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TPVLLE+IT+++LNNIM+VSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPA+KNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITH VLSGPAVNNIKHS LDEVVVTDTIPLS EAQ CEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|654932924|ref|WP_028383281.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella moravica] &gt;gi|962250736|gb|KTD34937.1| ribose-phosphate pyrophosphokinase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383281</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>617.846</Hsp_bit-score>
+      <Hsp_score>1592</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGQATVGTFSDGETMVEILENVRGKDVFVLQSTCAPSNNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILIEDITKQNLNNIMIVSPDVGGVVRARAVAKRLDDAELSIIDKRRSGPNKSEVMHIIGEPAGKNCIIVDDIVDTAGTLCSAAHELKKNGAQSVRAYITHPVLSGPAVKNIRHSCLDEVVVTDTIPLSSEAQSCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIG+ATVGTFSDGETMVEILENVRGKDVFVLQSTCAP+NNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+L+EDITKQ LNNIMIVSPDVGGVVRARAVAKRL+DAELSIIDKRRSGPNKSEVMHIIGEPA KNCIIVDDIVDTAGTLC+AAHELKKNGA+SVRAYITHPVLSGPAV NI+HS LDEVVVTDTIPLS+EAQ+CEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|966460911|ref|WP_058493340.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella worsleiensis] &gt;gi|962296408|gb|KTD80049.1| ribose-phosphate pyrophosphokinase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493340</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>615.15</Hsp_bit-score>
+      <Hsp_score>1585</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGQATVGTFSDGETMVEILENVRGKDVFVLQSTCAPSNNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILIEDIAKQNLNNIMIVSPDVGGVVRARAVAKRLDDAELSIIDKRRSGPNKSEVMHIIGEPAGKNCIIVDDIVDTAGTLCSAAHELKKNGALSVRAYITHPVLSGPAVNNIRHSCLDEVVVTDTIPLSLDAQNCEKIRIVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIG+ATVGTFSDGETMVEILENVRGKDVFVLQSTCAP+NNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+L+EDI KQ LNNIMIVSPDVGGVVRARAVAKRL+DAELSIIDKRRSGPNKSEVMHIIGEPA KNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNI+HS LDEVVVTDTIPLS +AQNCEKIR+VSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|769978715|ref|WP_045094700.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella fallonii] &gt;gi|698841961|emb|CEG55909.1| ribose-phosphate pyrophosphokinase (Phosphoribosyl pyrophosphate synthetase) [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094700</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>612.453</Hsp_bit-score>
+      <Hsp_score>1578</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQIPIGQATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIVRQKLSDIMVVSPDVGGVVRARAMAKRLDDAELSIIDKRRSGPNKSEVMHIIGEPAGKNCIIVDDIVDTAGTLCSAAHELKKSGAKSVRAYITHPVLSGPAVHNIKHSGLDEVVITDTIPLSDEGRGCDKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQIPIG+ATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +QKL++IM+VSPDVGGVVRARA+AKRL+DAELSIIDKRRSGPNKSEVMHIIGEPA KNCIIVDDIVDTAGTLC+AAHELKK+GAKSVRAYITHPVLSGPAV+NIKHSGLDEVV+TDTIPLS E + C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|517403211|ref|WP_018576074.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella shakespearei] &gt;gi|962276161|gb|KTD60062.1| ribose-phosphate pyrophosphokinase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576074</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>606.29</Hsp_bit-score>
+      <Hsp_score>1562</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQLPIGQATVGTFSDGETMVEILENVRGKDVFVLQSTCAPSNNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILIEEIKKQNLDNIMVVSPDVGGVVRARAVAKRLDDAELSIIDKRRSGPNKSEVMHIIGEPADKNCIIVDDIVDTAGTLCTAALELKRNGAKSVRAFITHPVLSGPAVKNIRHSCLDEVVVTDTIPLSSEAQSCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQ+PIG+ATVGTFSDGETMVEILENVRGKDVFVLQSTCAP+NNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+L+E+I KQ L+NIM+VSPDVGGVVRARAVAKRL+DAELSIIDKRRSGPNKSEVMHIIGEPA+KNCIIVDDIVDTAGTLCTAA ELK+NGAKSVRA+ITHPVLSGPAV NI+HS LDEVVVTDTIPLS+EAQ+CEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|493927279|ref|WP_006872028.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella drancourtii] &gt;gi|363536411|gb|EHL29853.1| ribose-phosphate pyrophosphokinase [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872028</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>599.356</Hsp_bit-score>
+      <Hsp_score>1544</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>285</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELAQKISSHLQLPIGKATVGTFSDGETMIEILENVRGRDVFIIQSTCNPSNNNLMELLAMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKIVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDITKQNLQNIMVVSPDVGGVVRARAVAKRIEDAELAIIDKRRSGPNKSEVMHIIGEPANKNCIIIDDIVDTAGTLCSAAHELKKNGAKSVRAYITHPVLSGPAVKNIKNSGLDEVVITDTIPLSDEARACDKIRVVSLSDMLAQAIRRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELA KISSHLQ+PIGKATVGTFSDGETM+EILENVRG+DVF++QSTC P+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAK+VADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDITKQ L NIM+VSPDVGGVVRARAVAKR+ DAEL+IIDKRRSGPNKSEVMHIIGEPANKNCII+DDIVDTAGTLC+AAHELKKNGAKSVRAYITHPVLSGPAV NIK+SGLDEVV+TDTIPLS EA+ C+KIRVVSL+DMLAQAI+RVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|966414757|ref|WP_058458042.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Fluoribacter bozemanae] &gt;gi|962192319|gb|KTC77393.1| ribose-phosphate pyrophosphokinase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458042</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>593.578</Hsp_bit-score>
+      <Hsp_score>1529</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>285</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPSNNNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDITKQNLKNIMVVSPDVGGVVRARAVAKLLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVNNIKNSGLDEIVVTDTIPLSAEARQCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDITKQ L NIM+VSPDVGGVVRARAVAK L+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNIK+SGLDE+VVTDTIPLSAEA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966408487|ref|WP_058451879.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella maceachernii] &gt;gi|962243717|gb|KTD28034.1| ribose-phosphate pyrophosphokinase [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451879</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>592.423</Hsp_bit-score>
+      <Hsp_score>1526</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>286</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKQQNLPNIMVVSPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAYQLKGNGATSVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLSEAAKRCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L NIM+VSPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA++LK NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPLS  A+ CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|769982231|ref|WP_045098213.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Tatlockia micdadei] &gt;gi|698845681|emb|CEG59659.1| Ribose-phosphate pyrophosphokinase [Tatlockia micdadei] &gt;gi|962245155|gb|KTD29459.1| ribose-phosphate pyrophosphokinase [Tatlockia micdadei] &gt;gi|1081465869|emb|SCX96666.1| ribose-phosphate pyrophosphokinase [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098213</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>592.038</Hsp_bit-score>
+      <Hsp_score>1525</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>285</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKHQNLPNLMVVSPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAYQLKRNGATSVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLSESAKRCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI  Q L N+M+VSPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPLS  A+ CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966511028|ref|WP_058527619.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella erythra] &gt;gi|962209455|gb|KTC94362.1| ribose-phosphate pyrophosphokinase [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527619</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.652</Hsp_bit-score>
+      <Hsp_score>1524</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFIVQSTCAPTNNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLANLMVVSPDVGGVVRARAMAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRNCIIIDDIVDTAGTLCSAAMHLKRNGANSVRAYITHPVLSGPAVDNIIHSSLDEVVVTDTIPLSQDARQCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVF++QSTCAP NNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L N+M+VSPDVGGVVRARA+AKRLNDAELSIIDKRRSGPNKSEVMHIIGEPA +NCII+DDIVDTAGTLC+AA  LK+NGA SVRAYITHPVLSGPAV+NI HS LDEVVVTDTIPLS +A+ C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|518064342|ref|WP_019234550.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella anisa] &gt;gi|962187117|gb|KTC72250.1| ribose-phosphate pyrophosphokinase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234550</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.652</Hsp_bit-score>
+      <Hsp_score>1524</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPSNDNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDITKQNLKNIMVVSPDVGGVVRARAVAKLLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVNNIKNSGLDEIVVTDTIPLSAEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAP+N+NLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDITKQ L NIM+VSPDVGGVVRARAVAK L+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNIK+SGLDE+VVTDTIPLSAEA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966515274|ref|WP_058531791.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella rubrilucens] &gt;gi|962262696|gb|KTD46782.1| ribose-phosphate pyrophosphokinase [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531791</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.267</Hsp_bit-score>
+      <Hsp_score>1523</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFIVQSTCAPTNNNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLANLMVVSPDVGGVVRARAMAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRNCIIIDDIVDTAGTLCSAAMHLKRNGANSVRAYITHPVLSGPAVDNIIHSSLDEVVVTDTIPLSQAAKQCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVF++QSTCAP NNNLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L N+M+VSPDVGGVVRARA+AKRLNDAELSIIDKRRSGPNKSEVMHIIGEPA +NCII+DDIVDTAGTLC+AA  LK+NGA SVRAYITHPVLSGPAV+NI HS LDEVVVTDTIPLS  A+ C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966431425|ref|WP_058471870.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella jordanis] &gt;gi|962233639|gb|KTD18187.1| ribose-phosphate pyrophosphokinase [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471870</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>591.267</Hsp_bit-score>
+      <Hsp_score>1523</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFIIQSTCAPANNNFMELIIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKKQNLSNLMVVSPDVGGVVRARAMAKQLNDADLSIIDKRRSGPNKSEVMHIIGEPAGRNCIIIDDIVDTAGTLCSAAYQLKQNGASSVRAYITHPVLSGPAVDNISNSSLDEVVVTDTIPLSDAAKQCKKIRIVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVF++QSTCAPANNN MEL+IMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI KQ L+N+M+VSPDVGGVVRARA+AK+LNDA+LSIIDKRRSGPNKSEVMHIIGEPA +NCII+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAV+NI +S LDEVVVTDTIPLS  A+ C+KIR+VSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|762036568|ref|WP_043872506.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella massiliensis] &gt;gi|683289246|emb|CEE11607.1| Ribose-phosphate pyrophosphokinase [Legionella massiliensis] &gt;gi|685071616|emb|CDZ75869.1| Ribose-phosphate pyrophosphokinase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872506</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>590.112</Hsp_bit-score>
+      <Hsp_score>1520</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPTNDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADIMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKQQNLPNLMVISPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAHQLKRNGAASVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLSEAAKHCDKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAP N+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVAD+MASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M++SPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AAH+LK+NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPLS  A++C+KIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|498338349|ref|WP_010652505.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Fluoribacter dumoffii] &gt;gi|962207544|gb|KTC92475.1| ribose-phosphate pyrophosphokinase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652505</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>590.112</Hsp_bit-score>
+      <Hsp_score>1520</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPANNNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDIKKQNLKNIMVVSPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKHCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVNNIKNSGLDEIVVTDTIPLSDEALQCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPANNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDI KQ L NIM+VSPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIGEP NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNIK+SGLDE+VVTDTIPLS EA  CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966475016|ref|WP_058505777.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058505777</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.726</Hsp_bit-score>
+      <Hsp_score>1519</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELMIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADLMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKQQNLANLMVVSPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAYQLKRNGATSVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLTDTAKRCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMEL+IMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVAD+MASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M+VSPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPL+  A+ CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966464455|ref|WP_058495816.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella drozanskii] &gt;gi|962202941|gb|KTC87910.1| ribose-phosphate pyrophosphokinase [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495816</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.726</Hsp_bit-score>
+      <Hsp_score>1519</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVIQSTCAPANDNLMELMIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKQQNLPNLMVISPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAQQLKRNGATSVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLTDAAKRCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMEL+IMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M++SPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA +LK+NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPL+  A+ CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|962248940|gb|KTD33162.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella nautarum]</Hit_def>
+  <Hit_accession>KTD33162</Hit_accession>
+  <Hit_len>446</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>589.341</Hsp_bit-score>
+      <Hsp_score>1518</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>130</Hsp_hit-from>
+      <Hsp_hit-to>446</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>283</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>INMSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>IHMSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELMIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADLMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKQQNLANLMVVSPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAYQLKRNGATSVRAYITHPVLSGPAVENIKHSSLDEVVVTDTIPLTDTAKRCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>I+MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMEL+IMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVAD+MASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M+VSPDVGGVVRARA+AK LNDAELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAV NIKHS LDEVVVTDTIPL+  A+ CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|654930401|ref|WP_028380770.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella cherrii] &gt;gi|962197149|gb|KTC82193.1| ribose-phosphate pyrophosphokinase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380770</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>588.186</Hsp_bit-score>
+      <Hsp_score>1515</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLQIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPASNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDIKKQNLKSIMVVSPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKDCIIVDDIVDTAGTLCSASHELKKNGAHSVRAYITHPVLSGPAINNIKNSGLDEIVVTDTIPLSDEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHLQIPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPA+NNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDI KQ L +IM+VSPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIGEP NK+CIIVDDIVDTAGTLC+A+HELKKNGA SVRAYITHPVLSGPA+NNIK+SGLDE+VVTDTIPLS EA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966499586|ref|WP_058516259.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella parisiensis] &gt;gi|962260122|gb|KTD44237.1| ribose-phosphate pyrophosphokinase [Legionella parisiensis] &gt;gi|1069290667|gb|OEH46067.1| Ribose-phosphate pyrophosphokinase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516259</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>587.8</Hsp_bit-score>
+      <Hsp_score>1514</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPSNNNLMELLTIADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDITKQNLKNIMVVSPDVGGVVRARAVAKLLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAINNIKNSVLDEIVVTDTIPLSAEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAP+NNNLMELL +ADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDITKQ L NIM+VSPDVGGVVRARAVAK L+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPA+NNIK+S LDE+VVTDTIPLSAEA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966436354|ref|WP_058476722.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella steigerwaltii] &gt;gi|962295024|gb|KTD78678.1| ribose-phosphate pyrophosphokinase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476722</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>587.415</Hsp_bit-score>
+      <Hsp_score>1513</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>282</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNATPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPASNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDIKNQKLKNIMVVSPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKDCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVNNIKNSGLDEIVVTDTIPLSDEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNA PELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPA+NNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDI  QKL NIM+VSPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIGEP NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNIK+SGLDE+VVTDTIPLS EA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|769991147|ref|WP_045107019.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella hackeliae] &gt;gi|731153335|emb|CEK11920.1| Ribose-phosphate pyrophosphokinase [Legionella hackeliae] &gt;gi|962227884|gb|KTD12506.1| ribose-phosphate pyrophosphokinase [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107019</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>587.03</Hsp_bit-score>
+      <Hsp_score>1512</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQASVGTFSDGETMVEILENVRGRDVFIIQSTCAPANNNLMELMIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLCNLMVVSPDVGGVVRARAMAKLLNDADLSIIDKRRSGPNKSEVMHIIGEPAGRHCIIIDDIVDTAGTLCSAAYQLKQNGATSVRAYITHPVLSGPAVNNITNSSLDEVVVTDTIPLSEDAKRCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+A+VGTFSDGETMVEILENVRG+DVF++QSTCAPANNNLMEL+IMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L N+M+VSPDVGGVVRARA+AK LNDA+LSIIDKRRSGPNKSEVMHIIGEPA ++CII+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAVNNI +S LDEVVVTDTIPLS +A+ C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1046230310|ref|WP_065620817.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella jamestowniensis] &gt;gi|1045920886|gb|OCH97819.1| ribose-phosphate pyrophosphokinase [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065620817</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>586.26</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNATPELALKIASHLQIPIGQASVGTFSDGETMVEILENVRGRDVFIIQSTCSPANNNLMELMIMADALRRSSAGRITAVIPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLCNLMVVSPDVGGVVRARAMAKQLNDADLSIIDKRRSGPNKSEVMHIIGEPAGRHCIIIDDIVDTAGTLCSAAYQLKQNGATSVRAYITHPVLSGPAVNNITNSSLDEVVVTDTIPLSEAAKNCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNA PELALKI+SHLQIPIG+A+VGTFSDGETMVEILENVRG+DVF++QSTC+PANNNLMEL+IMADALRRSSAGRITAV+PYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L N+M+VSPDVGGVVRARA+AK+LNDA+LSIIDKRRSGPNKSEVMHIIGEPA ++CII+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAVNNI +S LDEVVVTDTIPLS  A+NC+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966505235|ref|WP_058521894.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella tucsonensis] &gt;gi|962287607|gb|KTD71335.1| ribose-phosphate pyrophosphokinase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521894</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>586.26</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPSNNNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDITRKNLKDIMVVSPDVGGVVRARAVAKLLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKSGAHSVRAYITHPVLSGPAINNIKNSGLDEIVVTDTIPLSAEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDIT++ L +IM+VSPDVGGVVRARAVAK L+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKK+GA SVRAYITHPVLSGPA+NNIK+SGLDE+VVTDTIPLSAEA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966466511|ref|WP_058497837.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella gratiana] &gt;gi|962230003|gb|KTD14599.1| ribose-phosphate pyrophosphokinase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497837</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>586.26</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFSGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGKDVFIIQSTCAPANNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDEIAKQNLKNIMVISPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGDPTYKNCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAIDNIKNSGLDEIVVTDTIPLSAEARQCEKIRVVSLSEMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF+GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRGKDVF++QSTCAPANNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL++I KQ L NIM++SPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIG+P  KNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPA++NIK+SGLDE+VVTDTIPLSAEA+ CEKIRVVSL++MLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966426190|ref|WP_058468728.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Fluoribacter gormanii] &gt;gi|962216844|gb|KTD01598.1| ribose-phosphate pyrophosphokinase [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468728</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>585.874</Hsp_bit-score>
+      <Hsp_score>1509</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPANNNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDIKQQNLKNMMVVSPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKNGACSVRAYITHPVLSGPAINNIKNSGLDEIVVTDTIPLSDEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPANNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DI +Q L N+M+VSPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPA+NNIK+SGLDE+VVTDTIPLS EA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966399246|ref|WP_058442879.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella brunensis] &gt;gi|962191732|gb|KTC76808.1| ribose-phosphate pyrophosphokinase [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442879</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>585.489</Hsp_bit-score>
+      <Hsp_score>1508</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQASVGTFSDGETMVEILENVRGRDVFIIQSTCSPSNDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLSNLMVVSPDVGGVVRARAMAKQLNDADLSIIDKRRSGPNKSEVMHIIGEPAGRHCIIIDDIVDTAGTLCSAAFQLKQNGATSVRAYITHPVLSGPAVNNIVNSSLDEVVVTDTIPLSEAAKQCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+A+VGTFSDGETMVEILENVRG+DVF++QSTC+P+N+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L+N+M+VSPDVGGVVRARA+AK+LNDA+LSIIDKRRSGPNKSEVMHIIGEPA ++CII+DDIVDTAGTLC+AA +LK+NGA SVRAYITHPVLSGPAVNNI +S LDEVVVTDTIPLS  A+ C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|489729075|ref|WP_003633191.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella longbeachae] &gt;gi|269990008|gb|EEZ96262.1| ribose-phosphate pyrophosphokinase family protein [Legionella longbeachae D-4968] &gt;gi|288856924|emb|CBJ10738.1| Ribose-phosphate pyrophosphokinase [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003633191</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>584.334</Hsp_bit-score>
+      <Hsp_score>1505</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFSGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGKDVFIIQSTCAPSNNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDITKQNLKNIMIISPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGDPTNKSCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGQAINNIKNSCLDEIVVTDTIPLSAEARTCEKIRVVSLSEMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF+GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRGKDVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DITKQ L NIMI+SPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIG+P NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSG A+NNIK+S LDE+VVTDTIPLSAEA+ CEKIRVVSL++MLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966516888|ref|WP_058533382.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533382</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.948</Hsp_bit-score>
+      <Hsp_score>1504</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQKISSHLQIPIGKATVGTFSDGETMVEILENVRGRDVFIIQSTCAPSNNNLMELLAMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKIVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPMLLEDIAAQNLQNVMVVSPDVGGVVRARAVAKRIELAELAIIDKRRSGPNKSEVMHIIGDPANKNCIIVDDIVDTAGTLCSAAHELKKSGAKSVRAYITHPVLSGPALKNIKNSHIDEVVITDTIPLSEEARTCDKIRVVSLSDMLAQAMKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA KISSHLQIPIGKATVGTFSDGETMVEILENVRG+DVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAK+VADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDI  Q L N+M+VSPDVGGVVRARAVAKR+  AEL+IIDKRRSGPNKSEVMHIIG+PANKNCIIVDDIVDTAGTLC+AAHELKK+GAKSVRAYITHPVLSGPA+ NIK+S +DEVV+TDTIPLS EA+ C+KIRVVSL+DMLAQA+KRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966420688|ref|WP_058463889.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella cincinnatiensis] &gt;gi|962206947|gb|KTC91880.1| ribose-phosphate pyrophosphokinase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463889</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.948</Hsp_bit-score>
+      <Hsp_score>1504</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFSGNANPELAQQISSHLKIPIGKATVGTFSDGETMIEILENVRGKDVFIIQSTCAPSNNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDITRQNLKNIMIISPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGDPTNKSCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGQAINNIRNSGLDEIVVTDTIPLSTEARECKKIRVVSLSEMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF+GNANPELA +ISSHL+IPIGKATVGTFSDGETM+EILENVRGKDVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DIT+Q L NIMI+SPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIG+P NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSG A+NNI++SGLDE+VVTDTIPLS EA+ C+KIRVVSL++MLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|671586653|ref|WP_031563057.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563057</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.948</Hsp_bit-score>
+      <Hsp_score>1504</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPANNNLMELLTMADALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLEDITRKNLKNIMVVSPDVGGVVRARAVAKLLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKNCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVHNIKNSGLDEIVVTDTIPLSEEARKCDKIRVVSLSDMLAQAIKRVNIEESVSSMFPE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPANNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LLEDIT++ L NIM+VSPDVGGVVRARAVAK L+ AEL IIDKRRSGPNKSEVMHIIGEP NKNCIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAV+NIK+SGLDE+VVTDTIPLS EA+ C+KIRVVSL+DMLAQAIKRVN+EESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966496236|ref|WP_058513002.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella santicrucis] &gt;gi|962282820|gb|KTD66596.1| ribose-phosphate pyrophosphokinase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058513002</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.563</Hsp_bit-score>
+      <Hsp_score>1503</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFSGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGKDVFIIQSTCAPSNNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDITKQNLKNIMIISPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGDPTNKSCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGHAINNIKNSCLDEIVVTDTIPLSAEARKCEKIRVVSLSEMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF+GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRGKDVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DITKQ L NIMI+SPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIG+P NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSG A+NNIK+S LDE+VVTDTIPLSAEA+ CEKIRVVSL++MLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966406128|ref|WP_058449534.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella jamestowniensis] &gt;gi|962222760|gb|KTD07410.1| ribose-phosphate pyrophosphokinase [Legionella jamestowniensis] &gt;gi|1097327786|emb|SFL93346.1| ribose-phosphate pyrophosphokinase [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449534</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.563</Hsp_bit-score>
+      <Hsp_score>1503</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNATPELALNIASHLQIPIGQASVGTFSDGETMVEILENVRGRDVFIIQSTCSPANNNLMELMIMADALRRSSAGRITAVIPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLCNLMVVSPDVGGVVRARAMAKQLNDADLSIIDKRRSGPNKSEVMHIIGEPAGRHCIIIDDIVDTAGTLCSAAYQLKQNGATSVRAYITHPVLSGPAVNNITNSSLDEVVVTDTIPLSEAAKNCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNA PELAL I+SHLQIPIG+A+VGTFSDGETMVEILENVRG+DVF++QSTC+PANNNLMEL+IMADALRRSSAGRITAV+PYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q L N+M+VSPDVGGVVRARA+AK+LNDA+LSIIDKRRSGPNKSEVMHIIGEPA ++CII+DDIVDTAGTLC+AA++LK+NGA SVRAYITHPVLSGPAVNNI +S LDEVVVTDTIPLS  A+NC+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|654937951|ref|WP_028388199.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388199</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.563</Hsp_bit-score>
+      <Hsp_score>1503</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVIADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIRQQNLPNLMVISPDVGGVVRARAMAKLLNDAELSIIDKRRSGPNRSEVMHIIGEPAGRHCLIIDDIVDTAGTLCSAAYQLKCNGATSVRAYVTHPVLSGPAVENIKHSSLDEVVVTDTIPLIEAAKHCEKIRVVSLADMLAQAIKRVNVEESVSSMFTE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKV+ADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M++SPDVGGVVRARA+AK LNDAELSIIDKRRSGPN+SEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA++LK NGA SVRAY+THPVLSGPAV NIKHS LDEVVVTDTIPL   A++CEKIRVVSLADMLAQAIKRVNVEESVSSMF E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966442513|ref|WP_058482775.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella spiritensis] &gt;gi|962280851|gb|KTD64666.1| ribose-phosphate pyrophosphokinase [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482775</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.178</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALQIASHLQIPIGQANVGTFSDGETMVEILENVRGRDVFIIQSTCAPSNNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIKRQNLANLMVVSPDVGGVVRARAIAKRLNDTELSIIDKRRSGPNKSEVMHIIGEPAGRHCVIIDDIVDTAGTLCSAAQQLKNNGAISVRAYITHPVLSGPAVKNITHSSLDEVVVTDTIPLSDVARQCPKIRVVSLGDMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELAL+I+SHLQIPIG+A VGTFSDGETMVEILENVRG+DVF++QSTCAP+NNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI +Q L N+M+VSPDVGGVVRARA+AKRLND ELSIIDKRRSGPNKSEVMHIIGEPA ++C+I+DDIVDTAGTLC+AA +LK NGA SVRAYITHPVLSGPAV NI HS LDEVVVTDTIPLS  A+ C KIRVVSL DMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|653018986|ref|WP_027270941.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella sainthelensi] &gt;gi|962274606|gb|KTD58537.1| ribose-phosphate pyrophosphokinase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270941</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>582.408</Hsp_bit-score>
+      <Hsp_score>1500</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFSGNANPELAQQISSHLKIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPSNNNLMELLTMADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDITKQNLKNIMIISPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGDPTNKSCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGQAINNIKNSCLDEIVVTDTIPLSAEARKCEKIRVVSLSEMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF+GNANPELA +ISSHL+IPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAP+NNNLMELL MADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DITKQ L NIMI+SPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIG+P NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSG A+NNIK+S LDE+VVTDTIPLSAEA+ CEKIRVVSL++MLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966400225|ref|WP_058443820.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella feeleii] &gt;gi|962218269|gb|KTD02988.1| ribose-phosphate pyrophosphokinase [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443820</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>581.637</Hsp_bit-score>
+      <Hsp_score>1498</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDVFVVQSTCAPANDNLMELLSMADAMRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDIREKNLTDLMVVSPDVGGVVRARAMAKLLNDTELSIIDKRRSGPNKSEVMHIIGEPAGRHCLIVDDIVDTAGTLCSAAHQLKQNGAISVRAYVTHPVLSGPAVNNIVNSSLDEIVVTDTIPLSEAAKQCKKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+DVFV+QSTCAPAN+NLMELL MADA+RRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDI ++ L ++M+VSPDVGGVVRARA+AK LND ELSIIDKRRSGPNKSEVMHIIGEPA ++C+IVDDIVDTAGTLC+AAH+LK+NGA SVRAY+THPVLSGPAVNNI +S LDE+VVTDTIPLS  A+ C+KIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966494903|ref|WP_058511691.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella steelei] &gt;gi|962284704|gb|KTD68470.1| ribose-phosphate pyrophosphokinase [Legionella steelei] &gt;gi|1113342118|gb|OJW05995.1| ribose-phosphate pyrophosphokinase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058511691</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>580.867</Hsp_bit-score>
+      <Hsp_score>1496</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFAGNANPELARQISSHLQIPIGQATVGTFSDGETMIEILENVRGRDVFIIQSTCAPASNNLMELLTLADALRRSSAARITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYATPILLDDIKEQNLKSIMVVSPDVGGVVRARAVAKRLDHAELCIIDKRRSGPNKSEVMHIIGEPKNKDCIIVDDIVDTAGTLCSAAHELKKNGAHSVRAYITHPVLSGPAVNNIKNSVLDEIVVTDTIPLSDEARKCEKIRVVSLSDMLAQAIKRVNIEESVSSMFAE</Hsp_hseq>
+      <Hsp_midline>MSTMMIF GNANPELA +ISSHLQIPIG+ATVGTFSDGETM+EILENVRG+DVF++QSTCAPA+NNLMELL +ADALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVY+TP+LL+DI +Q L +IM+VSPDVGGVVRARAVAKRL+ AEL IIDKRRSGPNKSEVMHIIGEP NK+CIIVDDIVDTAGTLC+AAHELKKNGA SVRAYITHPVLSGPAVNNIK+S LDE+VVTDTIPLS EA+ CEKIRVVSL+DMLAQAIKRVN+EESVSSMFAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|654935789|ref|WP_028386091.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella geestiana] &gt;gi|962216216|gb|KTD00984.1| ribose-phosphate pyrophosphokinase [Legionella geestiana]</Hit_def>
+  <Hit_accession>WP_028386091</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>578.941</Hsp_bit-score>
+      <Hsp_score>1491</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>277</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPDLAHKIASHLQIPLGKATVGTFSDGETMVEILENVRGKDVFVVQSTCAPSNDNLMELLIMSDALRRSSASRITAVVPYFGYARQDRRVRSARVPITAKVIADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIRAQNLDRLMVVSPDVGGVVRARAMAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPSGRNCIIIDDIVDTAGTLCSAAYQLKKNGAVSVRAYITHPVLSGPAVQNIENSSLDEVVVTDTIPLSDAARNCSKIRLVSLADMLAQAIKRVNVEESVSSMFED</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANP+LA KI+SHLQIP+GKATVGTFSDGETMVEILENVRGKDVFV+QSTCAP+N+NLMELLIM+DALRRSSA RITAVVPYFGYARQDRRVRSARVPITAKV+ADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI  Q L+ +M+VSPDVGGVVRARA+AKRLNDAELSIIDKRRSGPNKSEVMHIIGEP+ +NCII+DDIVDTAGTLC+AA++LKKNGA SVRAYITHPVLSGPAV NI++S LDEVVVTDTIPLS  A+NC KIR+VSLADMLAQAIKRVNVEESVSSMF +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966470659|ref|WP_058501574.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella israelensis] &gt;gi|962241722|gb|KTD26079.1| ribose-phosphate pyrophosphokinase [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058501574</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.785</Hsp_bit-score>
+      <Hsp_score>1488</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>276</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKISSHLQMPMGQATVGTFSDGETMVEILENVRGKDVFIIQSTCSPANDNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLIEDIKNQKLKNLMVISPDVGGVVRARAMAKRLNDVELSIIDKRRSGPNKAEVMHIIGDPAGRNCLIVDDIVDTAGTLCSAAAKLKENGAASVRAYITHPVLSGPAVDNINNSSLDEVVVTDTIRLSEAAKTCHKIRVVSLADMLAQAIKRVNIEESVSSMFSE</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKISSHLQ+P+G+ATVGTFSDGETMVEILENVRGKDVF++QSTC+PAN+NLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVL+EDI  QKL N+M++SPDVGGVVRARA+AKRLND ELSIIDKRRSGPNK+EVMHIIG+PA +NC+IVDDIVDTAGTLC+AA +LK+NGA SVRAYITHPVLSGPAV+NI +S LDEVVVTDTI LS  A+ C KIRVVSLADMLAQAIKRVN+EESVSSMF+E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|654922065|ref|WP_028372622.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella lansingensis] &gt;gi|962237773|gb|KTD22212.1| ribose-phosphate pyrophosphokinase [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372622</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>577.015</Hsp_bit-score>
+      <Hsp_score>1486</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>273</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMIFTGNANPELALKIASHLQIPIGQATVGTFSDGETMVEILENVRGRDIFIIQSTCSPTNDNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRMLTVDLHADQIQGFFYMPVDNVYSTPILFEDIKQQNFSNLMVVSPDVGGVVRARAMAKQLNDADLSIIDKRRSGPNKAQVMHIIGEPAGRHCIIVDDIVDTAGTLCSAAQELKRNGAISVRAYITHPVLSGPAVENITNSALDEVVVTDTIPLSEAAKHCQKIRVVSLADMLAQAIKRVNVEESVSSMFVD</Hsp_hseq>
+      <Hsp_midline>MSTMMIFTGNANPELALKI+SHLQIPIG+ATVGTFSDGETMVEILENVRG+D+F++QSTC+P N+NLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICR+LTVDLHADQIQGFFYMPVDNVYSTP+L EDI +Q  +N+M+VSPDVGGVVRARA+AK+LNDA+LSIIDKRRSGPNK++VMHIIGEPA ++CIIVDDIVDTAGTLC+AA ELK+NGA SVRAYITHPVLSGPAV NI +S LDEVVVTDTIPLS  A++C+KIRVVSLADMLAQAIKRVNVEESVSSMF +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966506625|ref|WP_058523271.1|</Hit_id>
+  <Hit_def>ribose-phosphate pyrophosphokinase [Legionella birminghamensis] &gt;gi|962187281|gb|KTC72409.1| ribose-phosphate pyrophosphokinase [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058523271</Hit_accession>
+  <Hit_len>315</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>575.859</Hsp_bit-score>
+      <Hsp_score>1483</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>276</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>315</Hsp_align-len>
+      <Hsp_qseq>MSTMMIFTGNANPELALKISSHLQIPIGKATVGTFSDGETMVEILENVRGKDVFVLQSTCAPANNNLMELLIMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPVLLEDITKQKLNNIMIVSPDVGGVVRARAVAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPANKNCIIVDDIVDTAGTLCTAAHELKKNGAKSVRAYITHPVLSGPAVNNIKHSGLDEVVVTDTIPLSAEAQNCEKIRVVSLADMLAQAIKRVNVEESVSSMFAE</Hsp_qseq>
+      <Hsp_hseq>MSTMMLFTGNANPELALSIATYLQIPIGQASVGTFSDGETMVEILENVRGKDIFVIQSTCAPANDNLMELLTMADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTPILLEDIKQQNLNKLMVVSPDVGGVVRARAMAKRLNDAELSIIDKRRSGPNKSEVMHIIGEPNGKNCLIIDDIVDTAGTLCSAALQLKRNGAISVRAYITHAVLSGPAVNNIMESSLDEVVVTDTIPLSEKARQCPKIRTVSLADMLAQAIKRVNVEESVSSMFAD</Hsp_hseq>
+      <Hsp_midline>MSTMM+FTGNANPELAL I+++LQIPIG+A+VGTFSDGETMVEILENVRGKD+FV+QSTCAPAN+NLMELL MADALRRSSAGRITAVVPYFGYARQDRRVRSARVPITAKVVADMMASVGICRVLTVDLHADQIQGFFYMPVDNVYSTP+LLEDI +Q LN +M+VSPDVGGVVRARA+AKRLNDAELSIIDKRRSGPNKSEVMHIIGEP  KNC+I+DDIVDTAGTLC+AA +LK+NGA SVRAYITH VLSGPAVNNI  S LDEVVVTDTIPLS +A+ C KIR VSLADMLAQAIKRVNVEESVSSMFA+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
