@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_222699</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>211</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_222699</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>211</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248768|ref|WP_010946308.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|52840805|ref|YP_094604.1| hypothetical protein lpg0563 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627916|gb|AAU26657.1| hypothetical protein lpg0563 [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507320|gb|AEW50844.1| hypothetical protein lp12_0569 [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946308</Hit_accession>
+  <Hit_len>118</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>243.817</Hsp_bit-score>
+      <Hsp_score>621</Hsp_score>
+      <Hsp_evalue>2.92526e-80</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>118</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>118</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>118</Hsp_align-len>
+      <Hsp_qseq>MTNNKDKVYYYIVQCNNMENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTNNKDKVYYYIVQCNNMENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTNNKDKVYYYIVQCNNMENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379911|ref|WP_072356045.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356045</Hit_accession>
+  <Hit_len>101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.682</Hsp_bit-score>
+      <Hsp_score>522</Hsp_score>
+      <Hsp_evalue>1.87703e-65</Hsp_evalue>
+      <Hsp_query-from>111</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSLVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLS VQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119426395|ref|WP_072401695.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401695</Hit_accession>
+  <Hit_len>101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>203.756</Hsp_bit-score>
+      <Hsp_score>517</Hsp_score>
+      <Hsp_evalue>1.14192e-64</Hsp_evalue>
+      <Hsp_query-from>111</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLNLVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MENIMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAML+ VQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|504656320|ref|WP_014843422.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|395129650|emb|CCD07883.1| conserved protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|469492899|gb|AGH54744.1| hypothetical protein LPE509_02653 [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081225|gb|AGN13473.1| hypothetical protein LP6_0554 [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|985765906|gb|KXB27017.1| hypothetical protein PtVF66_02675 [Legionella pneumophila] &gt;gi|985767784|gb|KXB28870.1| hypothetical protein PtVF89_01160 [Legionella pneumophila] &gt;gi|998771497|emb|CZI74804.1| Phasin protein [Legionella pneumophila] &gt;gi|998774408|emb|CZH06797.1| Phasin protein [Legionella pneumophila] &gt;gi|998777288|emb|CZH10986.1| Phasin protein [Legionella pneumophila] &gt;gi|998783341|emb|CZH42636.1| Phasin protein [Legionella pneumophila] &gt;gi|998786198|emb|CZH05302.1| Phasin protein [Legionella pneumophila] &gt;gi|998791293|emb|CZG42685.1| Phasin protein [Legionella pneumophila] &gt;gi|998793090|emb|CZI49735.1| Phasin protein [Legionella pneumophila] &gt;gi|998795809|emb|CZI45561.1| Phasin protein [Legionella pneumophila] &gt;gi|998800599|emb|CZL13187.1| Phasin protein [Legionella pneumophila] &gt;gi|998804077|emb|CZK62654.1| Phasin protein [Legionella pneumophila] &gt;gi|998807167|emb|CZI29885.1| Phasin protein [Legionella pneumophila] &gt;gi|998810691|emb|CZI15665.1| Phasin protein [Legionella pneumophila] &gt;gi|998813150|emb|CZH15309.1| Phasin protein [Legionella pneumophila] &gt;gi|998816410|emb|CZM19587.1| Phasin protein [Legionella pneumophila] &gt;gi|998819773|emb|CZM02056.1| Phasin protein [Legionella pneumophila] &gt;gi|998825523|emb|CZK38230.1| Phasin protein [Legionella pneumophila] &gt;gi|998832860|emb|CZI20850.1| Phasin protein [Legionella pneumophila] &gt;gi|998834500|emb|CZL52191.1| Phasin protein [Legionella pneumophila] &gt;gi|998838732|emb|CZJ32085.1| Phasin protein [Legionella pneumophila] &gt;gi|998840477|emb|CZL82482.1| Phasin protein [Legionella pneumophila] &gt;gi|998843057|emb|CZL06687.1| Phasin protein [Legionella pneumophila] &gt;gi|998846288|emb|CZL08048.1| Phasin protein [Legionella pneumophila] &gt;gi|998849135|emb|CZI96060.1| Phasin protein [Legionella pneumophila] &gt;gi|998852401|emb|CZL86834.1| Phasin protein [Legionella pneumophila] &gt;gi|998855984|emb|CZL54700.1| Phasin protein [Legionella pneumophila] &gt;gi|998858649|emb|CZM30965.1| Phasin protein [Legionella pneumophila] &gt;gi|998862347|emb|CZK42200.1| Phasin protein [Legionella pneumophila] &gt;gi|998864797|emb|CZJ89951.1| Phasin protein [Legionella pneumophila] &gt;gi|998867246|emb|CZJ84168.1| Phasin protein [Legionella pneumophila] &gt;gi|998870168|emb|CZM40618.1| Phasin protein [Legionella pneumophila] &gt;gi|998873587|emb|CZK70778.1| Phasin protein [Legionella pneumophila] &gt;gi|998876181|emb|CZM46263.1| Phasin protein [Legionella pneumophila] &gt;gi|998879300|emb|CZJ73584.1| Phasin protein [Legionella pneumophila] &gt;gi|998885752|emb|CZM34237.1| Phasin protein [Legionella pneumophila] &gt;gi|998888560|emb|CZK48554.1| Phasin protein [Legionella pneumophila] &gt;gi|998892585|emb|CZJ22283.1| Phasin protein [Legionella pneumophila] &gt;gi|998895839|emb|CZK09788.1| Phasin protein [Legionella pneumophila] &gt;gi|998905229|emb|CZK90916.1| Phasin protein [Legionella pneumophila] &gt;gi|998908384|emb|CZL66251.1| Phasin protein [Legionella pneumophila] &gt;gi|998916125|emb|CZK73755.1| Phasin protein [Legionella pneumophila] &gt;gi|998917454|emb|CZL62213.1| Phasin protein [Legionella pneumophila] &gt;gi|998920434|emb|CZL69478.1| Phasin protein [Legionella pneumophila] &gt;gi|998926793|emb|CZL97479.1| Phasin protein [Legionella pneumophila] &gt;gi|998930957|emb|CZK83976.1| Phasin protein [Legionella pneumophila] &gt;gi|998933640|emb|CZL66511.1| Phasin protein [Legionella pneumophila] &gt;gi|998938706|emb|CZL19543.1| Phasin protein [Legionella pneumophila] &gt;gi|998946289|emb|CZK73342.1| Phasin protein [Legionella pneumophila] &gt;gi|998947953|emb|CZL27877.1| Phasin protein [Legionella pneumophila] &gt;gi|998956921|emb|CZM65243.1| Phasin protein [Legionella pneumophila] &gt;gi|998960500|emb|CZK70234.1| Phasin protein [Legionella pneumophila] &gt;gi|998963124|emb|CZK77980.1| Phasin protein [Legionella pneumophila] &gt;gi|998966674|emb|CZM39725.1| Phasin protein [Legionella pneumophila] &gt;gi|998969414|emb|CZL07910.1| Phasin protein [Legionella pneumophila] &gt;gi|998972423|emb|CZK84206.1| Phasin protein [Legionella pneumophila] &gt;gi|998978537|emb|CZM02700.1| Phasin protein [Legionella pneumophila] &gt;gi|998981327|emb|CZJ18803.1| Phasin protein [Legionella pneumophila] &gt;gi|998986147|emb|CZK11809.1| Phasin protein [Legionella pneumophila] &gt;gi|998987465|emb|CZL88094.1| Phasin protein [Legionella pneumophila] &gt;gi|998998315|emb|CZJ98530.1| Phasin protein [Legionella pneumophila] &gt;gi|999006387|emb|CZL21449.1| Phasin protein [Legionella pneumophila] &gt;gi|999011852|emb|CZL83271.1| Phasin protein [Legionella pneumophila] &gt;gi|999014893|emb|CZM76295.1| Phasin protein [Legionella pneumophila] &gt;gi|999021260|emb|CZL95883.1| Phasin protein [Legionella pneumophila] &gt;gi|999024009|emb|CZL19582.1| Phasin protein [Legionella pneumophila] &gt;gi|999036270|emb|CZL87277.1| Phasin protein [Legionella pneumophila] &gt;gi|999045200|emb|CZM30168.1| Phasin protein [Legionella pneumophila] &gt;gi|999060324|emb|CZL81947.1| Phasin protein [Legionella pneumophila] &gt;gi|999066522|emb|CZJ51545.1| Phasin protein [Legionella pneumophila] &gt;gi|999078655|emb|CZK45969.1| Phasin protein [Legionella pneumophila] &gt;gi|999083122|emb|CZK88150.1| Phasin protein [Legionella pneumophila] &gt;gi|999087866|emb|CZL14337.1| Phasin protein [Legionella pneumophila] &gt;gi|999090928|emb|CZL89037.1| Phasin protein [Legionella pneumophila] &gt;gi|999101427|emb|CZL76944.1| Phasin protein [Legionella pneumophila] &gt;gi|999107240|emb|CZI76654.1| Phasin protein [Legionella pneumophila] &gt;gi|999110887|emb|CZL03550.1| Phasin protein [Legionella pneumophila] &gt;gi|999114088|emb|CZL60646.1| Phasin protein [Legionella pneumophila] &gt;gi|999115980|emb|CZK75361.1| Phasin protein [Legionella pneumophila] &gt;gi|999119217|emb|CZG74770.1| Phasin protein [Legionella pneumophila] &gt;gi|999122575|emb|CZH15173.1| Phasin protein [Legionella pneumophila] &gt;gi|999124711|emb|CZL30976.1| Phasin protein [Legionella pneumophila] &gt;gi|999132474|emb|CZL68803.1| Phasin protein [Legionella pneumophila] &gt;gi|999133924|emb|CZL48848.1| Phasin protein [Legionella pneumophila] &gt;gi|999136940|emb|CZK86732.1| Phasin protein [Legionella pneumophila] &gt;gi|999140923|emb|CZL87849.1| Phasin protein [Legionella pneumophila] &gt;gi|999144882|emb|CZK82932.1| Phasin protein [Legionella pneumophila] &gt;gi|999146410|emb|CZM13235.1| Phasin protein [Legionella pneumophila] &gt;gi|999155574|emb|CZI36679.1| Phasin protein [Legionella pneumophila] &gt;gi|999174175|emb|CZL60055.1| Phasin protein [Legionella pneumophila] &gt;gi|999208398|emb|CZL33702.1| Phasin protein [Legionella pneumophila] &gt;gi|999217908|emb|CZM03498.1| Phasin protein [Legionella pneumophila] &gt;gi|999230599|emb|CZI94203.1| Phasin protein [Legionella pneumophila] &gt;gi|999333317|emb|CZL29388.1| Phasin protein [Legionella pneumophila] &gt;gi|1002074245|emb|CZR05153.1| Phasin protein [Legionella pneumophila] &gt;gi|1002078777|emb|CZQ91597.1| Phasin protein [Legionella pneumophila] &gt;gi|1002081646|emb|CZR00911.1| Phasin protein [Legionella pneumophila] &gt;gi|1003021495|emb|CZR27009.1| Phasin protein [Legionella pneumophila] &gt;gi|1003024465|emb|CZR30103.1| Phasin protein [Legionella pneumophila] &gt;gi|1005362833|gb|AMP88702.1| hypothetical protein AXF35_02905 [Legionella pneumophila subsp. pascullei] &gt;gi|1005365834|gb|AMP91611.1| hypothetical protein AXF36_02890 [Legionella pneumophila subsp. pascullei] &gt;gi|1005368821|gb|AMP94597.1| hypothetical protein AXF37_02895 [Legionella pneumophila subsp. pascullei] &gt;gi|1024341715|gb|KZX36022.1| hypothetical protein PtVFX2014_13095 [Legionella pneumophila] &gt;gi|1032656735|gb|ANH12006.1| hypothetical protein A5478_02835 [Legionella pneumophila] &gt;gi|1032659702|gb|ANH14972.1| hypothetical protein A5480_02835 [Legionella pneumophila] &gt;gi|1032662669|gb|ANH17938.1| hypothetical protein A5479_02835 [Legionella pneumophila] &gt;gi|1073863725|gb|AOU03676.1| hypothetical protein A9E97_02790 [Legionella pneumophila] &gt;gi|1073866683|gb|AOU06633.1| hypothetical protein A9E98_02785 [Legionella pneumophila] &gt;gi|1073869688|gb|AOU09637.1| hypothetical protein A9F03_02970 [Legionella pneumophila] &gt;gi|1073872633|gb|AOU12581.1| hypothetical protein A9E99_02790 [Legionella pneumophila] &gt;gi|1073875614|gb|AOU15561.1| hypothetical protein A9F00_02970 [Legionella pneumophila] &gt;gi|1073878576|gb|AOU18522.1| hypothetical protein A9F01_02790 [Legionella pneumophila] &gt;gi|1073881570|gb|AOU21515.1| hypothetical protein A9F02_02970 [Legionella pneumophila] &gt;gi|1073884532|gb|AOU24476.1| hypothetical protein A9E77_02785 [Legionella pneumophila] &gt;gi|1073887531|gb|AOU27474.1| hypothetical protein A9E78_02790 [Legionella pneumophila] &gt;gi|1073890514|gb|AOU30456.1| hypothetical protein A9E79_02965 [Legionella pneumophila] &gt;gi|1073893479|gb|AOU33420.1| hypothetical protein A9E80_02785 [Legionella pneumophila] &gt;gi|1073896444|gb|AOU36384.1| hypothetical protein A9E81_02785 [Legionella pneumophila] &gt;gi|1073899408|gb|AOU39347.1| hypothetical protein A9E82_02790 [Legionella pneumophila] &gt;gi|1073902360|gb|AOU42298.1| hypothetical protein A9E83_02790 [Legionella pneumophila] &gt;gi|1073905271|gb|AOU45208.1| hypothetical protein A9E84_02790 [Legionella pneumophila] &gt;gi|1073908288|gb|AOU48223.1| hypothetical protein A9E85_02790 [Legionella pneumophila] &gt;gi|1073911344|gb|AOU51276.1| hypothetical protein A9E86_02795 [Legionella pneumophila] &gt;gi|1073914262|gb|AOU54193.1| hypothetical protein A9E87_02785 [Legionella pneumophila] &gt;gi|1073917220|gb|AOU57150.1| hypothetical protein A9E88_02785 [Legionella pneumophila] &gt;gi|1073920187|gb|AOU60116.1| hypothetical protein A9E89_02790 [Legionella pneumophila] &gt;gi|1073923160|gb|AOU63087.1| hypothetical protein A9E90_02785 [Legionella pneumophila] &gt;gi|1073926174|gb|AOU66100.1| hypothetical protein A9E91_02790 [Legionella pneumophila] &gt;gi|1073929154|gb|AOU69063.1| hypothetical protein A9E92_02800 [Legionella pneumophila] &gt;gi|1073932538|gb|AOU72097.1| hypothetical protein A9E93_02790 [Legionella pneumophila] &gt;gi|1073935485|gb|AOU82484.1| hypothetical protein A9E94_02785 [Legionella pneumophila] &gt;gi|1073945760|gb|AOU85484.1| hypothetical protein A9E95_02965 [Legionella pneumophila] &gt;gi|1073948723|gb|AOU88446.1| hypothetical protein A9E96_02785 [Legionella pneumophila] &gt;gi|1104001880|emb|SFZ36625.1| Phasin protein [Legionella pneumophila] &gt;gi|1108604029|gb|APF02397.1| hypothetical protein BIZ52_03055 [Legionella pneumophila subsp. fraseri] &gt;gi|1108607040|gb|APF05407.1| hypothetical protein BIZ51_03055 [Legionella pneumophila subsp. fraseri] &gt;gi|1129967338|gb|APT97697.1| hypothetical protein AVR58_02775 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843422</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>200.29</Hsp_bit-score>
+      <Hsp_score>508</Hsp_score>
+      <Hsp_evalue>2.71122e-63</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|502866151|ref|WP_013101127.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|295648052|gb|ADG23899.1| hypothetical protein lpa_00892 [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989428|dbj|GAN22696.1| phasin protein [Legionella pneumophila] &gt;gi|761992535|dbj|GAN16575.1| phasin protein [Legionella pneumophila] &gt;gi|761995725|dbj|GAN19681.1| phasin protein [Legionella pneumophila] &gt;gi|761998940|dbj|GAN29049.1| phasin protein [Legionella pneumophila] &gt;gi|998801796|emb|CZI06985.1| Phasin protein [Legionella pneumophila] &gt;gi|998912201|emb|CZH25304.1| Phasin protein [Legionella pneumophila] &gt;gi|998994619|emb|CZI24717.1| Phasin protein [Legionella pneumophila] &gt;gi|999003099|emb|CZI79872.1| Phasin protein [Legionella pneumophila] &gt;gi|999075405|emb|CZH17947.1| Phasin protein [Legionella pneumophila] &gt;gi|999093914|emb|CZH51432.1| Phasin protein [Legionella pneumophila] &gt;gi|999096934|emb|CZH50801.1| Phasin protein [Legionella pneumophila] &gt;gi|999150012|emb|CZI50661.1| Phasin protein [Legionella pneumophila] &gt;gi|999159362|emb|CZJ70810.1| Phasin protein [Legionella pneumophila] &gt;gi|999165764|emb|CZG86412.1| Phasin protein [Legionella pneumophila] &gt;gi|999168660|emb|CZI47745.1| Phasin protein [Legionella pneumophila] &gt;gi|999178369|emb|CZJ57272.1| Phasin protein [Legionella pneumophila] &gt;gi|999189766|emb|CZI74359.1| Phasin protein [Legionella pneumophila] &gt;gi|999192886|emb|CZJ14719.1| Phasin protein [Legionella pneumophila] &gt;gi|999199285|emb|CZH02759.1| Phasin protein [Legionella pneumophila] &gt;gi|999202095|emb|CZJ19445.1| Phasin protein [Legionella pneumophila] &gt;gi|999220877|emb|CZJ06825.1| Phasin protein [Legionella pneumophila] &gt;gi|999286053|emb|CZJ09142.1| Phasin protein [Legionella pneumophila] &gt;gi|999292368|emb|CZI86224.1| Phasin protein [Legionella pneumophila] &gt;gi|999301794|emb|CZI71872.1| Phasin protein [Legionella pneumophila] &gt;gi|999311334|emb|CZJ22673.1| Phasin protein [Legionella pneumophila] &gt;gi|1002090919|emb|CZR11615.1| Phasin protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_013101127</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.364</Hsp_bit-score>
+      <Hsp_score>503</Hsp_score>
+      <Hsp_evalue>1.43024e-62</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLGFVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAML FVQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|499526542|ref|WP_011213182.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|53750377|emb|CAH11771.1| hypothetical protein lpp0623 [Legionella pneumophila str. Paris] &gt;gi|395126543|emb|CCD04726.1| conserved protein of unknown function [Legionella pneumophila subsp. pneumophila] &gt;gi|536613666|gb|ERB42038.1| hypothetical protein N748_06770 [Legionella pneumophila str. 121004] &gt;gi|541995236|gb|ERH41355.1| hypothetical protein N750_16925 [Legionella pneumophila str. Leg01/53] &gt;gi|541995633|gb|ERH41732.1| hypothetical protein N751_06155 [Legionella pneumophila str. Leg01/11] &gt;gi|542121214|gb|ERI47547.1| hypothetical protein N749_13725 [Legionella pneumophila str. Leg01/20] &gt;gi|762002581|dbj|GAN25699.1| phasin protein [Legionella pneumophila] &gt;gi|998923698|emb|CZK22994.1| Phasin protein [Legionella pneumophila] &gt;gi|998943768|emb|CZJ49068.1| Phasin protein [Legionella pneumophila] &gt;gi|998954305|emb|CZK59244.1| Phasin protein [Legionella pneumophila] &gt;gi|998975476|emb|CZJ89007.1| Phasin protein [Legionella pneumophila] &gt;gi|998992858|emb|CZJ49097.1| Phasin protein [Legionella pneumophila] &gt;gi|999009089|emb|CZK48521.1| Phasin protein [Legionella pneumophila] &gt;gi|999018252|emb|CZJ88770.1| Phasin protein [Legionella pneumophila] &gt;gi|999027366|emb|CZK26297.1| Phasin protein [Legionella pneumophila] &gt;gi|999030532|emb|CZH22566.1| Phasin protein [Legionella pneumophila] &gt;gi|999033317|emb|CZK21764.1| Phasin protein [Legionella pneumophila] &gt;gi|999039522|emb|CZJ97083.1| Phasin protein [Legionella pneumophila] &gt;gi|999042411|emb|CZK03654.1| Phasin protein [Legionella pneumophila] &gt;gi|999048556|emb|CZK03032.1| Phasin protein [Legionella pneumophila] &gt;gi|999051541|emb|CZJ91128.1| Phasin protein [Legionella pneumophila] &gt;gi|999054580|emb|CZK31142.1| Phasin protein [Legionella pneumophila] &gt;gi|999063653|emb|CZK00857.1| Phasin protein [Legionella pneumophila] &gt;gi|999070604|emb|CZJ66156.1| Phasin protein [Legionella pneumophila] &gt;gi|999072823|emb|CZK33413.1| Phasin protein [Legionella pneumophila] &gt;gi|999084961|emb|CZK29139.1| Phasin protein [Legionella pneumophila] &gt;gi|999171820|emb|CZI28199.1| Phasin protein [Legionella pneumophila] &gt;gi|999181609|emb|CZG50357.1| Phasin protein [Legionella pneumophila] &gt;gi|999184297|emb|CZP95451.1| Phasin protein [Legionella pneumophila] &gt;gi|999187776|emb|CZI94492.1| Phasin protein [Legionella pneumophila] &gt;gi|999198430|emb|CZP11989.1| Phasin protein [Legionella pneumophila] &gt;gi|999206163|emb|CZP61776.1| Phasin protein [Legionella pneumophila] &gt;gi|999212693|emb|CZG75893.1| Phasin protein [Legionella pneumophila] &gt;gi|999216949|emb|CZI67582.1| Phasin protein [Legionella pneumophila] &gt;gi|999225361|emb|CZG85369.1| Phasin protein [Legionella pneumophila] &gt;gi|999228266|emb|CZP06695.1| Phasin protein [Legionella pneumophila] &gt;gi|999235171|emb|CZP56918.1| Phasin protein [Legionella pneumophila] &gt;gi|999240319|emb|CZH92167.1| Phasin protein [Legionella pneumophila] &gt;gi|999244336|emb|CZH75247.1| Phasin protein [Legionella pneumophila] &gt;gi|999247848|emb|CZH54905.1| Phasin protein [Legionella pneumophila] &gt;gi|999248742|emb|CZH06898.1| Phasin protein [Legionella pneumophila] &gt;gi|999251958|emb|CZH35711.1| Phasin protein [Legionella pneumophila] &gt;gi|999255948|emb|CZP78534.1| Phasin protein [Legionella pneumophila] &gt;gi|999259146|emb|CZP47989.1| Phasin protein [Legionella pneumophila] &gt;gi|999261266|emb|CZH40253.1| Phasin protein [Legionella pneumophila] &gt;gi|999265183|emb|CZP06161.1| Phasin protein [Legionella pneumophila] &gt;gi|999269395|emb|CZO32192.1| Phasin protein [Legionella pneumophila] &gt;gi|999272197|emb|CZP56766.1| Phasin protein [Legionella pneumophila] &gt;gi|999274764|emb|CZG77079.1| Phasin protein [Legionella pneumophila] &gt;gi|999277579|emb|CZP35495.1| Phasin protein [Legionella pneumophila] &gt;gi|999281390|emb|CZP17693.1| Phasin protein [Legionella pneumophila] &gt;gi|999283642|emb|CZP60908.1| Phasin protein [Legionella pneumophila] &gt;gi|999290959|emb|CZP31161.1| Phasin protein [Legionella pneumophila] &gt;gi|999296514|emb|CZP59164.1| Phasin protein [Legionella pneumophila] &gt;gi|999299601|emb|CZP49165.1| Phasin protein [Legionella pneumophila] &gt;gi|999307277|emb|CZH69542.1| Phasin protein [Legionella pneumophila] &gt;gi|999309341|emb|CZP25601.1| Phasin protein [Legionella pneumophila] &gt;gi|999315851|emb|CZI11295.1| Phasin protein [Legionella pneumophila] &gt;gi|999318649|emb|CZP64324.1| Phasin protein [Legionella pneumophila] &gt;gi|999321991|emb|CZH96999.1| Phasin protein [Legionella pneumophila] &gt;gi|999324470|emb|CZH34199.1| Phasin protein [Legionella pneumophila] &gt;gi|999328594|emb|CZG62501.1| Phasin protein [Legionella pneumophila] &gt;gi|999331894|emb|CZG60986.1| Phasin protein [Legionella pneumophila] &gt;gi|999337728|emb|CZP46214.1| Phasin protein [Legionella pneumophila] &gt;gi|999340050|emb|CZH25489.1| Phasin protein [Legionella pneumophila] &gt;gi|999344481|emb|CZP84997.1| Phasin protein [Legionella pneumophila] &gt;gi|999347180|emb|CZP62501.1| Phasin protein [Legionella pneumophila] &gt;gi|999349737|emb|CZH42443.1| Phasin protein [Legionella pneumophila] &gt;gi|999353502|emb|CZP69974.1| Phasin protein [Legionella pneumophila] &gt;gi|999357260|emb|CZP68813.1| Phasin protein [Legionella pneumophila] &gt;gi|999359939|emb|CZI60071.1| Phasin protein [Legionella pneumophila] &gt;gi|999363840|emb|CZP57370.1| Phasin protein [Legionella pneumophila] &gt;gi|999367088|emb|CZP75747.1| Phasin protein [Legionella pneumophila] &gt;gi|999369969|emb|CZP78351.1| Phasin protein [Legionella pneumophila] &gt;gi|999373489|emb|CZG58279.1| Phasin protein [Legionella pneumophila] &gt;gi|999376524|emb|CZJ19901.1| Phasin protein [Legionella pneumophila] &gt;gi|999379720|emb|CZH68830.1| Phasin protein [Legionella pneumophila] &gt;gi|999382615|emb|CZI56046.1| Phasin protein [Legionella pneumophila] &gt;gi|999386316|emb|CZG65648.1| Phasin protein [Legionella pneumophila] &gt;gi|999389065|emb|CZI54928.1| Phasin protein [Legionella pneumophila] &gt;gi|999392277|emb|CZP97695.1| Phasin protein [Legionella pneumophila] &gt;gi|999396937|emb|CZG11408.1| Phasin protein [Legionella pneumophila] &gt;gi|999398525|emb|CZQ00621.1| Phasin protein [Legionella pneumophila] &gt;gi|999403150|emb|CZP42787.1| Phasin protein [Legionella pneumophila] &gt;gi|999405953|emb|CZG74067.1| Phasin protein [Legionella pneumophila] &gt;gi|999408860|emb|CZH89008.1| Phasin protein [Legionella pneumophila] &gt;gi|999412708|emb|CZG31762.1| Phasin protein [Legionella pneumophila] &gt;gi|999415465|emb|CZG90246.1| Phasin protein [Legionella pneumophila] &gt;gi|999418805|emb|CZG65882.1| Phasin protein [Legionella pneumophila] &gt;gi|999422000|emb|CZH73939.1| Phasin protein [Legionella pneumophila] &gt;gi|999425314|emb|CZG76255.1| Phasin protein [Legionella pneumophila] &gt;gi|999428332|emb|CZG70518.1| Phasin protein [Legionella pneumophila] &gt;gi|999431678|emb|CZG74812.1| Phasin protein [Legionella pneumophila] &gt;gi|999435036|emb|CZI02243.1| Phasin protein [Legionella pneumophila] &gt;gi|999438220|emb|CZG63901.1| Phasin protein [Legionella pneumophila] &gt;gi|999441216|emb|CZK30628.1| Phasin protein [Legionella pneumophila] &gt;gi|999444591|emb|CZH75505.1| Phasin protein [Legionella pneumophila] &gt;gi|999447794|emb|CZG51997.1| Phasin protein [Legionella pneumophila] &gt;gi|999450594|emb|CZP34887.1| Phasin protein [Legionella pneumophila] &gt;gi|999454097|emb|CZI23508.1| Phasin protein [Legionella pneumophila] &gt;gi|999457535|emb|CZK20288.1| Phasin protein [Legionella pneumophila] &gt;gi|999460562|emb|CZH02767.1| Phasin protein [Legionella pneumophila] &gt;gi|999464881|emb|CZM54191.1| Phasin protein [Legionella pneumophila] &gt;gi|999467905|emb|CZO31293.1| Phasin protein [Legionella pneumophila] &gt;gi|999469283|emb|CZH05872.1| Phasin protein [Legionella pneumophila] &gt;gi|999474670|emb|CZM60055.1| Phasin protein [Legionella pneumophila] &gt;gi|999477127|emb|CZN73276.1| Phasin protein [Legionella pneumophila] &gt;gi|999480629|emb|CZM98562.1| Phasin protein [Legionella pneumophila] &gt;gi|999484280|emb|CZN91298.1| Phasin protein [Legionella pneumophila] &gt;gi|999487061|emb|CZM10272.1| Phasin protein [Legionella pneumophila] &gt;gi|999490234|emb|CZN77367.1| Phasin protein [Legionella pneumophila] &gt;gi|999493425|emb|CZM09874.1| Phasin protein [Legionella pneumophila] &gt;gi|999496220|emb|CZI44868.1| Phasin protein [Legionella pneumophila] &gt;gi|999500005|emb|CZN72127.1| Phasin protein [Legionella pneumophila] &gt;gi|999503131|emb|CZO05790.1| Phasin protein [Legionella pneumophila] &gt;gi|999506401|emb|CZN17670.1| Phasin protein [Legionella pneumophila] &gt;gi|999509604|emb|CZG53037.1| Phasin protein [Legionella pneumophila] &gt;gi|999512942|emb|CZN31290.1| Phasin protein [Legionella pneumophila] &gt;gi|999515970|emb|CZL99156.1| Phasin protein [Legionella pneumophila] &gt;gi|999519033|emb|CZM85589.1| Phasin protein [Legionella pneumophila] &gt;gi|999521837|emb|CZP14703.1| Phasin protein [Legionella pneumophila] &gt;gi|999525393|emb|CZJ09222.1| Phasin protein [Legionella pneumophila] &gt;gi|999528106|emb|CZI76335.1| Phasin protein [Legionella pneumophila] &gt;gi|999532389|emb|CZO47742.1| Phasin protein [Legionella pneumophila] &gt;gi|999535545|emb|CZN41520.1| Phasin protein [Legionella pneumophila] &gt;gi|999538626|emb|CZM77745.1| Phasin protein [Legionella pneumophila] &gt;gi|999542070|emb|CZO21937.1| Phasin protein [Legionella pneumophila] &gt;gi|999545032|emb|CZO62425.1| Phasin protein [Legionella pneumophila] &gt;gi|999548124|emb|CZN87766.1| Phasin protein [Legionella pneumophila] &gt;gi|999551436|emb|CZO09363.1| Phasin protein [Legionella pneumophila] &gt;gi|999554471|emb|CZN29666.1| Phasin protein [Legionella pneumophila] &gt;gi|999557954|emb|CZO57225.1| Phasin protein [Legionella pneumophila] &gt;gi|999561037|emb|CZM39772.1| Phasin protein [Legionella pneumophila] &gt;gi|999564043|emb|CZO64935.1| Phasin protein [Legionella pneumophila] &gt;gi|999567407|emb|CZM51220.1| Phasin protein [Legionella pneumophila] &gt;gi|999570607|emb|CZN49349.1| Phasin protein [Legionella pneumophila] &gt;gi|999573795|emb|CZN90837.1| Phasin protein [Legionella pneumophila] &gt;gi|999575993|emb|CZI40898.1| Phasin protein [Legionella pneumophila] &gt;gi|999580287|emb|CZO14570.1| Phasin protein [Legionella pneumophila] &gt;gi|999583575|emb|CZO36298.1| Phasin protein [Legionella pneumophila] &gt;gi|999586938|emb|CZM62832.1| Phasin protein [Legionella pneumophila] &gt;gi|999590027|emb|CZM41830.1| Phasin protein [Legionella pneumophila] &gt;gi|999593186|emb|CZN46641.1| Phasin protein [Legionella pneumophila] &gt;gi|999596259|emb|CZO13815.1| Phasin protein [Legionella pneumophila] &gt;gi|999599579|emb|CZO39450.1| Phasin protein [Legionella pneumophila] &gt;gi|999602595|emb|CZL94894.1| Phasin protein [Legionella pneumophila] &gt;gi|999605383|emb|CZN71189.1| Phasin protein [Legionella pneumophila] &gt;gi|999608920|emb|CZN62064.1| Phasin protein [Legionella pneumophila] &gt;gi|999611249|emb|CZI61236.1| Phasin protein [Legionella pneumophila] &gt;gi|999615532|emb|CZM45510.1| Phasin protein [Legionella pneumophila] &gt;gi|999618699|emb|CZN92731.1| Phasin protein [Legionella pneumophila] &gt;gi|999621731|emb|CZO80166.1| Phasin protein [Legionella pneumophila] &gt;gi|999625059|emb|CZN69824.1| Phasin protein [Legionella pneumophila] &gt;gi|999628442|emb|CZM64318.1| Phasin protein [Legionella pneumophila] &gt;gi|999631508|emb|CZM57773.1| Phasin protein [Legionella pneumophila] &gt;gi|999634568|emb|CZN57627.1| Phasin protein [Legionella pneumophila] &gt;gi|999637896|emb|CZN49514.1| Phasin protein [Legionella pneumophila] &gt;gi|999641092|emb|CZO77651.1| Phasin protein [Legionella pneumophila] &gt;gi|999644084|emb|CZO51047.1| Phasin protein [Legionella pneumophila] &gt;gi|999647575|emb|CZN93332.1| Phasin protein [Legionella pneumophila] &gt;gi|999650739|emb|CZO06401.1| Phasin protein [Legionella pneumophila] &gt;gi|999653876|emb|CZN99563.1| Phasin protein [Legionella pneumophila] &gt;gi|999657073|emb|CZM27689.1| Phasin protein [Legionella pneumophila] &gt;gi|999660147|emb|CZM63692.1| Phasin protein [Legionella pneumophila] &gt;gi|999663422|emb|CZN19394.1| Phasin protein [Legionella pneumophila] &gt;gi|999666787|emb|CZM40240.1| Phasin protein [Legionella pneumophila] &gt;gi|999669979|emb|CZL85938.1| Phasin protein [Legionella pneumophila] &gt;gi|999673057|emb|CZM36291.1| Phasin protein [Legionella pneumophila] &gt;gi|999676373|emb|CZN79923.1| Phasin protein [Legionella pneumophila] &gt;gi|999679282|emb|CZM76994.1| Phasin protein [Legionella pneumophila] &gt;gi|999682477|emb|CZM80721.1| Phasin protein [Legionella pneumophila] &gt;gi|999686164|emb|CZN98134.1| Phasin protein [Legionella pneumophila] &gt;gi|999689168|emb|CZN31896.1| Phasin protein [Legionella pneumophila] &gt;gi|999692361|emb|CZO01339.1| Phasin protein [Legionella pneumophila] &gt;gi|999695578|emb|CZN31494.1| Phasin protein [Legionella pneumophila] &gt;gi|999698755|emb|CZM10798.1| Phasin protein [Legionella pneumophila] &gt;gi|999701699|emb|CZM76300.1| Phasin protein [Legionella pneumophila] &gt;gi|999704934|emb|CZL92423.1| Phasin protein [Legionella pneumophila] &gt;gi|999708208|emb|CZN58352.1| Phasin protein [Legionella pneumophila] &gt;gi|999711627|emb|CZN02958.1| Phasin protein [Legionella pneumophila] &gt;gi|999714723|emb|CZN23740.1| Phasin protein [Legionella pneumophila] &gt;gi|999717947|emb|CZO43893.1| Phasin protein [Legionella pneumophila] &gt;gi|999720903|emb|CZM91561.1| Phasin protein [Legionella pneumophila] &gt;gi|999724422|emb|CZN32252.1| Phasin protein [Legionella pneumophila] &gt;gi|999727873|emb|CZM00729.1| Phasin protein [Legionella pneumophila] &gt;gi|999730944|emb|CZO42184.1| Phasin protein [Legionella pneumophila] &gt;gi|999734216|emb|CZM26924.1| Phasin protein [Legionella pneumophila] &gt;gi|999737444|emb|CZO69109.1| Phasin protein [Legionella pneumophila] &gt;gi|999740925|emb|CZM30361.1| Phasin protein [Legionella pneumophila] &gt;gi|999744137|emb|CZN28267.1| Phasin protein [Legionella pneumophila] &gt;gi|999747279|emb|CZM26239.1| Phasin protein [Legionella pneumophila] &gt;gi|999750489|emb|CZL94091.1| Phasin protein [Legionella pneumophila] &gt;gi|999753685|emb|CZM79561.1| Phasin protein [Legionella pneumophila] &gt;gi|999756736|emb|CZN08534.1| Phasin protein [Legionella pneumophila] &gt;gi|999760237|emb|CZM22542.1| Phasin protein [Legionella pneumophila] &gt;gi|999763418|emb|CZN31695.1| Phasin protein [Legionella pneumophila] &gt;gi|999766944|emb|CZM50615.1| Phasin protein [Legionella pneumophila] &gt;gi|999769793|emb|CZN52827.1| Phasin protein [Legionella pneumophila] &gt;gi|999773094|emb|CZH88407.1| Phasin protein [Legionella pneumophila] &gt;gi|999776257|emb|CZM01496.1| Phasin protein [Legionella pneumophila] &gt;gi|999777523|emb|CZH51721.1| Phasin protein [Legionella pneumophila] &gt;gi|999782855|emb|CZH61562.1| Phasin protein [Legionella pneumophila] &gt;gi|999786456|emb|CZM26247.1| Phasin protein [Legionella pneumophila] &gt;gi|999789621|emb|CZO69250.1| Phasin protein [Legionella pneumophila] &gt;gi|999792966|emb|CZO62342.1| Phasin protein [Legionella pneumophila] &gt;gi|999796040|emb|CZI19843.1| Phasin protein [Legionella pneumophila] &gt;gi|999799851|emb|CZO57980.1| Phasin protein [Legionella pneumophila] &gt;gi|1003029151|emb|CZR18918.1| Phasin protein [Legionella pneumophila] &gt;gi|1003036334|emb|CZR16704.1| Phasin protein [Legionella pneumophila] &gt;gi|1005832326|gb|AMQ27052.1| hypothetical protein lpt_03245 [Legionella pneumophila subsp. pneumophila] &gt;gi|1041014596|gb|ANN91657.1| hypothetical protein A9P85_03070 [Legionella pneumophila] &gt;gi|1041017694|gb|ANN94754.1| hypothetical protein A9P84_03130 [Legionella pneumophila] &gt;gi|1103995628|emb|SFZ36916.1| Phasin protein [Legionella pneumophila] &gt;gi|1103998760|emb|SFZ36616.1| Phasin protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213182</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>198.364</Hsp_bit-score>
+      <Hsp_score>503</Hsp_score>
+      <Hsp_evalue>1.68531e-62</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSLVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLS VQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1011913245|ref|WP_062726459.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726459</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.208</Hsp_bit-score>
+      <Hsp_score>500</Hsp_score>
+      <Hsp_evalue>3.7868e-62</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEGKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAE KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499533511|ref|WP_011214795.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|53753386|emb|CAH14839.1| hypothetical protein lpl0606 [Legionella pneumophila str. Lens] &gt;gi|998783054|emb|CZI87242.1| Phasin protein [Legionella pneumophila] &gt;gi|998822517|emb|CZH36301.1| Phasin protein [Legionella pneumophila] &gt;gi|998828359|emb|CZH39459.1| Phasin protein [Legionella pneumophila] &gt;gi|998882170|emb|CZJ30923.1| Phasin protein [Legionella pneumophila] &gt;gi|998897506|emb|CZK15732.1| Phasin protein [Legionella pneumophila] &gt;gi|998938071|emb|CZL88758.1| Phasin protein [Legionella pneumophila] &gt;gi|998950700|emb|CZK10460.1| Phasin protein [Legionella pneumophila] &gt;gi|999000130|emb|CZG96215.1| Phasin protein [Legionella pneumophila] &gt;gi|999058406|emb|CZM27858.1| Phasin protein [Legionella pneumophila] &gt;gi|999103664|emb|CZI18151.1| Phasin protein [Legionella pneumophila] &gt;gi|999128542|emb|CZH17914.1| Phasin protein [Legionella pneumophila] &gt;gi|999152265|emb|CZM98958.1| Phasin protein [Legionella pneumophila] &gt;gi|999161519|emb|CZM54940.1| Phasin protein [Legionella pneumophila] &gt;gi|999236667|emb|CZG92142.1| Phasin protein [Legionella pneumophila] &gt;gi|1002085510|emb|CZQ97124.1| Phasin protein [Legionella pneumophila] &gt;gi|1002088340|emb|CZQ79099.1| Phasin protein [Legionella pneumophila] &gt;gi|1080002168|gb|AOW52740.1| hypothetical protein BE841_09855 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006079|gb|AOW56359.1| hypothetical protein BE842_13785 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008062|gb|AOW58050.1| hypothetical protein BE843_07155 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012277|gb|AOW61768.1| hypothetical protein BE844_11615 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014666|gb|AOW63539.1| hypothetical protein BE845_05425 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018520|gb|AOW67165.1| hypothetical protein BE846_09380 [Legionella pneumophila subsp. pneumophila] &gt;gi|1104005445|emb|SFZ36617.1| Phasin protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011214795</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>196.052</Hsp_bit-score>
+      <Hsp_score>497</Hsp_score>
+      <Hsp_evalue>1.37685e-61</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>95</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLNLVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAML+ VQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|500490336|ref|WP_011945741.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|148282555|gb|ABQ56643.1| hypothetical protein conserved within Legionellae [Legionella pneumophila str. Corby]</Hit_def>
+  <Hit_accession>WP_011945741</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>195.282</Hsp_bit-score>
+      <Hsp_score>495</Hsp_score>
+      <Hsp_evalue>2.43179e-61</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLKKQINLAVKNGHKALDYMQKSFQIIEKAMLGFVQEAKKTTAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEML+KQINLAV+NGHKALDYMQKSFQIIEKAML FVQEAKKTTAEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|737925740|ref|WP_035890918.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella norrlandica] &gt;gi|701445109|gb|KGP62514.1| hypothetical protein EP47_11045 [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890918</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>187.193</Hsp_bit-score>
+      <Hsp_score>474</Hsp_score>
+      <Hsp_evalue>3.61976e-58</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEVWEKQINLAVENGHKALDYMQKSFQIIEKAMLGFVQETKKATSEAKK</Hsp_hseq>
+      <Hsp_midline>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEE+ EKQINLAVENGHKALDYMQKSFQIIEKAML FVQE KK T+E KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|517403238|ref|WP_018576099.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella shakespearei] &gt;gi|962281530|gb|KTD65331.1| Phasin protein [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576099</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>178.333</Hsp_bit-score>
+      <Hsp_score>451</Hsp_score>
+      <Hsp_evalue>1.10453e-54</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>91</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MNQPNFEKWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPEELAHVKKPEEMLEKQINLAVENGHKALDYLQKSFQILEKSMLSLVQEAKKTADEVKK</Hsp_hseq>
+      <Hsp_midline>M Q NFE+WSEMAKKIQEPFQAIAELNVKTLQGLSYLKP+ELA VKKPEEMLEKQINLAVENGHKALDY+QKSFQI+EK+MLS VQEAKKT  EVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|966440932|ref|WP_058481255.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella waltersii] &gt;gi|962291998|gb|KTD75696.1| Phasin protein [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481255</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>174.866</Hsp_bit-score>
+      <Hsp_score>442</Hsp_score>
+      <Hsp_evalue>2.59767e-53</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MMQHNYEKWSEMAKKLQEPFQAIAELNVKTLQGLSFLKPEELAQVKKPEEFLEKQIGLAVENGHKALDYMQKSFQILEKAMLGLVQETKKATAEIKK</Hsp_hseq>
+      <Hsp_midline>M Q+N+E+WSEMAKK+QEPFQAIAELNVKTLQGLS+LKP+ELAQVKKPEE LEKQI LAVENGHKALDYMQKSFQI+EKAML  VQE KK TAE+KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966432298|ref|WP_058472731.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella quateirensis] &gt;gi|962268666|gb|KTD52682.1| Phasin protein [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472731</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.94</Hsp_bit-score>
+      <Hsp_score>437</Hsp_score>
+      <Hsp_evalue>1.57838e-52</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MNQANFDKWSEMAKKLQEPFQAIAELNVKTLQGLSYLKPDELAHVKKPEEVLEKQINLAVENGHKALDYMQQSFQIIEKAMLGLVKEAKKTATETK</Hsp_hseq>
+      <Hsp_midline>M Q NF++WSEMAKK+QEPFQAIAELNVKTLQGLSYLKPDELA VKKPEE+LEKQINLAVENGHKALDYMQ+SFQIIEKAML  V+EAKKT  E K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|654932909|ref|WP_028383266.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella moravica] &gt;gi|962250753|gb|KTD34954.1| Phasin protein [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383266</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.785</Hsp_bit-score>
+      <Hsp_score>434</Hsp_score>
+      <Hsp_evalue>4.40701e-52</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MNQANFEKWSEMAKKLQEPFQAIAELNVKTLQGLTYLKPDELAHVKKPEEVLEKQINLAVENGHKALDYMQQSFQIIEKAMLGLVKEAKKTAGENK</Hsp_hseq>
+      <Hsp_midline>M Q NFE+WSEMAKK+QEPFQAIAELNVKTLQGL+YLKPDELA VKKPEE+LEKQINLAVENGHKALDYMQ+SFQIIEKAML  V+EAKKT  E K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|966426179|ref|WP_058468717.1|</Hit_id>
+  <Hit_def>hypothetical protein [Fluoribacter gormanii] &gt;gi|962216832|gb|KTD01586.1| Phasin protein [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468717</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.4</Hsp_bit-score>
+      <Hsp_score>433</Hsp_score>
+      <Hsp_evalue>6.25089e-52</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MTQQNFERWTEMAKKLQEPFQAMAELNVKTLQGMHYLKPEEMASIKKPEELLEKQINLAVENGHKALDYMQKSFQIVEKAMLGFVQEAKKAT-EVK</Hsp_hseq>
+      <Hsp_midline>MTQ NFERW+EMAKK+QEPFQA+AELNVKTLQG+ YLKP+E+A +KKPEE+LEKQINLAVENGHKALDYMQKSFQI+EKAML FVQEAKK T EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966493760|ref|WP_058510548.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella steelei] &gt;gi|962284692|gb|KTD68458.1| Phasin protein [Legionella steelei] &gt;gi|1113342021|gb|OJW05898.1| hypothetical protein BGO44_13050 [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510548</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>169.859</Hsp_bit-score>
+      <Hsp_score>429</Hsp_score>
+      <Hsp_evalue>2.55759e-51</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MTQQNFERWTEMAKKLQEPFQAMAELNVKTLQGLHYIKPEELSGIKKPEELLEKQVNLAVENGHKALDYMQKSFQIIEKAMLGFVQEAKKAT</Hsp_hseq>
+      <Hsp_midline>MTQ NFERW+EMAKK+QEPFQA+AELNVKTLQGL Y+KP+EL+ +KKPEE+LEKQ+NLAVENGHKALDYMQKSFQIIEKAML FVQEAKK T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|966436365|ref|WP_058476733.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella steigerwaltii] &gt;gi|962295036|gb|KTD78690.1| Phasin protein [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476733</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>169.088</Hsp_bit-score>
+      <Hsp_score>427</Hsp_score>
+      <Hsp_evalue>5.9948e-51</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MSQQNFERWTEVAKKFQEPFQAIAELNVKTLQGMTYLKPEELAGIKKPEELLEKQINLAVENGHKALDYMQKSFQILEKAMLGFVQEAKKAT-EVK</Hsp_hseq>
+      <Hsp_midline>M+Q NFERW+E+AKK QEPFQAIAELNVKTLQG++YLKP+ELA +KKPEE+LEKQINLAVENGHKALDYMQKSFQI+EKAML FVQEAKK T EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966516897|ref|WP_058533391.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533391</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.548</Hsp_bit-score>
+      <Hsp_score>423</Hsp_score>
+      <Hsp_evalue>2.15099e-50</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>208</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>94</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>94</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAE</Hsp_qseq>
+      <Hsp_hseq>MNQPNFEKWSDMAKKLQEPFQAIAELNVKTLQGITYIKPEELANIKKPEELLEKQINLAVENGHKALDYMQKSFQIVEKAMLSLVEEAKRTTSD</Hsp_hseq>
+      <Hsp_midline>M Q NFE+WS+MAKK+QEPFQAIAELNVKTLQG++Y+KP+ELA +KKPEE+LEKQINLAVENGHKALDYMQKSFQI+EKAMLS V+EAK+TT++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966420677|ref|WP_058463878.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella cincinnatiensis] &gt;gi|962206936|gb|KTC91869.1| Phasin protein [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463878</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.548</Hsp_bit-score>
+      <Hsp_score>423</Hsp_score>
+      <Hsp_evalue>2.55664e-50</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MYQQNFERWTEIAKKIQEPFQAMAELNVKTLQGINYLKPEEIASIKKPEELLEKHINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTAAETK</Hsp_hseq>
+      <Hsp_midline>M Q NFERW+E+AKKIQEPFQA+AELNVKTLQG++YLKP+E+A +KKPEE+LEK INLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966460924|ref|WP_058493353.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella worsleiensis] &gt;gi|962296421|gb|KTD80062.1| Phasin protein [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493353</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.162</Hsp_bit-score>
+      <Hsp_score>422</Hsp_score>
+      <Hsp_evalue>3.15217e-50</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MNQANFEKWSEMAKKLQEPFQAIAELNVKTLQGLSYLKPDELAHVKKPEEILEKQINMAVENGHKALDYMQQSFHIIEQAMLGLVNDAKKNAAEFK</Hsp_hseq>
+      <Hsp_midline>M Q NFE+WSEMAKK+QEPFQAIAELNVKTLQGLSYLKPDELA VKKPEE+LEKQIN+AVENGHKALDYMQ+SF IIE+AML  V +AKK  AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966466500|ref|WP_058497826.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella gratiana] &gt;gi|962229992|gb|KTD14588.1| Phasin protein [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497826</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.162</Hsp_bit-score>
+      <Hsp_score>422</Hsp_score>
+      <Hsp_evalue>3.4709e-50</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MYQQNFERWTEIAKKMQEPFQAMAELNVKTLQGINYLKPEEIAGIKKPEELLEKQINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTAAEAK</Hsp_hseq>
+      <Hsp_midline>M Q NFERW+E+AKK+QEPFQA+AELNVKTLQG++YLKP+E+A +KKPEE+LEKQINLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|671586622|ref|WP_031563030.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563030</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>166.392</Hsp_bit-score>
+      <Hsp_score>420</Hsp_score>
+      <Hsp_evalue>6.99459e-50</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MTQPNFEKWTEMAKKLQEPFQAIAELNVKTLQGINYLKPEEIAQIKKPEELLEKQVNLAVQNGHKALDYMQKSFQILERAMLGFVQEAKRAS</Hsp_hseq>
+      <Hsp_midline>MTQ NFE+W+EMAKK+QEPFQAIAELNVKTLQG++YLKP+E+AQ+KKPEE+LEKQ+NLAV+NGHKALDYMQKSFQI+E+AML FVQEAK+ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966414769|ref|WP_058458054.1|</Hit_id>
+  <Hit_def>hypothetical protein [Fluoribacter bozemanae] &gt;gi|962192331|gb|KTC77405.1| Phasin protein [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458054</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>165.622</Hsp_bit-score>
+      <Hsp_score>418</Hsp_score>
+      <Hsp_evalue>1.37637e-49</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MAQQNFERWTEMAKKFQEPFQAIAELNVKTLQGMHYLKPEEIASIKKPEELLEKQISLAVENGHKALDYMQKSFQIIEKAMLGFVHEAKKAS-EVK</Hsp_hseq>
+      <Hsp_midline>M Q NFERW+EMAKK QEPFQAIAELNVKTLQG+ YLKP+E+A +KKPEE+LEKQI+LAVENGHKALDYMQKSFQIIEKAML FV EAKK + EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|518064329|ref|WP_019234537.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella anisa] &gt;gi|962190712|gb|KTC75800.1| Phasin protein [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234537</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>165.236</Hsp_bit-score>
+      <Hsp_score>417</Hsp_score>
+      <Hsp_evalue>1.46954e-49</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MAQQNFERWTEMAKKLQEPFQAIAELNVKTLQGMQYLKPEEIAGIKKPEELLEKQISLAVENGHKALDYMQKSFQIIEKAMLGFVHEAKKAS-EVK</Hsp_hseq>
+      <Hsp_midline>M Q NFERW+EMAKK+QEPFQAIAELNVKTLQG+ YLKP+E+A +KKPEE+LEKQI+LAVENGHKALDYMQKSFQIIEKAML FV EAKK + EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966496247|ref|WP_058513013.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella santicrucis] &gt;gi|962282831|gb|KTD66607.1| Phasin protein [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058513013</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.466</Hsp_bit-score>
+      <Hsp_score>415</Hsp_score>
+      <Hsp_evalue>4.13728e-49</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MYQQNFEKWTEIAKKIQEPFQAMTELNVKTLQGINYLKPEEIASIKKPEELLEKHINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTAAETK</Hsp_hseq>
+      <Hsp_midline>M Q NFE+W+E+AKKIQEPFQA+ ELNVKTLQG++YLKP+E+A +KKPEE+LEK INLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|493927260|ref|WP_006872010.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella drancourtii] &gt;gi|363536393|gb|EHL29835.1| hypothetical protein LDG_8127 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872010</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.081</Hsp_bit-score>
+      <Hsp_score>414</Hsp_score>
+      <Hsp_evalue>4.29237e-49</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MNQHNFEKWSEVAKKLQEPFQAIAELNVKTLQGITYIKPEELASIKKPEELLEKQINLAVENGHKALDYMQKSFQIFEKAMLSLVEEAKKAS</Hsp_hseq>
+      <Hsp_midline>M Q+NFE+WSE+AKK+QEPFQAIAELNVKTLQG++Y+KP+ELA +KKPEE+LEKQINLAVENGHKALDYMQKSFQI EKAMLS V+EAKK +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|502743807|ref|WP_012978791.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella longbeachae] &gt;gi|288856938|emb|CBJ10752.1| Hypothetical protein of unknown function [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_012978791</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.31</Hsp_bit-score>
+      <Hsp_score>412</Hsp_score>
+      <Hsp_evalue>8.69107e-49</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MYQQNFDKWTEVAKKLQEPFQAMAELNVKTLQGINYLKPEEIASIKKPEELLEKHINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTAAETK</Hsp_hseq>
+      <Hsp_midline>M Q NF++W+E+AKK+QEPFQA+AELNVKTLQG++YLKP+E+A +KKPEE+LEK INLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|653018997|ref|WP_027270952.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella sainthelensi] &gt;gi|962274617|gb|KTD58548.1| Phasin protein [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270952</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.31</Hsp_bit-score>
+      <Hsp_score>412</Hsp_score>
+      <Hsp_evalue>1.08113e-48</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MYQQNFDKWTEIAKKMQEPFQAMAELNVKTLQGINYLKPEEIASIKKPEELLEKHINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTAAETK</Hsp_hseq>
+      <Hsp_midline>M Q NF++W+E+AKK+QEPFQA+AELNVKTLQG++YLKP+E+A +KKPEE+LEK INLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966505224|ref|WP_058521883.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella tucsonensis] &gt;gi|962287595|gb|KTD71323.1| Phasin protein [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521883</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.31</Hsp_bit-score>
+      <Hsp_score>412</Hsp_score>
+      <Hsp_evalue>1.08332e-48</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MAQQNFERWTEMAKKFQEPFQAIAELNVKTLQGMTYLKPEEIAGIKKPEELLEKQINLAVENSHKALDYMQKSFQILEKAMLGFVHEAKKAS-EVK</Hsp_hseq>
+      <Hsp_midline>M Q NFERW+EMAKK QEPFQAIAELNVKTLQG++YLKP+E+A +KKPEE+LEKQINLAVEN HKALDYMQKSFQI+EKAML FV EAKK + EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|498338361|ref|WP_010652517.1|</Hit_id>
+  <Hit_def>hypothetical protein [Fluoribacter dumoffii] &gt;gi|962207532|gb|KTC92463.1| Phasin protein [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010652517</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>162.925</Hsp_bit-score>
+      <Hsp_score>411</Hsp_score>
+      <Hsp_evalue>1.37735e-48</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MTQQNFERWTEMAKKFQEPFQAMAELNVKTLQSMNYLKPEEISSIKKPEELLEKQINLAVENGHKTLDYMQKSFQIIEKAMLGFVQEAKKAS</Hsp_hseq>
+      <Hsp_midline>MTQ NFERW+EMAKK QEPFQA+AELNVKTLQ ++YLKP+E++ +KKPEE+LEKQINLAVENGHK LDYMQKSFQIIEKAML FVQEAKK +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|769978726|ref|WP_045094711.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella fallonii] &gt;gi|698841974|emb|CEG55922.1| conserved protein of unknown function [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094711</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>161.77</Hsp_bit-score>
+      <Hsp_score>408</Hsp_score>
+      <Hsp_evalue>3.75948e-48</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MNQPNFDKWSDMAKKVQEPFKAITELNVKTLQGLTYLKPEELAQVKKPEEMLEKQINLAVENGHKALDYLQQSFKIIEKAMLGFLQEAKQ-NAEGKK</Hsp_hseq>
+      <Hsp_midline>M Q NF++WS+MAKK+QEPF+AI ELNVKTLQGL+YLKP+ELAQVKKPEEMLEKQINLAVENGHKALDY+Q+SF+IIEKAML F+QEAK+  AE KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966400215|ref|WP_058443810.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella feeleii] &gt;gi|962218258|gb|KTD02977.1| Phasin protein [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443810</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>161.77</Hsp_bit-score>
+      <Hsp_score>408</Hsp_score>
+      <Hsp_evalue>4.23902e-48</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MNQASFEKWSEMAKKAQEPFQAIAELNVKTLQGLTYLKPEELANLKKPEELLEKQINLAVENGHKALDYMQKSFQIFEKAMLSLVQEVKNKAGEKK</Hsp_hseq>
+      <Hsp_midline>M Q +FE+WSEMAKK QEPFQAIAELNVKTLQGL+YLKP+ELA +KKPEE+LEKQINLAVENGHKALDYMQKSFQI EKAMLS VQE K    E K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|654930412|ref|WP_028380781.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella cherrii] &gt;gi|962197160|gb|KTC82204.1| Phasin protein [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380781</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.614</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>1.2763e-47</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MSQQNFERWTEAAKKIQEPFQAMAELNVKTLQSLNYLKPEELSNIKKPEELLEKQVNLAVENGKKALDYMQKSFQILEKAMLGFVQEAKKAT-EVK</Hsp_hseq>
+      <Hsp_midline>M+Q NFERW+E AKKIQEPFQA+AELNVKTLQ L+YLKP+EL+ +KKPEE+LEKQ+NLAVENG KALDYMQKSFQI+EKAML FVQEAKK T EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966499598|ref|WP_058516271.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella parisiensis] &gt;gi|962260134|gb|KTD44249.1| Phasin protein [Legionella parisiensis] &gt;gi|1069290654|gb|OEH46054.1| hypothetical protein lpari_02936 [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516271</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.229</Hsp_bit-score>
+      <Hsp_score>404</Hsp_score>
+      <Hsp_evalue>1.58758e-47</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MAQQNFEKWTEMAKKLQEPFQAIAELNVKTLQSMHYLKPEEIAGIKKPEELLEKQISLAVENGHKALDYMQKSFQILEKAMLGFVHEAKKAS-EVK</Hsp_hseq>
+      <Hsp_midline>M Q NFE+W+EMAKK+QEPFQAIAELNVKTLQ + YLKP+E+A +KKPEE+LEKQI+LAVENGHKALDYMQKSFQI+EKAML FV EAKK + EVK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1113537909|gb|OJX98208.1|</Hit_id>
+  <Hit_def>hypothetical protein BGO90_01745 [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJX98208</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.229</Hsp_bit-score>
+      <Hsp_score>404</Hsp_score>
+      <Hsp_evalue>1.65841e-47</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MNQNHFEKWSEVAKRLQEPFQAIAELNVKTLQNIHYIKPEELASIKKPEELLEKQINLAVENGHKALDYMQKSFQIFEKAMLSLVDEAKKTAAEKK</Hsp_hseq>
+      <Hsp_midline>M Q +FE+WSE+AK++QEPFQAIAELNVKTLQ + Y+KP+ELA +KKPEE+LEKQINLAVENGHKALDYMQKSFQI EKAMLS V EAKKT AE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966399236|ref|WP_058442869.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella brunensis] &gt;gi|962191720|gb|KTC76796.1| Phasin protein [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442869</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.073</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>4.47636e-47</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQAYFEKWSEMAKKMQEPFQAIAELNVKTLQGMSYLKPDELANTKKPEELLEKQIHLAIENGHKALDYLQKSFQIMETTMLSLVQEVKNKT-DVKK</Hsp_hseq>
+      <Hsp_midline>MTQ  FE+WSEMAKK+QEPFQAIAELNVKTLQG+SYLKPDELA  KKPEE+LEKQI+LA+ENGHKALDY+QKSFQI+E  MLS VQE K  T +VKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|489729052|ref|WP_003633168.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella longbeachae] &gt;gi|269989993|gb|EEZ96247.1| conserved hypothetical protein [Legionella longbeachae D-4968]</Hit_def>
+  <Hit_accession>WP_003633168</Hit_accession>
+  <Hit_len>93</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.918</Hsp_bit-score>
+      <Hsp_score>398</Hsp_score>
+      <Hsp_evalue>1.17706e-46</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MYQQNFDKWTEVAKKLQEPFQAMAELNVKTLQGINYLKPEEIASIKKPEELLEKHINLAVENGHKTLDYLQKSFQIIEKAMLGFVQEAKKTS</Hsp_hseq>
+      <Hsp_midline>M Q NF++W+E+AKK+QEPFQA+AELNVKTLQG++YLKP+E+A +KKPEE+LEK INLAVENGHK LDY+QKSFQIIEKAML FVQEAKKT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|769991137|ref|WP_045107009.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella hackeliae] &gt;gi|731153325|emb|CEK11909.1| conserved protein of unknown function [Legionella hackeliae] &gt;gi|962227873|gb|KTD12495.1| Phasin protein [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045107009</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>6.92039e-46</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQAYFENWSEIAKKMQEPFQALAELNVKTLQGLSYLKPDEVATTKKPEELFEKQIHLAIENGHKALDYLQKSFQIMEKTMLSLVQEV-KNKAEVKK</Hsp_hseq>
+      <Hsp_midline>MTQ  FE WSE+AKK+QEPFQA+AELNVKTLQGLSYLKPDE+A  KKPEE+ EKQI+LA+ENGHKALDY+QKSFQI+EK MLS VQE  K  AEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|762036557|ref|WP_043872495.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella massiliensis] &gt;gi|683289236|emb|CEE11597.1| Phasin protein [Legionella massiliensis] &gt;gi|685071606|emb|CDZ75859.1| Phasin protein [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872495</Hit_accession>
+  <Hit_len>93</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.451</Hsp_bit-score>
+      <Hsp_score>389</Hsp_score>
+      <Hsp_evalue>3.00505e-45</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>204</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>85</Hsp_align-len>
+      <Hsp_qseq>FERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKK</Hsp_qseq>
+      <Hsp_hseq>YEKWTEMAKKVQAPFQAIAELNVKTLQGLTYLKPEELASLKKPEELIEKQIGLAVENGHKALDYMQKSFEIIEKAMLSFVQEVKK</Hsp_hseq>
+      <Hsp_midline>+E+W+EMAKK+Q PFQAIAELNVKTLQGL+YLKP+ELA +KKPEE++EKQI LAVENGHKALDYMQKSF+IIEKAMLSFVQE KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966406118|ref|WP_058449524.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella jamestowniensis] &gt;gi|962222749|gb|KTD07399.1| Phasin protein [Legionella jamestowniensis] &gt;gi|1045920896|gb|OCH97829.1| hypothetical protein A8135_00985 [Legionella jamestowniensis] &gt;gi|1097327797|emb|SFL93538.1| Phasin protein [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058449524</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.91</Hsp_bit-score>
+      <Hsp_score>385</Hsp_score>
+      <Hsp_evalue>1.24528e-44</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQAYFENWSEIAKKMQEPFQALTELNVKTLQSLSYLKPDELANTKKPEELLEKQIHLAIENGHKALDYLQKSFQIMEKTMLSLVQEVKNKT-DIKK</Hsp_hseq>
+      <Hsp_midline>MTQ  FE WSE+AKK+QEPFQA+ ELNVKTLQ LSYLKPDELA  KKPEE+LEKQI+LA+ENGHKALDY+QKSFQI+EK MLS VQE K  T ++KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|654937939|ref|WP_028388187.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388187</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.599</Hsp_bit-score>
+      <Hsp_score>379</Hsp_score>
+      <Hsp_evalue>8.78697e-44</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>FERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>FEKWSEIAKKVQEPFQAIAELNVKTLQGLTYLKPEQLATIKKPEELWEKQINVAVENGHKALNYMQESFRIIEKAMLSLVQEV-KNKAEVKK</Hsp_hseq>
+      <Hsp_midline>FE+WSE+AKK+QEPFQAIAELNVKTLQGL+YLKP++LA +KKPEE+ EKQIN+AVENGHKAL+YMQ+SF+IIEKAMLS VQE  K  AEVKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966408478|ref|WP_058451870.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella maceachernii] &gt;gi|962243706|gb|KTD28023.1| Phasin protein [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451870</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.214</Hsp_bit-score>
+      <Hsp_score>378</Hsp_score>
+      <Hsp_evalue>1.56589e-43</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>FERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAK</Hsp_qseq>
+      <Hsp_hseq>FERWSEIAKKLQAPFQEIAELNVKTLQGFNYIKPDELANLKKPEELLEKQISLAVENGHKALDYMQKSFEIMEKAMLSFVQEVK</Hsp_hseq>
+      <Hsp_midline>FERWSE+AKK+Q PFQ IAELNVKTLQG +Y+KPDELA +KKPEE+LEKQI+LAVENGHKALDYMQKSF+I+EKAMLSFVQE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966475025|ref|WP_058505786.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella nautarum] &gt;gi|962248951|gb|KTD33173.1| Phasin protein [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058505786</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.828</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>1.90535e-43</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>FERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>FEKWSEMAKKLQAPFQEIAELNVKTLQGFNYLKPDELANLKKPEELLEKQIGLAIENGHRALDYMQKSFEILEKAVLSFVQEVKNKT</Hsp_hseq>
+      <Hsp_midline>FE+WSEMAKK+Q PFQ IAELNVKTLQG +YLKPDELA +KKPEE+LEKQI LA+ENGH+ALDYMQKSF+I+EKA+LSFVQE K  T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|769982240|ref|WP_045098222.1|</Hit_id>
+  <Hit_def>hypothetical protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098222</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.828</Hsp_bit-score>
+      <Hsp_score>377</Hsp_score>
+      <Hsp_evalue>2.14302e-43</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAK</Hsp_qseq>
+      <Hsp_hseq>MMNQPFERWSELAKKLQAPFQEIAELNVKTLQGFNYIKPDELANLKKPEELFEKQISLAVENGHKALDYMQKSFEIMEKAMLSFVQEVK</Hsp_hseq>
+      <Hsp_midline>M    FERWSE+AKK+Q PFQ IAELNVKTLQG +Y+KPDELA +KKPEE+ EKQI+LAVENGHKALDYMQKSF+I+EKAMLSFVQE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|698845692|emb|CEG59670.1|</Hit_id>
+  <Hit_def>conserved protein of unknown function [Phasin domain] [Tatlockia micdadei] &gt;gi|962245144|gb|KTD29448.1| Phasin protein [Tatlockia micdadei] &gt;gi|1081465880|emb|SCX96941.1| Phasin protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>CEG59670</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>2.31839e-43</Hsp_evalue>
+      <Hsp_query-from>120</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>FERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAK</Hsp_qseq>
+      <Hsp_hseq>FERWSELAKKLQAPFQEIAELNVKTLQGFNYIKPDELANLKKPEELFEKQISLAVENGHKALDYMQKSFEIMEKAMLSFVQEVK</Hsp_hseq>
+      <Hsp_midline>FERWSE+AKK+Q PFQ IAELNVKTLQG +Y+KPDELA +KKPEE+ EKQI+LAVENGHKALDYMQKSF+I+EKAMLSFVQE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966515284|ref|WP_058531801.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella rubrilucens] &gt;gi|962262708|gb|KTD46794.1| Phasin protein [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531801</Hit_accession>
+  <Hit_len>97</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>2.83858e-43</Hsp_evalue>
+      <Hsp_query-from>114</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>97</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>IMTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVK</Hsp_qseq>
+      <Hsp_hseq>MVNQAYFEKWSEIAKKVQEPVQAIAELNVKTLQNLSYIKPDELANLKKPEELFDKQMNVALENGHKALDYMQKSFQIIEKAMLNFAKDVKKTEQAVK</Hsp_hseq>
+      <Hsp_midline>++ Q  FE+WSE+AKK+QEP QAIAELNVKTLQ LSY+KPDELA +KKPEE+ +KQ+N+A+ENGHKALDYMQKSFQIIEKAML+F ++ KKT   VK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|654922054|ref|WP_028372611.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella lansingensis] &gt;gi|962237762|gb|KTD22201.1| Phasin protein [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372611</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>3.20757e-43</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAK</Hsp_qseq>
+      <Hsp_hseq>MTQAYFEKWSEVAKKMQEPFQAIAELNVKTMQSLNYLKPEELTNVKKPEELVEKQIHLAIENGHKALDYLQKSFQIIEKTMLALVQEVK</Hsp_hseq>
+      <Hsp_midline>MTQ  FE+WSE+AKK+QEPFQAIAELNVKT+Q L+YLKP+EL  VKKPEE++EKQI+LA+ENGHKALDY+QKSFQIIEK ML+ VQE K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966516898|ref|WP_058533392.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533392</Hit_accession>
+  <Hit_len>92</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>3.23899e-43</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>92</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT</Hsp_qseq>
+      <Hsp_hseq>MNQPNFEKWSDMAKKLQEPLQAIAGLNIKTMQAMTYLKPEELAKIKKPEELFEKQINLAVENGHKALEYMQKSFQIFEKAMLGLVDEAKKAS</Hsp_hseq>
+      <Hsp_midline>M Q NFE+WS+MAKK+QEP QAIA LN+KT+Q ++YLKP+ELA++KKPEE+ EKQINLAVENGHKAL+YMQKSFQI EKAML  V EAKK +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|644964247|ref|WP_025385002.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella oakridgensis] &gt;gi|570283945|gb|AHE66132.1| phasin protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570703294|gb|ETO94192.1| phasin protein [Legionella oakridgensis RV-2-2007] &gt;gi|962259753|gb|KTD43877.1| Phasin protein [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385002</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.673</Hsp_bit-score>
+      <Hsp_score>374</Hsp_score>
+      <Hsp_evalue>6.61194e-43</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>99</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTT--AEVKK</Hsp_qseq>
+      <Hsp_hseq>MNQEYFEKLSDMAKKAQEPFQAMAELNVKTLQGFTYLKPDEFANVKKPEELLEKQIELAVANGHKALDYMQKSFQIMEKAMLSLLQESKSKSEKAEAKK</Hsp_hseq>
+      <Hsp_midline>M Q  FE+ S+MAKK QEPFQA+AELNVKTLQG +YLKPDE A VKKPEE+LEKQI LAV NGHKALDYMQKSFQI+EKAMLS +QE+K  +  AE KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966471862|ref|WP_058502777.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella israelensis] &gt;gi|962229670|gb|KTD14267.1| Phasin protein [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502777</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>4.15324e-42</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>211</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>97</Hsp_align-len>
+      <Hsp_qseq>MTQYNFERWSEMAKKIQEPFQAIAELNVKTLQGLSYLKPDELAQVKKPEEMLEKQINLAVENGHKALDYMQKSFQIIEKAMLSFVQEAKKTTAEVKK</Hsp_qseq>
+      <Hsp_hseq>MTQAAYERWNDFAKKMQEPFQAIAELNVKTLQDLTYLKPEDFQKLKNPEEIWEKQINLAVENGHKALDYMQKSFHIFEKAMMSMVQETKKNT-EIKK</Hsp_hseq>
+      <Hsp_midline>MTQ  +ERW++ AKK+QEPFQAIAELNVKTLQ L+YLKP++  ++K PEE+ EKQINLAVENGHKALDYMQKSF I EKAM+S VQE KK T E+KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

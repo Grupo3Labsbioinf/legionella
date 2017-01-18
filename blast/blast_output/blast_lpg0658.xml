@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_110325</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>341</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_110325</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>341</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248765|ref|WP_010946305.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|52840802|ref|YP_094601.1| acetyoacetyl CoA reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627913|gb|AAU26654.1| acetyoacetyl CoA reductase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507317|gb|AEW50841.1| acetyoacetyl CoA reductase [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946305</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.457</Hsp_bit-score>
+      <Hsp_score>1321</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>248</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>248</Hsp_align-len>
+      <Hsp_qseq>MSMDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MSMDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MSMDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|505257686|ref|WP_015444788.1|</Hit_id>
+  <Hit_def>acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|469492903|gb|AGH54748.1| Acetoacetyl-CoA reductase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081222|gb|AGN13470.1| acetyoacetyl CoA reductase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771500|emb|CZI74910.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998795806|emb|CZI45466.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998800596|emb|CZL13092.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998804080|emb|CZK62809.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998807170|emb|CZI29976.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998810694|emb|CZI15816.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998813147|emb|CZH15213.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998816413|emb|CZM19694.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998819770|emb|CZM01954.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998825526|emb|CZK38335.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998832857|emb|CZI20700.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998834497|emb|CZL52062.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998838729|emb|CZJ31940.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998840480|emb|CZL82614.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998843060|emb|CZL06819.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998846291|emb|CZL08132.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998849138|emb|CZI96157.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998852404|emb|CZL86962.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998855981|emb|CZL54607.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998858646|emb|CZM30843.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998862344|emb|CZK42090.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998864794|emb|CZJ89801.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998867243|emb|CZJ84033.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998870171|emb|CZM40722.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998873590|emb|CZK70892.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998876184|emb|CZM46344.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998879303|emb|CZJ73696.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998885755|emb|CZM34342.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998888563|emb|CZK48683.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998895836|emb|CZK09711.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998905232|emb|CZK91064.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998908387|emb|CZL66387.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998916122|emb|CZK73628.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998917457|emb|CZL62330.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998920437|emb|CZL69587.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998926796|emb|CZL97577.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998930954|emb|CZK83886.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998933643|emb|CZL66599.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998938709|emb|CZL19652.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998946286|emb|CZK73223.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998947956|emb|CZL27980.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998956924|emb|CZM65392.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998960497|emb|CZK70113.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998963127|emb|CZK78099.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998966677|emb|CZM39913.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998969411|emb|CZL07776.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998972420|emb|CZK84117.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998978534|emb|CZM02600.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998986144|emb|CZK11667.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998987468|emb|CZL88177.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998998312|emb|CZJ98438.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999006390|emb|CZL21569.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999011855|emb|CZL83377.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999014896|emb|CZM76459.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999021257|emb|CZL95729.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999024012|emb|CZL19672.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999036267|emb|CZL87052.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999045203|emb|CZM30243.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999060321|emb|CZL81843.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999066519|emb|CZJ51435.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999078652|emb|CZK45853.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999083119|emb|CZK88048.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999087869|emb|CZL14427.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999090931|emb|CZL89177.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999101424|emb|CZL76857.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999110890|emb|CZL03634.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999114085|emb|CZL60543.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999115977|emb|CZK75222.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999124714|emb|CZL31108.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999132477|emb|CZL68886.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999133921|emb|CZL48799.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999136943|emb|CZK86886.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999140920|emb|CZL87730.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999144879|emb|CZK82797.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999146407|emb|CZM13101.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999155577|emb|CZI36769.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999174178|emb|CZL60152.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999208401|emb|CZL33804.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999217911|emb|CZM03601.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999333320|emb|CZL29495.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002078780|emb|CZQ91629.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1003018419|emb|CZR30608.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|1003021492|emb|CZR26997.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|1003024468|emb|CZR30114.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|1032656732|gb|ANH12003.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1032659699|gb|ANH14969.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1032662666|gb|ANH17935.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073863722|gb|AOU03673.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073866680|gb|AOU06630.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073869685|gb|AOU09634.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073872630|gb|AOU12578.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073875611|gb|AOU15558.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073878573|gb|AOU18519.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073881567|gb|AOU21512.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073884529|gb|AOU24473.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073887528|gb|AOU27471.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073890511|gb|AOU30453.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073893476|gb|AOU33417.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073896441|gb|AOU36381.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073899405|gb|AOU39344.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073905268|gb|AOU45205.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073908285|gb|AOU48220.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073911341|gb|AOU51273.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073914259|gb|AOU54190.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073917217|gb|AOU57147.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073920184|gb|AOU60113.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073923157|gb|AOU63084.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073926171|gb|AOU66097.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073929151|gb|AOU69060.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073932535|gb|AOU72094.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073935482|gb|AOU82481.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073945757|gb|AOU85481.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1073948720|gb|AOU88443.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1104001877|emb|SFZ36614.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1129967335|gb|APT97694.1| beta-ketoacyl-ACP reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444788</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>509.22</Hsp_bit-score>
+      <Hsp_score>1310</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|499526540|ref|WP_011213180.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|53750374|emb|CAH11768.1| hypothetical protein lpp0620 [Legionella pneumophila str. Paris] &gt;gi|148282558|gb|ABQ56646.1| acetyoacetyl CoA reductase [Legionella pneumophila str. Corby] &gt;gi|295648049|gb|ADG23896.1| acetoacetyl-CoA reductase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126540|emb|CCD04723.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|536613663|gb|ERB42035.1| 3-ketoacyl-ACP reductase [Legionella pneumophila str. 121004] &gt;gi|541995233|gb|ERH41352.1| 3-ketoacyl-ACP reductase [Legionella pneumophila str. Leg01/53] &gt;gi|541995630|gb|ERH41729.1| 3-ketoacyl-ACP reductase [Legionella pneumophila str. Leg01/11] &gt;gi|542121211|gb|ERI47544.1| 3-ketoacyl-ACP reductase [Legionella pneumophila str. Leg01/20] &gt;gi|761989425|dbj|GAN22693.1| acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|761998937|dbj|GAN29046.1| acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|762002578|dbj|GAN25696.1| acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|998801799|emb|CZI07092.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998912198|emb|CZH25197.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998923701|emb|CZK23137.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998943771|emb|CZJ49143.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998954308|emb|CZK59376.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998975479|emb|CZJ89100.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998992855|emb|CZJ48977.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998994616|emb|CZI24563.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999003102|emb|CZI79991.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999009086|emb|CZK48294.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999018249|emb|CZJ88672.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999027363|emb|CZK26165.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999030535|emb|CZH22695.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999033314|emb|CZK21652.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999039519|emb|CZJ96994.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999042414|emb|CZK03757.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999048553|emb|CZK02950.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999051544|emb|CZJ91234.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999054577|emb|CZK31008.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999063656|emb|CZK00968.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999070601|emb|CZJ66057.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999072820|emb|CZK33268.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999075402|emb|CZH17832.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999084964|emb|CZK29298.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999093911|emb|CZH51304.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999096937|emb|CZH50934.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999150009|emb|CZI50539.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999159359|emb|CZJ70696.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999165761|emb|CZG86304.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999168657|emb|CZI47602.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999171823|emb|CZI28311.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999178366|emb|CZJ57181.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999181612|emb|CZG50441.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999184300|emb|CZP95498.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999187779|emb|CZI94562.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999189769|emb|CZI74447.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999192889|emb|CZJ14848.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999198433|emb|CZP12120.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999199282|emb|CZH02640.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999202098|emb|CZJ19583.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999206166|emb|CZP61872.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999212696|emb|CZG76043.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999216946|emb|CZI67456.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999220880|emb|CZJ06942.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999225358|emb|CZG85219.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999228269|emb|CZP06907.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999235174|emb|CZP57048.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999240316|emb|CZH92043.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999244339|emb|CZH75329.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999247851|emb|CZH55038.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999248745|emb|CZH07007.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999251961|emb|CZH35806.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999255951|emb|CZP78600.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999259143|emb|CZP47875.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999261269|emb|CZH40358.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999265186|emb|CZP06236.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999269398|emb|CZO32275.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999272200|emb|CZP56874.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999274767|emb|CZG77242.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999277582|emb|CZP35607.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999281387|emb|CZP17561.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999283645|emb|CZP60994.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999286050|emb|CZJ09012.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999290962|emb|CZP31274.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999292371|emb|CZI86302.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999296511|emb|CZP59073.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999299598|emb|CZP48996.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999301791|emb|CZI71777.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999307280|emb|CZH69615.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999309344|emb|CZP25697.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999311331|emb|CZJ22546.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999315848|emb|CZI11197.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999318652|emb|CZP64391.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999321994|emb|CZH97180.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999324467|emb|CZH34103.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999328597|emb|CZG62679.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999331891|emb|CZG60873.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999337731|emb|CZP46306.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999340053|emb|CZH25563.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999344478|emb|CZP84939.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999347183|emb|CZP62578.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999349734|emb|CZH42340.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999353499|emb|CZP69888.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999357257|emb|CZP68750.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999359942|emb|CZI60166.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999363837|emb|CZP57290.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999367091|emb|CZP75851.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999369966|emb|CZP78295.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999373486|emb|CZG58179.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999376521|emb|CZJ19806.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999379723|emb|CZH68904.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999382618|emb|CZI56167.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999386313|emb|CZG65545.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999389068|emb|CZI55049.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999392280|emb|CZP97716.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999396934|emb|CZG11315.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999398528|emb|CZQ00654.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999403147|emb|CZP42650.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999405950|emb|CZG73911.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999408863|emb|CZH89170.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999412711|emb|CZG31854.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999415462|emb|CZG90113.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999418802|emb|CZG65783.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999421997|emb|CZH73869.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999425311|emb|CZG76138.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999428335|emb|CZG70670.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999431675|emb|CZG74702.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999435033|emb|CZI02084.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999438217|emb|CZG63793.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999441213|emb|CZK30506.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|999444594|emb|CZH75581.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999447797|emb|CZG52132.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999450597|emb|CZP34961.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999454094|emb|CZI23362.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999457538|emb|CZK20395.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999460559|emb|CZH02619.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999464878|emb|CZM54052.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999467902|emb|CZO31168.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999469286|emb|CZH05972.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999474673|emb|CZM60194.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999477130|emb|CZN73408.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999480632|emb|CZM98692.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999484277|emb|CZN91156.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999487064|emb|CZM10360.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999490237|emb|CZN77500.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999493428|emb|CZM09939.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999496223|emb|CZI45012.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999500008|emb|CZN72278.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999503134|emb|CZO05926.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999506398|emb|CZN17561.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999509601|emb|CZG52896.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999512939|emb|CZN31206.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999515973|emb|CZL99242.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999519030|emb|CZM85488.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999521840|emb|CZP14850.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999525390|emb|CZJ09098.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999528103|emb|CZI76189.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999532386|emb|CZO47611.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999535542|emb|CZN41424.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999538623|emb|CZM77597.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999542067|emb|CZO21844.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999545029|emb|CZO62316.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999548127|emb|CZN87882.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999551439|emb|CZO09481.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999554474|emb|CZN29789.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999557951|emb|CZO57132.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999561040|emb|CZM39912.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999564046|emb|CZO65107.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999567410|emb|CZM51318.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999570610|emb|CZN49410.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999573798|emb|CZN90983.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999575996|emb|CZI40988.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999580290|emb|CZO14683.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999583578|emb|CZO36402.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999586941|emb|CZM62957.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999590024|emb|CZM41722.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999593183|emb|CZN46541.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999596256|emb|CZO13702.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999599576|emb|CZO39313.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999602598|emb|CZL95044.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999605386|emb|CZN71303.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999608923|emb|CZN62157.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999611252|emb|CZI61345.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999615535|emb|CZM45645.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999618696|emb|CZN92599.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999621734|emb|CZO80290.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999625062|emb|CZN69932.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999628439|emb|CZM64208.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999631511|emb|CZM57874.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999634571|emb|CZN57748.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999637899|emb|CZN49639.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999641095|emb|CZO77770.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999644087|emb|CZO51184.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999647578|emb|CZN93425.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999650736|emb|CZO06320.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999653879|emb|CZN99657.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999657076|emb|CZM27810.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999660150|emb|CZM63773.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999663419|emb|CZN19261.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999666784|emb|CZM40042.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999669976|emb|CZL85843.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999673060|emb|CZM36384.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999676370|emb|CZN79771.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999679285|emb|CZM77130.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999682480|emb|CZM80841.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999686167|emb|CZN98258.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999689165|emb|CZN31814.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999692358|emb|CZO01219.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999695575|emb|CZN31367.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999698758|emb|CZM10906.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999701702|emb|CZM76457.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999704937|emb|CZL92621.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999708205|emb|CZN58262.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999711624|emb|CZN02843.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999714720|emb|CZN23597.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999717950|emb|CZO43994.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999720906|emb|CZM91700.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999724425|emb|CZN32369.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999727870|emb|CZM00634.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999730947|emb|CZO42261.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999734213|emb|CZM26851.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999737447|emb|CZO69212.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999740928|emb|CZM30488.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999744134|emb|CZN28177.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999747276|emb|CZM26149.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999750492|emb|CZL94208.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999753688|emb|CZM79658.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999756739|emb|CZN08735.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999760240|emb|CZM22668.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999763415|emb|CZN31553.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999766941|emb|CZM50449.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999769790|emb|CZN52687.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999773097|emb|CZH88526.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999776254|emb|CZM01414.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999777520|emb|CZH51561.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999782858|emb|CZH61640.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999786453|emb|CZM26114.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999789618|emb|CZO69122.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999792963|emb|CZO62235.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999796043|emb|CZI19979.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999799848|emb|CZO57859.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002090916|emb|CZR11606.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1003029154|emb|CZR18934.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|1003036337|emb|CZR16722.1| acetyoacetyl CoA reductase [Legionella pneumophila] &gt;gi|1005832323|gb|AMQ27049.1| 3-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431693|gb|AMV13320.1| Acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|1041014593|gb|ANN91654.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1041017691|gb|ANN94751.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1103995625|emb|SFZ36890.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1103998757|emb|SFZ36603.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213180</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>508.064</Hsp_bit-score>
+      <Hsp_score>1307</Hsp_score>
+      <Hsp_evalue>1.69915e-180</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>245</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|742353346|ref|WP_038837560.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|998783051|emb|CZI87113.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998828356|emb|CZH39352.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998882167|emb|CZJ30781.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998897503|emb|CZK15584.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998938068|emb|CZL88611.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998950703|emb|CZK10582.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999000127|emb|CZG96114.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999058409|emb|CZM27975.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999103667|emb|CZI18248.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999128539|emb|CZH17777.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999152262|emb|CZM98782.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999161522|emb|CZM55041.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999236670|emb|CZG92233.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002085513|emb|CZQ97144.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002088337|emb|CZQ79096.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1104005442|emb|SFZ36605.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837560</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>507.679</Hsp_bit-score>
+      <Hsp_score>1306</Hsp_score>
+      <Hsp_evalue>2.38679e-180</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRI+SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|504656318|ref|WP_014843420.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|395129647|emb|CCD07880.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|761992532|dbj|GAN16572.1| acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|761995722|dbj|GAN19678.1| acetoacetyl-CoA reductase [Legionella pneumophila] &gt;gi|998774411|emb|CZH06890.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998777291|emb|CZH11083.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998783338|emb|CZH42523.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998786201|emb|CZH05411.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998791290|emb|CZG42524.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998793093|emb|CZI49853.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998892588|emb|CZJ22415.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|998981330|emb|CZJ18929.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999107237|emb|CZI76527.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999230596|emb|CZI94114.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002074248|emb|CZR05181.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002081643|emb|CZR00876.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1073902357|gb|AOU42295.1| beta-ketoacyl-ACP reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843420</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>505.753</Hsp_bit-score>
+      <Hsp_score>1301</Hsp_score>
+      <Hsp_evalue>1.04834e-179</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVIERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLV+ERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652970729|ref|WP_027223621.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1005362830|gb|AMP88699.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365831|gb|AMP91608.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368818|gb|AMP94594.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223621</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>504.597</Hsp_bit-score>
+      <Hsp_score>1298</Hsp_score>
+      <Hsp_evalue>3.13733e-179</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEEVLNSIISSIPVGRLGYPKEIADAVAFLVSPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKE+VLNSIISSIPVGRLGYPKEIADAVAFL SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|653012639|ref|WP_027264742.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|998822514|emb|CZH36204.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264742</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>504.212</Hsp_bit-score>
+      <Hsp_score>1297</Hsp_score>
+      <Hsp_evalue>5.19451e-179</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISLRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAIS RLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRI+SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1011913248|ref|WP_062726462.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726462</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.442</Hsp_bit-score>
+      <Hsp_score>1295</Hsp_score>
+      <Hsp_evalue>9.49231e-179</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVLPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEEVLNSIISSIPVGRLGYPKEIADAVAFLVSPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNV+PVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKE+VLNSIISSIPVGRLGYPKEIADAVAFL SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|499533508|ref|WP_011214792.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|53753383|emb|CAH14836.1| hypothetical protein lpl0603 [Legionella pneumophila str. Lens] &gt;gi|1080002171|gb|AOW52743.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006076|gb|AOW56356.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008065|gb|AOW58053.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012274|gb|AOW61765.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014669|gb|AOW63542.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018517|gb|AOW67162.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214792</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.442</Hsp_bit-score>
+      <Hsp_score>1295</Hsp_score>
+      <Hsp_evalue>1.00271e-178</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIISISSINGKKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETSMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRI+SISSING+KGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIET MLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652976135|ref|WP_027228808.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|985765909|gb|KXB27020.1| 3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|985767781|gb|KXB28867.1| 3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|999119220|emb|CZG74855.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999122572|emb|CZH15045.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1024341712|gb|KZX36019.1| beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|1108604026|gb|APF02394.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. fraseri] &gt;gi|1108607037|gb|APF05404.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228808</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.056</Hsp_bit-score>
+      <Hsp_score>1294</Hsp_score>
+      <Hsp_evalue>1.424e-178</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVANKGITVNTVSPGYIETPMLAALKEEVLNSIISSIPVGRLGYPKEIADAVAFLVSPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVA+KGITVNTVSPGYIETPMLAALKE+VLNSIISSIPVGRLGYPKEIADAVAFL SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|913754879|ref|WP_050486567.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_050486567</Hit_accession>
+  <Hit_len>232</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>2.31934e-169</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>232</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>232</Hsp_align-len>
+      <Hsp_qseq>IGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQKQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>+GSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQ+QLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|737925736|ref|WP_035890914.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella norrlandica] &gt;gi|701445106|gb|KGP62511.1| 3-ketoacyl-ACP reductase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890914</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>465.307</Hsp_bit-score>
+      <Hsp_score>1196</Hsp_score>
+      <Hsp_evalue>1.08662e-163</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>242</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERMIAIVTGGTGGIGSAISQRLADSYKVVACYYKEGRHEEAKKWQDEQKQKGYDIDVVYGDIAQYSDCEKIVSLVMERYGRIDVLVNNAGITKDSSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAAMKEEVLNSIISAIPVGRLGYPKEIADAVAFLISPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++MIAIVTGGTGGIGSAISQRLADSY+VVACYYK+GRHEEAKKWQDEQ+Q GYDID+VYGDIAQYSDCEKI SLVMERYGRIDVLVNNAGITKD SLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAA+KE+VLNSIIS+IPVGRLGYPKEIADAVAFL SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966432301|ref|WP_058472734.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella quateirensis] &gt;gi|962268669|gb|KTD52685.1| acetyoacetyl CoA reductase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472734</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>448.743</Hsp_bit-score>
+      <Hsp_score>1153</Hsp_score>
+      <Hsp_evalue>3.66049e-157</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>242</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEQMIAVVTGGTGGIGSAISQRLSTDFKVVACYFKDGRHEEAKQWQAEQKQLGYDIDIVYGDIAQYSDCEKITTLIMERYGRIDVLVNNAGITQDCSLRKMTPQQWQHVLDANLTSVFNMTRNVIPVMLEKGYGRIISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTISPGYIETPMLAAVKEEVLSSIIANIPVGRLGYPREVADAVAFLSSPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++MIA+VTGGTGGIGSAISQRL+  ++VVACY+KDGRHEEAK+WQ EQ+QLGYDIDIVYGDIAQYSDCEKIT+L+MERYGRIDVLVNNAGIT+DCSLRKMTPQQWQ VLDANLTSVFNMTRNV+PVMLE+GYGRI+SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNT+SPGYIETPMLAA+KE+VL+SII++IPVGRLGYP+E+ADAVAFL+SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966460921|ref|WP_058493350.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella worsleiensis] &gt;gi|962296418|gb|KTD80059.1| acetyoacetyl CoA reductase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493350</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>443.736</Hsp_bit-score>
+      <Hsp_score>1140</Hsp_score>
+      <Hsp_evalue>3.6827e-155</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>241</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEQMIAVVTGGTGGIGSAISQRLSADFKVIACYFKDGRHEEAKQWQTEQKQLGYDIDIVYGDIAQYSDCEKITNLIMERYGRIDVLVNNAGVTQDSSLRKMTPQQWQSVLDANLTSVFNMTRNVIPMMLDKGFGRIISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTISPGYIETPMLASVKEDVLNSIIANIPVGRLGYPKEVADAVAFLSSPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++MIA+VTGGTGGIGSAISQRL+  ++V+ACY+KDGRHEEAK+WQ EQ+QLGYDIDIVYGDIAQYSDCEKIT+L+MERYGRIDVLVNNAG+T+D SLRKMTPQQWQ VLDANLTSVFNMTRNV+P+ML++G+GRI+SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNT+SPGYIETPMLA++KEDVLNSII++IPVGRLGYPKE+ADAVAFL+SPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|654932912|ref|WP_028383269.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella moravica] &gt;gi|962250750|gb|KTD34951.1| acetyoacetyl CoA reductase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383269</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>443.351</Hsp_bit-score>
+      <Hsp_score>1139</Hsp_score>
+      <Hsp_evalue>5.8337e-155</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>240</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEQMIAVVTGGTGGIGSAISQRLSTDFKVVACYFKDGRHEEAKQWQAEQKQLGYDIDIVYGDIAQYSDCEKITNLIMERYGRIDVLVNNAGITQDSSLRKMTPQQWQHVLDANLTSVFNMTRNVIPVMLDKGYGRIISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTISPGYIETPMLAAVKEDVLNSIIANIPVGRLGYPREVADAVAFLSSSESGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++MIA+VTGGTGGIGSAISQRL+  ++VVACY+KDGRHEEAK+WQ EQ+QLGYDIDIVYGDIAQYSDCEKIT+L+MERYGRIDVLVNNAGIT+D SLRKMTPQQWQ VLDANLTSVFNMTRNV+PVML++GYGRI+SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNT+SPGYIETPMLAA+KEDVLNSII++IPVGRLGYP+E+ADAVAFL+S +SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966440929|ref|WP_058481252.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella waltersii] &gt;gi|962291995|gb|KTD75693.1| acetyoacetyl CoA reductase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481252</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>441.039</Hsp_bit-score>
+      <Hsp_score>1133</Hsp_score>
+      <Hsp_evalue>4.28183e-154</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>220</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKRIAIVTGGTGGIGSAISQHLATQYKVVACYFKDGRHEEAKQWQEEQRRQGYDIDVVYGDIAQYSDCEKITSLVIERYGRIDVLVNNAGITKDSSLRKMTPQQWQDVLDANLTSVFNMTRNVIPVMLEKGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTISPGYIETPMLAAMKEEVLNSIIAQIPVGRLGYPKEIAEAVAFLVSQESAFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>MDK IAIVTGGTGGIGSAISQ LA  Y+VVACY+KDGRHEEAK+WQ+EQR+ GYDID+VYGDIAQYSDCEKITSLV+ERYGRIDVLVNNAGITKD SLRKMTPQQWQ VLDANLTSVFNMTRNV+PVMLE+GYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNT+SPGYIETPMLAA+KE+VLNSII+ IPVGRLGYPKEIA+AVAFL S +S FITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|966506632|ref|WP_058523278.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella birminghamensis] &gt;gi|962187289|gb|KTC72417.1| acetyoacetyl CoA reductase [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058523278</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>431.024</Hsp_bit-score>
+      <Hsp_score>1107</Hsp_score>
+      <Hsp_evalue>3.93353e-150</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIALVTGGTGGIGSAICQRLAADYKVIACYYKGGKHEEAKRWQQEQKEAGYDIDIVYGDIANYADCEKLTALVNERYGRIDVLVNNAGITVDTSFKKMTPEQWQQVIDANLTSVFNMTRNVLPGMLEKNYGRIISISSINGRKGQFGQCNYAASKAALFGFTKSLAMEVANKGITVNTIAPGYIETPMLAAMKEEVLKSIISNIPVGRLGTPEEVAEAVAFLAAKTSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIA+VTGGTGGIGSAI QRLA  Y+V+ACYYK G+HEEAK+WQ EQ++ GYDIDIVYGDIA Y+DCEK+T+LV ERYGRIDVLVNNAGIT D S +KMTP+QWQQV+DANLTSVFNMTRNV+P MLE+ YGRI+SISSINGRKGQFGQCNYA++KAALFGFTKSLA+EVA+KGITVNT++PGYIETPMLAA+KE+VL SIIS+IPVGRLG P+E+A+AVAFLA+  SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|517403235|ref|WP_018576096.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella shakespearei] &gt;gi|962281527|gb|KTD65328.1| acetyoacetyl CoA reductase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576096</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>429.483</Hsp_bit-score>
+      <Hsp_score>1103</Hsp_score>
+      <Hsp_evalue>2.00432e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERMVAIVTGGTGGIGTAICQRLSEDFQVVACYFKDGKHDEAKQWQEEQKKLGYDIDIVYGDVAQYNDCEKLTALVLERYGRIDVLVNNAGITQDSSLKKMSPQQWQQVLDANLTSVFNMTRNVIPAMLEKGYGRVVSISSINGRKGQFGQCNYAATKAALFGFTKSLALEVASKGITVNTVSPGYIESPMLAAVKEEVLNEIIANIPVGRLGYPGEVADVVAFLCSPDSAFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++M+AIVTGGTGGIG+AI QRL++ +QVVACY+KDG+H+EAK+WQ+EQ++LGYDIDIVYGD+AQY+DCEK+T+LV+ERYGRIDVLVNNAGIT+D SL+KM+PQQWQQVLDANLTSVFNMTRNV+P MLE+GYGR+VSISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVASKGITVNTVSPGYIE+PMLAA+KE+VLN II++IPVGRLGYP E+AD VAFL SPDS FITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966476475|ref|WP_058507208.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella quinlivanii] &gt;gi|962268257|gb|KTD52287.1| acetyoacetyl CoA reductase [Legionella quinlivanii] &gt;gi|1090728545|emb|SEF73506.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058507208</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.402</Hsp_bit-score>
+      <Hsp_score>1095</Hsp_score>
+      <Hsp_evalue>3.17449e-148</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MDKMIALVTGGTGGIGSAICQRLAANYHVIACYYKGGKHEEAKRWQQEQKEAGHDIDIVYGDIANYADCEKLVALVTERYGHIDVLVNNAGITVDTSFKKMTPQQWQQVIDANLTSVFNMTRNVLPGMLEKNYGRIISISSINGRKGQFGQCNYAASKAALFGFTKSLAMEVANKGITVNTIAPGYIETPMLAAMKEEVLKSIVANIPVGRLGTPEEVAEAVAFLAAKTSGFITGSNLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>MDKMIA+VTGGTGGIGSAI QRLA +Y V+ACYYK G+HEEAK+WQ EQ++ G+DIDIVYGDIA Y+DCEK+ +LV ERYG IDVLVNNAGIT D S +KMTPQQWQQV+DANLTSVFNMTRNV+P MLE+ YGRI+SISSINGRKGQFGQCNYA++KAALFGFTKSLA+EVA+KGITVNT++PGYIETPMLAA+KE+VL SI+++IPVGRLG P+E+A+AVAFLA+  SGFITG+NLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966426182|ref|WP_058468720.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Fluoribacter gormanii] &gt;gi|962216835|gb|KTD01589.1| 3-oxoacyl-ACP reductase [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468720</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.017</Hsp_bit-score>
+      <Hsp_score>1094</Hsp_score>
+      <Hsp_evalue>3.4542e-148</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLAADFQVVACYFKHGKHEEAKQWQEEQKKLGYDIDIVYGDIAQFADCEKIMALVMERYGRVDVLVNNAGVTQDCSLRKMTPEQWQCVIDANLTSVFNMTRNAIPLMLDKGYGRVISISSINGRKGQFGQCNYASTKSALYGFTKSLALEVANKGITVNTVSPGYIETPMLSSLKEEVLKSIISSIPVGRLGYPKEVADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LGYDIDIVYGDIAQ++DCEKI +LVMERYGR+DVLVNNAG+T+DCSLRKMTP+QWQ V+DANLTSVFNMTRN +P+ML++GYGR++SISSINGRKGQFGQCNYASTK+AL+GFTKSLALEVA+KGITVNTVSPGYIETPML++LKE+VL SIISSIPVGRLGYPKE+ADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|769978723|ref|WP_045094708.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella fallonii] &gt;gi|698841971|emb|CEG55919.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094708</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>425.631</Hsp_bit-score>
+      <Hsp_score>1093</Hsp_score>
+      <Hsp_evalue>5.35246e-148</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKMVAIVTGGTGGIGSAICQRLSSDFKVIACYFKGGKHEEAKQWQEEQKRLGFDIDIVYGDIAQYSDCEKLVALVMERYGKIDTLINNAGVTKDCSLRKMTPQCWQEVMDANLTSVFNMTRNVIPAMLDKGYGRIISISSINGRKGQFGQCNYSSTKAALFGFTKSLALEVAAKGITVNTISPGYIETPMLAAVKEEVLKSIIANIPIGRLGYPKEVADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M+KM+AIVTGGTGGIGSAI QRL+  ++V+ACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIAQYSDCEK+ +LVMERYG+ID L+NNAG+TKDCSLRKMTPQ WQ+V+DANLTSVFNMTRNV+P ML++GYGRI+SISSINGRKGQFGQCNY+STKAALFGFTKSLALEVA+KGITVNT+SPGYIETPMLAA+KE+VL SII++IP+GRLGYPKE+ADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654930409|ref|WP_028380778.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella cherrii] &gt;gi|962197157|gb|KTC82201.1| 3-oxoacyl-ACP reductase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028380778</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.165</Hsp_bit-score>
+      <Hsp_score>1084</Hsp_score>
+      <Hsp_evalue>1.23946e-146</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTTICQRLAADFQVVACYFKHGNHEEAKQWQAEQKKLGYDIDIVYGDIAQFADCEKIMSLIMERYGRVDVLVNNAGITQDCSLRKMTPEQWQNVIDANLTSVFNMTRNVIPVMIEKGYGRIISISSINGRKGQFGQCNYASTKSALYGFSKSLALEVANKGITVNTVSPGYIETPMLASLKEEVLKSIISSIPVGRLGHSKEVADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+ I QRLA  +QVVACY+K G HEEAK+WQ EQ++LGYDIDIVYGDIAQ++DCEKI SL+MERYGR+DVLVNNAGIT+DCSLRKMTP+QWQ V+DANLTSVFNMTRNV+PVM+E+GYGRI+SISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVA+KGITVNTVSPGYIETPMLA+LKE+VL SIISSIPVGRLG+ KE+ADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|671586630|ref|WP_031563037.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563037</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>1.94169e-146</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLAADYQVVACYFKHGKHEEAKQWQEEQKKLGYDIDIVYGDIAQFADCEKIIALVMERYGCVDVLINNAGVTQDCSLRKMTPEQWQQVIDANLTSVFNMTRHVIPLMIDRGYGRIISISSINGRKGQFGQCNYASTKSALYGFTKSLALEVANKGITVNTISPGYIETPMLASLKEEVLKAIISSIPVGRLGNPKEIADAVAFLASPDSGFITGTNLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  YQVVACY+K G+HEEAK+WQ+EQ++LGYDIDIVYGDIAQ++DCEKI +LVMERYG +DVL+NNAG+T+DCSLRKMTP+QWQQV+DANLTSVFNMTR+V+P+M++RGYGRI+SISSINGRKGQFGQCNYASTK+AL+GFTKSLALEVA+KGITVNT+SPGYIETPMLA+LKE+VL +IISSIPVGRLG PKEIADAVAFLASPDSGFITG NLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966414766|ref|WP_058458051.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Fluoribacter bozemanae] &gt;gi|962192328|gb|KTC77402.1| 3-oxoacyl-ACP reductase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458051</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>2.23868e-146</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLAADFQVVACYFKHGKHEEAKQWQEEQKKLGYDIDIVYGDIAQFADCEKIVALVMERYGRVDVLINNAGITQDCSLRKMTPDQWQYVVDANLTSVFNMTRNVIPIMIDKGFGRIISISSINGRKGQFGQCNYASTKSALYGFTKSLALEVANKGITVNTVSPGYVETPMLTSLKEEVLKSIIASIPVGRLGNPKEIADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LGYDIDIVYGDIAQ++DCEKI +LVMERYGR+DVL+NNAGIT+DCSLRKMTP QWQ V+DANLTSVFNMTRNV+P+M+++G+GRI+SISSINGRKGQFGQCNYASTK+AL+GFTKSLALEVA+KGITVNTVSPGY+ETPML +LKE+VL SII+SIPVGRLG PKEIADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966436362|ref|WP_058476730.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella steigerwaltii] &gt;gi|962295033|gb|KTD78687.1| 3-oxoacyl-ACP reductase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476730</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.394</Hsp_bit-score>
+      <Hsp_score>1082</Hsp_score>
+      <Hsp_evalue>2.69664e-146</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTTICQRLAADFQVVACYFKHGKHEEAKQWQEEQKKLGYDIDIVYGDIAQFADCEKIMSLIMERYGRVDVLVNNAGITQDCSLRKMTPEQWQNVIDANLTSVFNMTRNVIPVMIDRGYGRIISISSINGRKGQFGQCNYASTKSALYGFSKSLALEVANKGITVNTISPGYIETPMLASLKEEVLKSIISSIPVGRLGRAKEVADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+ I QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LGYDIDIVYGDIAQ++DCEKI SL+MERYGR+DVLVNNAGIT+DCSLRKMTP+QWQ V+DANLTSVFNMTRNV+PVM++RGYGRI+SISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVA+KGITVNT+SPGYIETPMLA+LKE+VL SIISSIPVGRLG  KE+ADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|653018994|ref|WP_027270949.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella sainthelensi] &gt;gi|962274614|gb|KTD58545.1| 3-oxoacyl-ACP reductase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270949</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.009</Hsp_bit-score>
+      <Hsp_score>1081</Hsp_score>
+      <Hsp_evalue>3.99938e-146</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLASDFQVVACYFKNGKHEEAKQWQEEQKKLGFDLDIVYGDIAQFADCEKLISLVMERYQRIDVLVNNAGITHDCSLRKMTPEHWHSVIEANLTSVFNMTRNIIPIMIDRGYGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVASKGITVNTISPGYIETPMLSSLKEDVLNSIISSIPVGRLGQPKEIADAVAFLVSPESGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K+G+HEEAK+WQ+EQ++LG+D+DIVYGDIAQ++DCEK+ SLVMERY RIDVLVNNAGIT DCSLRKMTP+ W  V++ANLTSVFNMTRN++P+M++RGYGRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVASKGITVNT+SPGYIETPML++LKEDVLNSIISSIPVGRLG PKEIADAVAFL SP+SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|518179983|ref|WP_019350191.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Fluoribacter dumoffii] &gt;gi|962207535|gb|KTC92466.1| 3-oxoacyl-ACP reductase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_019350191</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.853</Hsp_bit-score>
+      <Hsp_score>1078</Hsp_score>
+      <Hsp_evalue>1.00319e-145</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>230</Hsp_align-len>
+      <Hsp_qseq>SAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>SAICQRLAADFQVVACYFKHGKHEEAKQWQEEQKKLGFDIDIVYGDIAKFADCEKIMALIMERYGRVDVLINNAGITQDCSLRKMTSDQWQQVIDANLTSVFNMTRNVIPVMIDRGYGRIISISSINGRKGQFGQCNYASTKSALFGFSKSLALEVANKGITVNTVSPGYIETPMLTSLKEDVLKSIISSIPVGRLGQAKEVADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>SAI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIA+++DCEKI +L+MERYGR+DVL+NNAGIT+DCSLRKMT  QWQQV+DANLTSVFNMTRNV+PVM++RGYGRI+SISSINGRKGQFGQCNYASTK+ALFGF+KSLALEVA+KGITVNTVSPGYIETPML +LKEDVL SIISSIPVGRLG  KE+ADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966466503|ref|WP_058497829.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella gratiana] &gt;gi|962229995|gb|KTD14591.1| 3-oxoacyl-ACP reductase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058497829</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>5.41479e-145</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>230</Hsp_align-len>
+      <Hsp_qseq>SAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>SAICQRLASDFQVVACYFKHGKHDEAKQWQEEQKKLGFDIDIVYGDIAQFADCEKLISLVMERYERIDVLVNNAGVTHDCSLRKMTPEHWHSVIEANLTSVFNMTRNVIPIMIDRGYGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVASKGITVNTISPGYIETPMLSSLKEDVLKSIISSIPVGRLGYPKEIADAVAFLVSPGSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>SAI QRLA  +QVVACY+K G+H+EAK+WQ+EQ++LG+DIDIVYGDIAQ++DCEK+ SLVMERY RIDVLVNNAG+T DCSLRKMTP+ W  V++ANLTSVFNMTRNV+P+M++RGYGRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVASKGITVNT+SPGYIETPML++LKEDVL SIISSIPVGRLGYPKEIADAVAFL SP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|518064332|ref|WP_019234540.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella anisa] &gt;gi|962190715|gb|KTC75803.1| 3-oxoacyl-ACP reductase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019234540</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>7.04186e-145</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLAADFQVVACYFKHGKHEEAKQWQEEQKKLGYDIDIVYGDIAQFADCEKIVALVMERYGSVDVLINNAGITQDCSLRKMSPDQWQDVIDANLTSVFNMTRNVIPIMIDKGFGRIISISSINGRKGQFGQCNYASTKSALYGFTKSLALEVANKGITVNTVSPGYVETPMLTSLKEEVLKSIIASIPVGRLGNPKEIADAIAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LGYDIDIVYGDIAQ++DCEKI +LVMERYG +DVL+NNAGIT+DCSLRKM+P QWQ V+DANLTSVFNMTRNV+P+M+++G+GRI+SISSINGRKGQFGQCNYASTK+AL+GFTKSLALEVA+KGITVNTVSPGY+ETPML +LKE+VL SII+SIPVGRLG PKEIADA+AFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966420680|ref|WP_058463881.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella cincinnatiensis] &gt;gi|962206939|gb|KTC91872.1| 3-oxoacyl-ACP reductase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058463881</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.542</Hsp_bit-score>
+      <Hsp_score>1072</Hsp_score>
+      <Hsp_evalue>9.36056e-145</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLASDFQVVACYFKHGKHEEAKQWQEEQKKLGFDVDIVYGDIAQFADCEKLISLIMERYERIDVLVNNAGITNDCSLRKMTPEHWHSVIEANLTSVFNMTRNVLPIMIDKGYGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVASKGITVNTISPGYIETPMLSSLKEEVLNSIISNIPVGRLGQPKEIADAVAFLVSPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+D+DIVYGDIAQ++DCEK+ SL+MERY RIDVLVNNAGIT DCSLRKMTP+ W  V++ANLTSVFNMTRNV+P+M+++GYGRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVASKGITVNT+SPGYIETPML++LKE+VLNSIIS+IPVGRLG PKEIADAVAFL SPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|502743806|ref|WP_012978790.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella longbeachae] &gt;gi|288856935|emb|CBJ10749.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_012978790</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.157</Hsp_bit-score>
+      <Hsp_score>1071</Hsp_score>
+      <Hsp_evalue>1.13994e-144</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLASDFQVVACYFKHGKHEEAKQWQEEQKKLGFDIDIVYGDIAQFADCEKLISLVMERYQHIDVLVNNAGITHDCSLRKMTPENWHSVIEANLTSVFNMTRNVIPIMIDKGYGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVASKGITVNTISPGYIETPMLSSLKEDVLNSIISSIPVGRLGQPKEIADAVAFLVSPASGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIAQ++DCEK+ SLVMERY  IDVLVNNAGIT DCSLRKMTP+ W  V++ANLTSVFNMTRNV+P+M+++GYGRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVASKGITVNT+SPGYIETPML++LKEDVLNSIISSIPVGRLG PKEIADAVAFL SP SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966493763|ref|WP_058510551.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella steelei] &gt;gi|962284695|gb|KTD68461.1| 3-oxoacyl-ACP reductase [Legionella steelei] &gt;gi|1113342024|gb|OJW05901.1| beta-ketoacyl-ACP reductase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510551</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.157</Hsp_bit-score>
+      <Hsp_score>1071</Hsp_score>
+      <Hsp_evalue>1.25797e-144</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTTICQRLAADFQVVACYFKHGKHDEAKQWQEEQKKLGYDIDIVYGDIAQFVDCEKIMALIMERYGRVDVLVNNAGITQDCSLRKMTPEQWHHVVDANLTSVFNMTRNVIPVMIDKGYGRVISISSINGRKGQFGQCNYASTKSALYGFSKSLALEVANKGITVNTISPGYIETPMLASLKEEVLKSIISSIPVGRLGHAKEVADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+ I QRLA  +QVVACY+K G+H+EAK+WQ+EQ++LGYDIDIVYGDIAQ+ DCEKI +L+MERYGR+DVLVNNAGIT+DCSLRKMTP+QW  V+DANLTSVFNMTRNV+PVM+++GYGR++SISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVA+KGITVNT+SPGYIETPMLA+LKE+VL SIISSIPVGRLG+ KE+ADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|269989996|gb|EEZ96250.1|</Hit_id>
+  <Hit_def>acetoacetyl-CoA reductase [Legionella longbeachae D-4968]</Hit_def>
+  <Hit_accession>EEZ96250</Hit_accession>
+  <Hit_len>245</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.001</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>3.01086e-144</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>245</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>244</Hsp_align-len>
+      <Hsp_qseq>KMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>KGVAIVTGGTGGIGTAICQRLASDFQVVACYFKHGKHEEAKQWQEEQKKLGFDIDIVYGDIAQFADCEKLISLVMERYQHIDVLVNNAGITHDCSLRKMTPENWHSVIEANLTSVFNMTRNVIPIMIDKGYGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVASKGITVNTISPGYIETPMLSSLKEDVLNSIISSIPVGRLGQPKEIADAVAFLVSPASGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIAQ++DCEK+ SLVMERY  IDVLVNNAGIT DCSLRKMTP+ W  V++ANLTSVFNMTRNV+P+M+++GYGRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVASKGITVNT+SPGYIETPML++LKEDVLNSIISSIPVGRLG PKEIADAVAFL SP SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966496244|ref|WP_058513010.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella santicrucis] &gt;gi|962282828|gb|KTD66604.1| 3-oxoacyl-ACP reductase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058513010</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.001</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>3.12088e-144</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLASDFQVVACYFKHGKHEEAKQWQDEQKKLGFDIDIVYGDIAQFADCEKLISLVMERYERIDVLVNNAGITHDCSLRKMTPENWHSVIEANLTSVFNITRNVIPIMIDRGVGRIVSISSINGRKGQFGQCNYASTKSALYGFSKSLALEVAGKGITVNTISPGYIETPMLSSLKEEVLNSIISSIPVGRLGQPKEIADAVAFLVSPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQDEQ++LG+DIDIVYGDIAQ++DCEK+ SLVMERY RIDVLVNNAGIT DCSLRKMTP+ W  V++ANLTSVFN+TRNV+P+M++RG GRIVSISSINGRKGQFGQCNYASTK+AL+GF+KSLALEVA KGITVNT+SPGYIETPML++LKE+VLNSIISSIPVGRLG PKEIADAVAFL SPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966499595|ref|WP_058516268.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella parisiensis] &gt;gi|962260131|gb|KTD44246.1| 3-oxoacyl-ACP reductase [Legionella parisiensis] &gt;gi|1069290657|gb|OEH46057.1| Acetoacetyl-CoA reductase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058516268</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>415.616</Hsp_bit-score>
+      <Hsp_score>1067</Hsp_score>
+      <Hsp_evalue>5.16383e-144</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLATDFQVVACYFKHGKHEEAKQWQEEQKKLGHDIDIVYGDIAQFADCEKIVALVKERYGRVDVLINNAGITQDCSLRKMTPDQWQYVVDANLTSVFNMTRNVIPIMIDEGFGRIISISSINGRKGQFGQCNYAATKSALYGFTKSLALEVANKGITVNTVSPGYVETPMLTSLKEEVLKSIIASIPVGRLGNPKEIADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIAQ++DCEKI +LV ERYGR+DVL+NNAGIT+DCSLRKMTP QWQ V+DANLTSVFNMTRNV+P+M++ G+GRI+SISSINGRKGQFGQCNYA+TK+AL+GFTKSLALEVA+KGITVNTVSPGY+ETPML +LKE+VL SII+SIPVGRLG PKEIADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966505227|ref|WP_058521886.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella tucsonensis] &gt;gi|962287598|gb|KTD71326.1| 3-oxoacyl-ACP reductase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521886</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.69</Hsp_bit-score>
+      <Hsp_score>1062</Hsp_score>
+      <Hsp_evalue>3.43109e-143</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MMKGVAIVTGGTGGIGTAICQRLASDFQVVACYFKHGKHEEAKQWQEEQKKLGHDIDIVYGDIAQFADCEKIVALVMERYGSVDVLINNAGITQDCSLRKMTPDQWQYVIDANLTSVFNMTRNAIPIMIDKGFGRIISISSINGRKGQFGQCNYASTKSALYGFTKSLALEVANKGITVNTVSPGYVETSMLTSLKEEVLKSIIASIPVGRLGDPKEIADAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  +QVVACY+K G+HEEAK+WQ+EQ++LG+DIDIVYGDIAQ++DCEKI +LVMERYG +DVL+NNAGIT+DCSLRKMTP QWQ V+DANLTSVFNMTRN +P+M+++G+GRI+SISSINGRKGQFGQCNYASTK+AL+GFTKSLALEVA+KGITVNTVSPGY+ET ML +LKE+VL SII+SIPVGRLG PKEIADAVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966516895|ref|WP_058533389.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533389</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>412.149</Hsp_bit-score>
+      <Hsp_score>1058</Hsp_score>
+      <Hsp_evalue>1.4553e-142</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>196</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MTKSVAIVTGGTGGIGTAICQRLAADYQVVACYFKHGRHEEAKQWQEEQKKLGFDIDIIYGDVAQFADCEKITAQMIERYGRIDVLINNAGVTQDCSLRKMSPEQWQQVLDANLTSVFNMTRNVIPHMLDKGYGRVISISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGVTVNTISPGYIETSMLTGLKPEVLDAIIANIPVGRLGKPQEIADAVAFFASPASGFMTGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIG+AI QRLA  YQVVACY+K GRHEEAK+WQ+EQ++LG+DIDI+YGD+AQ++DCEKIT+ ++ERYGRIDVL+NNAG+T+DCSLRKM+P+QWQQVLDANLTSVFNMTRNV+P ML++GYGR++SISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKG+TVNT+SPGYIET ML  LK +VL++II++IPVGRLG P+EIADAVAF ASP SGF+TGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966515281|ref|WP_058531798.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella rubrilucens] &gt;gi|962262705|gb|KTD46791.1| acetyoacetyl CoA reductase [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058531798</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>408.297</Hsp_bit-score>
+      <Hsp_score>1048</Hsp_score>
+      <Hsp_evalue>3.88199e-141</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKMTAVVTGGTGGIGTAICQKLASEYQVIACYFKDGKHEEAKAWQEQQRKAGFNVDIVYADMASFADCEKLVSLVNERYGHIDVLVNNAGITADCSLKKMTPQQWQQVLDANLTSVFNITRNVLPVMLDKGYGRIITISSINGRKGQFGQCNYAASKAALFGFSKSLALEVASKGITVNTISPGYIETPMLAGVKEDVLKSIVANIPVGRLGRPEEIADAVAFLAARESGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M+KM A+VTGGTGGIG+AI Q+LA  YQV+ACY+KDG+HEEAK WQ++QR+ G+++DIVY D+A ++DCEK+ SLV ERYG IDVLVNNAGIT DCSL+KMTPQQWQQVLDANLTSVFN+TRNV+PVML++GYGRI++ISSINGRKGQFGQCNYA++KAALFGF+KSLALEVASKGITVNT+SPGYIETPMLA +KEDVL SI+++IPVGRLG P+EIADAVAFLA+ +SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966511020|ref|WP_058527611.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella erythra] &gt;gi|962209446|gb|KTC94353.1| acetyoacetyl CoA reductase [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058527611</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>402.134</Hsp_bit-score>
+      <Hsp_score>1032</Hsp_score>
+      <Hsp_evalue>9.75917e-139</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKMTAVVTGGTGGIGTAICQKLASEYQVIACYFKDGKHDEAKAWQEQQRKAGFNVDILYADIASFADCEKLVSLVNERYGHIDVLVNNAGITADCSLKKMTPQQWQQVIDANLTSVFNITRNVLPAMLDRGYGRIITISSINGRKGQFGQCNYAASKAALFGFSKSLALEVASKGITVNTISPGYIETPMLAGVKDEVLKSIIANIPVGRLGRPEEIADAVAFLAARESGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M+KM A+VTGGTGGIG+AI Q+LA  YQV+ACY+KDG+H+EAK WQ++QR+ G+++DI+Y DIA ++DCEK+ SLV ERYG IDVLVNNAGIT DCSL+KMTPQQWQQV+DANLTSVFN+TRNV+P ML+RGYGRI++ISSINGRKGQFGQCNYA++KAALFGF+KSLALEVASKGITVNT+SPGYIETPMLA +K++VL SII++IPVGRLG P+EIADAVAFLA+ +SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1011913956|ref|WP_062727170.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727170</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.593</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>4.7186e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>193</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERKIAIVTGGTGGIGTAICRRLAADYSVIACYFKNGNHEEAIQWQRTQQQAGLDIDILYADIAQFHDCEKLVALVMERYGRIDVLVNNAGITQDSSLKKMSPEQWQSVLDANLTSVFNMTRNILPAMLEKGYGRIISISSINGRKGQFGQCNYAATKAALFGFTKSLALEVANKGITVNTISPGYIETPMLSTMREDVLNTIISAIPVGRLGLPQDVAEAVAFLASPVSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++ IAIVTGGTGGIG+AI +RLA  Y V+ACY+K+G HEEA +WQ  Q+Q G DIDI+Y DIAQ+ DCEK+ +LVMERYGRIDVLVNNAGIT+D SL+KM+P+QWQ VLDANLTSVFNMTRN++P MLE+GYGRI+SISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVA+KGITVNT+SPGYIETPML+ ++EDVLN+IIS+IPVGRLG P+++A+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966431432|ref|WP_058471877.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella jordanis] &gt;gi|962233647|gb|KTD18195.1| acetyoacetyl CoA reductase [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471877</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.823</Hsp_bit-score>
+      <Hsp_score>1026</Hsp_score>
+      <Hsp_evalue>8.06665e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKMTAVVTGGTGGIGTAICQRLASDYQVIACYFKDGNHEEAKRWQTEQQAAGYEIDIVYADIVHFADCEKLTSLILEKYNRIDVLVNNAGITADTSLKKMSPEQWQQVIDANLTSVFNVTRNVLPAMLEKGYGRIISISSINGRKGQFGQCNYAASKAALFGFSKSLAQEVAAKGITVNTISPGYIETAMLTGMKEEILKSIIANIPVGRLGKPQEIADAVAFLASPSSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M+KM A+VTGGTGGIG+AI QRLA  YQV+ACY+KDG HEEAK+WQ EQ+  GY+IDIVY DI  ++DCEK+TSL++E+Y RIDVLVNNAGIT D SL+KM+P+QWQQV+DANLTSVFN+TRNV+P MLE+GYGRI+SISSINGRKGQFGQCNYA++KAALFGF+KSLA EVA+KGITVNT+SPGYIET ML  +KE++L SII++IPVGRLG P+EIADAVAFLASP SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966438208|ref|WP_058478576.1|</Hit_id>
+  <Hit_def>MULTISPECIES: beta-ketoacyl-ACP reductase [Legionella] &gt;gi|962286897|gb|KTD70639.1| acetyoacetyl CoA reductase [Legionella steigerwaltii] &gt;gi|1113344544|gb|OJW08384.1| beta-ketoacyl-ACP reductase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058478576</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.823</Hsp_bit-score>
+      <Hsp_score>1026</Hsp_score>
+      <Hsp_evalue>8.61408e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERMTAVVTGGTGGIGSAICQRLAADYQVIACYFKNGKHDEAKRWQESQREAGYDVDILYGDTTQFADCEKLTDLLMERYGRIDVLVNNAGITCDTTLKKMTSQQWQQVIDANLTSVFNMTRNVLPAMLAQGYGRIISISSINGRKGQFGQCNYAATKAALFGFTKSLALEVANKGITVNTISPGYIETPMLASIKEEILNAIVTYIPVGRLGKPEEVADAVTFLAAPERGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M++M A+VTGGTGGIGSAI QRLA  YQV+ACY+K+G+H+EAK+WQ+ QR+ GYD+DI+YGD  Q++DCEK+T L+MERYGRIDVLVNNAGIT D +L+KMT QQWQQV+DANLTSVFNMTRNV+P ML +GYGRI+SISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVA+KGITVNT+SPGYIETPMLA++KE++LN+I++ IPVGRLG P+E+ADAV FLA+P+ GFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|499535488|ref|WP_011216271.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|53755054|emb|CAH16545.1| hypothetical protein lpl2305 [Legionella pneumophila str. Lens] &gt;gi|1080000561|gb|AOW51133.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080004985|gb|AOW55265.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080009195|gb|AOW59183.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080011137|gb|AOW60628.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080015767|gb|AOW64640.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080017380|gb|AOW66025.1| beta-ketoacyl-ACP reductase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011216271</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.823</Hsp_bit-score>
+      <Hsp_score>1026</Hsp_score>
+      <Hsp_evalue>9.50566e-138</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERKIAIVTGGTGGIGTAICRRLAADYSVIACYFKNGNHEEAIQWQRTQQQAGFDIDILYANIAQFHDCEKLVALVMERYGRIDVLINNAGITQDSSLKKMSPEQWQSVLDANLTSVFNMTRNILPAMLEKGYGRIISISSINGRKGQFGQCNYAATKAALFGFTKSLALEVANKGITVNTISPGYIETPMLSTMREDVLNTIISAIPVGRLGLPQDVAEAVAFLASPVSGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++ IAIVTGGTGGIG+AI +RLA  Y V+ACY+K+G HEEA +WQ  Q+Q G+DIDI+Y +IAQ+ DCEK+ +LVMERYGRIDVL+NNAGIT+D SL+KM+P+QWQ VLDANLTSVFNMTRN++P MLE+GYGRI+SISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVA+KGITVNT+SPGYIETPML+ ++EDVLN+IIS+IPVGRLG P+++A+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|493927263|ref|WP_006872013.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella drancourtii] &gt;gi|363536396|gb|EHL29838.1| hypothetical protein LDG_8130 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872013</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.438</Hsp_bit-score>
+      <Hsp_score>1025</Hsp_score>
+      <Hsp_evalue>1.36401e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MTKEVAIVTGGTGGIGSAICQRLAADFQVVACYFKHGNHEEAKQWQEEQKKLGFDIDIAYADVAQFADCEKLAALLMARYGHIDVLVNNAGITQDCSLRKMSPEQWQHVLDSNLTSVFNMTRNIIPHMLDKGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVANKGITVNTISPGYIETHMLTSLKKEILDAIIANIPVGRLGSPKEIADAVAFLVAEESGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M K +AIVTGGTGGIGSAI QRLA  +QVVACY+K G HEEAK+WQ+EQ++LG+DIDI Y D+AQ++DCEK+ +L+M RYG IDVLVNNAGIT+DCSLRKM+P+QWQ VLD+NLTSVFNMTRN++P ML++GYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVA+KGITVNT+SPGYIET ML +LK+++L++II++IPVGRLG PKEIADAVAFL + +SGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|500495593|ref|WP_011947298.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|148281940|gb|ABQ56028.1| acetyoacetyl CoA reductase [Legionella pneumophila str. Corby] &gt;gi|295649913|gb|ADG25760.1| acetoacetyl-CoA reductase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|999151151|emb|CZH83596.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999170163|emb|CZH57086.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999287639|emb|CZI19622.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999294103|emb|CZI31119.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999303152|emb|CZI18227.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|999313271|emb|CZI20424.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila] &gt;gi|1002093018|emb|CZQ92530.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011947298</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.282</Hsp_bit-score>
+      <Hsp_score>1022</Hsp_score>
+      <Hsp_evalue>3.13335e-137</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERKIAIVTGGTGGIGTAICQRLAADYSVIACYFKNGNHEEAIQWQRTQQQAGLDIDILYADIAKFNDCEKLVALVMERYGRIDVLVNNAGITQDSSLKKMSPEQWQFVLDANLTSVFNMTRNILPAMLEKGYGRIISISSINGRKGQFGQCNYAATKAALFGFTKSLALEVANKGITANTISPGYIETPMLSTMREDVLNTIISAIPVGRLGLPQDVAEAVAFLASPASGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M++ IAIVTGGTGGIG+AI QRLA  Y V+ACY+K+G HEEA +WQ  Q+Q G DIDI+Y DIA+++DCEK+ +LVMERYGRIDVLVNNAGIT+D SL+KM+P+QWQ VLDANLTSVFNMTRN++P MLE+GYGRI+SISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVA+KGIT NT+SPGYIETPML+ ++EDVLN+IIS+IPVGRLG P+++A+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|498341229|ref|WP_010655385.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Fluoribacter dumoffii]</Hit_def>
+  <Hit_accession>WP_010655385</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.127</Hsp_bit-score>
+      <Hsp_score>1019</Hsp_score>
+      <Hsp_evalue>1.05566e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKKTAIVTGGTGGIGSAICQRLATDYCVIACYFKNGNHNEAIQWQKAQREKGFEIDILYADIAQFNDCEKLVSLVMERYGRIDVLINNAGITQDSSLKKMSPEQWQTVLDANLTSVFNMTRNTLPAMLEQGYGRIISISSINGRKGQFGQCNYAATKAALYGFTKSLALEVASKGITVNTVSPGYIETPMLSTMREDVLNTIISAIPVGRLGLPQEVAEAVAFLASPASGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M+K  AIVTGGTGGIGSAI QRLA  Y V+ACY+K+G H EA +WQ  QR+ G++IDI+Y DIAQ++DCEK+ SLVMERYGRIDVL+NNAGIT+D SL+KM+P+QWQ VLDANLTSVFNMTRN +P MLE+GYGRI+SISSINGRKGQFGQCNYA+TKAAL+GFTKSLALEVASKGITVNTVSPGYIETPML+ ++EDVLN+IIS+IPVGRLG P+E+A+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|769982237|ref|WP_045098219.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Tatlockia micdadei] &gt;gi|698845689|emb|CEG59667.1| Acetoacetyl-CoA reductase [Tatlockia micdadei] &gt;gi|962245147|gb|KTD29451.1| acetyoacetyl CoA reductase [Tatlockia micdadei] &gt;gi|1081465877|emb|SCX96865.1| 3-oxoacyl-[acyl-carrier-protein] reductase [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098219</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>395.971</Hsp_bit-score>
+      <Hsp_score>1016</Hsp_score>
+      <Hsp_evalue>2.61795e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERMTAVVTGGTGGIGTAICRRLASEYQVVACYYKHGKHEEAKHWQEIQKEAGYDIDIIYANIENFADCENLASLVMERYGRIDVLVNNAGITADVSLKKMTPEQWQQVIDANLNSVFNVTRNVLPAMLDKGYGRIISISSINGRKGQFGQCNYASSKAALFGFSKSLALEVACKGITVNTISPGYIETPMLAGMKEEVLQSIIANIPVGRLGKPEEIAEAVAFLAAPGAGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M++M A+VTGGTGGIG+AI +RLA  YQVVACYYK G+HEEAK WQ+ Q++ GYDIDI+Y +I  ++DCE + SLVMERYGRIDVLVNNAGIT D SL+KMTP+QWQQV+DANL SVFN+TRNV+P ML++GYGRI+SISSINGRKGQFGQCNYAS+KAALFGF+KSLALEVA KGITVNT+SPGYIETPMLA +KE+VL SII++IPVGRLG P+EIA+AVAFLA+P +GFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966504167|ref|WP_058520826.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella tucsonensis] &gt;gi|962290120|gb|KTD73828.1| acetyoacetyl CoA reductase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058520826</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>395.971</Hsp_bit-score>
+      <Hsp_score>1016</Hsp_score>
+      <Hsp_evalue>2.82636e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKKIAIVTGGTGGIGTAICQRLATEYSVIACYFKNGNHNEAIQWQKAQQKAGFEINILYADITQFDDCEKLVSLVMERYGRIDVLVNNAGLTQDSSLKKMSPEQWQSVLDANLTSVFNMTRNTLTAMLERGYGRIISISSINGRKGQFGQCNYAATKAAMFGFTKSLALEVASKGITVNTISPGYIETPMLSTMREDVLNTIISAIPVGRLGLPQDIAEAVAFLASPASGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M+K IAIVTGGTGGIG+AI QRLA  Y V+ACY+K+G H EA +WQ  Q++ G++I+I+Y DI Q+ DCEK+ SLVMERYGRIDVLVNNAG+T+D SL+KM+P+QWQ VLDANLTSVFNMTRN +  MLERGYGRI+SISSINGRKGQFGQCNYA+TKAA+FGFTKSLALEVASKGITVNT+SPGYIETPML+ ++EDVLN+IIS+IPVGRLG P++IA+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|1005402934|ref|WP_061636194.1|</Hit_id>
+  <Hit_def>beta-ketoacyl-ACP reductase [Legionella pneumophila] &gt;gi|999329859|emb|CZG10078.1| 3-oxoacyl-[acyl-carrier-protein] reductase FabG [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061636194</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>395.971</Hsp_bit-score>
+      <Hsp_score>1016</Hsp_score>
+      <Hsp_evalue>3.08493e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>190</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MEKKIAVVTGGTGGIGTAICQRLATDYTVIACYFKNGNHEEAIQWQRTQQNAGFEIDILYADIAQFNDCEKLISLVMERYSRIDLLVNNAGVTQDSSLKKMSPEQWQSVLDANLSSVFNMTRNTLPAMLEKGYGRIISISSINGRKGQFGQCNYAATKAALFGFTKSLALEVASKGITVNTISPGYIETPMLSKMREDVLNIIISAIPVGRLGLPQDVAEAVAFLASPASGFITGANLDVNGGQYM</Hsp_hseq>
+      <Hsp_midline>M+K IA+VTGGTGGIG+AI QRLA  Y V+ACY+K+G HEEA +WQ  Q+  G++IDI+Y DIAQ++DCEK+ SLVMERY RID+LVNNAG+T+D SL+KM+P+QWQ VLDANL+SVFNMTRN +P MLE+GYGRI+SISSINGRKGQFGQCNYA+TKAALFGFTKSLALEVASKGITVNT+SPGYIETPML+ ++EDVLN IIS+IPVGRLG P+++A+AVAFLASP SGFITGANLDVNGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|518045068|ref|WP_019215276.1|</Hit_id>
+  <Hit_def>3-ketoacyl-ACP reductase [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019215276</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>395.586</Hsp_bit-score>
+      <Hsp_score>1015</Hsp_score>
+      <Hsp_evalue>3.92458e-136</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>MDKMIAIVTGGTGGIGSAISQRLADSYQVVACYYKDGRHEEAKKWQDEQRQLGYDIDIVYGDIAQYSDCEKITSLVMERYGRIDVLVNNAGITKDCSLRKMTPQQWQQVLDANLTSVFNMTRNVVPVMLERGYGRIVSISSINGRKGQFGQCNYASTKAALFGFTKSLALEVASKGITVNTVSPGYIETPMLAALKEDVLNSIISSIPVGRLGYPKEIADAVAFLASPDSGFITGANLDVNGGQYM</Hsp_qseq>
+      <Hsp_hseq>MERMTAVVTGGTGGIGSAICQRLAANYRVIACYFKDGRHEEAKQWQAAQKEVGFDIDIFYADIAKFDDCEKLAALILERYGQIDVLVNNAGITVDSSFKKMSPQQWQQVIDANLTSVFNVTRNVLPAMLERNYGRIITISSINGRKGQFGQCNYAASKAALFGFTKSLALEVASKGITVNTISPGYIETPMLTGVREDVLKNIIANIPVGRLGTAQEVAHAVAFLASPDSGFITGANLDINGGQYM</Hsp_hseq>
+      <Hsp_midline>M++M A+VTGGTGGIGSAI QRLA +Y+V+ACY+KDGRHEEAK+WQ  Q+++G+DIDI Y DIA++ DCEK+ +L++ERYG+IDVLVNNAGIT D S +KM+PQQWQQV+DANLTSVFN+TRNV+P MLER YGRI++ISSINGRKGQFGQCNYA++KAALFGFTKSLALEVASKGITVNT+SPGYIETPML  ++EDVL +II++IPVGRLG  +E+A AVAFLASPDSGFITGANLD+NGGQYM</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

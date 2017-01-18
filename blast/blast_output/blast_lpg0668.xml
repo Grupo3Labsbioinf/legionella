@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_80761</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>298</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_80761</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>298</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248770|ref|WP_010946310.1|</Hit_id>
+  <Hit_def>spore maturation protein A [Legionella pneumophila] &gt;gi|52840807|ref|YP_094606.1| spore maturation protein A [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627918|gb|AAU26659.1| spore maturation protein A [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507322|gb|AEW50846.1| spore maturation protein A [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946310</Hit_accession>
+  <Hit_len>205</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>406.371</Hsp_bit-score>
+      <Hsp_score>1043</Hsp_score>
+      <Hsp_evalue>1.08722e-141</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>205</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>205</Hsp_align-len>
+      <Hsp_qseq>MEAIMLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MEAIMLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MEAIMLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499526544|ref|WP_011213184.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella pneumophila] &gt;gi|53750379|emb|CAH11773.1| hypothetical protein lpp0625 [Legionella pneumophila str. Paris] &gt;gi|53753388|emb|CAH14841.1| hypothetical protein lpl0608 [Legionella pneumophila str. Lens] &gt;gi|148282553|gb|ABQ56641.1| spore maturation protein A [Legionella pneumophila str. Corby] &gt;gi|295648054|gb|ADG23901.1| spore maturation protein A [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126545|emb|CCD04728.1| Spore maturation protein A [Legionella pneumophila subsp. pneumophila] &gt;gi|469492897|gb|AGH54742.1| Spore maturation protein A [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081227|gb|AGN13475.1| spore maturation protein A [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|536613668|gb|ERB42040.1| spore maturation protein [Legionella pneumophila str. 121004] &gt;gi|541995238|gb|ERH41357.1| spore maturation protein [Legionella pneumophila str. Leg01/53] &gt;gi|541995635|gb|ERH41734.1| spore maturation protein [Legionella pneumophila str. Leg01/11] &gt;gi|542121216|gb|ERI47549.1| spore maturation protein [Legionella pneumophila str. Leg01/20] &gt;gi|761989430|dbj|GAN22698.1| spore maturation protein A [Legionella pneumophila] &gt;gi|761992537|dbj|GAN16577.1| spore maturation protein A [Legionella pneumophila] &gt;gi|761995727|dbj|GAN19683.1| spore maturation protein A [Legionella pneumophila] &gt;gi|761998942|dbj|GAN29051.1| spore maturation protein A [Legionella pneumophila] &gt;gi|762002583|dbj|GAN25701.1| spore maturation protein A [Legionella pneumophila] &gt;gi|998771495|emb|CZI74739.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998783056|emb|CZI87316.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998795811|emb|CZI45617.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998800601|emb|CZL13249.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998801794|emb|CZI06919.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998804075|emb|CZK62586.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998807165|emb|CZI29792.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998810689|emb|CZI15565.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998813152|emb|CZH15376.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998816408|emb|CZM19492.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998819775|emb|CZM02127.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998822519|emb|CZH36361.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998825521|emb|CZK38161.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998828361|emb|CZH39501.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998832862|emb|CZI20939.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998834502|emb|CZL52271.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998838734|emb|CZJ32162.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998840475|emb|CZL82394.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998843055|emb|CZL06608.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998846286|emb|CZL07992.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998849133|emb|CZI95993.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998852399|emb|CZL86754.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998855986|emb|CZL54795.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998858651|emb|CZM31035.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998862349|emb|CZK42243.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998864799|emb|CZJ90060.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998867248|emb|CZJ84247.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998870166|emb|CZM40557.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998873585|emb|CZK70711.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998876179|emb|CZM46194.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998879298|emb|CZJ73512.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998882172|emb|CZJ31010.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998885750|emb|CZM34168.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998888558|emb|CZK48471.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998895841|emb|CZK09843.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998897508|emb|CZK15792.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998905227|emb|CZK90825.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998908382|emb|CZL66161.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998912203|emb|CZH25368.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998916127|emb|CZK73828.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998917452|emb|CZL62126.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998920432|emb|CZL69422.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998923696|emb|CZK22938.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998926791|emb|CZL97421.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998930959|emb|CZK84018.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998933638|emb|CZL66456.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998938073|emb|CZL88845.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998938704|emb|CZL19481.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998943766|emb|CZJ49023.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998946291|emb|CZK73423.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998947951|emb|CZL27821.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998950698|emb|CZK10397.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998954303|emb|CZK59194.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998956919|emb|CZM65158.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998960502|emb|CZK70300.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998963122|emb|CZK77900.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998966672|emb|CZM39646.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998969416|emb|CZL07981.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998972425|emb|CZK84272.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998975474|emb|CZJ88936.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998978539|emb|CZM02775.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998986149|emb|CZK11895.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998987463|emb|CZL88028.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998992860|emb|CZJ49167.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998994621|emb|CZI24795.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998998317|emb|CZJ98594.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999000132|emb|CZG96282.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999003097|emb|CZI79775.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999006385|emb|CZL21368.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999009091|emb|CZK48666.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999011850|emb|CZL83193.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999014891|emb|CZM76200.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999018254|emb|CZJ88833.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999021262|emb|CZL95970.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999024007|emb|CZL19495.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999027368|emb|CZK26380.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999030530|emb|CZH22509.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999033319|emb|CZK21815.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999036272|emb|CZL87345.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999039524|emb|CZJ97138.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999042409|emb|CZK03603.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999045198|emb|CZM30114.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999048558|emb|CZK03085.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999051539|emb|CZJ91057.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999054582|emb|CZK31226.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999058404|emb|CZM27790.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999060326|emb|CZL82021.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999063651|emb|CZK00804.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999066524|emb|CZJ51599.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999070606|emb|CZJ66231.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999072825|emb|CZK33495.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999075407|emb|CZH18004.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999078657|emb|CZK46034.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999083124|emb|CZK88222.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999084959|emb|CZK29031.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999087864|emb|CZL14276.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999090926|emb|CZL88949.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999093916|emb|CZH51516.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999096932|emb|CZH50718.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999101429|emb|CZL76988.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999103662|emb|CZI18096.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999110885|emb|CZL03486.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999114090|emb|CZL60697.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999115982|emb|CZK75477.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999124709|emb|CZL30924.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999128544|emb|CZH17987.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999132472|emb|CZL68745.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999133926|emb|CZL48910.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999136938|emb|CZK86621.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999140925|emb|CZL87928.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999144884|emb|CZK82998.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999146412|emb|CZM13324.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999150014|emb|CZI50740.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999152267|emb|CZM99041.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999155572|emb|CZI36626.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999159364|emb|CZJ70875.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999161517|emb|CZM54878.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999165766|emb|CZG86479.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999168662|emb|CZI47832.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999171818|emb|CZI28132.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999174173|emb|CZL59981.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999178371|emb|CZJ57326.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999181607|emb|CZG50303.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999184295|emb|CZP95416.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999187774|emb|CZI94457.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999189764|emb|CZI74311.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999192884|emb|CZJ14633.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999198428|emb|CZP11920.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999199287|emb|CZH02838.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999202093|emb|CZJ19360.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999206161|emb|CZP61708.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999208396|emb|CZL33640.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999212691|emb|CZG75811.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999216951|emb|CZI67656.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999217906|emb|CZM03372.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999220875|emb|CZJ06751.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999225363|emb|CZG85471.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999228264|emb|CZP06614.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999235169|emb|CZP56843.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999236665|emb|CZG92078.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999240321|emb|CZH92237.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999244334|emb|CZH75177.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999247846|emb|CZH54821.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999248740|emb|CZH06842.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999251956|emb|CZH35641.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999255946|emb|CZP78490.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999259148|emb|CZP48046.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999261264|emb|CZH40184.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999265181|emb|CZP06087.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999269393|emb|CZO32133.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999272195|emb|CZP56702.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999274762|emb|CZG76978.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999277577|emb|CZP35420.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999281392|emb|CZP17762.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999283640|emb|CZP60853.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999286055|emb|CZJ09232.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999290957|emb|CZP31103.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999292366|emb|CZI86149.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999296516|emb|CZP59210.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999299603|emb|CZP49224.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999301796|emb|CZI71919.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999307275|emb|CZH69483.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999309339|emb|CZP25527.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999311336|emb|CZJ22767.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999315853|emb|CZI11353.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999318647|emb|CZP64281.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999321989|emb|CZH96938.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999324472|emb|CZH34257.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999328592|emb|CZG62404.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999331896|emb|CZG61045.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999333315|emb|CZL29297.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999337726|emb|CZP46145.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999340048|emb|CZH25436.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999344483|emb|CZP85036.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999347178|emb|CZP62453.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999349739|emb|CZH42508.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999353504|emb|CZP70040.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999357262|emb|CZP68849.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999359937|emb|CZI59995.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999363842|emb|CZP57410.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999367086|emb|CZP75679.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999369971|emb|CZP78386.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999373491|emb|CZG58337.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999376526|emb|CZJ19954.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999379718|emb|CZH68789.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999382613|emb|CZI55964.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999386318|emb|CZG65707.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999389063|emb|CZI54852.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999392275|emb|CZP97678.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999396939|emb|CZG11460.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999398523|emb|CZQ00602.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999403152|emb|CZP42861.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999405955|emb|CZG74143.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999408858|emb|CZH88915.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999412706|emb|CZG31703.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999415467|emb|CZG90348.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999418807|emb|CZG65935.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999422002|emb|CZH73980.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999425316|emb|CZG76317.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999428330|emb|CZG70427.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999431680|emb|CZG74870.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999435038|emb|CZI02330.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999438222|emb|CZG63977.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999441218|emb|CZK30683.1| spore maturation protein A [Legionella pneumophila] &gt;gi|999444589|emb|CZH75449.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999447792|emb|CZG51938.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999450592|emb|CZP34835.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999454099|emb|CZI23587.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999457533|emb|CZK20208.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999460564|emb|CZH02879.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999464883|emb|CZM54272.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999467907|emb|CZO31382.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999469281|emb|CZH05810.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999474668|emb|CZM59971.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999477125|emb|CZN73203.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999480627|emb|CZM98469.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999484282|emb|CZN91377.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999487059|emb|CZM10231.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999490232|emb|CZN77281.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999493423|emb|CZM09820.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999496218|emb|CZI44772.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999500003|emb|CZN72066.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999503129|emb|CZO05694.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999506403|emb|CZN17745.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999509606|emb|CZG53128.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999512944|emb|CZN31344.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999515968|emb|CZL99092.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999519035|emb|CZM85654.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999521835|emb|CZP14617.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999525395|emb|CZJ09298.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999528108|emb|CZI76422.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999532391|emb|CZO47807.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999535547|emb|CZN41580.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999538628|emb|CZM77823.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999542072|emb|CZO21978.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999545034|emb|CZO62476.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999548122|emb|CZN87698.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999551434|emb|CZO09285.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999554469|emb|CZN29589.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999557956|emb|CZO57277.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999561035|emb|CZM39696.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999564041|emb|CZO64846.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999567405|emb|CZM51152.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999570605|emb|CZN49291.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999573793|emb|CZN90764.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999575991|emb|CZI40850.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999580285|emb|CZO14496.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999583573|emb|CZO36225.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999586936|emb|CZM62741.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999590029|emb|CZM41898.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999593188|emb|CZN46700.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999596261|emb|CZO13892.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999599581|emb|CZO39526.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999602593|emb|CZL94790.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999605381|emb|CZN71135.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999608918|emb|CZN62016.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999611247|emb|CZI61085.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999615530|emb|CZM45440.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999618701|emb|CZN92800.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999621729|emb|CZO80075.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999625057|emb|CZN69753.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999628444|emb|CZM64380.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999631506|emb|CZM57707.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999634566|emb|CZN57539.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999637894|emb|CZN49433.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999641090|emb|CZO77576.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999644082|emb|CZO50937.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999647573|emb|CZN93271.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999650741|emb|CZO06473.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999653874|emb|CZN99507.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999657071|emb|CZM27610.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999660145|emb|CZM63626.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999663424|emb|CZN19486.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999666789|emb|CZM40318.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999669981|emb|CZL85987.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999673055|emb|CZM36229.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999676375|emb|CZN80008.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999679280|emb|CZM76924.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999682475|emb|CZM80639.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999686162|emb|CZN98043.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999689170|emb|CZN31947.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999692363|emb|CZO01416.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999695580|emb|CZN31577.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999698753|emb|CZM10742.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999701697|emb|CZM76202.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999704932|emb|CZL92329.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999708210|emb|CZN58408.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999711629|emb|CZN03037.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999714725|emb|CZN23823.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999717945|emb|CZO43815.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999720901|emb|CZM91477.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999724420|emb|CZN32178.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999727875|emb|CZM00791.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999730942|emb|CZO42117.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999734218|emb|CZM26963.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999737442|emb|CZO69040.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999740923|emb|CZM30297.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999744139|emb|CZN28329.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999747281|emb|CZM26287.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999750487|emb|CZL93999.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999753683|emb|CZM79478.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999756734|emb|CZN08450.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999760235|emb|CZM22463.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999763420|emb|CZN31741.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999766946|emb|CZM50705.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999769795|emb|CZN52906.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999773092|emb|CZH88361.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999776259|emb|CZM01557.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999777525|emb|CZH51798.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999782853|emb|CZH61517.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999786458|emb|CZM26350.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999789623|emb|CZO69317.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999792968|emb|CZO62399.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999796038|emb|CZI19745.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999799853|emb|CZO58061.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002078775|emb|CZQ91577.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002085508|emb|CZQ97109.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002088342|emb|CZQ79101.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002090921|emb|CZR11622.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1003018423|emb|CZR30624.1| spore maturation protein A [Legionella pneumophila] &gt;gi|1003021497|emb|CZR27018.1| spore maturation protein A [Legionella pneumophila] &gt;gi|1003024463|emb|CZR30098.1| spore maturation protein A [Legionella pneumophila] &gt;gi|1003029149|emb|CZR18910.1| spore maturation protein A [Legionella pneumophila] &gt;gi|1003033085|emb|CZR19551.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1003036332|emb|CZR16692.1| spore maturation protein A [Legionella pneumophila] &gt;gi|1005832328|gb|AMQ27054.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431698|gb|AMV13325.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1032656737|gb|ANH12008.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1032659704|gb|ANH14974.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1032662671|gb|ANH17940.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1041014598|gb|ANN91659.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1041017696|gb|ANN94756.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073863727|gb|AOU03678.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073866685|gb|AOU06635.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073869690|gb|AOU09639.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073872635|gb|AOU12583.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073875616|gb|AOU15563.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073878578|gb|AOU18524.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073881572|gb|AOU21517.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073884534|gb|AOU24478.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073887533|gb|AOU27476.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073890516|gb|AOU30458.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073893481|gb|AOU33422.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073896446|gb|AOU36386.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073899410|gb|AOU39349.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073905273|gb|AOU45210.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073908290|gb|AOU48225.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073911346|gb|AOU51278.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073914264|gb|AOU54195.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073917222|gb|AOU57152.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073920189|gb|AOU60118.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073923162|gb|AOU63089.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073926176|gb|AOU66102.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073929156|gb|AOU69065.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073932540|gb|AOU72099.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073935487|gb|AOU82486.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073945762|gb|AOU85486.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1073948725|gb|AOU88448.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1080002166|gb|AOW52738.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006081|gb|AOW56361.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008060|gb|AOW58048.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012279|gb|AOW61770.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014664|gb|AOW63537.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018522|gb|AOW67167.1| nucleoside recognition protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1103995630|emb|SFZ36925.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1103998762|emb|SFZ36626.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1104001882|emb|SFZ36633.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1104005447|emb|SFZ36627.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1129967340|gb|APT97699.1| nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213184</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.053</Hsp_bit-score>
+      <Hsp_score>1024</Hsp_score>
+      <Hsp_evalue>7.37122e-139</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1004017295|ref|WP_061485108.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485108</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>398.282</Hsp_bit-score>
+      <Hsp_score>1022</Hsp_score>
+      <Hsp_evalue>1.39172e-138</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIIAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAI+AVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1004334330|ref|WP_061513255.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513255</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.897</Hsp_bit-score>
+      <Hsp_score>1021</Hsp_score>
+      <Hsp_evalue>2.06476e-138</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVVRSVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEVVR+VTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|504656322|ref|WP_014843424.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella pneumophila] &gt;gi|395129652|emb|CCD07885.1| Spore maturation protein A [Legionella pneumophila subsp. pneumophila] &gt;gi|998774406|emb|CZH06744.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998777286|emb|CZH10916.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998783343|emb|CZH42687.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998786196|emb|CZH05241.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998791295|emb|CZG42788.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998793088|emb|CZI49650.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998892583|emb|CZJ22207.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|998981325|emb|CZJ18718.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999107242|emb|CZI76730.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999230601|emb|CZI94279.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002074243|emb|CZR05136.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1002081648|emb|CZR00933.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1073902362|gb|AOU42300.1| nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843424</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.127</Hsp_bit-score>
+      <Hsp_score>1019</Hsp_score>
+      <Hsp_evalue>4.34975e-138</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQFAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQ AKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1011971000|ref|WP_062777085.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062777085</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>396.356</Hsp_bit-score>
+      <Hsp_score>1017</Hsp_score>
+      <Hsp_evalue>9.57393e-138</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLDLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANML LANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|652970733|ref|WP_027223625.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella pneumophila] &gt;gi|985765904|gb|KXB27015.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|985767786|gb|KXB28872.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|999119215|emb|CZG74705.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|999122577|emb|CZH15276.1| Spore maturation protein A [Legionella pneumophila] &gt;gi|1005362835|gb|AMP88704.1| nucleoside recognition protein [Legionella pneumophila subsp. pascullei] &gt;gi|1005365836|gb|AMP91613.1| nucleoside recognition protein [Legionella pneumophila subsp. pascullei] &gt;gi|1005368823|gb|AMP94599.1| nucleoside recognition protein [Legionella pneumophila subsp. pascullei] &gt;gi|1024341717|gb|KZX36024.1| nucleoside recognition protein [Legionella pneumophila] &gt;gi|1108604031|gb|APF02399.1| nucleoside recognition protein [Legionella pneumophila subsp. fraseri] &gt;gi|1108607042|gb|APF05409.1| nucleoside recognition protein [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027223625</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>390.963</Hsp_bit-score>
+      <Hsp_score>1003</Hsp_score>
+      <Hsp_evalue>1.16223e-135</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>199</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILVSVVVGIIEGRIDDVVRAVTDSAKLGFELALGLAGIMTLWLGIMSVATESGLVSILGKILKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVIFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMIL+SVVVG+IEGRID+VVRAVTDSAKLGFELALGLAGIMT WLGIMSVATESGLVSILGK+LKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+FTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1011913243|ref|WP_062726457.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726457</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>387.111</Hsp_bit-score>
+      <Hsp_score>993</Hsp_score>
+      <Hsp_evalue>3.82933e-134</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILVSVVVGIIEGRIDDVVRAVTDSAKLGFELALGLAGIMTLWLGIMSVATESGLVSILGKILKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKIATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVIFTSLIATTVSTLVAIVAVKQLAKLPRFKIEGTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMIL+SVVVG+IEGRID+VVRAVTDSAKLGFELALGLAGIMT WLGIMSVATESGLVSILGK+LKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLK+ATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+FTSLIATTVSTLVAIVAVKQLAKLPRFKIE TDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|737925741|ref|WP_035890919.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella norrlandica] &gt;gi|701445110|gb|KGP62515.1| nucleoside recognition protein [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890919</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>376.711</Hsp_bit-score>
+      <Hsp_score>966</Hsp_score>
+      <Hsp_evalue>4.05476e-130</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILTSVIVGIIEGRIDEVVKAVTDSAKLGFELALGLAGIMTLWLGIMSIATESGLVSILGKALKPVLKRLFPEVPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQHLKIATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSIVIFSSLVATTVSTMVAIIAVKQLAKLPRFKIERTDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMIL SV+VG+IEGRIDEVV+AVTDSAKLGFELALGLAGIMT WLGIMS+ATESGLVSILGK LKPVLKRLFP++PVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQ+LK+ATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPS V+F+SL+ATTVST+VAI+AVKQLAKLPRFKIERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|966440941|ref|WP_058481264.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella waltersii] &gt;gi|962292008|gb|KTD75706.1| spore maturation protein A [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481264</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>354.755</Hsp_bit-score>
+      <Hsp_score>909</Hsp_score>
+      <Hsp_evalue>2.00418e-121</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>172</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILISVLVGFIEGRLDEVVKAVTDSAKLGFELALGLAGMMTLWLGIMSIASESGLVAILGRVLRPILRRLFPDIPAEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQHVKIATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVIVSSLIATIVSTAVAIIAVKQLAKLPSFKVEGTKSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILISV+VG IEGR+DEVV+AVTDSAKLGFELALGLAG+MT WLGIMS+A+ESGLV+ILG+VL+P+L+RLFPDIP EHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQ++K+ATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+ +SLIAT VST VAI+AVKQLAKLP FK+E T SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|654930700|ref|WP_028381069.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella cherrii] &gt;gi|962197469|gb|KTC82513.1| spore maturation protein A [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381069</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>354.755</Hsp_bit-score>
+      <Hsp_score>909</Hsp_score>
+      <Hsp_evalue>2.26069e-121</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>171</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILISVVVGVIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVTLLGKLLKPILRRLFPDIPTEHPAMGAITMNIAANMLGLANAATPFGLQAMKELQTLNQHTKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIVSTLVAIIAVKQLAKLPMFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILISVVVGVIEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+LKP+L+RLFPDIP EHPAMGA+ MNIAANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT VSTLVAI+AVKQLAKLP F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|517405597|ref|WP_018578283.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella shakespearei] &gt;gi|962278421|gb|KTD62285.1| spore maturation protein A [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018578283</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>353.984</Hsp_bit-score>
+      <Hsp_score>907</Hsp_score>
+      <Hsp_evalue>4.08322e-121</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>169</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILVSVIVGIIEGRIDAVVKAVTDSAKLGFEIAIGLTGIMTLWLGIMSIATESGLVAILGRFLKPILRRLFPDVPADHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNKHVAVATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVIFSSLIATTVSTIVALVAVKQLAKLKTFKVERADSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMIL+SV+VG+IEGRID VV+AVTDSAKLGFE+A+GL GIMT WLGIMS+ATESGLV+ILG+ LKP+L+RLFPD+P +HPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLN+++ VATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+F+SLIATTVST+VA+VAVKQLAKL  FK+ER DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966432283|ref|WP_058472716.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella quateirensis] &gt;gi|962268649|gb|KTD52665.1| spore maturation protein A [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472716</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.443</Hsp_bit-score>
+      <Hsp_score>903</Hsp_score>
+      <Hsp_evalue>2.15634e-120</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILIAVIVGIIEGRIDEVVRAVTDSAKLGFEVAIGLTGIMALWLGIMSIATESGLVSLLGKLLKPILRRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQTLNKHMTVATNSMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVIFSSLIATSVSTIVAIISVRQFATFKRFQIQRADSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILI+V+VG+IEGRIDEVVRAVTDSAKLGFE+A+GL GIM  WLGIMS+ATESGLVS+LGK+LKP+L+RLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQ+LN+++ VATNSMCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+F+SLIAT+VST+VAI++V+Q A   RF+I+R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|654932903|ref|WP_028383260.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella moravica] &gt;gi|962250758|gb|KTD34959.1| spore maturation protein A [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383260</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.058</Hsp_bit-score>
+      <Hsp_score>902</Hsp_score>
+      <Hsp_evalue>2.40582e-120</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>170</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILIAVVVGIIEGRIDEVVRAVTDSAKLGFEVAIGLTGIMALWLGIMSIATESGLVSLLGKGLKPILRRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQTLNKQMTVATNSMCTFLAINTSSVQLIPATAIAFLAANGSSNPSSVIFSSLIATSVSTLVAIIAVRQFATFKRFQIERADSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILI+VVVG+IEGRIDEVVRAVTDSAKLGFE+A+GL GIM  WLGIMS+ATESGLVS+LGK LKP+L+RLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQ+LN+ + VATNSMCTFLAINTSSVQLIP TAIAFLAANGS+NPSSV+F+SLIAT+VSTLVAI+AV+Q A   RF+IER DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|966437525|ref|WP_058477893.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella steigerwaltii] &gt;gi|962292359|gb|KTD76053.1| spore maturation protein A [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477893</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>350.517</Hsp_bit-score>
+      <Hsp_score>898</Hsp_score>
+      <Hsp_evalue>9.24841e-120</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>168</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVIVGVIEGRIDEVARAVTESAKLGFEIALGLAGIMSLWLGIMSIANESGLVTLLGKLLRPILRRLFPDIPVEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIISTLVAIISVKQLAKLPIFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISV+VGVIEGRIDEV RAVT+SAKLGFE+ALGLAGIM+ WLGIMS+A ESGLV++LGK+L+P+L+RLFPDIPVEHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI++VKQLAKLP F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|966425072|ref|WP_058467610.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Fluoribacter gormanii] &gt;gi|962219337|gb|KTD04033.1| spore maturation protein A [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058467610</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.591</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>7.32199e-119</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILISVVVGVIEGRIDEVARAVTESAKLGFEIALGLAGIMSLWLGIMSIANESGLVALLGKILRPVLRRLFPDIPTEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLATNGSTNPSSVIVSSLIATTISTLVAIISVKQLAKLPMFRVEGKNSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILISVVVGVIEGRIDEV RAVT+SAKLGFE+ALGLAGIM+ WLGIMS+A ESGLV++LGK+L+PVL+RLFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LA NGSTNPSSV+ +SLIATT+STLVAI++VKQLAKLP F++E  +SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|518063423|ref|WP_019233631.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella anisa] &gt;gi|962187479|gb|KTC72605.1| spore maturation protein A [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233631</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>346.665</Hsp_bit-score>
+      <Hsp_score>888</Hsp_score>
+      <Hsp_evalue>4.21966e-118</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>188</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVIVGVIEGRIDEVARAVTESAKLGFEIALGLAGIMTLWLGIMSIANESGLVNLLGKLLKPILRRLFPDIPTEHPAMGAITMNLAANMLGLANAATPFGLQAMKELQALNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIISTLVAIISVKQLEKLPMFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISV+VGVIEGRIDEV RAVT+SAKLGFE+ALGLAGIMT WLGIMS+A ESGLV++LGK+LKP+L+RLFPDIP EHPAMGA+ MN+AANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI++VKQL KLP F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966493852|ref|WP_058510640.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella steelei] &gt;gi|962284797|gb|KTD68563.1| spore maturation protein A [Legionella steelei] &gt;gi|1113341804|gb|OJW05687.1| nucleoside recognition protein [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510640</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.739</Hsp_bit-score>
+      <Hsp_score>883</Hsp_score>
+      <Hsp_evalue>2.40512e-117</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>165</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVVVGVIEGRIDEVARAVTESAKLGFEIALGLAGIMSLWLGIMSIANESGLVTLLGKLLRPILRRLFPDIPIDHPAMGAMTLNIAANMLGLANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIISTLVAIISVKQLAKLSIFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISVVVGVIEGRIDEV RAVT+SAKLGFE+ALGLAGIM+ WLGIMS+A ESGLV++LGK+L+P+L+RLFPDIP++HPAMGAM +NIAANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI++VKQLAKL  F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|653020423|ref|WP_027272348.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella sainthelensi] &gt;gi|962275196|gb|KTD59111.1| spore maturation protein A [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027272348</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>342.043</Hsp_bit-score>
+      <Hsp_score>876</Hsp_score>
+      <Hsp_evalue>2.82285e-116</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>188</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLSMIFISVIVGVIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVTLLGKLLRPILKWLFPDIPPEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNEHAKIATNSMCTFLAINTSSVQLIPATAVAYLAANGSTNPSGVIVSSLIATIISTLVAIVSVKQLAKLPVFRVKRTNSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI ISV+VGVIEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+L+P+LK LFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LN++ K+ATNSMCTFLAINTSSVQLIP TA+A+LAANGSTNPS V+ +SLIAT +STLVAIV+VKQLAKLP F+++RT+SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966516759|ref|WP_058533253.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533253</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.658</Hsp_bit-score>
+      <Hsp_score>875</Hsp_score>
+      <Hsp_evalue>3.08117e-116</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILTSIVVGVIEGRIDEVVRAVTDSAKLGFEIALGLAGIMCLWLGIMSIATESGLIKILGKVLRPILRRLFPDVPTDHPAMGAIALNISANMLGLANAATPFGLQAMKELQTLNQHARVASNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPTSVVFSSLVATLISTLVAIISVRQLAKLPVFRVGKADSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMIL S+VVGVIEGRIDEVVRAVTDSAKLGFE+ALGLAGIM  WLGIMS+ATESGL+ ILGKVL+P+L+RLFPD+P +HPAMGA+ +NI+ANMLGLANAATPFGLQAMKELQ+LNQ+ +VA+NSMCTFLAINTSSVQLIP TAIA+LAANGSTNP+SVVF+SL+AT +STLVAI++V+QLAKLP F++ + DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966504651|ref|WP_058521310.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella tucsonensis] &gt;gi|962290638|gb|KTD74346.1| spore maturation protein A [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521310</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.658</Hsp_bit-score>
+      <Hsp_score>875</Hsp_score>
+      <Hsp_evalue>3.79341e-116</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVIVGVIEGRIDAVARSVTESAKLGFEIALGLAGIMTLWLGIMSVANESGLVSLLGKMLRPILRRLFPDIPTEHPAMGAITMNLAANMLGLANAATPFGLQAMKELQALNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIISTLVAIISVKQLEKLPMFRVGRKNSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISV+VGVIEGRID V R+VT+SAKLGFE+ALGLAGIMT WLGIMSVA ESGLVS+LGK+L+P+L+RLFPDIP EHPAMGA+ MN+AANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI++VKQL KLP F++ R +SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966414669|ref|WP_058457954.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Fluoribacter bozemanae] &gt;gi|962192225|gb|KTC77299.1| spore maturation protein A [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058457954</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.273</Hsp_bit-score>
+      <Hsp_score>874</Hsp_score>
+      <Hsp_evalue>4.87928e-116</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVIVGVIEGRIDEVARSVTESAKLGFDIALGLAGIMTLWLGIMSIANESGLVNLLGKALRPILRRLFPDIPTEHPAMGAITMNLAANMLGLANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATIISTLVAIISVKQLEKLPMFRVGRKDTL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISV+VGVIEGRIDEV R+VT+SAKLGF++ALGLAGIMT WLGIMS+A ESGLV++LGK L+P+L+RLFPDIP EHPAMGA+ MN+AANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI++VKQL KLP F++ R D+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966496942|ref|WP_058513708.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella santicrucis] &gt;gi|962279640|gb|KTD63467.1| spore maturation protein A [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058513708</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>340.887</Hsp_bit-score>
+      <Hsp_score>873</Hsp_score>
+      <Hsp_evalue>7.31523e-116</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>164</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLSMIFISVIVGVIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVTLLGKLLRPILKWLFPDIPPEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNEHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSGVIVSSLIATIISTVVAIISVKQLAKLPVFRIKRTKSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI ISV+VGVIEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+L+P+LK LFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LN++ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPS V+ +SLIAT +ST+VAI++VKQLAKLP F+I+RT SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966421254|ref|WP_058464455.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella cincinnatiensis] &gt;gi|962204228|gb|KTC89173.1| spore maturation protein A [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058464455</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>340.117</Hsp_bit-score>
+      <Hsp_score>871</Hsp_score>
+      <Hsp_evalue>1.2924e-115</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLSMIFISVIVGIIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVTLLGKLLRPILKWLFPDIPPEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNEHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSGVIVSSLIATIISTVVAIISVKQLAKLPIFRIKRTTSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI ISV+VG+IEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+L+P+LK LFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LN++ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPS V+ +SLIAT +ST+VAI++VKQLAKLP F+I+RT SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|966500685|ref|WP_058517358.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella parisiensis] &gt;gi|962256028|gb|KTD40165.1| spore maturation protein A [Legionella parisiensis] &gt;gi|1069293258|gb|OEH48590.1| Spore maturation protein A [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517358</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>340.117</Hsp_bit-score>
+      <Hsp_score>871</Hsp_score>
+      <Hsp_evalue>1.62635e-115</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILISVIVGVIEGRIDEVARSVTESAKLGFDIALGLAGIMTLWLGIMSIANESGLVNLLGKALRPILKRLFPDIPTEHPAMGAITLNLAANMLGLANAATPFGLQAMKELQALNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSSNPSSVIVSSMIATIISTLVAIISVKQLEKLPTFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMILISV+VGVIEGRIDEV R+VT+SAKLGF++ALGLAGIMT WLGIMS+A ESGLV++LGK L+P+LKRLFPDIP EHPAMGA+ +N+AANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGS+NPSSV+ +S+IAT +STLVAI++VKQL KLP F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|489731380|ref|WP_003635496.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella longbeachae] &gt;gi|269987555|gb|EEZ93810.1| spore maturation protein A [Legionella longbeachae D-4968] &gt;gi|288859132|emb|CBJ13061.1| putative spore maturation protein A [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635496</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.732</Hsp_bit-score>
+      <Hsp_score>870</Hsp_score>
+      <Hsp_evalue>1.98048e-115</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLSMIFISVIVGIIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVNLLGKLLRPILKWLFPDIPPEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNEHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIVSSLIATVISTVVAVFSVKQLAKLPVFRIKRTKSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI ISV+VG+IEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+L+P+LK LFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LN++ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +ST+VA+ +VKQLAKLP F+I+RT SL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966460928|ref|WP_058493357.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella worsleiensis] &gt;gi|962296426|gb|KTD80067.1| spore maturation protein A [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493357</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.413</Hsp_bit-score>
+      <Hsp_score>851</Hsp_score>
+      <Hsp_evalue>1.42275e-112</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILISVLVGIMQGRIDAVVQAVTDSAKLGFELAIGLTGMMSLWLGIMAIATESGLVSLLGKVLKPILKRLFPDVPANHPAMGAIVMNIAANMLGLVNAATPFGLQAMKELQTMNKHVSVATNSMCTFLAINTSSVQLIPATAIAFLAANGNANPSSVIFSSLIATSVSTIVAIVAVRYFATLKPFQMERTDNL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMILISV+VG+++GRID VV+AVTDSAKLGFELA+GL G+M+ WLGIM++ATESGLVS+LGKVLKP+LKRLFPD+P  HPAMGA+VMNIAANMLGL NAATPFGLQAMKELQ++N+++ VATNSMCTFLAINTSSVQLIP TAIAFLAANG+ NPSSV+F+SLIAT+VST+VAIVAV+  A L  F++ERTD+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|671587550|ref|WP_031563753.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563753</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.872</Hsp_bit-score>
+      <Hsp_score>847</Hsp_score>
+      <Hsp_evalue>5.77298e-112</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNFIWLGMILLSVIVGIIEGRIDEVTRAVTESAKLGFDIALGLAGIMSLWLGIMSIANESGLVNLLGKILRPILKRLFPDIPTEHPAMGAITMNLAANMLGLANAATPFGLQAMKELQVLNEHSKIATNSMCMFLAINTSSVQLIPATAIAYLAANGSTNPSGVIVSSLIATIFSTLVAIISVKQLAKLSVFRIGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMIL+SV+VG+IEGRIDEV RAVT+SAKLGF++ALGLAGIM+ WLGIMS+A ESGLV++LGK+L+P+LKRLFPDIP EHPAMGA+ MN+AANMLGLANAATPFGLQAMKELQ LN++ K+ATNSMC FLAINTSSVQLIP TAIA+LAANGSTNPS V+ +SLIAT  STLVAI++VKQLAKL  F+I R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|498340409|ref|WP_010654565.1|</Hit_id>
+  <Hit_def>spore maturation protein [Fluoribacter dumoffii] &gt;gi|962205947|gb|KTC90884.1| spore maturation protein A [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654565</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.487</Hsp_bit-score>
+      <Hsp_score>846</Hsp_score>
+      <Hsp_evalue>8.55995e-112</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNFIWLGMILISVIVGVIEGRIDEVARAVTESAKLGFEIALGLAGIMSLWLGIMSIANESGLVGLLGKLLRPILRRLFPDIPTEHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSVIISSLIATIISTLVAIIAVKQLAKLPLFRVGRKDSL</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMILISV+VGVIEGRIDEV RAVT+SAKLGFE+ALGLAGIM+ WLGIMS+A ESGLV +LGK+L+P+L+RLFPDIP EHPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSSV+ +SLIAT +STLVAI+AVKQLAKLP F++ R DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|493927786|ref|WP_006872520.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella drancourtii] &gt;gi|363536237|gb|EHL29683.1| hypothetical protein LDG_8650 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872520</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.946</Hsp_bit-score>
+      <Hsp_score>842</Hsp_score>
+      <Hsp_evalue>3.11308e-111</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMILTSIIVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMCLWLGIMSIATESGLIKLLSNVLRPILRRLFPDVPTDHPAMGAIAMNIAANMLGVANAATPFGLQAMKELQTLNQHAKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPTSVVFSALVATICSTVVAITVVTQLAKLSVFRVGKVDSL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMIL S++VGVIEGRIDEVVRAVTDSAKLGFELALGLAGIM  WLGIMS+ATESGL+ +L  VL+P+L+RLFPD+P +HPAMGA+ MNIAANMLG+ANAATPFGLQAMKELQ+LNQ+ K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNP+SVVF++L+AT  ST+VAI  V QLAKL  F++ + DSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|769978728|ref|WP_045094713.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella fallonii] &gt;gi|698841976|emb|CEG55924.1| Spore maturation protein A [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094713</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.479</Hsp_bit-score>
+      <Hsp_score>833</Hsp_score>
+      <Hsp_evalue>7.59685e-110</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>166</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMILVSIVVGVIEGHIDEVVRAVTDSAKLGFEVAIGLTGIMTLWLGIMSIATESGLVALLAKLLKPILKRLFPDVPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNTRVTTATNAMCTFLAINTSSVQLIPATAIAFLAANGSTNPSSVILSSLVATIASTVVAIVAVKQFAKWRCFRVERTDSL</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGMIL+S+VVGVIEG IDEVVRAVTDSAKLGFE+A+GL GIMT WLGIMS+ATESGLV++L K+LKP+LKRLFPD+PVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLN  +  ATN+MCTFLAINTSSVQLIP TAIAFLAANGSTNPSSV+ +SL+AT  ST+VAIVAVKQ AK   F++ERTDSL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1113557594|gb|OJY17605.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY17605</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.013</Hsp_bit-score>
+      <Hsp_score>824</Hsp_score>
+      <Hsp_evalue>1.91507e-108</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNLIWLGMIVLSVIVGIVEGRLDEVVRAVTDSAKLGFELALGLGGIMCLWLGIMAIAAESGLMTRIGSFLRPVLKRLFPEIPPEHPAMGAMALNIAANMLGLANAATPFGLQAMKELQTLNSHAKVATNSMCTFLAINTSSVQLIPATAIAYLAANGSSNPTSVIFSSLIATSISTLVAIIAVKKLSHLKIFQIKQEQNL</Hsp_hseq>
+      <Hsp_midline>MLNLIWLGMI++SV+VG++EGR+DEVVRAVTDSAKLGFELALGL GIM  WLGIM++A ESGL++ +G  L+PVLKRLFP+IP EHPAMGAM +NIAANMLGLANAATPFGLQAMKELQ+LN + KVATNSMCTFLAINTSSVQLIP TAIA+LAANGS+NP+SV+F+SLIAT++STLVAI+AVK+L+ L  F+I++  +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966468627|ref|WP_058499953.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella gratiana] &gt;gi|962221421|gb|KTD06081.1| spore maturation protein A [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499953</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.472</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>6.5919e-108</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>161</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLSMIVISVIVGVIEGRIDEVARAVTDSAKLGFEIALGLAGIMSLWLGIMSIATESGLVNLLGKLLRPILKWLFPDIPPDHPAMGAMTMNIAANMLGLANAATPFGLQAMKELQTLNEHVKIATNSMCTFLAINTSSVQLIPATAIAYLAANGSTNPSSIIVSSLIATIISTVVAVVSVRQLAKLPMFRIKRTKNL</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI+ISV+VGVIEGRIDEV RAVTDSAKLGFE+ALGLAGIM+ WLGIMS+ATESGLV++LGK+L+P+LK LFPDIP +HPAMGAM MNIAANMLGLANAATPFGLQAMKELQ+LN+++K+ATNSMCTFLAINTSSVQLIP TAIA+LAANGSTNPSS++ +SLIAT +ST+VA+V+V+QLAKLP F+I+RT +L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|518044872|ref|WP_019215080.1|</Hit_id>
+  <Hit_def>spore maturation protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019215080</Hit_accession>
+  <Hit_len>203</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>316.62</Hsp_bit-score>
+      <Hsp_score>810</Hsp_score>
+      <Hsp_evalue>2.58269e-106</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMILLSVVVGVIQGRIEQVVHAVTDSAKLGFEIALGLTGIMALWLGIMAIASESGLVDRFAKLLRPVMRPLFPDVPVDHPAMGAMILNISANILGLANAATPFGLQAMKELQRLNEQTQEASDAMCTFLAINTSSVQLIPATAIAFLAANGSTHPSSVIFSSLVATSVSTLVAIIAVKQLAKLPSYRIKEMSSI</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMIL+SVVVGVI+GRI++VV AVTDSAKLGFE+ALGL GIM  WLGIM++A+ESGLV    K+L+PV++ LFPD+PV+HPAMGAM++NI+AN+LGLANAATPFGLQAMKELQ LN+  + A+++MCTFLAINTSSVQLIP TAIAFLAANGST+PSSV+F+SL+AT+VSTLVAI+AVKQLAKLP ++I+   S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966404026|ref|WP_058447600.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella feeleii] &gt;gi|962210213|gb|KTC95118.1| spore maturation protein A [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058447600</Hit_accession>
+  <Hit_len>203</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>316.62</Hsp_bit-score>
+      <Hsp_score>810</Hsp_score>
+      <Hsp_evalue>3.24951e-106</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>201</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>147</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDSL</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMILLSVVVGVIQGRIEQVVHAVTDSAKLGFEIALGLTGIMALWLGIMAIASESGLVNRFARLLRPVMRRLFPDVPVDHPAMGAMILNISANMLGLANAATPFGLQAMKELQRLNEQAQEASDAMCTFLAINTSSVQLIPATAIAFLAANGSTHPSSVIFSALVATSISTLVAIIAVKKLAKLPGYRIKEMSSI</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMIL+SVVVGVI+GRI++VV AVTDSAKLGFE+ALGL GIM  WLGIM++A+ESGLV+   ++L+PV++RLFPD+PV+HPAMGAM++NI+ANMLGLANAATPFGLQAMKELQ LN+  + A+++MCTFLAINTSSVQLIP TAIAFLAANGST+PSSV+F++L+AT++STLVAI+AVK+LAKLP ++I+   S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|654921981|ref|WP_028372538.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella lansingensis] &gt;gi|962237680|gb|KTD22119.1| spore maturation protein A [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372538</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>313.153</Hsp_bit-score>
+      <Hsp_score>801</Hsp_score>
+      <Hsp_evalue>7.16295e-105</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>178</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIE</Hsp_qseq>
+      <Hsp_hseq>MLNVIWLSMIFLSVVVGIIQGRIDQVVHAVTDSAKLGFEIALGLAGIMALWLGIMGIASESGLINRFARILKPVMQPLFPDVPVDHPAMGAMVMNMAANMLGLANAATPFGLQAMKELQQLNKNTQEASDAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSALIATIVSTLVAIIAVKQLAKLSVYKIK</Hsp_hseq>
+      <Hsp_midline>MLN+IWL MI +SVVVG+I+GRID+VV AVTDSAKLGFE+ALGLAGIM  WLGIM +A+ESGL++   ++LKPV++ LFPD+PV+HPAMGAMVMN+AANMLGLANAATPFGLQAMKELQ LN+N + A+++MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F++LIAT VSTLVAI+AVKQLAKL  +KI+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966511613|ref|WP_058528167.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella londiniensis] &gt;gi|962238866|gb|KTD23270.1| spore maturation protein A [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528167</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>312.383</Hsp_bit-score>
+      <Hsp_score>799</Hsp_score>
+      <Hsp_evalue>1.14413e-104</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>176</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIE</Hsp_qseq>
+      <Hsp_hseq>MLNIIWLGMMFTAVIVGIIQGRIDQVVHAVTDSAKLGFEIAIGLTGIMALWLGIMGIASESGLVAVLARALKPVLRRLFPEIPAEHPAMGAIIMNIAANMLGLANAATPFGLQAMKELQRLNIHIHTASNSMCMFLAINTSSVQLIPATAIAYLAANGNLHPSNVIITSLIATAISTLVGIVAVKQLAKLPRYQIK</Hsp_hseq>
+      <Hsp_midline>MLN+IWLGM+  +V+VG+I+GRID+VV AVTDSAKLGFE+A+GL GIM  WLGIM +A+ESGLV++L + LKPVL+RLFP+IP EHPAMGA++MNIAANMLGLANAATPFGLQAMKELQ LN ++  A+NSMC FLAINTSSVQLIP TAIA+LAANG+ +PS+V+ TSLIAT +STLV IVAVKQLAKLPR++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|769991045|ref|WP_045106917.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella hackeliae] &gt;gi|731153207|emb|CEK11786.1| Spore maturation protein A [Legionella hackeliae] &gt;gi|962225267|gb|KTD09911.1| spore maturation protein A [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045106917</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>311.227</Hsp_bit-score>
+      <Hsp_score>796</Hsp_score>
+      <Hsp_evalue>3.49722e-104</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIE</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLSMILLSVIVGVAQGRLDQVVHSVTDSAKLGFEIALGLTGIMTLWLGIMGIASESGLVNRFAKFLKPVMRPLFPDVPVEHPAMGAMILNIAANMLGLANAATPFGLQAMKELQKLNNNAQEASNAMCTFLAINTSSVQLIPATAIAFLAANGSTQPSSIIVSALAATTVSTIVAIVAVKQLAKLPAYRIK</Hsp_hseq>
+      <Hsp_midline>MLN IWL MIL+SV+VGV +GR+D+VV +VTDSAKLGFE+ALGL GIMT WLGIM +A+ESGLV+   K LKPV++ LFPD+PVEHPAMGAM++NIAANMLGLANAATPFGLQAMKELQ LN N + A+N+MCTFLAINTSSVQLIP TAIAFLAANGST PSS++ ++L ATTVST+VAIVAVKQLAKLP ++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966471861|ref|WP_058502776.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella israelensis] &gt;gi|962229668|gb|KTD14265.1| spore maturation protein A [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502776</Hit_accession>
+  <Hit_len>200</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>310.071</Hsp_bit-score>
+      <Hsp_score>793</Hsp_score>
+      <Hsp_evalue>8.26508e-104</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>198</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>177</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>198</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERT</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIVLSVIVGMFQGRIDQVVQAATDSAKLGFEVALGLTGIMALWLGIMAIASASGLVTRFAQWLKPILSRLFPEVPIEHPAMGAMVMNISANMLGLGNAATPFGLEAMKELQKLNTHLTVASDSMCTFLAINTSSVQLLPVTAIAFLAAHGSTNPSEVIFSSLVATTASTVVAIIAVKQFARLPFFKIKST</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI++SV+VG+ +GRID+VV+A TDSAKLGFE+ALGL GIM  WLGIM++A+ SGLV+   + LKP+L RLFP++P+EHPAMGAMVMNI+ANMLGL NAATPFGL+AMKELQ LN +L VA++SMCTFLAINTSSVQL+PVTAIAFLAA+GSTNPS V+F+SL+ATT ST+VAI+AVKQ A+LP FKI+ T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966428177|ref|WP_058470673.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella jordanis] &gt;gi|962232305|gb|KTD16853.1| spore maturation protein A [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058470673</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>309.301</Hsp_bit-score>
+      <Hsp_score>791</Hsp_score>
+      <Hsp_evalue>1.76424e-103</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>198</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>177</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>198</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERT</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLSMIFISVVVGSIQGRLDQVVHAVTDSAKFGFEIALGMTGVMCLWLGIMRIATESGLINHFARLLRPIMRPIFPDVPAEHPAMGAMIMNIAANMLGLANAATPFGLQAMKELQTLNKNAQEASNAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSIIFSSLVATTVSTIVAIIAVKQLAKLPGYQIKGT</Hsp_hseq>
+      <Hsp_midline>MLN IWL MI ISVVVG I+GR+D+VV AVTDSAK GFE+ALG+ G+M  WLGIM +ATESGL++   ++L+P+++ +FPD+P EHPAMGAM+MNIAANMLGLANAATPFGLQAMKELQ+LN+N + A+N+MCTFLAINTSSVQLIP TAIAFLAANGS +PSS++F+SL+ATTVST+VAI+AVKQLAKLP ++I+ T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|769982310|ref|WP_045098292.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Tatlockia micdadei] &gt;gi|698845783|emb|CEG59762.1| Spore maturation protein A [Tatlockia micdadei] &gt;gi|962243534|gb|KTD27856.1| spore maturation protein A [Tatlockia micdadei] &gt;gi|1081463299|emb|SCY78010.1| spore maturation protein A [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098292</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>308.531</Hsp_bit-score>
+      <Hsp_score>789</Hsp_score>
+      <Hsp_evalue>4.13956e-103</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>296</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>199</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>179</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>199</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTD</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLSLIVGLAQGRLDQVVHAVTDSAKLGFEIALGLTGIMALWLGIMAIASESGLINHLARGLRPILRPLFPDVPADHPAMGAIVLNLAANMLGLANAATPFGLQAMKELQRLNKHAQEATNAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSSLIATSISTIVAIVAVKQLAKLPAYRIRGTE</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI +S++VG+ +GR+D+VV AVTDSAKLGFE+ALGL GIM  WLGIM++A+ESGL++ L + L+P+L+ LFPD+P +HPAMGA+V+N+AANMLGLANAATPFGLQAMKELQ LN++ + ATN+MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F+SLIAT++ST+VAIVAVKQLAKLP ++I  T+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|644965621|ref|WP_025386376.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella oakridgensis] &gt;gi|570285791|gb|AHE67978.1| membrane protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|962260501|gb|KTD44612.1| spore maturation protein A [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025386376</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.76</Hsp_bit-score>
+      <Hsp_score>787</Hsp_score>
+      <Hsp_evalue>7.5391e-103</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIE</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLAVIVGLIQGRIDQVVHAVTDSAKLGFEVAIGLTGIMALWLGIMGIASESGLVNVFARVVRPIFRRLFPDVPAEHPAMGAMLLNIAANMLGLANAATPFGLQAMKELQRLNTHVHTASNSMCTFLAINTSSVQLIPATAIAFLAANGNLQPSNVIFSSLIATTVSTTVGIIAVKQLAKLPCYQIK</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI ++V+VG+I+GRID+VV AVTDSAKLGFE+A+GL GIM  WLGIM +A+ESGLV++  +V++P+ +RLFPD+P EHPAMGAM++NIAANMLGLANAATPFGLQAMKELQ LN ++  A+NSMCTFLAINTSSVQLIP TAIAFLAANG+  PS+V+F+SLIATTVST V I+AVKQLAKLP ++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966408401|ref|WP_058451793.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella maceachernii] &gt;gi|962243612|gb|KTD27929.1| spore maturation protein A [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451793</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.76</Hsp_bit-score>
+      <Hsp_score>787</Hsp_score>
+      <Hsp_evalue>9.60706e-103</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>295</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>198</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>178</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>198</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERT</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLSLIVGLAQGRLDQVVHAVTDSAKLGFEIALGLAGIMALWLGIMAIASESGLINHLARGLRPILRPLFPDVPADHPAMGAIVLNFAANMLGLANAATPFGLQAMKELQRLNNHAQEATNAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSSLVATSISTLVAIVAVRQLAKLPAYRVKGT</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI +S++VG+ +GR+D+VV AVTDSAKLGFE+ALGLAGIM  WLGIM++A+ESGL++ L + L+P+L+ LFPD+P +HPAMGA+V+N AANMLGLANAATPFGLQAMKELQ LN + + ATN+MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F+SL+AT++STLVAIVAV+QLAKLP ++++ T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|654939029|ref|WP_028389254.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028389254</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.99</Hsp_bit-score>
+      <Hsp_score>785</Hsp_score>
+      <Hsp_evalue>1.58569e-102</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>292</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>195</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>178</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>195</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKI</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLSVIVGIIQGRLDQVVQAVTDSARLGFELVLGLAGMMILWLGIMGIASESGLVNQLARLLRPVMRRLFPEVPVEHPAMGAMILNIAANMLGLANAATPFGLQAMKELQRLNTSAQEATNAMCTFLAINTSSIQLIPATAIALLAANGGLHPSSVIFSTLVATSISTLVAIIAVKKLAKLPAYRI</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI +SV+VG+I+GR+D+VV+AVTDSA+LGFEL LGLAG+M  WLGIM +A+ESGLV+ L ++L+PV++RLFP++PVEHPAMGAM++NIAANMLGLANAATPFGLQAMKELQ LN + + ATN+MCTFLAINTSS+QLIP TAIA LAANG  +PSSV+F++L+AT++STLVAI+AVK+LAKLP ++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|762036469|ref|WP_043872407.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella massiliensis] &gt;gi|683289123|emb|CEE11484.1| Spore maturation protein A [Legionella massiliensis] &gt;gi|685071493|emb|CDZ75746.1| Spore maturation protein A [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043872407</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.605</Hsp_bit-score>
+      <Hsp_score>784</Hsp_score>
+      <Hsp_evalue>2.25404e-102</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>294</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>197</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIER</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFTSLVVGLIQGRLDQVVQAVTDSAKFGFEIALGLAGVMALWLGIMAIASESGLIKRLARVLHPIMRWLFPEVPADHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQRLNTNAQEASNDMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSSLVATSISSIVAIVAVKQLAKLPVYRIRE</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI  S+VVG+I+GR+D+VV+AVTDSAK GFE+ALGLAG+M  WLGIM++A+ESGL+  L +VL P+++ LFP++P +HPAMGAMVMNIAANMLGLANAATPFGLQAMKELQ LN N + A+N MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F+SL+AT++S++VAIVAVKQLAKLP ++I  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966475133|ref|WP_058505894.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella nautarum] &gt;gi|962249070|gb|KTD33292.1| spore maturation protein A [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058505894</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>304.679</Hsp_bit-score>
+      <Hsp_score>779</Hsp_score>
+      <Hsp_evalue>1.38404e-101</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>297</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>200</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>182</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDS</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLSLIVGLVQGRLDQVVQAVTESAKFGFEVALGLAGIMALWLGIMAIASESGLINHLARMLRPILRPLFPEVPVDHPAMGAIVLNIAANMLGLANAATPFGLQAMKELQRLNPHTQEATNAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSSLVATSISTIVAILAVKQLAKLPAYRLRGAET</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI +S++VG+++GR+D+VV+AVT+SAK GFE+ALGLAGIM  WLGIM++A+ESGL++ L ++L+P+L+ LFP++PV+HPAMGA+V+NIAANMLGLANAATPFGLQAMKELQ LN + + ATN+MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F+SL+AT++ST+VAI+AVKQLAKLP +++   ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966463822|ref|WP_058495184.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella drozanskii] &gt;gi|962203296|gb|KTC88260.1| spore maturation protein A [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495184</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.523</Hsp_bit-score>
+      <Hsp_score>776</Hsp_score>
+      <Hsp_evalue>3.35525e-101</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>297</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>200</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>181</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTDS</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIFLSLIVGLVQGRLDQVVMAVTESAKLGFEIALGLAGIMALWLGIMAIASESGLINHLARMLRPILRPLFPEVPVDHPAMGAIVLNLAANMLGLANAATPFGLQAMKELQRLNPHAQEATNAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSVIFSSIVATSISTIVAIFAVKQLAKLPAYRIRGAEA</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI +S++VG+++GR+D+VV AVT+SAKLGFE+ALGLAGIM  WLGIM++A+ESGL++ L ++L+P+L+ LFP++PV+HPAMGA+V+N+AANMLGLANAATPFGLQAMKELQ LN + + ATN+MCTFLAINTSSVQLIP TAIAFLAANGS +PSSV+F+S++AT++ST+VAI AVKQLAKLP ++I   ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966510074|ref|WP_058526665.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella erythra] &gt;gi|962212811|gb|KTC97686.1| spore maturation protein A [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526665</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.523</Hsp_bit-score>
+      <Hsp_score>776</Hsp_score>
+      <Hsp_evalue>3.95313e-101</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>294</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>197</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>173</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIER</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIVLSVVVGAIEGRLDNVVHAVTDSAKLGFEIALGLSGIMALWLGIMAIASESGLVNRFARWLKPVLRPLFPDVPVDDPAMGAMVMNIAANMLGLANAATPFGLKAMNELQRLNGKAEQASDAMCTFLAINTSSVQLIPATAIAFLAANGAHQPSSVIFTSLIATSVSTLVAIVAVKQLAKLPAYRLRE</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI++SVVVG IEGR+D VV AVTDSAKLGFE+ALGL+GIM  WLGIM++A+ESGLV+   + LKPVL+ LFPD+PV+ PAMGAMVMNIAANMLGLANAATPFGL+AM ELQ LN   + A+++MCTFLAINTSSVQLIP TAIAFLAANG+  PSSV+FTSLIAT+VSTLVAIVAVKQLAKLP +++  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966394415|ref|WP_058440179.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella brunensis] &gt;gi|962202130|gb|KTC87104.1| spore maturation protein A [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058440179</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.138</Hsp_bit-score>
+      <Hsp_score>775</Hsp_score>
+      <Hsp_evalue>6.32545e-101</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>176</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIE</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLSMVFLSVIVGLIQGRLDQVVHAVTDSAKLGFEVALGLTGIMTLWLGIMGIASESGLVNRFARNLRPIMRPLFPDVPTDHPAMGAMILNIAANMLGLANAATPFGLQAMKELQSLNKNAQQASDAMCTFLAINTSSVQLIPATAIAFLAANGSLHPSSIIVSSLGATTISTIVAIVAVKQLAKLPGYRIK</Hsp_hseq>
+      <Hsp_midline>MLN IWL M+ +SV+VG+I+GR+D+VV AVTDSAKLGFE+ALGL GIMT WLGIM +A+ESGLV+   + L+P+++ LFPD+P +HPAMGAM++NIAANMLGLANAATPFGLQAMKELQSLN+N + A+++MCTFLAINTSSVQLIP TAIAFLAANGS +PSS++ +SL ATT+ST+VAIVAVKQLAKLP ++I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966514035|ref|WP_058530554.1|</Hit_id>
+  <Hit_def>nucleoside recognition protein [Legionella rubrilucens] &gt;gi|962265754|gb|KTD49799.1| spore maturation protein A [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058530554</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>302.753</Hsp_bit-score>
+      <Hsp_score>774</Hsp_score>
+      <Hsp_evalue>8.31346e-101</Hsp_evalue>
+      <Hsp_query-from>98</Hsp_query-from>
+      <Hsp_query-to>296</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>199</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>173</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>199</Hsp_align-len>
+      <Hsp_qseq>MLNLIWLGMILISVVVGVIEGRIDEVVRAVTDSAKLGFELALGLAGIMTFWLGIMSVATESGLVSILGKVLKPVLKRLFPDIPVEHPAMGAMVMNIAANMLGLANAATPFGLQAMKELQSLNQNLKVATNSMCTFLAINTSSVQLIPVTAIAFLAANGSTNPSSVVFTSLIATTVSTLVAIVAVKQLAKLPRFKIERTD</Hsp_qseq>
+      <Hsp_hseq>MLNAIWLGMIVLSVVVGAIEGRLDHVVHAVTDSAKLGFEIALGLSGIMALWLGIMAIASESGLVNRFAHWLKPVLRPLFPDVPVDDPAMGAIVMNIAANMLGLANAATPFGLKAMNELQRLNGKAEQASDAMCTFLAINTSSVQLIPATAIAFLAANGAHQPSSVIFTSLIATSVSTLVAIVAVKQLAKLPAYRLREVE</Hsp_hseq>
+      <Hsp_midline>MLN IWLGMI++SVVVG IEGR+D VV AVTDSAKLGFE+ALGL+GIM  WLGIM++A+ESGLV+     LKPVL+ LFPD+PV+ PAMGA+VMNIAANMLGLANAATPFGL+AM ELQ LN   + A+++MCTFLAINTSSVQLIP TAIAFLAANG+  PSSV+FTSLIAT+VSTLVAIVAVKQLAKLP +++   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

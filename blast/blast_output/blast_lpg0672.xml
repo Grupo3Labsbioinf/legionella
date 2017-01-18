@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_155625</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>570</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_155625</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>570</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|500490346|ref|WP_011945743.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|148282551|gb|ABQ56639.1| peptidase, M23/M37 family [Legionella pneumophila str. Corby] &gt;gi|761989432|dbj|GAN22700.1| murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|761998944|dbj|GAN29053.1| murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|999301798|emb|CZI71984.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999324474|emb|CZH34327.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945743</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>991.875</Hsp_bit-score>
+      <Hsp_score>2563</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>476</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499248772|ref|WP_010946312.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|52840809|ref|YP_094608.1| M24/M37 family peptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627920|gb|AAU26661.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507324|gb|AEW50848.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492895|gb|AGH54740.1| Peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|998771493|emb|CZI74675.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998795813|emb|CZI45677.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998800603|emb|CZL13321.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998804073|emb|CZK62529.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998807163|emb|CZI29721.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998810687|emb|CZI15471.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998816406|emb|CZM19418.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998819777|emb|CZM02197.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998825519|emb|CZK38099.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998832864|emb|CZI21036.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998834504|emb|CZL52358.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998838736|emb|CZJ32233.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998840473|emb|CZL82309.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998843053|emb|CZL06523.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998846284|emb|CZL07924.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998849131|emb|CZI95918.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998852397|emb|CZL86661.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998855988|emb|CZL54867.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998858653|emb|CZM31119.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998862351|emb|CZK42305.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998864801|emb|CZJ90168.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998867250|emb|CZJ84318.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998870164|emb|CZM40486.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998873583|emb|CZK70639.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998876177|emb|CZM46133.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998879296|emb|CZJ73436.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998885748|emb|CZM34094.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998888556|emb|CZK48336.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998895843|emb|CZK09897.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998905225|emb|CZK90716.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998908380|emb|CZL66059.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998916129|emb|CZK73906.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998917450|emb|CZL62036.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998920430|emb|CZL69363.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998926789|emb|CZL97351.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998930961|emb|CZK84076.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998933636|emb|CZL66375.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998938702|emb|CZL19422.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998946293|emb|CZK73511.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998947949|emb|CZL27747.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998956917|emb|CZM65066.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998960504|emb|CZK70370.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998963120|emb|CZK77820.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998966670|emb|CZM39566.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998969418|emb|CZL08070.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998972427|emb|CZK84334.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998978541|emb|CZM02832.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998986151|emb|CZK11968.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998987461|emb|CZL87966.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998998319|emb|CZJ98652.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999006383|emb|CZL21285.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999011848|emb|CZL83124.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999014889|emb|CZM76120.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999021264|emb|CZL96050.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999024005|emb|CZL19428.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999036274|emb|CZL87415.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999045196|emb|CZM30051.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999060328|emb|CZL82094.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999066526|emb|CZJ51649.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999078659|emb|CZK46109.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999083126|emb|CZK88291.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999087862|emb|CZL14216.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999090924|emb|CZL88852.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999101431|emb|CZL77048.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999110883|emb|CZL03432.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999114092|emb|CZL60771.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999115984|emb|CZK75582.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999124707|emb|CZL30856.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999132470|emb|CZL68675.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999133928|emb|CZL49000.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999136936|emb|CZK86506.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999140927|emb|CZL88016.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999144886|emb|CZK83106.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999146414|emb|CZM13421.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999155570|emb|CZI36570.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999174171|emb|CZL59917.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999208394|emb|CZL33567.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999217904|emb|CZM03264.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999333313|emb|CZL29212.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002078773|emb|CZQ91552.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1003018425|emb|CZR30633.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1032656739|gb|ANH12010.1| peptidase M24 [Legionella pneumophila] &gt;gi|1032659706|gb|ANH14976.1| peptidase M24 [Legionella pneumophila] &gt;gi|1032662673|gb|ANH17942.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073863729|gb|AOU03680.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073866687|gb|AOU06637.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073869692|gb|AOU09641.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073872637|gb|AOU12585.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073875618|gb|AOU15565.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073878580|gb|AOU18526.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073881574|gb|AOU21519.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073884536|gb|AOU24480.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073887535|gb|AOU27478.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073890518|gb|AOU30460.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073893483|gb|AOU33424.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073896448|gb|AOU36388.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073899412|gb|AOU39351.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073905275|gb|AOU45212.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073908292|gb|AOU48227.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073911348|gb|AOU51280.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073914266|gb|AOU54197.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073917224|gb|AOU57154.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073920191|gb|AOU60120.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073923164|gb|AOU63091.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073926178|gb|AOU66104.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073929158|gb|AOU69067.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073932542|gb|AOU72101.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073935489|gb|AOU82488.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073945764|gb|AOU85488.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073948727|gb|AOU88450.1| peptidase M24 [Legionella pneumophila] &gt;gi|1104001884|emb|SFZ36637.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1129967342|gb|APT97701.1| peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946312</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>991.875</Hsp_bit-score>
+      <Hsp_score>2563</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>477</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|652966193|ref|WP_027219194.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|761992539|dbj|GAN16579.1| murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|761995729|dbj|GAN19685.1| murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|998801792|emb|CZI06860.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999075409|emb|CZH18063.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999093918|emb|CZH51599.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999096930|emb|CZH50642.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999150016|emb|CZI50814.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999159366|emb|CZJ70941.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999165768|emb|CZG86551.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999168664|emb|CZI47916.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999178373|emb|CZJ57380.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999189762|emb|CZI74244.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999192882|emb|CZJ14536.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999199289|emb|CZH02901.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999202091|emb|CZJ19265.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999220873|emb|CZJ06663.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999286057|emb|CZJ09323.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999292364|emb|CZI86103.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999311338|emb|CZJ22852.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002090923|emb|CZR11628.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219194</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>990.719</Hsp_bit-score>
+      <Hsp_score>2560</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>475</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1007023495|ref|WP_061836932.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998813154|emb|CZH15444.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061836932</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>989.949</Hsp_bit-score>
+      <Hsp_score>2558</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>476</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKTFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKK FTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|504656323|ref|WP_014843425.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|395129654|emb|CCD07887.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila] &gt;gi|998774404|emb|CZH06685.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998777284|emb|CZH10855.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998783345|emb|CZH42760.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998786194|emb|CZH05174.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998793086|emb|CZI49562.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002074241|emb|CZR05120.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843425</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>989.564</Hsp_bit-score>
+      <Hsp_score>2557</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>475</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQADLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQ DLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|502866153|ref|WP_013101129.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|295648056|gb|ADG23903.1| peptidase, M23/M37 family [Legionella pneumophila 2300/99 Alcoy]</Hit_def>
+  <Hit_accession>WP_013101129</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>989.178</Hsp_bit-score>
+      <Hsp_score>2556</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYAEQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYA+QTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1003927093|ref|WP_061469837.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998912205|emb|CZH25443.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998994623|emb|CZI24927.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469837</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.793</Hsp_bit-score>
+      <Hsp_score>2555</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKILTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAK+LTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499526546|ref|WP_011213186.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|53750381|emb|CAH11775.1| hypothetical protein lpp0627 [Legionella pneumophila str. Paris] &gt;gi|395126547|emb|CCD04730.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila] &gt;gi|541995240|gb|ERH41359.1| peptidase M24 [Legionella pneumophila str. Leg01/53] &gt;gi|541995637|gb|ERH41736.1| peptidase M24 [Legionella pneumophila str. Leg01/11] &gt;gi|762002585|dbj|GAN25703.1| murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|998923694|emb|CZK22841.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998943764|emb|CZJ48938.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998954301|emb|CZK59108.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998975472|emb|CZJ88869.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998992862|emb|CZJ49243.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999009093|emb|CZK48761.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999018256|emb|CZJ88906.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999027370|emb|CZK26471.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999030528|emb|CZH22437.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999033321|emb|CZK21886.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999039526|emb|CZJ97198.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999042407|emb|CZK03530.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999048560|emb|CZK03183.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999051537|emb|CZJ90982.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999054584|emb|CZK31309.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999063649|emb|CZK00718.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999070608|emb|CZJ66290.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999072827|emb|CZK33585.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999084957|emb|CZK28944.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999171816|emb|CZI28063.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999181605|emb|CZG50247.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999184293|emb|CZP95383.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999187772|emb|CZI94413.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999198426|emb|CZP11836.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999206159|emb|CZP61632.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999212689|emb|CZG75727.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999216953|emb|CZI67741.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999225365|emb|CZG85571.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999228262|emb|CZP06538.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999235167|emb|CZP56784.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999240323|emb|CZH92307.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999244332|emb|CZH75130.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999248738|emb|CZH06784.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999251954|emb|CZH35573.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999255944|emb|CZP78443.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999259150|emb|CZP48103.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999261262|emb|CZH40117.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999265179|emb|CZP06033.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999269391|emb|CZO32082.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999272193|emb|CZP56624.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999274760|emb|CZG76871.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999277575|emb|CZP35342.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999281394|emb|CZP17847.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999283638|emb|CZP60795.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999290955|emb|CZP31025.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999296518|emb|CZP59261.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999299605|emb|CZP49304.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999307273|emb|CZH69417.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999309337|emb|CZP25455.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999315855|emb|CZI11414.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999318645|emb|CZP64226.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999321987|emb|CZH96869.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999331898|emb|CZG61089.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999337724|emb|CZP46083.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999340046|emb|CZH25391.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999344485|emb|CZP85080.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999347176|emb|CZP62392.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999349741|emb|CZH42570.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999353506|emb|CZP70094.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999357264|emb|CZP68888.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999359935|emb|CZI59917.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999363844|emb|CZP57463.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999367084|emb|CZP75613.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999369973|emb|CZP78418.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999373493|emb|CZG58397.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999376528|emb|CZJ20016.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999379716|emb|CZH68735.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999382611|emb|CZI55884.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999386320|emb|CZG65774.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999389061|emb|CZI54766.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999392273|emb|CZP97652.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999396941|emb|CZG11551.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999398521|emb|CZQ00581.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999403154|emb|CZP42948.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999405957|emb|CZG74237.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999408856|emb|CZH88766.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999412704|emb|CZG31641.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999415469|emb|CZG90463.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999418809|emb|CZG66002.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999422004|emb|CZH74037.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999425318|emb|CZG76406.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999428328|emb|CZG70326.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999431682|emb|CZG74941.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999435040|emb|CZI02427.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999438224|emb|CZG64061.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999441220|emb|CZK30755.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|999444587|emb|CZH75397.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999447790|emb|CZG51883.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999450590|emb|CZP34785.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999457531|emb|CZK20138.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999464885|emb|CZM54357.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999467909|emb|CZO31452.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999469279|emb|CZH05738.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999474666|emb|CZM59874.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999477123|emb|CZN73088.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999480625|emb|CZM98382.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999484284|emb|CZN91475.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999487057|emb|CZM10178.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999490230|emb|CZN77198.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999493421|emb|CZM09778.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999496216|emb|CZI44687.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999500001|emb|CZN71998.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999503127|emb|CZO05593.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999506405|emb|CZN17828.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999509608|emb|CZG53238.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999512946|emb|CZN31483.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999515966|emb|CZL99021.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999519037|emb|CZM85719.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999521833|emb|CZP14539.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999525397|emb|CZJ09380.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999528110|emb|CZI76516.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999532393|emb|CZO47897.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999535549|emb|CZN41658.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999542074|emb|CZO22022.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999545036|emb|CZO62522.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999548120|emb|CZN87626.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999551432|emb|CZO09186.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999554467|emb|CZN29497.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999557958|emb|CZO57336.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999561033|emb|CZM39586.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999564039|emb|CZO64786.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999567403|emb|CZM51080.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999570603|emb|CZN49217.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999573791|emb|CZN90689.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999575989|emb|CZI40794.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999580283|emb|CZO14388.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999583571|emb|CZO36138.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999586934|emb|CZM62643.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999590031|emb|CZM41966.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999593190|emb|CZN46757.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999596263|emb|CZO13952.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999599583|emb|CZO39590.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999602591|emb|CZL94687.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999605379|emb|CZN71064.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999608916|emb|CZN61956.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999611245|emb|CZI61002.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999615528|emb|CZM45344.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999618703|emb|CZN92856.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999621727|emb|CZO79999.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999625055|emb|CZN69682.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999628446|emb|CZM64442.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999631504|emb|CZM57620.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999634564|emb|CZN57464.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999637892|emb|CZN49342.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999641088|emb|CZO77490.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999644080|emb|CZO50851.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999647571|emb|CZN93214.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999650743|emb|CZO06531.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999653872|emb|CZN99456.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999657069|emb|CZM27529.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999660143|emb|CZM63567.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999663426|emb|CZN19578.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999666791|emb|CZM40383.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999669983|emb|CZL86059.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999673053|emb|CZM36168.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999676377|emb|CZN80088.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999679278|emb|CZM76854.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999682473|emb|CZM80572.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999686160|emb|CZN97973.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999689172|emb|CZN32013.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999692365|emb|CZO01498.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999695582|emb|CZN31640.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999698751|emb|CZM10668.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999701695|emb|CZM76089.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999704930|emb|CZL92229.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999708212|emb|CZN58481.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999711631|emb|CZN03123.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999714727|emb|CZN23912.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999717943|emb|CZO43728.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999720899|emb|CZM91393.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999724418|emb|CZN32094.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999727877|emb|CZM00849.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999730940|emb|CZO42062.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999734220|emb|CZM27007.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999737440|emb|CZO68964.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999740921|emb|CZM30242.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999744141|emb|CZN28397.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999747283|emb|CZM26347.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999750485|emb|CZL93918.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999753681|emb|CZM79392.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999756732|emb|CZN08353.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999760233|emb|CZM22373.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999766948|emb|CZM50795.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999769797|emb|CZN52981.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999776261|emb|CZM01608.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999777527|emb|CZH51877.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999782851|emb|CZH61459.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999786460|emb|CZM26448.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999789625|emb|CZO69395.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999792970|emb|CZO62443.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999799855|emb|CZO58150.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1003029147|emb|CZR18903.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1003036330|emb|CZR16678.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1005832330|gb|AMQ27056.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431700|gb|AMV13327.1| Murein DD-endopeptidase MepM [Legionella pneumophila] &gt;gi|1041014600|gb|ANN91661.1| peptidase M24 [Legionella pneumophila] &gt;gi|1041017698|gb|ANN94758.1| peptidase M24 [Legionella pneumophila] &gt;gi|1103995632|emb|SFZ36933.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1103998764|emb|SFZ36635.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213186</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.793</Hsp_bit-score>
+      <Hsp_score>2555</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>475</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPRSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNP SGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|652967679|ref|WP_027220613.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999247980|emb|CZH46577.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999452702|emb|CZI92505.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999459115|emb|CZH68543.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999770466|emb|CZI89461.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999793605|emb|CZJ45333.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220613</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.793</Hsp_bit-score>
+      <Hsp_score>2555</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>477</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPSEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVSVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIP+EASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKV+VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|754875822|ref|WP_042236276.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998791297|emb|CZG42884.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236276</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.023</Hsp_bit-score>
+      <Hsp_score>2553</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATNPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSAT PMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|749552132|ref|WP_040185202.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999003095|emb|CZI79695.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040185202</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.023</Hsp_bit-score>
+      <Hsp_score>2553</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNHGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTN GKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1005403306|ref|WP_061636457.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999328590|emb|CZG62309.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061636457</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>986.867</Hsp_bit-score>
+      <Hsp_score>2550</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVKYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMSAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVV YTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREM+AFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1006661426|ref|WP_061820209.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999538630|emb|CZM77924.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999763422|emb|CZN31789.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061820209</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>986.482</Hsp_bit-score>
+      <Hsp_score>2549</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPRSGDSMATIFHRLGLTVQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNP SGDSMATIFHRLGLT QNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1005610025|ref|WP_061692519.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998822521|emb|CZH36438.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692519</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>985.712</Hsp_bit-score>
+      <Hsp_score>2547</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>472</Hsp_identity>
+      <Hsp_positive>476</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLERLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGIITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKASVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLE+LIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDG+ITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK +VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652971706|ref|WP_027224556.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998892581|emb|CZJ22111.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998981323|emb|CZJ18630.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999107244|emb|CZI76813.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999230603|emb|CZI94345.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002081650|emb|CZR00957.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1073902364|gb|AOU42302.1| peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224556</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>985.326</Hsp_bit-score>
+      <Hsp_score>2546</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>473</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATNPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVKYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSAT PMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVV YTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|653014650|ref|WP_027266680.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266680</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>984.556</Hsp_bit-score>
+      <Hsp_score>2544</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>474</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIAAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKRKKKVNIG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDI AEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASK KKKVN+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1011910128|ref|WP_062724813.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062724813</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>984.171</Hsp_bit-score>
+      <Hsp_score>2543</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>472</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELLRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLERLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKASVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDEL RDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLE+LIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK +VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|742353355|ref|WP_038837564.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998783058|emb|CZI87426.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998828363|emb|CZH39637.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998882174|emb|CZJ31095.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998897510|emb|CZK15874.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998938075|emb|CZL88930.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|998950696|emb|CZK10325.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999000134|emb|CZG96372.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999058402|emb|CZM27717.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999103660|emb|CZI18040.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999128546|emb|CZH18071.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999152269|emb|CZM99123.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999161515|emb|CZM54809.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999236663|emb|CZG92014.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002085506|emb|CZQ97094.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1002088344|emb|CZQ79103.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1104005449|emb|SFZ36634.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837564</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>983.015</Hsp_bit-score>
+      <Hsp_score>2540</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>471</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELLRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLERLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGIITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKASVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDEL RDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLE+LIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDG+ITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK +VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|653012637|ref|WP_027264740.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264740</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>981.86</Hsp_bit-score>
+      <Hsp_score>2537</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>470</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRNSYADQTDLYPELSDELLRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQVVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLERLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKASVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKR+SYADQTDLYPELSDEL RDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQ+VNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLE+LIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK +VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|499533514|ref|WP_011214797.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|53753390|emb|CAH14843.1| hypothetical protein lpl0610 [Legionella pneumophila str. Lens] &gt;gi|1080002164|gb|AOW52736.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006083|gb|AOW56363.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008058|gb|AOW58046.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012281|gb|AOW61772.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014662|gb|AOW63535.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018524|gb|AOW67169.1| peptidase M24 [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214797</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>979.163</Hsp_bit-score>
+      <Hsp_score>2530</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>469</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQEQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLERLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSKSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNHGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYKRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKASVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQ+QQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLE+LIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFS+SLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTN GKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHY+RAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK +VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1004334331|ref|WP_061513256.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513256</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>976.082</Hsp_bit-score>
+      <Hsp_score>2522</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>468</Hsp_identity>
+      <Hsp_positive>472</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSSNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYTDQTDLYPELSDELSRDVAAEAFTEIPHEKPDIKSATKPMQTKQDQQGKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEKDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSRVKRGQIIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKS NSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSY DQTDLYPELSDELSRD+ AEA TEIPHEKPDIKSATKPMQTKQDQQ KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGE+DYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGSRVKRGQ+IGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1004017289|ref|WP_061485104.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485104</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>972.615</Hsp_bit-score>
+      <Hsp_score>2513</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>466</Hsp_identity>
+      <Hsp_positive>473</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAIFALVFAFSLPYLLVKNFSHPKRNNYADQTALYPELSDELSRDMPAEASTEIPHEKPDIKSATRPMQIKQDQQDKPINKSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQSRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLA FALVFAFSLPYLLVKNFSHPKR++YADQT LYPELSDELSRD+PAEASTEIPHEKPDIKSAT+PMQ KQDQQDKPIN SHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQ+RYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|652970735|ref|WP_027223627.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|1005362837|gb|AMP88706.1| peptidase M24 [Legionella pneumophila subsp. pascullei] &gt;gi|1005365838|gb|AMP91615.1| peptidase M24 [Legionella pneumophila subsp. pascullei] &gt;gi|1005368825|gb|AMP94601.1| peptidase M24 [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223627</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>946.806</Hsp_bit-score>
+      <Hsp_score>2446</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>452</Hsp_identity>
+      <Hsp_positive>465</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAIFALVFAFSLPYLLVKNFSHPKRKNYADQSVLYPQLSEELSRDISAEASAEVPHEKPDIKSVTKSIQTKQDKQDKPINKTDVKKDNEWQIVNPHPGDSMATIFHRLGLTAQNLNAVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNAIQTLTVYRSGKVYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLA FALVFAFSLPYLLVKNFSHPKR +YADQ+ LYP+LS+ELSRDI AEAS E+PHEKPDIKS TK +QTKQD+QDKPIN + VKKDNEWQIVNPH GDSMATIFHRLGLTAQNLN VIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVN IQTLTVYR+GK+YKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1011913242|ref|WP_062726456.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726456</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>945.651</Hsp_bit-score>
+      <Hsp_score>2443</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>452</Hsp_identity>
+      <Hsp_positive>465</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAIFALVFAFSLPYLLVKNFSHPKRNTYTDQTAVYPQLSEELSRDIPAEASTEALHEKPDIKSVTKTIQTKQDKQDKPINKNHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNAVIKNNPHAKMLTRIKPGQKLQFLIKKNKLEKLIVPVNAVQTLIVYRSGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLA FALVFAFSLPYLLVKNFSHPKR++Y DQT +YP+LS+ELSRDIPAEASTE  HEKPDIKS TK +QTKQD+QDKPIN +HVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLN VIKNNPHAKMLTRIKP QKLQFLIKKNKLEKLIVPVN +QTL VYR+GKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|652976130|ref|WP_027228803.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|985765902|gb|KXB27013.1| peptidase M24 [Legionella pneumophila] &gt;gi|985767788|gb|KXB28874.1| peptidase M24 [Legionella pneumophila] &gt;gi|999119213|emb|CZG74644.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|999122579|emb|CZH15356.1| Glycyl-glycine endopeptidase ALE-1 precursor [Legionella pneumophila] &gt;gi|1024341719|gb|KZX36026.1| peptidase M24 [Legionella pneumophila] &gt;gi|1108604033|gb|APF02401.1| peptidase M24 [Legionella pneumophila subsp. fraseri] &gt;gi|1108607044|gb|APF05411.1| peptidase M24 [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228803</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>942.569</Hsp_bit-score>
+      <Hsp_score>2435</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAIFALVFAFSLPYLLVKNFSHPKRNTYTDQTALYPQLSEELPRDIPAEASTEALHEKPDIKSVTKTIQTKQDKQDKPINKNHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNAVIKNNPHSKMLTRIKPDQKLQFLIKKNKLEKLIVPVNAVQTLTVYRSGKIYKTKIDSKKTITQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNTHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLA FALVFAFSLPYLLVKNFSHPKR++Y DQT LYP+LS+EL RDIPAEASTE  HEKPDIKS TK +QTKQD+QDKPIN +HVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLN VIKNNPH+KMLTRIKP+QKLQFLIKKNKLEKLIVPVN +QTLTVYR+GKIYKTKIDSKKT TQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTN HGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|654928777|ref|WP_028379202.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028379202</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>941.799</Hsp_bit-score>
+      <Hsp_score>2433</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>463</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNSSKLLAIFALVFAFSLPYLLVKNFSHPKRNTYTDQTALYPQLSEELPRDIPAEASTEALHEKPDIKSVTKTIQTKQDKQDKPINKNHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNAVIKNNPHSKMLTRIKPGQKLQFLIKKNKLEKLIVPVNAVQTLTVYRSGKIYKTKIDSKKTITQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNTHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKINVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGNSSKLLA FALVFAFSLPYLLVKNFSHPKR++Y DQT LYP+LS+EL RDIPAEASTE  HEKPDIKS TK +QTKQD+QDKPIN +HVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLN VIKNNPH+KMLTRIKP QKLQFLIKKNKLEKLIVPVN +QTLTVYR+GKIYKTKIDSKKT TQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTN HGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK+NVG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|737925743|ref|WP_035890921.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella norrlandica] &gt;gi|701445112|gb|KGP62517.1| peptidase M24 [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035890921</Hit_accession>
+  <Hit_len>483</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>810.446</Hsp_bit-score>
+      <Hsp_score>2092</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>389</Hsp_identity>
+      <Hsp_positive>425</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>483</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSD----ELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQD--KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKSGNPSKLLTIFALVFAFSLPYLLVKNFSHSKRENYADLYVSLPQSTESSYSDITEDTDSETYSELPVEIPQGKHEAKSVTKSSESEDTTKDTNKEIAKKDNEWQIVNPHSGDSMATIFHRLGLSAQNLNAVIYNNPHAKLLTRIKPNQKLQFLIRNNKLEKLIIPINYVQTLTVYRVGKAYKTKIDSKKTTTQNQYITATVQGSLYTTAQRFNIPSKLVRQMMTIFAKEIDFSRAIRSGDQFSIIYDAYYIEDKKVGVGDIVAVTYTNKGKTYQAIRHTNARGEKDYYTPQGTSFKKAFSRYPIKFSHISSTFTISRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTVYGHLLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYEFHVNNQPRNPTTISIPTANPVSAKELGAFKAKAKTLLARLKLFEQAQLASKGKKKIDVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRKSGN SKLL  FALVFAFSLPYLLVKNFSH KR +YAD     P+ ++    +++ D  +E  +E+P E P  K   K +    + +D  K  N    KKDNEWQIVNPHSGDSMATIFHRLGL+AQNLN VI NNPHAK+LTRIKPNQKLQFLI+ NKLEKLI+P+N +QTLTVYR GK YKTKIDSKKTTTQN+Y+TATVQGSLYTTAQRFNIPSKLVRQM TIF KEIDFSR++RSGDQFSIIYDAYYIEDK VGVGDI+ VTYTN+GKTYQAIRHTNA GE+DY+TPQGTSFKKAF+RYPIKFSHISSTF +SRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYST+YGHLLKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYE HVNNQPRNPTTIS+PTA PV A+E+ AFKAKA TLLARLKLFEQAQLASKGKKK++VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|517405595|ref|WP_018578281.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella shakespearei] &gt;gi|962278419|gb|KTD62283.1| M23/M37 family transporter peptidase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018578281</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>695.656</Hsp_bit-score>
+      <Hsp_score>1794</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKRKAGKPSKLLTIGALVIAFSLPYFLVKNFSRNSSDDFTRKTISLPKLVET-----PA------------------PVKAEPAADDGKIAV----KDNEWQVVKPRPGDSMAIIFNRLGLSARNLHEVLQKNPHAKALTAIKPSQELQFLISKGKLEKLIIPVNNIQSLTVYRAGKVYKTKMDSKKMISHNHYITGTVKGSLFNTAQRLNIPSKLIRQMTTVLGKEIDFSRAVRSGDQFSIIYDAYYIEDKMVGTGDIVAVSYTNKGKTFQAIRHTTARGDTDYYTPQGTSFKKAFSRYPIKFSHISSTFALSRYHPILHYKRAHKGIDLAAPIGTPIQSIGDGVIATIGRHNGYGNMIKIRHDKTYSTVYGHMLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNTPRNPTTVNLPTSSPISGREMLAFKAKASTLLARLKLFEEANLASNGKRNIDVG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPKRK+G  SKLL   ALV AFSLPY LVKNFS      +  +T   P+L +      PA                  P++ +    D  I      KDNEWQ+V P  GDSMA IF+RLGL+A+NL++V++ NPHAK LT IKP+Q+LQFLI K KLEKLI+PVN IQ+LTVYRAGK+YKTK+DSKK  + N Y+T TV+GSL+ TAQR NIPSKL+RQMTT+  KEIDFSR++RSGDQFSIIYDAYYIEDKMVG GDI+ V+YTN+GKT+QAIRHT A G+ DY+TPQGTSFKKAF+RYPIKFSHISSTFALSRYHPILHY+RAHKGIDLAAPIGTPI + GDGVI  I RHNGYGNMIKI+HDKTYST+YGH+LKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNN PRNPTT++LPT++P+  REM AFKAKASTLLARLKLFE+A LAS GK+ ++VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|654932901|ref|WP_028383258.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella moravica] &gt;gi|962250760|gb|KTD34961.1| M23/M37 family transporter peptidase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383258</Hit_accession>
+  <Hit_len>472</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>680.248</Hsp_bit-score>
+      <Hsp_score>1754</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>472</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>331</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>478</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRS-SYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MAKRPNISKRNSGKPSKLLTAFALVIAFSLPYYLVKNFSHRKQSPDFTSRTLSLPKLPDKKIIEQPQEIAESNPVETP--KTAEKAPQTVEKAPPK----VAVIKDNVWQTIKPRQGDTMGAIFSRLGLSAQNLHAVLDKNPHAKTLTNIKLNQEIKFLINKNKLEKLIIPINNIQTLTVYRAGQKYQNKVDSKKMISRDLYITATVKGSLFTTAQRLNIPYKLVRQMTEILNKEIDFKRAVRAGDQFSMVYNAYYIDDKMVQIGDIQAVSYTNRGKTAQAVRHNKANGDHDYYTPQGKSFKKAFSRYPIKFSHISSTFALSRNHPILHYKRAHKGIDLAAPIGTPIQATGDGVIQIIDRHNGYGNMIKIKHDKTYSSIYGHMLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTTSLPTASPISGRELASFRARAGTLLARLKLMEQANIAASGKKNANLG</Hsp_hseq>
+      <Hsp_midline>M KRPNI KR SG  SKLL  FALV AFSLPY LVKNFSH K+S  +  +T   P+L D+   + P E +   P E P  K+A K  QT +    K      V KDN WQ + P  GD+M  IF RLGL+AQNL+ V+  NPHAK LT IK NQ+++FLI KNKLEKLI+P+N IQTLTVYRAG+ Y+ K+DSKK  +++ Y+TATV+GSL+TTAQR NIP KLVRQMT I NKEIDF R++R+GDQFS++Y+AYYI+DKMV +GDI  V+YTNRGKT QA+RH  A+G+ DY+TPQG SFKKAF+RYPIKFSHISSTFALSR HPILHY+RAHKGIDLAAPIGTPI ATGDGVI IIDRHNGYGNMIKIKHDKTYS+IYGH+LKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTT SLPTA+P+  RE+A+F+A+A TLLARLKL EQA +A+ GKK  N+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966432281|ref|WP_058472714.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella quateirensis] &gt;gi|962268647|gb|KTD52663.1| M23/M37 family transporter peptidase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472714</Hit_accession>
+  <Hit_len>464</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>671.389</Hsp_bit-score>
+      <Hsp_score>1731</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>464</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>328</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>481</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKS----ATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MAKRPNISKRHSGKPSKLLTAFALIIAFSLPYYLVKNFAHRKNTDYTNRTLTLPKL----------------PEKEFIIKSQEIVASKPVDIPKIVEKAPPKVA-VIKDNVWQTIKPRQGDTMGAIFSRLGLSAQNLHAVLDKNPHAKALTNIKLNQEIKFLISKNKLEKLIIPMNNIQTLTVYRVGPKYQNKIDSKKMTSQDLYITATVKGSLFTTAQRMNIPYKLIRQMTEILSKEVDFNRSIRAGDQFSIVYNAYYIDDKMVQIGDIQAVSYTNRGKTAQAVRHNKANGDHDYYTPQGRSFKKAFSRYPIKFSHISSTFALSRNHPILHYKRAHKGIDLAAPIGTPILATGDGVIQIIDRHNGYGNMIKIKHDKTYSSIYGHMLKFQKGLSKGSKVKRGQVIGYVGQTGLATGPHCHYELHVNNLPRNPTTISLPTASPISGRELASFKARAGTLLARLKLIEQANLAASGKKNIDVG</Hsp_hseq>
+      <Hsp_midline>M KRPNI KR SG  SKLL  FAL+ AFSLPY LVKNF+H K + Y ++T   P+L                P ++  IKS    A+KP+   +  +  P   + V KDN WQ + P  GD+M  IF RLGL+AQNL+ V+  NPHAK LT IK NQ+++FLI KNKLEKLI+P+N IQTLTVYR G  Y+ KIDSKK T+Q+ Y+TATV+GSL+TTAQR NIP KL+RQMT I +KE+DF+RS+R+GDQFSI+Y+AYYI+DKMV +GDI  V+YTNRGKT QA+RH  A+G+ DY+TPQG SFKKAF+RYPIKFSHISSTFALSR HPILHY+RAHKGIDLAAPIGTPI ATGDGVI IIDRHNGYGNMIKIKHDKTYS+IYGH+LKFQKGLSKGS+VKRGQVIGYVGQTGLATGPHCHYELHVNN PRNPTTISLPTA+P+  RE+A+FKA+A TLLARLKL EQA LA+ GKK ++VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966440943|ref|WP_058481266.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella waltersii] &gt;gi|962292010|gb|KTD75708.1| M23/M37 family transporter peptidase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481266</Hit_accession>
+  <Hit_len>483</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>668.307</Hsp_bit-score>
+      <Hsp_score>1723</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>331</Hsp_identity>
+      <Hsp_positive>388</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>490</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSR------------DIPAEAST-EIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPKNIKRKTGKPSKIVFIIALIVAFSLPYYLESHFSKYNQITEHQET----ESSDPSDEEEYSSSDEEEFADESAEEDTREINREQ---LASSKDTNTLKETNPIVKEAPKLVKDNEWQTITPRSGDSMAAIFKRLGLSAQNLHAVVNKNPHAKVLSRIKPSQKLQFLINKNRLEKLVIPVDFVKTLTIYRVGNKYKTRMDSKKTTTQNLYLTATVKGSLYSTSQRLNIPSKLIRQMVLIFNKEIDFSHSLRSGDQFSIIYDAFYVENKRVGIGDIVAVSYTNKGKTYQAIRHKNARGEVDYYTPKGNSFKKAFNRYPIKFSHISSTFTISRYHPILHYRRAHKGIDLAARIGTPIRATGDGVITIIDRHNGYGNMIKIQHDKTYSTVYGHMLKFQKGLYKGSRVKRGQVIGYVGQTGLATGPHCHYELHVHNQPKNPTTIPLPTASPVPARELAGFKAKAGKLIAQLKLYESAQLASKGKKKPRIG</Hsp_hseq>
+      <Hsp_midline>MDKRP   KRK+G  SK++   AL+ AFSLPY L  +FS   + +   +T    E SD                D  AE  T EI  E+    +++K   T ++          + KDNEWQ + P SGDSMA IF RLGL+AQNL+ V+  NPHAK+L+RIKP+QKLQFLI KN+LEKL++PV+ ++TLT+YR G  YKT++DSKKTTTQN Y+TATV+GSLY+T+QR NIPSKL+RQM  IFNKEIDFS SLRSGDQFSIIYDA+Y+E+K VG+GDI+ V+YTN+GKTYQAIRH NA GE DY+TP+G SFKKAF RYPIKFSHISSTF +SRYHPILHYRRAHKGIDLAA IGTPI ATGDGVITIIDRHNGYGNMIKI+HDKTYST+YGH+LKFQKGL KGSRVKRGQVIGYVGQTGLATGPHCHYELHV+NQP+NPTTI LPTA+PVPARE+A FKAKA  L+A+LKL+E AQLASKGKKK  +G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|769978730|ref|WP_045094715.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella fallonii] &gt;gi|698841978|emb|CEG55926.1| Peptidase M24 [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094715</Hit_accession>
+  <Hit_len>480</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>665.996</Hsp_bit-score>
+      <Hsp_score>1717</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>480</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVK-------KDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKRPNIPKQQSGKPSKILMSFALVIAFSLPYYLVNHFSHNKKNDLISDISSQHQLADAPSLQFARHAENRALQTKPLAKA---PSQVAKQTQPTPPQVKTVKEAVKKAVKDNVWQTINPRAGDSMATIFHRLGLSAQNLHAVLHRNPHARVLTAIKPSQKLQFLINKNKLEKLVIPMNDIQTLTIYRQGAIYKTRIDSKKTTSRSQYAVGTVKGSLYVTAQRLNIPSKLIRQMTQILHKEIDFAHSIRTGDKFSIAYNTLYVENKKVGIGDILAVSYTNRGKTVQAVRHTKASGDVDYYTPQGESLKKAYSRYPIKFSHISSTFAVSRYHPILHYKRAHKGIDLAAPIGTPIQATGDGVIAIIGRHNGYGNMIKIKHDGKYSTVYGHMLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTVGIPTAAPISSREMSAFRTKAKTLFSQLKQFEEAS-RSGSKKKSDIG</Hsp_hseq>
+      <Hsp_midline>MDKRPNIPK++SG  SK+L  FALV AFSLPY LV +FSH K++          +L+D  S      A       KP  K+   P Q  +  Q  P     VK       KDN WQ +NP +GDSMATIFHRLGL+AQNL+ V+  NPHA++LT IKP+QKLQFLI KNKLEKL++P+N IQTLT+YR G IYKT+IDSKKTT++++Y   TV+GSLY TAQR NIPSKL+RQMT I +KEIDF+ S+R+GD+FSI Y+  Y+E+K VG+GDIL V+YTNRGKT QA+RHT A G+ DY+TPQG S KKA++RYPIKFSHISSTFA+SRYHPILHY+RAHKGIDLAAPIGTPI ATGDGVI II RHNGYGNMIKIKHD  YST+YGH+LKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTT+ +PTAAP+ +REM+AF+ KA TL ++LK FE+A   S  KKK ++G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|493927788|ref|WP_006872522.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella drancourtii] &gt;gi|363536239|gb|EHL29685.1| hypothetical protein LDG_8652 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872522</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>660.218</Hsp_bit-score>
+      <Hsp_score>1702</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>566</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>493</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYP-----------------ELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQ---DKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKK</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIRTRQSGNPSKLLMGSALIIALSLPYVLVKNFSHHDHNNLTRQSISLPKQEKKIITEQKKSVKIQEMAKVVEQTSKEEKAVKAEKSIPVNKIATMDKTEKSVKKVIVAKAIKTAKVIKDNEWQTVRPRSGDSMATIFHRLGLTAQNLHLVIYKNPHAKVLTSIKPSQELQFLINKKKLEKLVIPMNDIQTLTVYRDGAVYKTKVDSKKVTNQDRYVTGIVNGSLYTTAQRLGIPSKLIRQMTTILSKQVDFARGVRSGDRFSIVYEAQYVKDKMVGTGDIVAVSYTNRGKTAQAVRHISANGTHDYYTPQGESFKKAFSRYPLKFSHISSTFTASRYHPILRYRRAHKGIDLAAPIGTPIQATGDGIIKTIGRHNGYGNMIEIKHDKTYSTVYGHMLKFQKGISKGSRVKRGQVIGYVGQTGLATGPHCHYELHVHDQARNPTTTSLPTSSPVPAREMASFKARTRNLFSRLKLYEEASYAGKSKKK</Hsp_hseq>
+      <Hsp_midline>MDK+P I  R+SGN SKLL   AL+ A SLPY+LVKNFSH   ++   Q+   P                 E++  + +    E + +     P  K AT     K  ++    K I T+ V KDNEWQ V P SGDSMATIFHRLGLTAQNL+ VI  NPHAK+LT IKP+Q+LQFLI K KLEKL++P+N IQTLTVYR G +YKTK+DSKK T Q+RYVT  V GSLYTTAQR  IPSKL+RQMTTI +K++DF+R +RSGD+FSI+Y+A Y++DKMVG GDI+ V+YTNRGKT QA+RH +A+G  DY+TPQG SFKKAF+RYP+KFSHISSTF  SRYHPIL YRRAHKGIDLAAPIGTPI ATGDG+I  I RHNGYGNMI+IKHDKTYST+YGH+LKFQKG+SKGSRVKRGQVIGYVGQTGLATGPHCHYELHV++Q RNPTT SLPT++PVPAREMA+FKA+   L +RLKL+E+A  A K KKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966460930|ref|WP_058493359.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella worsleiensis] &gt;gi|962296428|gb|KTD80069.1| M23/M37 family transporter peptidase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058493359</Hit_accession>
+  <Hit_len>464</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>654.055</Hsp_bit-score>
+      <Hsp_score>1686</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>464</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MAKTPDISKRNTGKPSKLLTAFALVIVFSLPYYLVKNFSHHKKPEYTQRTLTLPKLPEKEIIEKPQDIVTVEPKVMPKIEAKAPPKVA-------------VVRDNVWQTIKPHQGDTMGAIFKRLGLSAQNLHAVLDKNPHAKTLTNLKLNQEIKFLINKNTLEKLVIPINTIQTLTVYRVGNKYSNKIDSKKMISKDLYITATVKGSLFTTAQKLSIPSKLIRQMTEILNKEIDFRKGVRAGDQFSIVYNAFYINDKMVQIGDIQAVSYTTRGKTAQAVRHNKANGDYDYYTPQGRSFKKAFSRYPIKFSHISSTFALSRNHPILHYKRAHKGIDLAAPIGTPIQATGDGVIQIIDRHNGYGNMIKIKHDGTYSSIYGHMLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTIALPTASPISGRELASFKARAGTLLARLKSIEKVNQASPGKKNIEVG</Hsp_hseq>
+      <Hsp_midline>M K P+I KR +G  SKLL  FALV  FSLPY LVKNFSH K+  Y  +T   P+L ++   + P +  T  P   P I++   P                V +DN WQ + PH GD+M  IF RLGL+AQNL+ V+  NPHAK LT +K NQ+++FLI KN LEKL++P+NTIQTLTVYR G  Y  KIDSKK  +++ Y+TATV+GSL+TTAQ+ +IPSKL+RQMT I NKEIDF + +R+GDQFSI+Y+A+YI DKMV +GDI  V+YT RGKT QA+RH  A+G+ DY+TPQG SFKKAF+RYPIKFSHISSTFALSR HPILHY+RAHKGIDLAAPIGTPI ATGDGVI IIDRHNGYGNMIKIKHD TYS+IYGH+LKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTI+LPTA+P+  RE+A+FKA+A TLLARLK  E+   AS GKK + VG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966516761|ref|WP_058533255.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533255</Hit_accession>
+  <Hit_len>509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>640.958</Hsp_bit-score>
+      <Hsp_score>1652</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>498</Hsp_align-len>
+      <Hsp_qseq>MDKRPNIPKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSD-------------ELSRDIPAEASTEIPH-----EKPDIKSA-----TKPMQTKQDQQD-------KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIRTRQSGIQSKLLMGSALIVALSLPYLLVKSCSHHEHNSQARQSISLPKLEKKQVAEEKKSVPLVELAKVTEQTIKKEVEHINNKKVEPTVKTSQVNTTTKPEKTDNTEKSVKKTVVAKAVKTVKVIKDNEWQTVKPRSGDSMATIFHRLGLTAQNLHLVVHKNPHAKVLTAIKPSQELQFLINKKKLEKLIIPMNDIQTLTVYRDGAVYKTKIDSKKVTNQDRYVTGVVKGSLYTTAQRLGIPSKLIRQMTTILGKQVDFAHSVRSGDRFSIVYEAQYVKDKMVGIGDIVAASYTNNGKTAQAVRHISANGSRDYYTPQGESFKKAFSRYPLRFSHISSTFSTSRYHPILRYRRAHKGIDLAAPIGTPILATGDGVIKTIGRHNGYGNMIEITHDKKFSTIYGHMLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHFELHVHGQPRNPTSTYLPTSSPVPSREMAAFKARTRSLFSRLQALEKTGFAS</Hsp_hseq>
+      <Hsp_midline>MDK+P I  R+SG  SKLL   AL+ A SLPYLLVK+ SH + +S A Q+   P+L               EL++        E+ H      +P +K++     TKP +T   ++        K + T  V KDNEWQ V P SGDSMATIFHRLGLTAQNL+ V+  NPHAK+LT IKP+Q+LQFLI K KLEKLI+P+N IQTLTVYR G +YKTKIDSKK T Q+RYVT  V+GSLYTTAQR  IPSKL+RQMTTI  K++DF+ S+RSGD+FSI+Y+A Y++DKMVG+GDI+  +YTN GKT QA+RH +A+G +DY+TPQG SFKKAF+RYP++FSHISSTF+ SRYHPIL YRRAHKGIDLAAPIGTPI ATGDGVI  I RHNGYGNMI+I HDK +STIYGH+LKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCH+ELHV+ QPRNPT+  LPT++PVP+REMAAFKA+  +L +RL+  E+   AS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966425076|ref|WP_058467614.1|</Hit_id>
+  <Hit_def>peptidase M24 [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058467614</Hit_accession>
+  <Hit_len>497</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.091</Hsp_bit-score>
+      <Hsp_score>1616</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI-------PKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQD---------KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSNPSKVLMGFALIIAFSLPYFLVKKFSHNSHQEPTTQSIVLPDLDEDESEEYQDEAFQENTFQNEDEQIIEESKPNLTEETAKTVAQNAVKTVKPIKK--IAKDNEWQTIKPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLIIPMNNIQTLTVYRDGAVYKTKVDSKKVKTQERYITGVVKGSLSATAQQLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFSIAYDTFYVENKMVGVGDVVAVSYTNQGKTAQAVRHISRNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFTTSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIISIGRHNGYGNMIEVKHDKTYSTLYGHMLRFAKGLSKGSRIRRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARLKSMEKTNYAN</Hsp_hseq>
+      <Hsp_midline>MDK+P I        K K  N SK+L  FAL+ AFSLPY LVK FSH        Q+ + P+L ++ S +   EA  E    +E   I   +KP  T++  +          KPI    + KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKLI+P+N IQTLTVYR G +YKTK+DSKK  TQ RY+T  V+GSL  TAQ+  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD +Y+E+KMVGVGD++ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI++KHDKTYST+YGH+L+F KGLSKGSR++RGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + ARLK  E+   A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|962219339|gb|KTD04035.1|</Hit_id>
+  <Hit_def>peptidase family M23 [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>KTD04035</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.091</Hsp_bit-score>
+      <Hsp_score>1616</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>489</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>486</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI-------PKRKSGNSSKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQD---------KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSNPSKVLMGFALIIAFSLPYFLVKKFSHNSHQEPTTQSIVLPDLDEDESEEYQDEAFQENTFQNEDEQIIEESKPNLTEETAKTVAQNAVKTVKPIK--KIAKDNEWQTIKPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLIIPMNNIQTLTVYRDGAVYKTKVDSKKVKTQERYITGVVKGSLSATAQQLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFSIAYDTFYVENKMVGVGDVVAVSYTNQGKTAQAVRHISRNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFTTSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIISIGRHNGYGNMIEVKHDKTYSTLYGHMLRFAKGLSKGSRIRRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARLKSMEKTNYAN</Hsp_hseq>
+      <Hsp_midline>MDK+P I        K K  N SK+L  FAL+ AFSLPY LVK FSH        Q+ + P+L ++ S +   EA  E    +E   I   +KP  T++  +          KPI    + KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKLI+P+N IQTLTVYR G +YKTK+DSKK  TQ RY+T  V+GSL  TAQ+  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD +Y+E+KMVGVGD++ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI++KHDKTYST+YGH+L+F KGLSKGSR++RGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + ARLK  E+   A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966500688|ref|WP_058517361.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella parisiensis] &gt;gi|962256031|gb|KTD40168.1| peptidase family M23 [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517361</Hit_accession>
+  <Hit_len>495</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.32</Hsp_bit-score>
+      <Hsp_score>1614</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>495</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQ---DKPINT----SHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS--KGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALAIAFSLPYFLVKKFSHNPYQGPTTQSITLPDLDEDGSQEYQDEAYQEGTYPTEEEHVSEESPSELTEETAKTVAENVINTVKPVKKIVKDNEWQTIRPRSGDSMATIFKRLGLSAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKIDSKKVKTQERYISGVVKGSLYTTAQNLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFSIAYDTLYVEDKMVGIGDVVAVSYTNQGKTAQAIRHISRNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFSNSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIANIGRHNGYGNMIEIKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTSSPVPAREMAQFKAKVRNIFARLKSLEKTALASGDKGKKKTKAG</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL  AFSLPY LVK FSH        Q+   P+L ++ S++   EA  E   P E+  +   +    T++  +   +  INT      + KDNEWQ + P SGDSMATIF RLGL+AQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTKIDSKK  TQ RY++  V+GSLYTTAQ   IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD  Y+EDKMVG+GD++ V+YTN+GKT QAIRH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI+IKHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPT++PVPAREMA FKAK   + ARLK  E+  LAS  KGKKK   G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|962205945|gb|KTC90882.1|</Hit_id>
+  <Hit_def>peptidase family M23 [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>KTC90882</Hit_accession>
+  <Hit_len>504</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.32</Hsp_bit-score>
+      <Hsp_score>1614</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>504</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>499</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQDKPINTSHVK---------KDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLA----SKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNTHQVASTKTIALPDLEDEDSEGYSDETFQESTYPNENTEEEIAEEPQPELNKESAKTIVEHVVKTVKPVKNIVKDNEWQTVRPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKIDSKKVKTQERYVTGVVKGSLYATAQRLGIPRKLIQQMTTILRKEIDFSRSIRSGDRFSIAYDSFYVENKMVGIGDIVAVSYTNQGKTAQAVRHISRNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFTTSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEVKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFRAKVRNVFAQLKSLEKTNYAQKDNNKGKKKSKAG</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH      + +T   P+L DE S     E   E   P+E  + + A +P      +  K I    VK         KDNEWQ V P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTKIDSKK  TQ RYVT  V+GSLY TAQR  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD++Y+E+KMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDGVIT I RHNGYGNMI++KHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA F+AK   + A+LK  E+   A    +KGKKK   G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|498340407|ref|WP_010654563.1|</Hit_id>
+  <Hit_def>peptidase M24 [Fluoribacter dumoffii]</Hit_def>
+  <Hit_accession>WP_010654563</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>625.55</Hsp_bit-score>
+      <Hsp_score>1612</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>499</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQDKPINTSHVK---------KDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLA----SKGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNTHQVASTKTIALPDLEDEDSEGYSDETFQESTYPNENTEEEIAEEPQPELNKESAKTIVEHVVKTVKPVKNIVKDNEWQTVRPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKIDSKKVKTQERYVTGVVKGSLYATAQRLGIPRKLIQQMTTILRKEIDFSRSIRSGDRFSIAYDSFYVENKMVGIGDIVAVSYTNQGKTAQAVRHISRNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFTTSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEVKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFRAKVRNVFAQLKSLEKTNYAQKDNNKGKKKSKAG</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH      + +T   P+L DE S     E   E   P+E  + + A +P      +  K I    VK         KDNEWQ V P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTKIDSKK  TQ RYVT  V+GSLY TAQR  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD++Y+E+KMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDGVIT I RHNGYGNMI++KHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA F+AK   + A+LK  E+   A    +KGKKK   G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|962221428|gb|KTD06088.1|</Hit_id>
+  <Hit_def>peptidase family M23 [Legionella gratiana]</Hit_def>
+  <Hit_accession>KTD06088</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>624.394</Hsp_bit-score>
+      <Hsp_score>1609</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>493</Hsp_align-len>
+      <Hsp_qseq>MDKRPN--IPKRKSGNS-----SKLLAFFALVFAFSLPYLLVKNFSHPKR-SSYAD---QTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKP------MQTKQDQQDKPIN--------TSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYLYIEKRRTNNNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHDSHYDSYIEPTTQSISLPNLEDEQYDDYQDQSEDDDLDEEKSISAEETPVSKESKLEIIEDKAKAVVENVVNAIKPAKKIIKDNEWQTIKPRSGDSMATIFKRLGLTAQNLQLVIQKNPHAKALTAINPRQELKFLINKHKLEKLIIPMNNIQTLTIYRDGAVYKTKIDSKKVTTKERYITGVVRGSLYTTAQRLGIPRKLIQQMTTILRKEIDFSRSIRSGDRFSIAYDSLYVEDKMVGVGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFSASRQHPILHYRRAHKGVDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEIKHDKTYSTLYGHMLRFEKGLSKGSKIRRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTSSPVPTREMAAFKAKTQKIFAQFKLLENPNYAS</Hsp_hseq>
+      <Hsp_midline>MDK+P   I KR++ N+     SK+L  FAL+ AFSLPY LVK FSH     SY +   Q+   P L DE   D   ++  +   E+  I +   P      ++  +D+    +            + KDNEWQ + P SGDSMATIF RLGLTAQNL  VI+ NPHAK LT I P Q+L+FLI K+KLEKLI+P+N IQTLT+YR G +YKTKIDSKK TT+ RY+T  V+GSLYTTAQR  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD+ Y+EDKMVGVGDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SR HPILHYRRAHKG+DLAAPIGTPI + GDGVIT I RHNGYGNMI+IKHDKTYST+YGH+L+F+KGLSKGS+++RGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPT++PVP REMAAFKAK   + A+ KL E    AS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966468634|ref|WP_058499960.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499960</Hit_accession>
+  <Hit_len>508</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>623.624</Hsp_bit-score>
+      <Hsp_score>1607</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>493</Hsp_align-len>
+      <Hsp_qseq>MDKRPN--IPKRKSGNS-----SKLLAFFALVFAFSLPYLLVKNFSHPKR-SSYAD---QTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKP------MQTKQDQQDKPIN--------TSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYLYIEKRRTNNNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHDSHYDSYIEPTTQSISLPNLEDEQYDDYQDQSEDDDLDEEKSISAEETPVSKESKLEIIEDKAKAVVENVVNAIKPAKKIIKDNEWQTIKPRSGDSMATIFKRLGLTAQNLQLVIQKNPHAKALTAINPRQELKFLINKHKLEKLIIPMNNIQTLTIYRDGAVYKTKIDSKKVTTKERYITGVVRGSLYTTAQRLGIPRKLIQQMTTILRKEIDFSRSIRSGDRFSIAYDSLYVEDKMVGVGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFSASRQHPILHYRRAHKGVDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEIKHDKTYSTLYGHMLRFEKGLSKGSKIRRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTSSPVPTREMAAFKAKTQKIFAQFKLLENPNYAS</Hsp_hseq>
+      <Hsp_midline>MDK+P   I KR++ N+     SK+L  FAL+ AFSLPY LVK FSH     SY +   Q+   P L DE   D   ++  +   E+  I +   P      ++  +D+    +            + KDNEWQ + P SGDSMATIF RLGLTAQNL  VI+ NPHAK LT I P Q+L+FLI K+KLEKLI+P+N IQTLT+YR G +YKTKIDSKK TT+ RY+T  V+GSLYTTAQR  IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD+ Y+EDKMVGVGDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SR HPILHYRRAHKG+DLAAPIGTPI + GDGVIT I RHNGYGNMI+IKHDKTYST+YGH+L+F+KGLSKGS+++RGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPT++PVP REMAAFKAK   + A+ KL E    AS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966504649|ref|WP_058521308.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella tucsonensis] &gt;gi|962290636|gb|KTD74344.1| peptidase family M23 [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521308</Hit_accession>
+  <Hit_len>495</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>623.239</Hsp_bit-score>
+      <Hsp_score>1606</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>570</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>497</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQDQQD---------KPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS--KGKKKVNVG</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNPQQRPTTQSTTLSDLDEDGSEEYQDEAYQEETYPNEEEQIAEESPSELTKETAKTVVANVVNTVKPVK--KIVKDNEWQTIRPRSGDSMATLFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQDLKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTRVDSKKVKTQERYIAGVVKGSLYSTAQNLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFSIAYDTLYVEDKMVGIGDIVAVSYTNQGKTAQAIRHVSKNGTRDYYTPKGESFKKAFSRYPIKFSHISSTFSNSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIASIGRHNGYGNMIEIKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARLKSLEKTSFASKDKGKKETKAG</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH  +     Q+    +L ++ S +   EA  E   P+E+  I   +    TK+  +          KP+    + KDNEWQ + P SGDSMAT+F RLGLTAQNL+ V++ NP+AK LT IKP+Q L+FLI KNKLEKL++P+N IQTLTVYR G +YKT++DSKK  TQ RY+   V+GSLY+TAQ   IP KL++QMTTI  KEIDFSRS+RSGD+FSI YD  Y+EDKMVG+GDI+ V+YTN+GKT QAIRH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI+IKHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + ARLK  E+   AS  KGKK+   G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|963705467|ref|WP_058388460.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_058388460</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>622.468</Hsp_bit-score>
+      <Hsp_score>1604</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>485</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>487</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNS-----SKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQD----------QQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNNKSKPSKVLMGFALIIAFSLPYFLVKKFSHNPQQGPTTQSVALPDLDEEGSEEYQDEAYQENTYPNEEEQVAEEESPSELTQETAKTVVENVVNTVKPVKK--IVKDNEWQTIKPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLISKNKLEKLVIPINTIQTLTVYRDGAVYKTKVDSKKVKTQERYITGVVKGSLYTTAQHLGIPRKLIQQMVMILRKEIDFSRSVRSGDRFSIAYDTLYVEDKMVGIGDVVAVSYTSQGKTAQAIRHISRNGARDYYTPKGESFKKAFSRYPIKFSHISSTFSNSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIANIGRHNGYGNMIEIKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARLKSLEKTGFAA</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  +     SK+L  FAL+ AFSLPY LVK FSH  +     Q+   P+L +E S +   EA  E   P+E+  +     P +  Q+             KP+    + KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+NTIQTLTVYR G +YKTK+DSKK  TQ RY+T  V+GSLYTTAQ   IP KL++QM  I  KEIDFSRS+RSGD+FSI YD  Y+EDKMVG+GD++ V+YT++GKT QAIRH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI+IKHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + ARLK  E+   A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|962187476|gb|KTC72602.1|</Hit_id>
+  <Hit_def>peptidase family M23 [Legionella anisa]</Hit_def>
+  <Hit_accession>KTC72602</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>622.083</Hsp_bit-score>
+      <Hsp_score>1603</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>561</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>487</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNS-----SKLLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE--IPHEKPDIKSATKPMQTKQD----------QQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLAS</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNNKSKPSKVLMGFALIIAFSLPYFLVKKFSHNPQQGPTTQSVALPDLDEEGSEEYQDEAYQENTYPNEEEQVAEEESPSELTQETAKTVVENVVNTVKPVKK--IVKDNEWQTIKPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLISKNKLEKLVIPINTIQTLTVYRDGAVYKTKVDSKKVKTQERYITGVVKGSLYTTAQHLGIPRKLIQQMVMILRKEIDFSRSVRSGDRFSIAYDTLYVEDKMVGIGDVVAVSYTSQGKTAQAIRHISRNGARDYYTPKGESFKKAFSRYPIKFSHISSTFSNSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGTIANIGRHNGYGNMIEIKHDKTYSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARLKSLEKTGFAA</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  +     SK+L  FAL+ AFSLPY LVK FSH  +     Q+   P+L +E S +   EA  E   P+E+  +     P +  Q+             KP+    + KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+NTIQTLTVYR G +YKTK+DSKK  TQ RY+T  V+GSLYTTAQ   IP KL++QM  I  KEIDFSRS+RSGD+FSI YD  Y+EDKMVG+GD++ V+YT++GKT QAIRH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SRYHPILHY+RAHKGIDLAAPIGTPI + GDG I  I RHNGYGNMI+IKHDKTYST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + ARLK  E+   A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|654930702|ref|WP_028381071.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381071</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>621.698</Hsp_bit-score>
+      <Hsp_score>1602</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>560</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>482</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>482</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTEIPHE-KPDIKSATKPMQTKQDQQ---DKPINT----SHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLA</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNSYQGPKTQTLSLPDLDGDESEEYQDESYQENAYQNEEEIVEESKPELAKETAKTVVDNAVKTIKPIKKIVKDNEWQTIRPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKVDSKKVKTQERYVTGVVSGSLYATAQRLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFAIAYDSFYVENKMVGIGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFTSSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEVKHDKTFSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARFKSLEKTNYA</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH        QT   P+L  + S +   E+  E  ++ + +I   +KP   K+  +   D  + T      + KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTK+DSKK  TQ RYVT  V GSLY TAQR  IP KL++QMTTI  KEIDFSRS+RSGD+F+I YD++Y+E+KMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDGVIT I RHNGYGNMI++KHDKT+ST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + AR K  E+   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|963702409|ref|WP_058387422.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058387422</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.542</Hsp_bit-score>
+      <Hsp_score>1599</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>560</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>482</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE---------IPHEKPDIKSAT-KPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLA</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNSYQGPKTQTLSLPDLDGDESEEYQDESYQENAYQNEEELVEESKPELANQTAKTVVENVVKTVKPIK--NIVKDNEWQTIRPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKVDSKKVKTQERYVTGVVSGSLYATAQRLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFAIAYDSFYVENKMVGIGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFTSSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEVKHDKTFSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARFKSLEKTNYA</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH        QT   P+L  + S +   E+  E         +   KP++ + T K +     +  KPI   ++ KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTK+DSKK  TQ RYVT  V GSLY TAQR  IP KL++QMTTI  KEIDFSRS+RSGD+F+I YD++Y+E+KMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDGVIT I RHNGYGNMI++KHDKT+ST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + AR K  E+   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|962197471|gb|KTC82515.1|</Hit_id>
+  <Hit_def>peptidase family M23 [Legionella cherrii]</Hit_def>
+  <Hit_accession>KTC82515</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.157</Hsp_bit-score>
+      <Hsp_score>1598</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>560</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>487</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>MDKRPNI--PKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRSSYADQTDLYPELSDELSRDIPAEASTE---------IPHEKPDIKSAT-KPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLA</Hsp_qseq>
+      <Hsp_hseq>MDKKPYIYIEKRKTNKNKKSKPSKVLMGFALIIAFSLPYFLVKKFSHNSYQGPKTQTLSLPDLDGDESEEYQDESYQENAYQNEEELVEESKPELANQTAKTVVENVVKTVKPIK--NIVKDNEWQTIRPRSGDSMATIFKRLGLTAQNLHLVMQKNPYAKALTAIKPSQELKFLINKNKLEKLVIPMNNIQTLTVYRDGAVYKTKVDSKKVKTQERYVTGVVSGSLYATAQRLGIPRKLIQQMTTILRKEIDFSRSVRSGDRFAIAYDSFYVENKMVGIGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFTSSRYHPILHYKRAHKGIDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEVKHDKTFSTLYGHMLRFAKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTASPVPAREMAQFKAKVRNVFARFKSLEKTNYA</Hsp_hseq>
+      <Hsp_midline>MDK+P I   KRK+  + K     +L  FAL+ AFSLPY LVK FSH        QT   P+L  + S +   E+  E         +   KP++ + T K +     +  KPI   ++ KDNEWQ + P SGDSMATIF RLGLTAQNL+ V++ NP+AK LT IKP+Q+L+FLI KNKLEKL++P+N IQTLTVYR G +YKTK+DSKK  TQ RYVT  V GSLY TAQR  IP KL++QMTTI  KEIDFSRS+RSGD+F+I YD++Y+E+KMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF  SRYHPILHY+RAHKGIDLAAPIGTPI + GDGVIT I RHNGYGNMI++KHDKT+ST+YGH+L+F KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPTA+PVPAREMA FKAK   + AR K  E+   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|966421577|ref|WP_058464778.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella cincinnatiensis] &gt;gi|962202265|gb|KTC87235.1| peptidase family M23 [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058464778</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>619.772</Hsp_bit-score>
+      <Hsp_score>1597</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>565</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>497</Hsp_align-len>
+      <Hsp_qseq>MDKRPN--IPKRKSGNSSK-----LLAFFALVFAFSLPYLLVKNFSHPKRS----------SYADQTDLYPELSDELSRDIPAEASTEIPHEKPDIKSATKPMQTKQDQQDKPIN--------TSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKK</Hsp_qseq>
+      <Hsp_hseq>MDKKPYLYIEKRRTNKNKKSKPSKVLMGFALIIAFSLPYFLVKQFSHDSYNESTIHPISLPNQEEQEEQYDDYQDQGEDDLNEESS--VTEEKAPVSKESK-LEIIEDKAKAVVENVVNAIKPAKKIVKDNEWQTIKPRSGDSMATIFKRLGLTAQNLQLVLQKNPHAKALTAINPKQELQFLINKHKLEKLIIPMNNIQTLTVYRDGAVYKTKVDSKKVTTKEKYITGVVKGSLYTTAQRLGIPRKLIQQMTAILRKEIDFSRSIRSGDHFSIAYDSLYVEDKMVGIGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFSASRQHPILHYRRAHKGVDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEIKHDKTYSTLYGHMLRFEKGLSKGSKIRRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTSSPVPTREMAAFKAKTQKIFAQFKLLENPNYASKSKK</Hsp_hseq>
+      <Hsp_midline>MDK+P   I KR++  + K     +L  FAL+ AFSLPY LVK FSH   +          +  +Q + Y +  D+   D+  E+S  +  EK  +   +K ++  +D+    +            + KDNEWQ + P SGDSMATIF RLGLTAQNL  V++ NPHAK LT I P Q+LQFLI K+KLEKLI+P+N IQTLTVYR G +YKTK+DSKK TT+ +Y+T  V+GSLYTTAQR  IP KL++QMT I  KEIDFSRS+RSGD FSI YD+ Y+EDKMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SR HPILHYRRAHKG+DLAAPIGTPI + GDGVIT I RHNGYGNMI+IKHDKTYST+YGH+L+F+KGLSKGS+++RGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPT++PVP REMAAFKAK   + A+ KL E    ASK KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|653020427|ref|WP_027272352.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella sainthelensi] &gt;gi|962275191|gb|KTD59106.1| peptidase family M23 [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027272352</Hit_accession>
+  <Hit_len>504</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>618.231</Hsp_bit-score>
+      <Hsp_score>1593</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>565</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>MDKRPN--IPKRKSGNS-----SKLLAFFALVFAFSLPYLLVKNFSH-------------PKRSSYADQTDLYPELSDELSRDIPAEASTEIPHEKPD----IKSATKPMQTKQDQQDKPINTSHVKKDNEWQIVNPHSGDSMATIFHRLGLTAQNLNDVIKNNPHAKMLTRIKPNQKLQFLIKKNKLEKLIVPVNTIQTLTVYRAGKIYKTKIDSKKTTTQNRYVTATVQGSLYTTAQRFNIPSKLVRQMTTIFNKEIDFSRSLRSGDQFSIIYDAYYIEDKMVGVGDILVVTYTNRGKTYQAIRHTNAHGEQDYFTPQGTSFKKAFTRYPIKFSHISSTFALSRYHPILHYRRAHKGIDLAAPIGTPIHATGDGVITIIDRHNGYGNMIKIKHDKTYSTIYGHLLKFQKGLSKGSRVKRGQVIGYVGQTGLATGPHCHYELHVNNQPRNPTTISLPTAAPVPAREMAAFKAKASTLLARLKLFEQAQLASKGKK</Hsp_qseq>
+      <Hsp_hseq>MDKKPYLYIEKRRTNTNKKSKPSKVLMGFALIIAFLLPYFLVKKFSHDSYNESTIHPISLPNQEEQEEYDDYQDQGEDDLNEESPI-AEEEAPVNKESKLEIIEDKAKAVVENVVNAIKP--AKQIVKDNEWQTIKPRSGDSMAIIFKRLGLTAQNLQLVLQKNPHAKALTAINPKQELKFLINKHKLEKLIIPMNNIQTLTVYRDGGVYKTKVDSKKVTTKERYITGVVKGSLYTTAQHLGIPRKLVQQMTTILRKEIDFSRSVRSGDRFSIAYDSFYVEDKMVGIGDIVAVSYTNQGKTAQAVRHISRNGNRDYYTPKGESFKKAFSRYPIKFSHISSTFSASRQHPILHYRRAHKGVDLAAPIGTPIQSVGDGVITNIGRHNGYGNMIEIKHDKTYSTLYGHMLRFEKGLSKGSRIKRGQVIGYVGQTGLATGPHCHYELHVHNQPRNPTTTYLPTSSPVPVREMAVFKAKVQKIFAQFKLLENPNYADKEKK</Hsp_hseq>
+      <Hsp_midline>MDK+P   I KR++  +     SK+L  FAL+ AF LPY LVK FSH             P +    +  D   +  D+L+ + P  A  E P  K      I+   K +        KP     + KDNEWQ + P SGDSMA IF RLGLTAQNL  V++ NPHAK LT I P Q+L+FLI K+KLEKLI+P+N IQTLTVYR G +YKTK+DSKK TT+ RY+T  V+GSLYTTAQ   IP KLV+QMTTI  KEIDFSRS+RSGD+FSI YD++Y+EDKMVG+GDI+ V+YTN+GKT QA+RH + +G +DY+TP+G SFKKAF+RYPIKFSHISSTF+ SR HPILHYRRAHKG+DLAAPIGTPI + GDGVIT I RHNGYGNMI+IKHDKTYST+YGH+L+F+KGLSKGSR+KRGQVIGYVGQTGLATGPHCHYELHV+NQPRNPTT  LPT++PVP REMA FKAK   + A+ KL E    A K KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247608</Statistics_db-num>
+      <Statistics_db-len>41144954208</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
