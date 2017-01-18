@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_232023</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>399</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_232023</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>399</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248693|ref|WP_010946233.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|52840730|ref|YP_094529.1| membrane protease subunit HflC [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627841|gb|AAU26582.1| HflC protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507242|gb|AEW50766.1| HflC protein [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946233</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>630.943</Hsp_bit-score>
+      <Hsp_score>1626</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>306</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>MRMNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MRMNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MRMNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379894|ref|WP_072356028.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356028</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.861</Hsp_bit-score>
+      <Hsp_score>1618</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>306</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>MRMNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MRMNAFKTTLGVLIFLVLVLLFTTMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTNSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MRMNAFKTTLGVLIFLVLVLLFT+MFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT SNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|504656268|ref|WP_014843370.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|395129575|emb|CCD07808.1| modulator for HflB protease specific for phage lambda cII repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|469492979|gb|AGH54824.1| HflC protein [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081150|gb|AGN13398.1| membrane protease subunit HflC [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|761992708|dbj|GAN16496.1| modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|761995898|dbj|GAN19602.1| modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998771669|emb|CZI66621.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998774529|emb|CZH00432.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998777505|emb|CZG98480.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998782978|emb|CZI84247.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998783625|emb|CZH33983.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998786277|emb|CZG99014.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998791216|emb|CZG38805.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998793167|emb|CZI52898.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998795731|emb|CZI43083.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998798530|emb|CZL71009.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998804401|emb|CZK47533.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998808942|emb|CZH73388.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998810769|emb|CZI19345.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998814783|emb|CZG50320.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998816665|emb|CZM04589.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998819693|emb|CZL99386.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998822442|emb|CZH33765.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998825603|emb|CZK40915.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998828284|emb|CZH36580.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998831331|emb|CZI84967.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998834509|emb|CZL39063.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998838653|emb|CZJ28648.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998840558|emb|CZL86177.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998843408|emb|CZK84013.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998846414|emb|CZL02881.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998850728|emb|CZI22677.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998852686|emb|CZL85573.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998855864|emb|CZL50533.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998858658|emb|CZM19034.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998862269|emb|CZK39669.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998864718|emb|CZJ85817.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998867168|emb|CZJ81603.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998870437|emb|CZM39677.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998873665|emb|CZK73867.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998876373|emb|CZM36309.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998879378|emb|CZJ76660.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998883038|emb|CZI86100.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998885830|emb|CZM37600.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998888832|emb|CZK47179.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998892661|emb|CZJ25718.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998894437|emb|CZK50564.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998897669|emb|CZK06975.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998905348|emb|CZK82503.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998908791|emb|CZL58398.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998914357|emb|CZL38142.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998917795|emb|CZL55074.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998920667|emb|CZL59074.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998927948|emb|CZL75421.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998929833|emb|CZL07396.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998932790|emb|CZM04766.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998937996|emb|CZL85402.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998939398|emb|CZK99477.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998944983|emb|CZL44800.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998948074|emb|CZL21115.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998951035|emb|CZJ94073.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998957148|emb|CZM63903.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998960422|emb|CZK66891.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998963246|emb|CZK70824.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998966078|emb|CZM80805.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998969423|emb|CZK95026.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998972582|emb|CZK79596.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998978546|emb|CZL93379.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998982408|emb|CZI65627.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998984468|emb|CZK71114.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998987655|emb|CZL78382.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998996792|emb|CZK32509.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999000055|emb|CZG93339.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999006465|emb|CZL24826.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999011974|emb|CZL77479.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999017222|emb|CZL84654.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999021517|emb|CZL70270.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999024296|emb|CZL05614.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999036279|emb|CZL77538.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999045486|emb|CZM18005.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999058481|emb|CZM31170.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999060446|emb|CZL65061.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999066531|emb|CZJ44120.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999075732|emb|CZH08326.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999078727|emb|CZK34537.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999081813|emb|CZL25836.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999087944|emb|CZL17028.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999091159|emb|CZL74143.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999094372|emb|CZH34188.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999097330|emb|CZH42312.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999100203|emb|CZM12719.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999103739|emb|CZI20834.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999107532|emb|CZI63116.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999109490|emb|CZL51349.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999112457|emb|CZM01320.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999115902|emb|CZK72253.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999124966|emb|CZL19739.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999128467|emb|CZH14539.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999130768|emb|CZM16856.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999134293|emb|CZL38496.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999138449|emb|CZK11110.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999140843|emb|CZL84218.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999143467|emb|CZL43764.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999146419|emb|CZM00595.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999152591|emb|CZM81185.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999155897|emb|CZI32135.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999161928|emb|CZM40513.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999174611|emb|CZL51063.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999189928|emb|CZI66421.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999193198|emb|CZJ09283.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999200034|emb|CZG75669.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999202508|emb|CZJ08950.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999208682|emb|CZL32490.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999218437|emb|CZL89202.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999221040|emb|CZI96626.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999231761|emb|CZI43601.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999236742|emb|CZG94933.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999333866|emb|CZL16125.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002074474|emb|CZR04880.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002077376|emb|CZR11168.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002081570|emb|CZQ99996.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002085585|emb|CZQ97670.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002088265|emb|CZQ79024.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1003018346|emb|CZR30339.1| HflC protein [Legionella pneumophila] &gt;gi|1003021419|emb|CZR26685.1| HflC protein [Legionella pneumophila] &gt;gi|1003024543|emb|CZR30392.1| HflC protein [Legionella pneumophila] &gt;gi|1073863655|gb|AOU03606.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073866613|gb|AOU06563.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073869618|gb|AOU09567.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073872562|gb|AOU12510.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073875544|gb|AOU15491.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073878505|gb|AOU18451.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073881500|gb|AOU21445.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073884462|gb|AOU24406.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073887460|gb|AOU27403.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073890445|gb|AOU30387.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073893410|gb|AOU33351.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073896374|gb|AOU36314.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073899338|gb|AOU39277.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073902289|gb|AOU42227.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073905200|gb|AOU45137.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073908218|gb|AOU48153.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073911273|gb|AOU51205.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073914192|gb|AOU54123.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073917150|gb|AOU57080.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073920116|gb|AOU60045.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073923091|gb|AOU63018.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073926103|gb|AOU66029.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073929083|gb|AOU68992.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073932468|gb|AOU72027.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073935415|gb|AOU82414.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073945690|gb|AOU85414.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1073948653|gb|AOU88376.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1104001802|emb|SFZ36242.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1104005369|emb|SFZ36181.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1129967268|gb|APT97627.1| protease modulator HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843370</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.32</Hsp_bit-score>
+      <Hsp_score>1614</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1004017615|ref|WP_061485339.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485339</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>624.009</Hsp_bit-score>
+      <Hsp_score>1608</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSVFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTS+FTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|500490084|ref|WP_011945644.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|148282672|gb|ABQ56760.1| membrane protease subunit HflC [Legionella pneumophila str. Corby] &gt;gi|295647936|gb|ADG23783.1| membrane protease subunit HflC [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989521|dbj|GAN22584.1| modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|761999045|dbj|GAN28934.1| modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999302848|emb|CZI37754.1| Modulator of FtsH protease HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945644</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>624.009</Hsp_bit-score>
+      <Hsp_score>1608</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTNSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT SNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|653012678|ref|WP_027264781.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|999225286|emb|CZG81513.1| Modulator of FtsH protease HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264781</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>623.624</Hsp_bit-score>
+      <Hsp_score>1607</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGALIFLVLVLLFTTMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLG LIFLVLVLLFT+MFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|499526476|ref|WP_011213116.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|53750303|emb|CAH11697.1| membrane protease subunit HflC [Legionella pneumophila str. Paris] &gt;gi|395126469|emb|CCD04652.1| modulator for HflB protease specific for phage lambda cII repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|536613606|gb|ERB41978.1| membane protease HflC [Legionella pneumophila str. 121004] &gt;gi|541995569|gb|ERH41668.1| membane protease HflC [Legionella pneumophila str. Leg01/11] &gt;gi|541997362|gb|ERH43408.1| membane protease HflC [Legionella pneumophila str. Leg01/53] &gt;gi|542121151|gb|ERI47484.1| membane protease HflC [Legionella pneumophila str. Leg01/20] &gt;gi|762002506|dbj|GAN25624.1| modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998801871|emb|CZI09792.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998912126|emb|CZH22427.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998923773|emb|CZK26315.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998943843|emb|CZJ51390.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998954380|emb|CZK62662.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998975551|emb|CZJ91804.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998992783|emb|CZJ45685.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|998994545|emb|CZI21086.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999003179|emb|CZI82968.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999009015|emb|CZK44464.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999018177|emb|CZJ85806.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999027292|emb|CZK23181.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999030607|emb|CZH25390.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999033242|emb|CZK19764.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999039448|emb|CZJ94504.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999042486|emb|CZK06199.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999048481|emb|CZK00517.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999051616|emb|CZJ93831.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999054505|emb|CZK27600.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999063728|emb|CZK03634.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999070529|emb|CZJ63576.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999072748|emb|CZK29949.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999085036|emb|CZK32561.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999149938|emb|CZI47632.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999159283|emb|CZJ67832.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999165649|emb|CZG81950.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999168586|emb|CZI44352.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999171895|emb|CZI30847.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999178290|emb|CZJ54794.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999181684|emb|CZG52750.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999184371|emb|CZP96545.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999187852|emb|CZI96283.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999198504|emb|CZP15251.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999206237|emb|CZP64404.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999212768|emb|CZG79949.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999216874|emb|CZI64524.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999228340|emb|CZP10217.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999235245|emb|CZP59809.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999240245|emb|CZH89352.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999244410|emb|CZH78091.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999247921|emb|CZH57949.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999248817|emb|CZH09579.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999252033|emb|CZH38467.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999256022|emb|CZP80893.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999259072|emb|CZP45754.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999261341|emb|CZH43021.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999265257|emb|CZP08291.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999269469|emb|CZO34447.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999272271|emb|CZP59650.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999274839|emb|CZG81128.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999277653|emb|CZP38610.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999281316|emb|CZP14525.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999283716|emb|CZP62820.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999287241|emb|CZI47380.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999291033|emb|CZP33470.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999293631|emb|CZI46212.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999296440|emb|CZP57136.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999299527|emb|CZP45903.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999307351|emb|CZH71929.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999309415|emb|CZP28589.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999312680|emb|CZI54484.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999315777|emb|CZI08594.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999318723|emb|CZP66154.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999322065|emb|CZH99951.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999324396|emb|CZH31783.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999328668|emb|CZG66304.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999331777|emb|CZG56692.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999337802|emb|CZP48484.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999340125|emb|CZH27529.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999344407|emb|CZP83383.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999347254|emb|CZP64373.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999349662|emb|CZH39593.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999353428|emb|CZP67460.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999357186|emb|CZP66993.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999360014|emb|CZI63069.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999363766|emb|CZP55260.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999367162|emb|CZP78212.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999369895|emb|CZP76705.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999373414|emb|CZG55889.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999376448|emb|CZJ17415.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999379795|emb|CZH70507.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999382690|emb|CZI59397.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999386241|emb|CZG63004.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999389140|emb|CZI58119.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999392351|emb|CZP98692.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999396862|emb|CZG07517.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999398599|emb|CZQ01408.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999403076|emb|CZP39558.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999405878|emb|CZG69994.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999408935|emb|CZH93003.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999412783|emb|CZG34081.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999415390|emb|CZG86641.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999418730|emb|CZG63243.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999421925|emb|CZH72135.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999425239|emb|CZG73838.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999428407|emb|CZG74397.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999431603|emb|CZG71906.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999434961|emb|CZH98749.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999438145|emb|CZG61159.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999441141|emb|CZK27597.1| HflC protein [Legionella pneumophila] &gt;gi|999444666|emb|CZH78546.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999447869|emb|CZG54607.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999450668|emb|CZP36997.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999454024|emb|CZI19820.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999457610|emb|CZK23443.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999460488|emb|CZG98853.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999464807|emb|CZM50753.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999467831|emb|CZO28139.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999469358|emb|CZH08296.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999474744|emb|CZM63441.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999477201|emb|CZN76337.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999480703|emb|CZN01784.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999484206|emb|CZN87707.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999487135|emb|CZM12772.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999490308|emb|CZN80651.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999493499|emb|CZM12228.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999496295|emb|CZI48192.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999500079|emb|CZN74775.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999503205|emb|CZO09613.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999506327|emb|CZN14731.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999509530|emb|CZG49809.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999512868|emb|CZN29048.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999516044|emb|CZM01587.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999518959|emb|CZM83101.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999521911|emb|CZP17896.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999525318|emb|CZJ06056.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999528031|emb|CZI72989.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999532315|emb|CZO44716.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999535471|emb|CZN39049.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999538552|emb|CZM74269.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999541996|emb|CZO19692.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999544958|emb|CZO59936.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999548198|emb|CZN90405.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999551510|emb|CZO12606.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999554545|emb|CZN32642.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999557880|emb|CZO54703.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999561111|emb|CZM43426.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999564117|emb|CZO68326.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999567481|emb|CZM53827.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999570681|emb|CZN51720.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999573869|emb|CZN94136.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999576068|emb|CZI43397.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999580361|emb|CZO18073.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999583649|emb|CZO39353.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999587012|emb|CZM66291.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999589953|emb|CZM39279.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999593112|emb|CZN44255.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999596185|emb|CZO10595.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999599505|emb|CZO36384.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999602669|emb|CZL98412.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999605457|emb|CZN74254.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999608994|emb|CZN64280.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999611324|emb|CZI64328.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999615606|emb|CZM48919.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999618625|emb|CZN89274.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999621805|emb|CZO83249.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999625133|emb|CZN72594.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999628368|emb|CZM61832.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999631582|emb|CZM60271.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999634642|emb|CZN60679.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999637970|emb|CZN52855.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999641166|emb|CZO80864.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999644158|emb|CZO54514.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999647649|emb|CZN95857.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999650665|emb|CZO04259.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999653950|emb|CZO01833.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999657147|emb|CZM30856.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999660221|emb|CZM66015.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999663348|emb|CZN16204.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999666713|emb|CZM36666.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999669905|emb|CZL83384.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999673131|emb|CZM38697.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999676299|emb|CZN76710.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999679356|emb|CZM80540.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999682551|emb|CZM83172.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999686238|emb|CZO01450.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999689094|emb|CZN29793.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999692287|emb|CZN98114.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999695504|emb|CZN28019.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999698829|emb|CZM13217.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999701773|emb|CZM79876.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999705008|emb|CZL96059.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999708134|emb|CZN56121.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999711553|emb|CZM99885.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999714649|emb|CZN20344.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999718021|emb|CZO47087.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999720977|emb|CZM94831.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999724496|emb|CZN35448.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999727799|emb|CZL98323.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999731018|emb|CZO44342.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999734142|emb|CZM24834.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999737518|emb|CZO71613.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999740999|emb|CZM32588.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999744063|emb|CZN25944.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999747205|emb|CZM24189.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999750563|emb|CZL97482.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999753759|emb|CZM82147.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999756810|emb|CZN11718.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999760311|emb|CZM25581.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999763344|emb|CZN29310.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999766870|emb|CZM47006.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999769719|emb|CZN49459.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999773167|emb|CZH91116.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999776183|emb|CZL99057.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999777448|emb|CZH48255.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999782929|emb|CZH63286.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999786382|emb|CZM23406.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999789547|emb|CZO65852.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999792892|emb|CZO59774.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999796155|emb|CZI25357.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999799777|emb|CZO54502.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1002092750|emb|CZQ95239.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1003029226|emb|CZR19245.1| HflC protein [Legionella pneumophila] &gt;gi|1003033325|emb|CZR17733.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1003036409|emb|CZR17205.1| HflC protein [Legionella pneumophila] &gt;gi|1005832257|gb|AMQ26983.1| protein HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431621|gb|AMV13248.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1032656665|gb|ANH11936.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1032659632|gb|ANH14902.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1032662599|gb|ANH17868.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1041014527|gb|ANN91588.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1041017624|gb|ANN94684.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1103995554|emb|SFZ36551.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1103998685|emb|SFZ36255.1| Modulator of FtsH protease HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213116</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>623.239</Hsp_bit-score>
+      <Hsp_score>1606</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTTMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTNSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFT+MFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT SNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499533444|ref|WP_011214728.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|53753308|emb|CAH14755.1| membrane protease subunit HflC [Legionella pneumophila str. Lens] &gt;gi|1080002238|gb|AOW52810.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006009|gb|AOW56289.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008132|gb|AOW58120.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012206|gb|AOW61697.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014737|gb|AOW63610.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018450|gb|AOW67095.1| protease modulator HflC [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214728</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>622.854</Hsp_bit-score>
+      <Hsp_score>1605</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNQDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQN DFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|652976195|ref|WP_027228868.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|985765971|gb|KXB27082.1| protein HflC [Legionella pneumophila] &gt;gi|985767719|gb|KXB28805.1| protein HflC [Legionella pneumophila] &gt;gi|999119290|emb|CZG77184.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|999122502|emb|CZH11562.1| Modulator of FtsH protease HflC [Legionella pneumophila] &gt;gi|1024341650|gb|KZX35957.1| protease modulator HflC [Legionella pneumophila] &gt;gi|1108603965|gb|APF02333.1| protease modulator HflC [Legionella pneumophila subsp. fraseri] &gt;gi|1108606976|gb|APF05343.1| protease modulator HflC [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228868</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>622.468</Hsp_bit-score>
+      <Hsp_score>1604</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSVFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYSQNPDFFALYKSLLAYEASFHSKKDILVLDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTS+FTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAY+QNPDFFALYKSLLAYEASFHSKKDIL+LDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652970663|ref|WP_027223555.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila] &gt;gi|1005362763|gb|AMP88632.1| protease modulator HflC [Legionella pneumophila subsp. pascullei] &gt;gi|1005365764|gb|AMP91541.1| protease modulator HflC [Legionella pneumophila subsp. pascullei] &gt;gi|1005368752|gb|AMP94528.1| protease modulator HflC [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223555</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.928</Hsp_bit-score>
+      <Hsp_score>1600</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSVFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAQAAAIYSKAYSQNPDFFALYKSLLAYEASFHSKKDILVLDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTS+FTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEA+AAAIYSKAY+QNPDFFALYKSLLAYEASFHSKKDIL+LDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1011913465|ref|WP_062726679.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726679</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>619.387</Hsp_bit-score>
+      <Hsp_score>1596</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSVFTVTQGQQGIILRLGRLVKDSQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYSQNPDFFALYKSLLAYEASFHSKKDILVLDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTS+FTVTQGQQGIILRLGRLVKD QTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAY+QNPDFFALYKSLLAYEASFHSKKDIL+LDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|737924677|ref|WP_035889931.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella norrlandica] &gt;gi|701445686|gb|KGP63058.1| protein HflC [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889931</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.28</Hsp_bit-score>
+      <Hsp_score>1414</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>273</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGILIFVILLLLFTSVFTVMEGQKGIILRLGRLVKDSQTDKVKVLNPGLHFKTPFIESVRVFDTRLQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRTAAEKQAGQLGIEVVDVRIKGIELPSNTSNAIYQRMRADMQKIANKHRADGQAAAEQIRAKADADVMILLAKTKSNAQRTRAIGEAEAATIYSKAYSQNKDFFVLYRSLLAYEASFYSKKDLLVLDQSSSFFDYFKQAMPKNDGIAVKK</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLG+LIF++L+LLFTS+FTV +GQ+GIILRLGRLVKD QTD VKVLNPGLHFKTPFIESVR+FDTR+QTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILR AAEKQAG+LGI+VVDVRIKGIELPSNTSNAIYQRMRADMQKIAN+HRADGQAAAEQI+AKADADV +LLAKTKSNAQR RA+GEAEAA IYSKAY+QN DFF LY+SLLAYEASF+SKKD+L+LDQSSSFFDYFKQAMPKNDG A KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|966431993|ref|WP_058472426.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella quateirensis] &gt;gi|962271455|gb|KTD55457.1| HflC protein [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472426</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>546.584</Hsp_bit-score>
+      <Hsp_score>1407</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNATKTTFGILIFLILVLLLTSVFTVTQGQQGIILRLGRLVKDNQTDKVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRIADLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMELLRNAAEKQAGELGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIQAKADANVMVLLAKTKSNAQRTRAIGQAEAATIYAKAYGQNKEFFALYRSLIAYEGSFNNKKDILVLDQSSSFFDYFKHAMPKNDGVAAK</Hsp_hseq>
+      <Hsp_midline>MNA KTT G+LIFL+LVLL TS+FTVTQGQQGIILRLGRLVKD QTD VKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRI+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVME+LRNAAEKQAGELGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+IQAKADA+V VLLAKTKSNAQR RA+G+AEAA IY+KAY QN +FFALY+SL+AYE SF++KKDIL+LDQSSSFFDYFK AMPKNDG AAK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966440827|ref|WP_058481150.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella waltersii] &gt;gi|962291884|gb|KTD75582.1| HflC protein [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481150</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>534.258</Hsp_bit-score>
+      <Hsp_score>1375</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>259</Hsp_identity>
+      <Hsp_positive>286</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNAIKATVGVMVLLILLIVLSSMFTVTQGQQGIILRLGRLVKNPQTDTLKVLQPGLHFKTPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRIADLGKYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRKAAEKQAGELGIVVVDVRIKGIELPANTSNAIYQRMRADMQKIANKHRADGEAAAEEIRAKADADVTILLAKTKSEAQQIRAVGQAKAAEIYSKAYGQNKQFFNLYKSLLAYEASFHSKRDILVLDQSSAFFDYFKRAMPKSDGVTAK</Hsp_hseq>
+      <Hsp_midline>MNA K T+GV++ L+L+++ +SMFTVTQGQQGIILRLGRLVK+PQTD +KVL PGLHFKTPFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRI+DL +YFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILR AAEKQAGELGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIAN+HRADG+AAAE+I+AKADADVT+LLAKTKS AQ+IRAVG+A+AA IYSKAY QN  FF LYKSLLAYEASFHSK+DIL+LDQSS+FFDYFK+AMPK+DG  AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|517404001|ref|WP_018576815.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella shakespearei] &gt;gi|962283740|gb|KTD67512.1| HflC protein [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576815</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>523.857</Hsp_bit-score>
+      <Hsp_score>1348</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>260</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNATKTTLSILLFLILVLLFTSVFTVTQGQQGIILRLGRLVNDSETNTVKVLNPGLHFKTPFIENVRIFDTRMQTMDIKSSRIVTKEKKDVMVDYYVKWRIADLAQYFKSTGGNVFKAETLLEQQLNTLLRAQFGKRTISDAVSDGRNDMMILLRNAAEKQAGELGIKVIDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVMVLLAKARSNAQQVKAVGQTEAASIYTKAFSQNKDFFALYRSLIAYEGSFNSKKDILVLDQSNSFFDYFKQAMPKNDGIAVKK</Hsp_hseq>
+      <Hsp_midline>MNA KTTL +L+FL+LVLLFTS+FTVTQGQQGIILRLGRLV D +T+ VKVLNPGLHFKTPFIE+VRIFDTR+QTMDIKS+RIVTKEKKDVMVDYYVKWRI+DLAQYFKSTGGN FKAETLLEQQLNTLLRAQFGKRTISDAVS GR+D+M +LRNAAEKQAGELGIKV+DVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADV VLLAK +SNAQ+++AVG+ EAA+IY+KA++QN DFFALY+SL+AYE SF+SKKDIL+LDQS+SFFDYFKQAMPKNDG A KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|654933333|ref|WP_028383687.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella moravica] &gt;gi|962248470|gb|KTD32694.1| HflC protein [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383687</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>521.931</Hsp_bit-score>
+      <Hsp_score>1343</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>290</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNATKTSIGIVLFLILVLLLTSVFTVTQGQQGIILRLGRLVKDAQTDKVKVLKPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQIADLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGREDVMELLRNAAEKQAGELGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIQAKADANVMVLLAKTKSNAQRTRAIGQAEAAAIYAKAYGQNKEFFALYRSLIAYEGSFNNKKDILVLDQSSSFFDYFKHAMPKNDGVAAK</Hsp_hseq>
+      <Hsp_midline>MNA KT++G+++FL+LVLL TS+FTVTQGQQGIILRLGRLVKD QTD VKVL PGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGR+DVME+LRNAAEKQAGELGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+IQAKADA+V VLLAKTKSNAQR RA+G+AEAAAIY+KAY QN +FFALY+SL+AYE SF++KKDIL+LDQSSSFFDYFK AMPKNDG AAK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|769980422|ref|WP_045096407.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella fallonii] &gt;gi|698844038|emb|CEG58007.1| Protein HflC [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096407</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>519.62</Hsp_bit-score>
+      <Hsp_score>1337</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>253</Hsp_identity>
+      <Hsp_positive>283</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNTTKTALGIIVFFVLLLFFSSIFTITEGQQGIILRLGRLVKESNSDKVKVLNPGLHLKTPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDVMELLRKAAEKQAGELGINVVDVRLKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVMVLLAKTNSHAQEVKAVGQAKAAAIYAKAYSQNKEFFALYRSLIAYENSFHSKKDIFVLDQSSAFFDYFKQPIPKNDGVSAKK</Hsp_hseq>
+      <Hsp_midline>MN  KT LG+++F VL+L F+S+FT+T+GQQGIILRLGRLVK+  +D VKVLNPGLH KTPFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDDVME+LR AAEKQAGELGI VVDVR+KGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADV VLLAKT S+AQ ++AVG+A+AAAIY+KAY+QN +FFALY+SL+AYE SFHSKKDI +LDQSS+FFDYFKQ +PKNDG +AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|493927720|ref|WP_006872455.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella drancourtii] &gt;gi|363536172|gb|EHL29618.1| hypothetical protein LDG_8583 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872455</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>518.464</Hsp_bit-score>
+      <Hsp_score>1334</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>298</Hsp_align-len>
+      <Hsp_qseq>TLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TLGIVLFLVFLFLITTTFTVTEGQQGIILRLGRLVNESDTDKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDVMALLRTAAEKQAGELGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIQAKADADVMVLLAQTRSAAQKVRAIGRAKAASIYAQAYSQNKDFFALYRSLLAYEGSFKSKKDILVLDQSSAFFDYFKQFTLKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TLG+++FLV + L T+ FTVT+GQQGIILRLGRLV +  TD VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDDVM +LR AAEKQAGELGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+IQAKADADV VLLA+T+S AQ++RA+G A+AA+IY++AY+QN DFFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFKQ   KNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966460453|ref|WP_058492882.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella worsleiensis] &gt;gi|962296522|gb|KTD80159.1| HflC protein [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492882</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.531</Hsp_bit-score>
+      <Hsp_score>1316</Hsp_score>
+      <Hsp_evalue>4.67096e-180</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>286</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNAAKTTLGILFFLVLVLLLTSVFTVTQGQQGIILRLGRLVEDSQTDKVKVLQPGLHFKTPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQIADLAQYFKSTGGNQFKAETLLEQQLNTLLRAQFGKRTISDAVSGGREDVMELLRKAAEKQASELGINVIDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIQAKADANVMVLLAKSRSNAQQARAIGQAEAAAIYAKAYSQNKDFFALYRSLAAYEGSFNTKKDILVLDQSSSFFDYFKHAMPKNDGVVAK</Hsp_hseq>
+      <Hsp_midline>MNA KTTLG+L FLVLVLL TS+FTVTQGQQGIILRLGRLV+D QTD VKVL PGLHFKTPFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYFKSTGGN+FKAETLLEQQLNTLLRAQFGKRTISDAVSGGR+DVME+LR AAEKQA ELGI V+DVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+IQAKADA+V VLLAK++SNAQ+ RA+G+AEAAAIY+KAY+QN DFFALY+SL AYE SF++KKDIL+LDQSSSFFDYFK AMPKNDG  AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966498835|ref|WP_058515601.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella santicrucis] &gt;gi|962269277|gb|KTD53291.1| membrane protease subunit HflC [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515601</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>509.605</Hsp_bit-score>
+      <Hsp_score>1311</Hsp_score>
+      <Hsp_evalue>2.63416e-179</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>297</Hsp_align-len>
+      <Hsp_qseq>LGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>LGILIFLMFLVLLTTVFTVTQGQQGILLRLGRLVNDGVTNKVKVLNPGLHFKVPFVENVRIFDTRIQTMDIKSTRIVTREKKDVMVDYYVKWQIVDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDLMQLLRKAAQKQAGELGINVVDVRIKGIELPASTSNQIYQRMRADMQEIANKHRADGQAAAEQVQAKADADVMVLLAKTRSDAQKVRAVGQAKAASIYAEAYGKNKEFFALYRSLLAYEGSFKSKKDILVLDQSSAFFDYFKQATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>LG+LIFL+ ++L T++FTVTQGQQGI+LRLGRLV D  T+ VKVLNPGLHFK PF+E+VRIFDTRIQTMDIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDD+M++LR AA+KQAGELGI VVDVRIKGIELP++TSN IYQRMRADMQ+IAN+HRADGQAAAEQ+QAKADADV VLLAKT+S+AQ++RAVG+A+AA+IY++AY +N +FFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFKQA PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966516705|ref|WP_058533199.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533199</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>507.679</Hsp_bit-score>
+      <Hsp_score>1306</Hsp_score>
+      <Hsp_evalue>1.76981e-178</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>297</Hsp_align-len>
+      <Hsp_qseq>LGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>LGVLVFIALLLFFACVFTITEGQQGIILRLGRLVNERDTDKVKVFAPGLHFKVPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQITDLARYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDVMGLLRVAAEKQAGELGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIQAKADADVMVLIARTESEAQKVRAIGQAKAASIYAEAYSKNKDFFTLYRSLLAYEGSFNSKKDILVLDQSSAFFNYFRQPIPNNDGINAKK</Hsp_hseq>
+      <Hsp_midline>LGVL+F+ L+L F  +FT+T+GQQGIILRLGRLV +  TD VKV  PGLHFK PFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLA+YFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDDVM +LR AAEKQAGELGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+IQAKADADV VL+A+T+S AQ++RA+G+A+AA+IY++AY++N DFF LY+SLLAYE SF+SKKDIL+LDQSS+FF+YF+Q +P NDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1113575524|gb|OJY35262.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY35262</Hit_accession>
+  <Hit_len>305</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>495.352</Hsp_bit-score>
+      <Hsp_score>1274</Hsp_score>
+      <Hsp_evalue>1.10009e-173</Hsp_evalue>
+      <Hsp_query-from>97</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>305</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>236</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>NAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>NGSKTFLGIVLFIVFFLFLTSIFTVYEGQQGIMLRLGRIVTAKQTDKPKVFLPGLHFKIPFIENVRIFDTRIQTMDIKSTRIVTREKKDVMVDYYVKWQIIDLAQYFKSTGGNEYKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDVMDLLRRAAEKQAGELGINVVDVRLKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEQIKAKADADVMVLLAKTRSQAQKTRAVGQAQAAGIYAQAYGKNKEFFALYRSLLAYEGSFNSKKDIFVLDQNSAFFDYFKQPFIKSNGIESKK</Hsp_hseq>
+      <Hsp_midline>N  KT LG+++F+V  L  TS+FTV +GQQGI+LRLGR+V   QTD  KV  PGLHFK PFIE+VRIFDTRIQTMDIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGGNE+KAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDDVM++LR AAEKQAGELGI VVDVR+KGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAEQI+AKADADV VLLAKT+S AQ+ RAVG+A+AA IY++AY +N +FFALY+SLLAYE SF+SKKDI +LDQ+S+FFDYFKQ   K++G  +KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966504702|ref|WP_058521361.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella tucsonensis] &gt;gi|962290693|gb|KTD74401.1| membrane protease subunit HflC [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521361</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>493.812</Hsp_bit-score>
+      <Hsp_score>1270</Hsp_score>
+      <Hsp_evalue>5.66127e-173</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITQGQHGILLRLGRLVNDESTNKVKVLNPGLHFKMPFIESARIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRITDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDLTELLRQAAQKQAGGLGIIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIRAKADADVTVLLARTRSNAQKVRAIGQARAASIYADAYNKNRGFFTLYRSLLAYEESFNSKRDILVLDQSSAFFDYFKAATPKNDGVLAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+TQGQ GI+LRLGRLV D  T+ VKVLNPGLHFK PFIES RIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRI+DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDD+ E+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADADVTVLLA+T+SNAQ++RA+G+A AA+IY+ AY +N  FF LY+SLLAYE SF+SK+DIL+LDQSS+FFDYFK A PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966422735|ref|WP_058465936.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella cincinnatiensis] &gt;gi|962197739|gb|KTC82778.1| membrane protease subunit HflC [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465936</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>493.041</Hsp_bit-score>
+      <Hsp_score>1268</Hsp_score>
+      <Hsp_evalue>1.06808e-172</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TTVFTVTQGQQGILLRLGRLVNDEATNKVKVLNPGLHFKVPFIENVRIFDTRIQTKDIKSTRIVTREKKDVMVDYYVKWQIVDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMQLLRKAAQKQAGELGINVVDVRIKGIELPASTSNQIYQRMRADMQEIANRHRADGQAAAEQIQAKADADVMVLLAKTRSEAQKVRAIGQEKAASIYAEAYSKNKEFFALYRSLLAYEGSFKSKKDILVLDQSSAFFDYFKQATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>T++FTVTQGQQGI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQT DIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVM++LR AA+KQAGELGI VVDVRIKGIELP++TSN IYQRMRADMQ+IANRHRADGQAAAEQIQAKADADV VLLAKT+S AQ++RA+G+ +AA+IY++AY++N +FFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFKQA PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|653017703|ref|WP_027269667.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella sainthelensi] &gt;gi|962270961|gb|KTD54964.1| membrane protease subunit HflC [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269667</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>493.041</Hsp_bit-score>
+      <Hsp_score>1268</Hsp_score>
+      <Hsp_evalue>1.15313e-172</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>261</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TTVFTITQGQHGILLRLGRLVNDGATNKVKVLNPGLHFKVPFIENVRIFDTRIQTKDIKSTRIVTREKKDVMVDYYVKWQIVDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMQLLRKAAQKQAGELGINVVDVRIKGIELPASTSNEIYQRMRADMQEIANRHRADGQAAAEQIQAKADADVMVLLAKTRSAAQKVRAIGQAKAASIYAEAYSQNKEFFVLYRSLLAYEGSFKSKKDILVLDQSSSFFDYFKQATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>T++FT+TQGQ GI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQT DIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVM++LR AA+KQAGELGI VVDVRIKGIELP++TSN IYQRMRADMQ+IANRHRADGQAAAEQIQAKADADV VLLAKT+S AQ++RA+G+A+AA+IY++AY+QN +FF LY+SLLAYE SF SKKDIL+LDQSSSFFDYFKQA PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|489731228|ref|WP_003635344.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella longbeachae] &gt;gi|269987480|gb|EEZ93735.1| HflC protein [Legionella longbeachae D-4968] &gt;gi|288859198|emb|CBJ13130.1| membrane protease subunit HflC [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635344</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>492.656</Hsp_bit-score>
+      <Hsp_score>1267</Hsp_score>
+      <Hsp_evalue>1.45109e-172</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TTVFTITQGQHGILLRLGRLVNEGETNKVKVLNPGLHFKVPFIENVRIFDTRIQTKDIKSTRIVTREKKDVMVDYYVKWQIVDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMQLLRKAAQKQAGELGINVVDVRIKGIELPASTSNEIYQRMRADMQEIANRHRADGQAAAEQIQAKADADVMVLLAKTRSAAQKVRAIGQAKAASIYAEAYSKNKEFFALYRSLLAYEASFTSKKDILVLDQSSAFFDYFKQATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>T++FT+TQGQ GI+LRLGRLV + +T+ VKVLNPGLHFK PFIE+VRIFDTRIQT DIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVM++LR AA+KQAGELGI VVDVRIKGIELP++TSN IYQRMRADMQ+IANRHRADGQAAAEQIQAKADADV VLLAKT+S AQ++RA+G+A+AA+IY++AY++N +FFALY+SLLAYEASF SKKDIL+LDQSS+FFDYFKQA PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|654930642|ref|WP_028381011.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella cherrii] &gt;gi|962197406|gb|KTC82450.1| membrane protease subunit HflC [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381011</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>489.189</Hsp_bit-score>
+      <Hsp_score>1258</Hsp_score>
+      <Hsp_evalue>3.10854e-171</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITQGQQGILLRLGRLVNDDLTDKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMELLRKAAQKQAGGLGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANKHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAIGKAQAASIYTDAYSKNKDFFALYRSLLAYEGSFKSRKDILVLDQSSAFFDYFKQATPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+TQGQQGI+LRLGRLV D  TD VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVME+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIAN+HRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RA+G+A+AA+IY+ AY++N DFFALY+SLLAYE SF S+KDIL+LDQSS+FFDYFKQA PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966436881|ref|WP_058477249.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella steigerwaltii] &gt;gi|962293657|gb|KTD77332.1| membrane protease subunit HflC [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477249</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.419</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>6.33134e-171</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITQGQQGILLRLGRLVNDELTDKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMELLRKAAQKQAGGLGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANKHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAIGKAQAASIYTDAYSKNKDFFALYRSLLAYEGSFKSRKDILVLDQSSAFFDYFKQSTPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+TQGQQGI+LRLGRLV D  TD VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVME+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIAN+HRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RA+G+A+AA+IY+ AY++N DFFALY+SLLAYE SF S+KDIL+LDQSS+FFDYFKQ+ PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966493995|ref|WP_058510783.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella steelei] &gt;gi|962284949|gb|KTD68715.1| membrane protease subunit HflC [Legionella steelei] &gt;gi|1113342841|gb|OJW06702.1| protease modulator HflC [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510783</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>487.649</Hsp_bit-score>
+      <Hsp_score>1254</Hsp_score>
+      <Hsp_evalue>1.16857e-170</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITQGQQGILLRLGRLVNDELTDKVKVLNPGLHFKIPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMELLRKAAQKQAGGLGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANKHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAVGQAQAASIYTDAYGKNKDFFALYRSLLAYEGSFKSRKDILVLDQSSAFFDYFKQSTPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+TQGQQGI+LRLGRLV D  TD VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVME+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIAN+HRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RAVG+A+AA+IY+ AY +N DFFALY+SLLAYE SF S+KDIL+LDQSS+FFDYFKQ+ PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|498340473|ref|WP_010654629.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Fluoribacter dumoffii] &gt;gi|962206011|gb|KTC90948.1| membrane protease subunit HflC [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654629</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.026</Hsp_bit-score>
+      <Hsp_score>1242</Hsp_score>
+      <Hsp_evalue>1.01558e-168</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITEGQQGILLRLGRLVNDESTNKVKVLNPGLHLKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWHITDLAQYFRSTGGNEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDVMESLREAAQKQAGGLGINVVDVRIKGIELPANTSNAIYQRMRADMQKIANKHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAIGQAKAASIYAEAYSKNKDFFALYRSLLAYEESFKSKKDILVLDQSSAFFDYFKQSTPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+T+GQQGI+LRLGRLV D  T+ VKVLNPGLH K PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW I+DLAQYF+STGGNEFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDDVME LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIAN+HRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RA+G+A+AA+IY++AY++N DFFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFKQ+ PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966423425|ref|WP_058466571.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Fluoribacter gormanii] &gt;gi|962220895|gb|KTD05557.1| membrane protease subunit HflC [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466571</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.789</Hsp_bit-score>
+      <Hsp_score>1231</Hsp_score>
+      <Hsp_evalue>3.71695e-167</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>275</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>298</Hsp_align-len>
+      <Hsp_qseq>TLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TLGILIFLIFLFLLTSVFTITEGQQGILLRLGRLVDDKLTNKVKVLNPGLHFKIPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWKITDLAQYFRSTGGSEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDLMELLRKAAQKQAGGLGMIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIKAKADANVMVLLAKTRSNAQKTRAIGQAQAASIYADAYNKNKDFFALYRSLLAYEVSFKSKKDILVLDQSSAFFDYFKGATPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TLG+LIFL+ + L TS+FT+T+GQQGI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYF+STGG+EFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDD+ME+LR AA+KQAG LG+ VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADA+V VLLAKT+SNAQ+ RA+G+A+AA+IY+ AY +N DFFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFK A PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|671587448|ref|WP_031563679.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563679</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.404</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>5.33338e-167</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTVTQGQQGILLRLGRLVHEDLTDKVKVLNPGLHFKVPFVENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQITDLAQYFRSTGGSEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDLTELLRKAAQKQAGGLGLIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIKAKADADVMVLLARTRSNAQKVRAIGQARAASIYAEAYNKNKDFFALFRSLLAYEGSFKSKKDILVLDQSSSFFNYFKEAIPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FTVTQGQQGI+LRLGRLV +  TD VKVLNPGLHFK PF+E+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYF+STGG+EFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDD+ E+LR AA+KQAG LG+ VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADADV VLLA+T+SNAQ++RA+G+A AA+IY++AY +N DFFAL++SLLAYE SF SKKDIL+LDQSSSFF+YFK+A+PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966468566|ref|WP_058499892.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella gratiana] &gt;gi|962221353|gb|KTD06013.1| membrane protease subunit HflC [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499892</Hit_accession>
+  <Hit_len>303</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.019</Hsp_bit-score>
+      <Hsp_score>1229</Hsp_score>
+      <Hsp_evalue>8.14478e-167</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>257</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>QGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>QGQQGILLRLGRLVNDEATNKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTREKKDVMVDYYVKWQIDDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDVMELLRKAAEKQAGELGINVVDVRIKGIELPASTSNAIYQRMRADMQKIANKHRADGQAAAEQIQAKADADVIVLLAKTRSEAQKVRSIGQAKAAAIYADAYGKNKEFFALYRSLLAYEGSFKSKKDILVLDQSSAFFDYFKQATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>QGQQGI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVT+EKKDVMVDYYVKW+I DLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDDVME+LR AAEKQAGELGI VVDVRIKGIELP++TSNAIYQRMRADMQKIAN+HRADGQAAAEQIQAKADADV VLLAKT+S AQ++R++G+A+AAAIY+ AY +N +FFALY+SLLAYE SF SKKDIL+LDQSS+FFDYFKQA PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|742353144|ref|WP_038837478.1|</Hit_id>
+  <Hit_def>protease modulator HflC, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837478</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>469.159</Hsp_bit-score>
+      <Hsp_score>1206</Hsp_score>
+      <Hsp_evalue>1.57311e-164</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>323</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>228</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>228</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT</Hsp_qseq>
+      <Hsp_hseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT</Hsp_hseq>
+      <Hsp_midline>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966500610|ref|WP_058517283.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella parisiensis] &gt;gi|962255946|gb|KTD40083.1| membrane protease subunit HflC [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517283</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>471.085</Hsp_bit-score>
+      <Hsp_score>1211</Hsp_score>
+      <Hsp_evalue>4.22186e-164</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>240</Hsp_identity>
+      <Hsp_positive>272</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MKTMGRTLGILSFLILLFLLTSVFTITQGQQGILLRLGRLVDDESTHKFKVLYPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQITDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDLTELLRQAAQKQAGGLGIIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAIGQARAASIYADAYNKNKDFFTLFRSLLAYEESFNSKRDILVLDQSSAFFDYFKAAIPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>M     TLG+L FL+L+ L TS+FT+TQGQQGI+LRLGRLV D  T   KVL PGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDD+ E+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RA+G+A AA+IY+ AY +N DFF L++SLLAYE SF+SK+DIL+LDQSS+FFDYFK A+PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966415332|ref|WP_058458617.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Fluoribacter bozemanae] &gt;gi|962189840|gb|KTC74942.1| membrane protease subunit HflC [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458617</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>470.315</Hsp_bit-score>
+      <Hsp_score>1209</Hsp_score>
+      <Hsp_evalue>8.69133e-164</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSVFTITQGQQGILLRLGRLVNDESTNKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQITDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTISEVVSGGRDDLMELLRQAAQKQAGGLGIIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIKAKADADVTVLLAKTRSNAQKVRAIGQARAAAIYAEAYNKNKDFFTLYRSLLAYEESFNSRKDILVLDQSSAFFDYFKTATPKNDGVPAKK</Hsp_hseq>
+      <Hsp_midline>TS+FT+TQGQQGI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTIS+ VSGGRDD+ME+LR AA+KQAG LGI VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADADVTVLLAKT+SNAQ++RA+G+A AAAIY++AY +N DFF LY+SLLAYE SF+S+KDIL+LDQSS+FFDYFK A PKNDG  AKK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|518063362|ref|WP_019233570.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella anisa] &gt;gi|962187539|gb|KTC72665.1| membrane protease subunit HflC [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233570</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.848</Hsp_bit-score>
+      <Hsp_score>1200</Hsp_score>
+      <Hsp_evalue>2.16717e-162</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>304</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>284</Hsp_align-len>
+      <Hsp_qseq>TSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>TSAFTITQGQQGILLRLGRLVIDESTNKVKVLNPGLHFKVPFIENVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWQITDLAQYFKSTGGSEFKAETLLEQQLNTLLRAQFGKRTIPEVVSGGRDDLTDLLRQAAQKQAGGLGLIVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEEIKAKADADVMVLLAKTRSNAQKVRAIGQARAAEIYAEAYNKDKNFFALYRSLLAYEESFKSRKDILVLDQSSAFFDFFKTATPKNDGVPVKK</Hsp_hseq>
+      <Hsp_midline>TS FT+TQGQQGI+LRLGRLV D  T+ VKVLNPGLHFK PFIE+VRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKW+I+DLAQYFKSTGG+EFKAETLLEQQLNTLLRAQFGKRTI + VSGGRDD+ ++LR AA+KQAG LG+ VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE+I+AKADADV VLLAKT+SNAQ++RA+G+A AA IY++AY ++ +FFALY+SLLAYE SF S+KDIL+LDQSS+FFD+FK A PKNDG   KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966505870|ref|WP_058522516.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella birminghamensis] &gt;gi|962190387|gb|KTC75482.1| HflC protein [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522516</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>465.307</Hsp_bit-score>
+      <Hsp_score>1196</Hsp_score>
+      <Hsp_evalue>8.2317e-162</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNALRTTLVVLAFFILVIVLASVFTVTQGQQGILLRLGRLVIDKQTDKVKVLLPGLHFKTPFIESVRLFDTRLQTLDIKSSRIVTKEKKDVLVDYYVKWRIDNLAQYFKSTGGNEFKAETLLEQQLNTWLRAEFGKRTISDVVSGGRDDVVDVLREKAEQQARGLGVEVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEAIQAAADAEVTVVLAKAQSEGQVIRAKGQAEAATIYAQAYGQNPKFFEFYRSLKAYEASFTSKQDLLVLDQSSSFFDYFRHSLVKNDDTLKK</Hsp_hseq>
+      <Hsp_midline>MNA +TTL VL F +LV++  S+FTVTQGQQGI+LRLGRLV D QTD VKVL PGLHFKTPFIESVR+FDTR+QT+DIKS+RIVTKEKKDV+VDYYVKWRI +LAQYFKSTGGNEFKAETLLEQQLNT LRA+FGKRTISD VSGGRDDV+++LR  AE+QA  LG++VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE IQA ADA+VTV+LAK +S  Q IRA G+AEAA IY++AY QNP FF  Y+SL AYEASF SK+D+L+LDQSSSFFDYF+ ++ KND T  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|518045893|ref|WP_019216101.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019216101</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.611</Hsp_bit-score>
+      <Hsp_score>1189</Hsp_score>
+      <Hsp_evalue>1.01888e-160</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNTTKATLGILLFIILMVLLASVFTITQGQQGILLRLGRLVSDADTGKAKILLPGLHLKTPFIESVRIFDTRIQTLDIKSSRIVTKEKKDVIVDYYVKWRINDLARYFKSTGGNEFKAETLLEQQLNTSLRAEFGKRGISDVVSGGRDDVMEVLRDKAEQQAGELGIDVVDVRIKGIELPENTSNAIYQRMRADMQKIANRHRADGHAAAEAIQAAADAQVTILLAKAQSEGQIVRARGLAEAATIYADAFSKNKDFFAFYRSLKAYEGSFNSRQDILVLDQSSTFFDYFRHSLSKGDGINAK</Hsp_hseq>
+      <Hsp_midline>MN  K TLG+L+F++L++L  S+FT+TQGQQGI+LRLGRLV D  T   K+L PGLH KTPFIESVRIFDTRIQT+DIKS+RIVTKEKKDV+VDYYVKWRI+DLA+YFKSTGGNEFKAETLLEQQLNT LRA+FGKR ISD VSGGRDDVME+LR+ AE+QAGELGI VVDVRIKGIELP NTSNAIYQRMRADMQKIANRHRADG AAAE IQA ADA VT+LLAK +S  Q +RA G AEAA IY+ A+++N DFFA Y+SL AYE SF+S++DIL+LDQSS+FFDYF+ ++ K DG  AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966472029|ref|WP_058502944.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella israelensis] &gt;gi|962229850|gb|KTD14447.1| HflC protein [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502944</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.225</Hsp_bit-score>
+      <Hsp_score>1188</Hsp_score>
+      <Hsp_evalue>1.32475e-160</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>397</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>302</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAA</Hsp_qseq>
+      <Hsp_hseq>MNAMKAGLGIILFIVLLIFFASVFTITQGNHGILLRLGRLVDDSATGKARILNPGLHVKMPFIETVRIFDTRIQTLDIKSSRIVTKEKKDVIADYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAEFGKRTIPDVVSDARGDIMDVLQQGAEEQAGKLGIHVVDVRIKGIELPPSTSNAIYQRMRADMQKIANRHRADGKAAAEAIQAKADRDVTVILATAKSNGQKVKAEGQAKAAEIYAKAFGQNKNFFEFYRSLLAYEASFNNKQDILVLDQSSAFFDYFKHSMPKNNGTTA</Hsp_hseq>
+      <Hsp_midline>MNA K  LG+++F+VL++ F S+FT+TQG  GI+LRLGRLV D  T   ++LNPGLH K PFIE+VRIFDTRIQT+DIKS+RIVTKEKKDV+ DYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRA+FGKRTI D VS  R D+M++L+  AE+QAG+LGI VVDVRIKGIELP +TSNAIYQRMRADMQKIANRHRADG+AAAE IQAKAD DVTV+LA  KSN Q+++A G+A+AA IY+KA+ QN +FF  Y+SLLAYEASF++K+DIL+LDQSS+FFDYFK +MPKN+GT A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966401300|ref|WP_058444895.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella feeleii] &gt;gi|962216504|gb|KTD01265.1| HflC protein [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444895</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.988</Hsp_bit-score>
+      <Hsp_score>1177</Hsp_score>
+      <Hsp_evalue>6.50434e-159</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>225</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNTTKATLGILLFIILMVLLASVFTITQGQQGILLRLGRLVSDADTNKAKILLPGLHLKTPFIESVRIFDTRIQTLDIKSSRIVTKEKKDVIVDYYVKWRINDLARYFKSTGGNEFKAETLLEQQLNTSLRAEFGKRSISDLVSGGRDDVMEVLRGKAEQQAAELGIDVVDVRIKGIELPENTSNAIYQRMRADMQKIASRHRADGHAAAEAIQAAADAQVTILLAKAQSEGQIVRARGLAEAATIYAEAFSKNKDFFTFYRSLKAYEGSFNSRQDILVLDQSSAFFDYFRHSLSKGDGVNAK</Hsp_hseq>
+      <Hsp_midline>MN  K TLG+L+F++L++L  S+FT+TQGQQGI+LRLGRLV D  T+  K+L PGLH KTPFIESVRIFDTRIQT+DIKS+RIVTKEKKDV+VDYYVKWRI+DLA+YFKSTGGNEFKAETLLEQQLNT LRA+FGKR+ISD VSGGRDDVME+LR  AE+QA ELGI VVDVRIKGIELP NTSNAIYQRMRADMQKIA+RHRADG AAAE IQA ADA VT+LLAK +S  Q +RA G AEAA IY++A+++N DFF  Y+SL AYE SF+S++DIL+LDQSS+FFDYF+ ++ K DG  AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966398481|ref|WP_058442386.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella brunensis] &gt;gi|962193041|gb|KTC78108.1| HflC protein [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442386</Hit_accession>
+  <Hit_len>303</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>447.973</Hsp_bit-score>
+      <Hsp_score>1151</Hsp_score>
+      <Hsp_evalue>7.13927e-155</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>261</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNAAKTTLGILMFAVLLVILASVFTITQGQHGIVLRLGRLVTDSKTHTVKILGPGLHIKTPFIENVRVFDTRLQTLDIKSSRIVTKEKKDVIVDYYVKWRIADLAQYFKSTGGNEFKAETLLEQQLNTLLRAEFGKRTISD-VSGGRDDVTEKLSEKAEQQAKELGIKIVDVRIKGIELPENTSNNIFQLMRANMQKIANSHRADGNAIAEAIKAAADAQVTILLAQAGSEGQKIRAKGQAEAAKIYAEAFSKNQDFFAFYRSLKAYEGSFNNKQDILVLDQSSPFFDYFKHSLTKGNGTNAK</Hsp_hseq>
+      <Hsp_midline>MNA KTTLG+L+F VL+++  S+FT+TQGQ GI+LRLGRLV D +T  VK+L PGLH KTPFIE+VR+FDTR+QT+DIKS+RIVTKEKKDV+VDYYVKWRI+DLAQYFKSTGGNEFKAETLLEQQLNTLLRA+FGKRTISD VSGGRDDV E L   AE+QA ELGIK+VDVRIKGIELP NTSN I+Q MRA+MQKIAN HRADG A AE I+A ADA VT+LLA+  S  Q+IRA G+AEAA IY++A+++N DFFA Y+SL AYE SF++K+DIL+LDQSS FFDYFK ++ K +GT AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|654938354|ref|WP_028388596.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388596</Hit_accession>
+  <Hit_len>299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>439.499</Hsp_bit-score>
+      <Hsp_score>1129</Hsp_score>
+      <Hsp_evalue>1.14423e-151</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>299</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>259</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>304</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAKK</Hsp_qseq>
+      <Hsp_hseq>MNAKKTTLGILAFIILMILLASVFTINQGQHGILLRLGRLVNDNGN--TKILGPGLHIKMPFIENIRVFDTRIQTLDIKSSRIVTKEKKDVIVDYYVKWRIDDLARYYKSTGGNELKAETLLEQQLNTSLRAQFGKRTISEVVSGGRDDVMDALRDNAEERAAELGISVVDVRIKGIELPENTSNAIYQRMRADMQKIANRHRADGNATAEAIKASADAEVTVLLAKAQSEGQMVKARGQAEAAATYAEAFSKNKDFFSFYRSLKAYENSFNSKEDLLVLDQSSAFFDYFKHALS---GTSVKK</Hsp_hseq>
+      <Hsp_midline>MNA KTTLG+L F++L++L  S+FT+ QGQ GI+LRLGRLV D      K+L PGLH K PFIE++R+FDTRIQT+DIKS+RIVTKEKKDV+VDYYVKWRI DLA+Y+KSTGGNE KAETLLEQQLNT LRAQFGKRTIS+ VSGGRDDVM+ LR+ AE++A ELGI VVDVRIKGIELP NTSNAIYQRMRADMQKIANRHRADG A AE I+A ADA+VTVLLAK +S  Q ++A G+AEAAA Y++A+++N DFF+ Y+SL AYE SF+SK+D+L+LDQSS+FFDYFK A+    GT+ KK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966407060|ref|WP_058450466.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella jamestowniensis] &gt;gi|962223798|gb|KTD08448.1| HflC protein [Legionella jamestowniensis] &gt;gi|1045920118|gb|OCH97085.1| protease modulator HflC [Legionella jamestowniensis] &gt;gi|1097331348|emb|SFL51196.1| membrane protease subunit HflC [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450466</Hit_accession>
+  <Hit_len>303</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>439.113</Hsp_bit-score>
+      <Hsp_score>1128</Hsp_score>
+      <Hsp_evalue>1.83241e-151</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>216</Hsp_identity>
+      <Hsp_positive>261</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MSAAKTTLGILAFAILLVILASVFTITQGQHGILLRLGRLVIDNKTQAVKILGPGLHIKTPFIENVRIFDTRIQTLDIKSSRIVTKEKKDVIADYYVKWRIADLAQYYKSTGGNEFKAETLLEQQLNTFLRAEFGKRTISD-ISGGREDLTEILREKAEQQAGHLGIQIVDVRIKGIELPENTSNNIFQLMRANMQRIANSHRADGNAVAEAIRAAADAKVTILLAQAQSDGHKMRARGQAEAAKIYAEAFSKNQDFFAFYRSLKAYEGSFNSKRDILILDQSSAFFDYFKNAGRKGNGTNGK</Hsp_hseq>
+      <Hsp_midline>M+A KTTLG+L F +L+++  S+FT+TQGQ GI+LRLGRLV D +T AVK+L PGLH KTPFIE+VRIFDTRIQT+DIKS+RIVTKEKKDV+ DYYVKWRI+DLAQY+KSTGGNEFKAETLLEQQLNT LRA+FGKRTISD +SGGR+D+ EILR  AE+QAG LGI++VDVRIKGIELP NTSN I+Q MRA+MQ+IAN HRADG A AE I+A ADA VT+LLA+ +S+  ++RA G+AEAA IY++A+++N DFFA Y+SL AYE SF+SK+DILILDQSS+FFDYFK A  K +GT  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966511536|ref|WP_058528090.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella londiniensis] &gt;gi|962238780|gb|KTD23184.1| membrane protease subunit HflC [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058528090</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>438.343</Hsp_bit-score>
+      <Hsp_score>1126</Hsp_score>
+      <Hsp_evalue>3.6195e-151</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNATKTILAVLGFFILILFLACVFTITQGEHGILLRLGRLVVDSTTQKVRVLSPGLHFKLPFIETARIFDTRIQTLDIKSSRIVTKEKKDVIVDYYVKWRIEDLAQYFKSTGGNQLKAETLLEQQLNTSLRAQFGKRTIPDVVSGGRGDVMDVLQQRAEEQARELGIHVVDVRIKGIELPPSTTNAIYQRMRADMQKIANRHRADGQAAAEAIQAAADAKVTVLLAKARSEGQIIRAEGQAQAATIYAEAYGKNKDFFSLYRSLRAYINSFNSKQDILVLDQSSAFFDYFKSGMAKSNGVVPR</Hsp_hseq>
+      <Hsp_midline>MNA KT L VL F +L+L    +FT+TQG+ GI+LRLGRLV D  T  V+VL+PGLHFK PFIE+ RIFDTRIQT+DIKS+RIVTKEKKDV+VDYYVKWRI DLAQYFKSTGGN+ KAETLLEQQLNT LRAQFGKRTI D VSGGR DVM++L+  AE+QA ELGI VVDVRIKGIELP +T+NAIYQRMRADMQKIANRHRADGQAAAE IQA ADA VTVLLAK +S  Q IRA G+A+AA IY++AY +N DFF+LY+SL AY  SF+SK+DIL+LDQSS+FFDYFK  M K++G   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966417932|ref|WP_058461155.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella adelaidensis] &gt;gi|962180140|gb|KTC65388.1| HflC protein [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058461155</Hit_accession>
+  <Hit_len>306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>434.491</Hsp_bit-score>
+      <Hsp_score>1116</Hsp_score>
+      <Hsp_evalue>1.25693e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>257</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNGTRTLLAVLGFFVLLLLITSVFTITQGQHGILLRLGRLVEDTDSKQVKVVNPGLHFKLPFIEKVRVFDTRIQTLDIKSSRIVTREKKDVIVDYYVKWRIDNIPQYFKSTGGNELKAETLLEQQLNTSLRAQFGKRTISDVVSGGRDDLMVVLRDRAEQQAGQLGIHVVDVRIKGIELPENTSNAIYQRMRAHMQQIANRHRADGHAEAEAIQARADAMVTVVLAKARSEGQKIRAQGQAKAAAIYAEAYDKNKDFFAFYRSLKAYEGSFNQKQDILVLDQSSEFFNYFKHGMAKGNGVTVK</Hsp_hseq>
+      <Hsp_midline>MN  +T L VL F VL+LL TS+FT+TQGQ GI+LRLGRLV+D  +  VKV+NPGLHFK PFIE VR+FDTRIQT+DIKS+RIVT+EKKDV+VDYYVKWRI ++ QYFKSTGGNE KAETLLEQQLNT LRAQFGKRTISD VSGGRDD+M +LR+ AE+QAG+LGI VVDVRIKGIELP NTSNAIYQRMRA MQ+IANRHRADG A AE IQA+ADA VTV+LAK +S  Q+IRA G+A+AAAIY++AY +N DFFA Y+SL AYE SF+ K+DIL+LDQSS FF+YFK  M K +G   K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966477669|ref|WP_058508402.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella quinlivanii] &gt;gi|962263306|gb|KTD47388.1| HflC protein [Legionella quinlivanii] &gt;gi|1090726826|emb|SEG38658.1| protease FtsH subunit HflC/SPFH domain, Band 7 family protein [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058508402</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>433.721</Hsp_bit-score>
+      <Hsp_score>1114</Hsp_score>
+      <Hsp_evalue>2.28007e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNALRTTLVVLAFFILVVILASVFTVNQGQQGILLRLGRLVIDKQTDKVKVLEPGLHFKTPFIESLRLFDTRLQTLDIKSSRIVTKEKKDVIVDYYVKWRIGNLAQYFKSTGGNEFKAETLLEQQLNTWLRAEFGKRTISDVVSGGRDDVVDVLREKAEQQAQGLGVDVVDVRIKGIELPANTSNAIYQRMRADMQKIANRHRADGQAAAEAIQAAADAEVTVTLAKAQSEGQIIRAKGQAEAAAIYAEAFGQNTQFFSFYRSLKAYEGSFASKQDLLVLDQSSSFFDYFRHSLVKSGDTTKK</Hsp_hseq>
+      <Hsp_midline>MNA +TTL VL F +LV++  S+FTV QGQQGI+LRLGRLV D QTD VKVL PGLHFKTPFIES+R+FDTR+QT+DIKS+RIVTKEKKDV+VDYYVKWRI +LAQYFKSTGGNEFKAETLLEQQLNT LRA+FGKRTISD VSGGRDDV+++LR  AE+QA  LG+ VVDVRIKGIELP+NTSNAIYQRMRADMQKIANRHRADGQAAAE IQA ADA+VTV LAK +S  Q IRA G+AEAAAIY++A+ QN  FF+ Y+SL AYE SF SK+D+L+LDQSSSFFDYF+ ++ K+  T  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|644964422|ref|WP_025385177.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella oakridgensis] &gt;gi|570284182|gb|AHE66369.1| HflC protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570702967|gb|ETO93875.1| protease FtsH, subunit HflC/SPFH domain, band 7 family protein [Legionella oakridgensis RV-2-2007] &gt;gi|962259890|gb|KTD44010.1| HflC protein [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385177</Hit_accession>
+  <Hit_len>304</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.95</Hsp_bit-score>
+      <Hsp_score>1112</Hsp_score>
+      <Hsp_evalue>4.69095e-149</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MNATKAVFVILIFIILVVVFTSVFTITQGQHGILLRLGRLVDDPKTNQVKILAPGLHFKVPFIESVRVFDTRIQTLDIKSSRIVTKEKKDVLVDYYVKWKISDLAHYFKATGGNQFKAETLLEQQLNTSLRAQFGRRTISDVVSGGRDDVMMVLREKAEQQANQLGIYVVDVRIKGIELPANTSNAIYQRMRADMRKIANRHRADGQAAAEAIQAAADAQVTIVLAKARSEGQSIRAQGQAKAAAIYAQAFNKDKNFFALYRSLKAYENSFNNKQDILVLDQSNAFFDYFKNGLVKGNSIDAK</Hsp_hseq>
+      <Hsp_midline>MNA K    +LIF++LV++FTS+FT+TQGQ GI+LRLGRLV DP+T+ VK+L PGLHFK PFIESVR+FDTRIQT+DIKS+RIVTKEKKDV+VDYYVKW+ISDLA YFK+TGGN+FKAETLLEQQLNT LRAQFG+RTISD VSGGRDDVM +LR  AE+QA +LGI VVDVRIKGIELP+NTSNAIYQRMRADM+KIANRHRADGQAAAE IQA ADA VT++LAK +S  Q IRA G+A+AAAIY++A+ ++ +FFALY+SL AYE SF++K+DIL+LDQS++FFDYFK  + K +   AK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|769989226|ref|WP_045105177.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Legionella hackeliae] &gt;gi|731151140|emb|CEK09686.1| Protein hflC [Legionella hackeliae] &gt;gi|962225547|gb|KTD10191.1| HflC protein [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105177</Hit_accession>
+  <Hit_len>303</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>430.254</Hsp_bit-score>
+      <Hsp_score>1105</Hsp_score>
+      <Hsp_evalue>6.10348e-148</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>398</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>259</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>303</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAMPKNDGTAAK</Hsp_qseq>
+      <Hsp_hseq>MSAAKTILGILAFAILLVILASVFTITQGQHGILLRLGRLVMDNHSQNVKILGPGLHIKTPFIENVRVFDTRIQTLDIKSSRIVTKEKKDVIVDYYVKWQIADLAQYYKSTGGNEFKAETLLEQQLNTSLRAEFGRRTISD-VSGGREDLTEKLRSKAEQQASQLGIKIVDVRIKGIELPENTSNNIFQLMRANMQKIANSHRADGNAIAEAIKAAADAQVTVLLAQAQSEGQKIKARGQAEAARIYAEAFNKNPEFFAFYRSLKAYKGSFNNKRDILILDQSSAFFDYFKSAGRKGDGTNLK</Hsp_hseq>
+      <Hsp_midline>M+A KT LG+L F +L+++  S+FT+TQGQ GI+LRLGRLV D  +  VK+L PGLH KTPFIE+VR+FDTRIQT+DIKS+RIVTKEKKDV+VDYYVKW+I+DLAQY+KSTGGNEFKAETLLEQQLNT LRA+FG+RTISD VSGGR+D+ E LR+ AE+QA +LGIK+VDVRIKGIELP NTSN I+Q MRA+MQKIAN HRADG A AE I+A ADA VTVLLA+ +S  Q+I+A G+AEAA IY++A+ +NP+FFA Y+SL AY+ SF++K+DILILDQSS+FFDYFK A  K DGT  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|769982628|ref|WP_045098610.1|</Hit_id>
+  <Hit_def>protease modulator HflC [Tatlockia micdadei] &gt;gi|698846168|emb|CEG60151.1| Protein hflC [Tatlockia micdadei] &gt;gi|962245672|gb|KTD29967.1| HflC protein [Tatlockia micdadei] &gt;gi|1081463869|emb|SCY64511.1| protease FtsH subunit HflC/SPFH domain, Band 7 family protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098610</Hit_accession>
+  <Hit_len>309</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>427.557</Hsp_bit-score>
+      <Hsp_score>1098</Hsp_score>
+      <Hsp_evalue>8.27279e-147</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>389</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>293</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>211</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>294</Hsp_align-len>
+      <Hsp_qseq>MNAFKTTLGVLIFLVLVLLFTSMFTVTQGQQGIILRLGRLVKDPQTDAVKVLNPGLHFKTPFIESVRIFDTRIQTMDIKSTRIVTKEKKDVMVDYYVKWRISDLAQYFKSTGGNEFKAETLLEQQLNTLLRAQFGKRTISDAVSGGRDDVMEILRNAAEKQAGELGIKVVDVRIKGIELPSNTSNAIYQRMRADMQKIANRHRADGQAAAEQIQAKADADVTVLLAKTKSNAQRIRAVGEAEAAAIYSKAYTQNPDFFALYKSLLAYEASFHSKKDILILDQSSSFFDYFKQAM</Hsp_qseq>
+      <Hsp_hseq>MKATRTILGILVFIILMVMLASMFTITQGQHGILLRLGRLVNDESGNPL-ILGPGLHLKTPFIENVRVFDTRILTMDIKSSRIVTKEKKDVIVDYYVKWRIEDLARYYKSTGGNELKAETLLEQQLNTSLRAEFGKRTISEVVSAGRDDVMDSLRPKAEKRAAGLGINIVDVRIKGIELPENTSNAIYQRMRADMQKIANRHRADGNAAAEAIKAAADAQVTVILAKAQSEGQMIRARGQAEAAAIYSEAFNKNKDFFSFYRSLKAYENSFNNKQDLLVLDQSSAFFNYFKGAL</Hsp_hseq>
+      <Hsp_midline>M A +T LG+L+F++L+++  SMFT+TQGQ GI+LRLGRLV D   + + +L PGLH KTPFIE+VR+FDTRI TMDIKS+RIVTKEKKDV+VDYYVKWRI DLA+Y+KSTGGNE KAETLLEQQLNT LRA+FGKRTIS+ VS GRDDVM+ LR  AEK+A  LGI +VDVRIKGIELP NTSNAIYQRMRADMQKIANRHRADG AAAE I+A ADA VTV+LAK +S  Q IRA G+AEAAAIYS+A+ +N DFF+ Y+SL AYE SF++K+D+L+LDQSS+FF+YFK A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

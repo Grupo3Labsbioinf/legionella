@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_208239</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>568</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_208239</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>568</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248713|ref|WP_010946253.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|52840750|ref|YP_094549.1| membrane associated zinc metalloprotease [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627861|gb|AAU26602.1| membrane associated zinc metalloprotease [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507263|gb|AEW50787.1| membrane associated zinc metalloprotease [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|509081171|gb|AGN13419.1| membrane associated zinc metalloprotease [Legionella pneumophila subsp. pneumophila str. Thunder Bay]</Hit_def>
+  <Hit_accession>WP_010946253</Hit_accession>
+  <Hit_len>475</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>962.985</Hsp_bit-score>
+      <Hsp_score>2488</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>475</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>475</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>475</Hsp_align-len>
+      <Hsp_qseq>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119426379|ref|WP_072401679.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401679</Hit_accession>
+  <Hit_len>475</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>959.133</Hsp_bit-score>
+      <Hsp_score>2478</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>475</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>472</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>475</Hsp_align-len>
+      <Hsp_qseq>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIIPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLNITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGI+PFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL++ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|53753327|emb|CAH14774.1|</Hit_id>
+  <Hit_def>hypothetical protein lpl0544 [Legionella pneumophila str. Lens]</Hit_def>
+  <Hit_accession>CAH14774</Hit_accession>
+  <Hit_len>475</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>955.666</Hsp_bit-score>
+      <Hsp_score>2469</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>475</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>471</Hsp_identity>
+      <Hsp_positive>474</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>475</Hsp_align-len>
+      <Hsp_qseq>MVLLWINLHTTGNLIFWSYQSLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MVLLWINLHTTGNLIFWSYQFLDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIIPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLNITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MVLLWINLHTTGNLIFWSYQ LDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGI+PFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL++ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|505257704|ref|WP_015444806.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|469492957|gb|AGH54802.1| Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|998771553|emb|CZI76582.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998774464|emb|CZH08696.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998777344|emb|CZH13020.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998783285|emb|CZH40503.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998786254|emb|CZH07114.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998795753|emb|CZI43735.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998800543|emb|CZL11354.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998804133|emb|CZK64312.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998807223|emb|CZI31877.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998810747|emb|CZI18277.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998813094|emb|CZH13299.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998816466|emb|CZM22308.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998819717|emb|CZM00166.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998825579|emb|CZK40072.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998832804|emb|CZI18037.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998834444|emb|CZL49772.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998838676|emb|CZJ29705.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998840533|emb|CZL85121.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998843113|emb|CZL09008.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998846344|emb|CZL09783.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998849191|emb|CZI98020.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998852457|emb|CZL89344.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998855928|emb|CZL52673.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998858593|emb|CZM28699.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998862291|emb|CZK40396.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998864741|emb|CZJ86995.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998867190|emb|CZJ82263.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998870224|emb|CZM42519.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998873643|emb|CZK72944.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998876237|emb|CZM48134.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998879356|emb|CZJ75739.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998885808|emb|CZM36567.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998888616|emb|CZK50557.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998895783|emb|CZK08129.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998905285|emb|CZK93661.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998908440|emb|CZL68936.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998916069|emb|CZK71496.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998917510|emb|CZL64849.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998920490|emb|CZL71310.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998926849|emb|CZL99377.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998930901|emb|CZK82375.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998933696|emb|CZL68479.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998938762|emb|CZL21400.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998946233|emb|CZK70681.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998948009|emb|CZL29952.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998956977|emb|CZM67836.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998960444|emb|CZK67859.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998963180|emb|CZK80471.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998966730|emb|CZM42462.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998969358|emb|CZL05546.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998972367|emb|CZK82253.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998978481|emb|CZM00911.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998986091|emb|CZK09417.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998987521|emb|CZL90126.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998998259|emb|CZJ96426.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999006443|emb|CZL23793.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999011908|emb|CZL85189.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999014949|emb|CZM78999.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999021204|emb|CZL93359.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999024065|emb|CZL21323.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999036214|emb|CZL85211.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999045256|emb|CZM31707.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999060268|emb|CZL79520.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999066466|emb|CZJ49711.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999075349|emb|CZH16027.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999078599|emb|CZK43801.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999083066|emb|CZK86079.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999087922|emb|CZL16225.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999090984|emb|CZL91658.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999093858|emb|CZH48868.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999096990|emb|CZH53211.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999101371|emb|CZL75128.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999110943|emb|CZL05300.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999114032|emb|CZL58782.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999115924|emb|CZK73086.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999124767|emb|CZL32909.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999132530|emb|CZL70433.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999133868|emb|CZL47056.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999136996|emb|CZK89638.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999140867|emb|CZL85313.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999144826|emb|CZK80537.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999146354|emb|CZM10600.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999155630|emb|CZI38412.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999174231|emb|CZL62034.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999189822|emb|CZI76155.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999192942|emb|CZJ17319.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999199229|emb|CZH00697.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999202151|emb|CZJ22178.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999208454|emb|CZL36027.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999217964|emb|CZM06149.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999220933|emb|CZJ09240.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999333373|emb|CZL31317.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002074301|emb|CZR05538.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002078833|emb|CZQ92230.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1003018367|emb|CZR30420.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|1003021439|emb|CZR26763.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|1003024521|emb|CZR30306.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|1073863674|gb|AOU03625.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073866632|gb|AOU06582.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073869637|gb|AOU09586.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073872581|gb|AOU12529.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073875563|gb|AOU15510.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073878524|gb|AOU18470.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073881519|gb|AOU21464.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073884481|gb|AOU24425.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073887479|gb|AOU27422.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073890464|gb|AOU30406.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073893429|gb|AOU33370.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073896393|gb|AOU36333.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073899357|gb|AOU39296.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073902308|gb|AOU42246.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073905219|gb|AOU45156.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073908237|gb|AOU48172.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073911292|gb|AOU51224.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073914211|gb|AOU54142.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073917169|gb|AOU57099.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073920135|gb|AOU60064.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073923110|gb|AOU63037.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073926122|gb|AOU66048.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073929102|gb|AOU69011.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073932487|gb|AOU72046.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073935434|gb|AOU82433.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073945709|gb|AOU85433.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1073948672|gb|AOU88395.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1104001824|emb|SFZ36341.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1129967287|gb|APT97646.1| RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444806</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>910.212</Hsp_bit-score>
+      <Hsp_score>2351</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>450</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|653014631|ref|WP_027266661.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266661</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>906.746</Hsp_bit-score>
+      <Hsp_score>2342</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>448</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMNITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTAQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLM+ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT QLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|652976798|ref|WP_027229417.1|</Hit_id>
+  <Hit_def>zinc metalloprotease [Legionella pneumophila] &gt;gi|998782998|emb|CZI84945.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998822462|emb|CZH34444.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998828304|emb|CZH37350.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998883018|emb|CZI85241.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998897689|emb|CZK07865.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998938016|emb|CZL86310.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998951055|emb|CZJ94918.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999000075|emb|CZG94017.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999058461|emb|CZM30315.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999103719|emb|CZI20161.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999128487|emb|CZH15415.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999152611|emb|CZM82118.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999161908|emb|CZM39865.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999236722|emb|CZG94149.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999386261|emb|CZG63742.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999405898|emb|CZG71071.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999525338|emb|CZJ06912.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002085565|emb|CZQ97515.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002088285|emb|CZQ79044.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1080002222|gb|AOW52794.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006025|gb|AOW56305.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008115|gb|AOW58103.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012223|gb|AOW61714.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014720|gb|AOW63593.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018466|gb|AOW67111.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pneumophila] &gt;gi|1104005389|emb|SFZ36308.1| Regulator of sigma E protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027229417</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>906.36</Hsp_bit-score>
+      <Hsp_score>2341</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>450</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIIPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLNITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGI+PFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL++ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1004017575|ref|WP_061485309.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485309</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>904.82</Hsp_bit-score>
+      <Hsp_score>2337</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYIRERPNSQINLDIKRQGKLLKMTVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSY+RERPNSQINLDIKRQGKL+ +TVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|500490113|ref|WP_011945662.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|148282653|gb|ABQ56741.1| membrane associated zinc metalloprotease [Legionella pneumophila str. Corby] &gt;gi|761989540|dbj|GAN22603.1| regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|761998970|dbj|GAN28955.1| regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|998912146|emb|CZH23173.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998994564|emb|CZI22047.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999003154|emb|CZI82041.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999149957|emb|CZI48481.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999159307|emb|CZJ68743.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999168605|emb|CZI45251.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999178314|emb|CZJ55513.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999302868|emb|CZI38430.1| Regulator of sigma E protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945662</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>904.82</Hsp_bit-score>
+      <Hsp_score>2337</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLLPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTIQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL+PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT+QLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|749504897|ref|WP_040145859.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|998801851|emb|CZI08934.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999165668|emb|CZG82691.1| Regulator of sigma E protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_040145859</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>904.434</Hsp_bit-score>
+      <Hsp_score>2336</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>445</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFVFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLLPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTIQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNF+FAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL+PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT+QLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652971349|ref|WP_027224208.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|761992728|dbj|GAN16516.1| regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|761995918|dbj|GAN19622.1| regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|998982388|emb|CZI64806.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999107552|emb|CZI63921.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999231781|emb|CZI44486.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1032656683|gb|ANH11954.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1032659650|gb|ANH14920.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1032662617|gb|ANH17886.1| RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224208</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>901.738</Hsp_bit-score>
+      <Hsp_score>2329</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVFVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQQFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSV VRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQ FNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|504653950|ref|WP_014841052.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|395126488|emb|CCD04671.1| zinc metallopeptidase [Legionella pneumophila subsp. pneumophila] &gt;gi|998923753|emb|CZK25427.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998943823|emb|CZJ50754.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998954360|emb|CZK61741.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998975531|emb|CZJ91099.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998992803|emb|CZJ46583.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999009035|emb|CZK45452.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999018197|emb|CZJ86569.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999027312|emb|CZK24017.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999030587|emb|CZH24731.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999033262|emb|CZK20246.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999039468|emb|CZJ95139.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999042466|emb|CZK05470.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999048501|emb|CZK01269.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999051596|emb|CZJ93120.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999054525|emb|CZK28535.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999063708|emb|CZK02986.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999070549|emb|CZJ64269.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999072768|emb|CZK30867.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999085016|emb|CZK31582.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999184351|emb|CZP96245.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999198484|emb|CZP14359.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999206217|emb|CZP63818.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999228320|emb|CZP09219.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999235225|emb|CZP59066.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999240265|emb|CZH90073.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999244390|emb|CZH77249.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999247902|emb|CZH57152.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999248797|emb|CZH08902.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999252013|emb|CZH37665.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999256002|emb|CZP80243.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999259092|emb|CZP46343.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999261321|emb|CZH42332.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999265237|emb|CZP07712.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999269449|emb|CZO33858.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999272251|emb|CZP58884.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999274819|emb|CZG80090.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999277633|emb|CZP37732.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999281336|emb|CZP15382.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999283696|emb|CZP62291.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999291013|emb|CZP32859.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999296460|emb|CZP57675.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999299547|emb|CZP46705.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999307331|emb|CZH71346.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999309395|emb|CZP27758.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999315797|emb|CZI09326.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999318703|emb|CZP65697.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999322045|emb|CZH99232.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999324416|emb|CZH32433.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999328648|emb|CZG65367.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999331797|emb|CZG57301.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999337782|emb|CZP47887.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999340105|emb|CZH26954.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999344427|emb|CZP83835.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999347234|emb|CZP63943.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999349682|emb|CZH40314.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999353448|emb|CZP68210.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999357206|emb|CZP67489.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999363786|emb|CZP55849.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999367142|emb|CZP77550.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999369915|emb|CZP77122.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999392331|emb|CZP98402.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999398579|emb|CZQ01230.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999403096|emb|CZP40382.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999450648|emb|CZP36412.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999454043|emb|CZI20760.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999460508|emb|CZG99933.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999464827|emb|CZM51710.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999467851|emb|CZO28930.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999469338|emb|CZH07686.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999474724|emb|CZM62495.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999477181|emb|CZN75485.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999480683|emb|CZN00978.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999484226|emb|CZN88692.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999487115|emb|CZM12102.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999490288|emb|CZN79780.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999493479|emb|CZM11552.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999500059|emb|CZN74105.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999503185|emb|CZO08641.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999506347|emb|CZN15511.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999509550|emb|CZG50643.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999512888|emb|CZN29635.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999516024|emb|CZM00979.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999518979|emb|CZM83756.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999521891|emb|CZP17104.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999532335|emb|CZO45594.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999535491|emb|CZN39763.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999538572|emb|CZM75200.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999542016|emb|CZO20332.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999544978|emb|CZO60554.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999548178|emb|CZN89721.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999551490|emb|CZO11649.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999554525|emb|CZN31876.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999557900|emb|CZO55347.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999561091|emb|CZM42406.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999564097|emb|CZO67424.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999567461|emb|CZM53133.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999570661|emb|CZN51071.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999573849|emb|CZN93342.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999580341|emb|CZO17215.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999583629|emb|CZO38512.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999586992|emb|CZM65388.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999589973|emb|CZM39988.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999593132|emb|CZN44840.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999596205|emb|CZO11568.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999599525|emb|CZO37112.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999602649|emb|CZL97449.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999605437|emb|CZN73407.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999608974|emb|CZN63722.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999615586|emb|CZM47934.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999618645|emb|CZN90175.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999621785|emb|CZO82504.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999625113|emb|CZN71857.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999628388|emb|CZM62511.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999631562|emb|CZM59583.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999634622|emb|CZN59863.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999637950|emb|CZN51980.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999641146|emb|CZO79964.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999644138|emb|CZO53568.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999647629|emb|CZN95123.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999650685|emb|CZO04886.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999653930|emb|CZO01271.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999657127|emb|CZM30033.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999660201|emb|CZM65393.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999663368|emb|CZN17114.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999666733|emb|CZM37656.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999669925|emb|CZL84146.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999673111|emb|CZM38092.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999676319|emb|CZN77529.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999679336|emb|CZM79618.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999682531|emb|CZM82556.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999686218|emb|CZO00495.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999689114|emb|CZN30394.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999692307|emb|CZN99024.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999695524|emb|CZN28934.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999698809|emb|CZM12552.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999701753|emb|CZM78898.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999704988|emb|CZL95072.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999708154|emb|CZN56724.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999711573|emb|CZN00727.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999714669|emb|CZN21254.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999718001|emb|CZO46258.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999720957|emb|CZM93945.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999724476|emb|CZN34612.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999727819|emb|CZL98949.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999730998|emb|CZO43713.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999734162|emb|CZM25418.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999737498|emb|CZO70913.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999740979|emb|CZM31936.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999744083|emb|CZN26520.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999747225|emb|CZM24665.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999750543|emb|CZL96615.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999753739|emb|CZM81448.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999756790|emb|CZN10830.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999760291|emb|CZM24745.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999763364|emb|CZN29919.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999766890|emb|CZM47929.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999769739|emb|CZN50408.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999773148|emb|CZH90381.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999776203|emb|CZL99739.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999777468|emb|CZH49250.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999782909|emb|CZH62856.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999786402|emb|CZM24177.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999789567|emb|CZO66761.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999792912|emb|CZO60459.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999796135|emb|CZI24348.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999799797|emb|CZO55482.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1003029206|emb|CZR19152.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|1003036389|emb|CZR17073.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|1005832275|gb|AMQ27001.1| peptidase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431641|gb|AMV13268.1| Regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|1041014545|gb|ANN91606.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1103995574|emb|SFZ36647.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1103998705|emb|SFZ36374.1| Regulator of sigma E protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841052</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>900.968</Hsp_bit-score>
+      <Hsp_score>2327</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>444</Hsp_identity>
+      <Hsp_positive>448</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVRPNSIAARAGLAPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLFLPLDKWQLDNKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESV+PNSIAARAGL PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTL+LPLDKWQLD+KKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|499526494|ref|WP_011213134.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|53750322|emb|CAH11716.1| hypothetical protein lpp0568 [Legionella pneumophila str. Paris] &gt;gi|536613620|gb|ERB41992.1| peptidase [Legionella pneumophila str. 121004] &gt;gi|541995585|gb|ERH41684.1| peptidase [Legionella pneumophila str. Leg01/11] &gt;gi|542121167|gb|ERI47500.1| peptidase [Legionella pneumophila str. Leg01/20] &gt;gi|762002526|dbj|GAN25644.1| regulator of sigma-E protease RseP [Legionella pneumophila] &gt;gi|999171875|emb|CZI30169.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999181664|emb|CZG52100.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999187832|emb|CZI95823.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999212748|emb|CZG78811.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999216894|emb|CZI65362.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999225306|emb|CZG82622.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999359994|emb|CZI62298.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999373434|emb|CZG56544.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999376468|emb|CZJ18124.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999379775|emb|CZH70041.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999382670|emb|CZI58447.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999389120|emb|CZI57291.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999396882|emb|CZG08643.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999408915|emb|CZH92058.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999412763|emb|CZG33440.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999415410|emb|CZG87540.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999418750|emb|CZG63983.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999421945|emb|CZH72621.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999425259|emb|CZG74515.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999428387|emb|CZG73386.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999431623|emb|CZG72641.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999434981|emb|CZH99652.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999438165|emb|CZG61802.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999441161|emb|CZK28378.1| membrane associated zinc metalloprotease [Legionella pneumophila] &gt;gi|999444646|emb|CZH77573.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999447849|emb|CZG53863.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999457590|emb|CZK22543.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999496275|emb|CZI47359.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999528051|emb|CZI73855.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999576048|emb|CZI42724.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999611304|emb|CZI63525.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1003032392|emb|CZR24930.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1041017642|gb|ANN94702.1| RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213134</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>899.427</Hsp_bit-score>
+      <Hsp_score>2323</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>444</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVRPNSIAARAGLAPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLLLPLDKWQLDNKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESV+PNSIAARAGL PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTL LPLDKWQLD+KKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|504656285|ref|WP_014843387.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|395129594|emb|CCD07827.1| zinc metallopeptidase [Legionella pneumophila subsp. pneumophila] &gt;gi|998791236|emb|CZG39810.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998793147|emb|CZI52015.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|998892641|emb|CZJ24837.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999287221|emb|CZI46206.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999293651|emb|CZI46841.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999312660|emb|CZI53618.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002081590|emb|CZR00227.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1002092770|emb|CZQ95467.1| Regulator of sigma E protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843387</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>897.886</Hsp_bit-score>
+      <Hsp_score>2319</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>443</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKSFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVRPNSIAARAGLAPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLFLPLDKWQLDNKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEK FAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESV+PNSIAARAGL PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTL+LPLDKWQLD+KKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1004334337|ref|WP_061513262.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513262</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>895.575</Hsp_bit-score>
+      <Hsp_score>2313</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>441</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLAPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGILPFIPTIPPIVGEVVPDSPAEKVGLKIGDEIISVDGRHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGVIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGAKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGI+PFIPTIPPIVGEVVPDSPAEK GLKIGDEIISV+G+HFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEG+IGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDG KSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652976176|ref|WP_027228849.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|985765954|gb|KXB27065.1| peptidase [Legionella pneumophila] &gt;gi|985767736|gb|KXB28822.1| peptidase [Legionella pneumophila] &gt;gi|999119270|emb|CZG76421.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|999122522|emb|CZH12527.1| Regulator of sigma E protease [Legionella pneumophila] &gt;gi|1024341667|gb|KZX35974.1| RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1108603982|gb|APF02350.1| RIP metalloprotease RseP [Legionella pneumophila subsp. fraseri] &gt;gi|1108606993|gb|APF05360.1| RIP metalloprotease RseP [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228849</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>889.026</Hsp_bit-score>
+      <Hsp_score>2296</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>436</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEEEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLSPKQEIIALNGVKINSWRDFQYEIMPLIGSRETVSLTVKSMINGEESTLSLPLDKWQLDDKKPDPVKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQIDLDIKRQGKLLKIRVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTIQLTGTTFVLMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVVEIIRRKPLSDGVKSVGIYFGLLLLVALMFIALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSE+EKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL PKQEI+ALNGVKINSWRDFQYEIMPLIGS+ETVSLTVKSMINGEESTL LPLDKWQLDDKKPDP+KSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQI+LDIKRQGKL+ I VHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT+QLTGTTF+LMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYV+EIIRRKPLSDGVKSVGIYFGLLLLVALMF+ALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|652970681|ref|WP_027223573.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila] &gt;gi|1005362780|gb|AMP88649.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pascullei] &gt;gi|1005365781|gb|AMP91558.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pascullei] &gt;gi|1005368768|gb|AMP94544.1| RIP metalloprotease RseP [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223573</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>884.789</Hsp_bit-score>
+      <Hsp_score>2285</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>435</Hsp_identity>
+      <Hsp_positive>445</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLSNFIFAFVALWLVLIIGMHSLAPMIESVKPNSIAARAGLGPKQEIIALNGVKINSWRDFQYEIMPLIGSRETVSLTVKSMINGEESTLLLPLDKWQLDDKKPDPVKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQYFNDWLYLVSYIRERPNSQINLDIKRQGKLLKIIVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQEPPISALGTAFKQTIQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVVEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPL NFIFAFVALWLVL+IGMHSLAPMIESVKPNSIAARAGL PKQEI+ALNGVKINSWRDFQYEIMPLIGS+ETVSLTVKSMINGEESTL LPLDKWQLDDKKPDP+KSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQ+FNDWLYLVSY+RERPNSQINLDIKRQGKL+ I VHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQ+PPISALGTAFKQT+QLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYV+EIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1011913797|ref|WP_062727011.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727011</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>839.721</Hsp_bit-score>
+      <Hsp_score>2168</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>434</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDRKGTEYAWSLFPLGGYVKMLDETEGEVSEEEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLSPKQEIIALNGVKINSWRDFQYEIMPLIGSRETVSLTVKSMINGEESTLSLPLDKWQLDDKKPDPVKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQIDLDIKRQGKLLKIRVYTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTIQLTGTTFVLMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVVEIIRRKPLSDGVKSVGIYFGLLLLVALMFIALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYD+KGTEYAWSLFPLGGYVKMLDETEGEVSE+EKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL PKQEI+ALNGVKINSWRDFQYEIMPLIGS+ETVSLTVKSMINGEESTL LPLDKWQLDDKKPDP+KSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQI+LDIKRQGKL+ I V+TGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT+QLTGTTF+LMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYV+EIIRRKPLSDGVKSVGIYFGLLLLVALMF+ALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|295647955|gb|ADG23802.1|</Hit_id>
+  <Hit_def>membrane associated zinc metalloprotease [Legionella pneumophila 2300/99 Alcoy]</Hit_def>
+  <Hit_accession>ADG23802</Hit_accession>
+  <Hit_len>417</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>835.099</Hsp_bit-score>
+      <Hsp_score>2156</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>152</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>417</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>412</Hsp_identity>
+      <Hsp_positive>416</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>417</Hsp_align-len>
+      <Hsp_qseq>VLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLLPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTIQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_hseq>
+      <Hsp_midline>+LRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL+PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQT+QLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|737924734|ref|WP_035889987.1|</Hit_id>
+  <Hit_def>zinc metalloprotease [Legionella norrlandica] &gt;gi|701445704|gb|KGP63076.1| peptidase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889987</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>784.252</Hsp_bit-score>
+      <Hsp_score>2024</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>388</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGNVSEEEKPFAFNNQSILVRIAIVVAGPLFNFIFAFIALWLVLVIGMHSLAPMIESVKPNSIAAQAGLGPKQEIIALNGNKINSWRDFQYAMMPLIGSQETVKLTVKSMVNGQEDELSLALANWKLDNKKPDPIKSLGIVPFVPTIPPVIGEILPDSPGAKAGLLEGDEIVGVNGERFDDWLFLVDYVKERPDSQLNLEVKRQGQLLKIAVHTGAQENNGKLEGYIGVRSQKVDWPARWLRLERQTPFVALGTAFKQTVQLTGTTFVLMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEMIRRKPLSEGVKSIGIYFGLLLLVTLMFIALTNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEG VSE+EKPFAFNNQS+LVRIAIVVAGPLFNFIFAF+ALWLVLVIGMHSLAPMIESVKPNSIAA+AGL PKQEI+ALNG KINSWRDFQY +MPLIGSQETV LTVKSM+NG+E  L L L  W+LD+KKPDPIKSLGIVPF+PTIPP++GE++PDSP  KAGL  GDEI+ VNG+ F+DWL+LV YV+ERP+SQ+NL++KRQG+L+ I VHTG+Q+NNGKLEG IGVRSQKVDWPA WLRLE+Q P  ALGTAFKQTVQLTGTTF+LMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE+IRRKPLS+GVKS+GIYFGLLLLV LMF+AL+NDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|962271470|gb|KTD55472.1|</Hit_id>
+  <Hit_def>membrane associated zinc metalloprotease [Legionella quateirensis]</Hit_def>
+  <Hit_accession>KTD55472</Hit_accession>
+  <Hit_len>454</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.125</Hsp_bit-score>
+      <Hsp_score>1938</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>115</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>356</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>453</Hsp_align-len>
+      <Hsp_qseq>LDNDMLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MDGNMLLTLVYFILALLLLVTVHEYGHFQVARWCGVKVLRFSFGFGKVLARWHDKKGTEYAWSLFPLGGYVKMLDETEGEVADQDKPFAFNNKPIWARSAIVLAGPMFNFIFAFVALWLVLVIGMHSLAPMIDSVKPGSLAAKAGLGPKQEIIALNDTKINSWRDFQYAMMPLIGSHETVKITVKSLVDGHQSQLSLPLTDWKLDDKVPDPLDSLGIEPFIPTIPPVIGEVVPDSPAAKAGLEVGDDILSVDGNAFDDWMYLVDYVRERPDTQLILQIKRKGIKQSITIITGSQKNKNKIEGVIGVRSQKVDWPAHWLRLEREGPISALGTAFNQTIQLTGTTFTLMGRLVTGRLGLNSISGPVGIAQGAGSSGRSGLASYLFFLALVSISLGALNLLPIPMLDGGHLLYYALEIIRRKPLSDGVKTIGVYLGLVLLVALMFVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>+D +ML TL+YF+LAL+LLVT+HEYGHFQVARWCGVKVLRFSFGFGK+LAR++DKKGTEYAWSLFPLGGYVKMLDETEGEV++++KPFAFNN+ +  R AIV+AGP+FNFIFAFVALWLVLVIGMHSLAPMI+SVKP S+AA+AGL PKQEI+ALN  KINSWRDFQY +MPLIGS ETV +TVKS+++G +S L LPL  W+LDDK PDP+ SLGI PFIPTIPP++GEVVPDSPA KAGL++GD+I+SV+G  F+DW+YLV YVRERP++Q+ L IKR+G    IT+ TGSQ N  K+EG+IGVRSQKVDWPAHWLRLE++ PISALGTAF QT+QLTGTTF LMGRLVTG+LGLNSISGPVGIAQGAG SGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY LEIIRRKPLSDGVK++G+Y GL+LLVALMFVAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966432023|ref|WP_058472456.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472456</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>748.043</Hsp_bit-score>
+      <Hsp_score>1930</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>355</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLLTLVYFILALLLLVTVHEYGHFQVARWCGVKVLRFSFGFGKVLARWHDKKGTEYAWSLFPLGGYVKMLDETEGEVADQDKPFAFNNKPIWARSAIVLAGPMFNFIFAFVALWLVLVIGMHSLAPMIDSVKPGSLAAKAGLGPKQEIIALNDTKINSWRDFQYAMMPLIGSHETVKITVKSLVDGHQSQLSLPLTDWKLDDKVPDPLDSLGIEPFIPTIPPVIGEVVPDSPAAKAGLEVGDDILSVDGNAFDDWMYLVDYVRERPDTQLILQIKRKGIKQSITIITGSQKNKNKIEGVIGVRSQKVDWPAHWLRLEREGPISALGTAFNQTIQLTGTTFTLMGRLVTGRLGLNSISGPVGIAQGAGSSGRSGLASYLFFLALVSISLGALNLLPIPMLDGGHLLYYALEIIRRKPLSDGVKTIGVYLGLVLLVALMFVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>ML TL+YF+LAL+LLVT+HEYGHFQVARWCGVKVLRFSFGFGK+LAR++DKKGTEYAWSLFPLGGYVKMLDETEGEV++++KPFAFNN+ +  R AIV+AGP+FNFIFAFVALWLVLVIGMHSLAPMI+SVKP S+AA+AGL PKQEI+ALN  KINSWRDFQY +MPLIGS ETV +TVKS+++G +S L LPL  W+LDDK PDP+ SLGI PFIPTIPP++GEVVPDSPA KAGL++GD+I+SV+G  F+DW+YLV YVRERP++Q+ L IKR+G    IT+ TGSQ N  K+EG+IGVRSQKVDWPAHWLRLE++ PISALGTAF QT+QLTGTTF LMGRLVTG+LGLNSISGPVGIAQGAG SGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY LEIIRRKPLSDGVK++G+Y GL+LLVALMFVAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654933346|ref|WP_028383700.1|</Hit_id>
+  <Hit_def>zinc metalloprotease [Legionella moravica] &gt;gi|962251431|gb|KTD35619.1| membrane associated zinc metalloprotease [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383700</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.88</Hsp_bit-score>
+      <Hsp_score>1914</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>134</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>401</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>434</Hsp_align-len>
+      <Hsp_qseq>VTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>VTVHEYGHFQVARWCGVKVLRFSFGFGKVLARWRDKKGTEYAWSLFPLGGYVKMLDETEGEVAEQDKPYAFNNKSVWARIAIVLAGPMFNFIFAFVALWLVLVIGMHSLAPMIDSVKPGSLAAKAGLGPKQEIIALNGTRINSWRDFQYAMMPLIGSRETVNITVKSLVDGHQSQLSLPLTDWKLDDKAPDPLDSLGIEPFIPTIPPVIGEVVPDSPAEKAGLKVGDELLSVDGQSFDDWMFLVDYVRERPDTQLTLQIKRKGIKQSISILTGSQKNKDKIEGIIGVRSQKVDWPAHWLRLEREGPISALGTAFNQTIHLTGTTFTLMGRLVTGRLGLNSISGPVGIAQGAGSSGRGGLVSYLFFLALVSISLGALNLLPIPILDGGHLLYYVLEIIRRKPLSDGVKTVGVYLGLVLLVALMFVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>VT+HEYGHFQVARWCGVKVLRFSFGFGK+LAR+ DKKGTEYAWSLFPLGGYVKMLDETEGEV+E++KP+AFNN+SV  RIAIV+AGP+FNFIFAFVALWLVLVIGMHSLAPMI+SVKP S+AA+AGL PKQEI+ALNG +INSWRDFQY +MPLIGS+ETV++TVKS+++G +S L LPL  W+LDDK PDP+ SLGI PFIPTIPP++GEVVPDSPAEKAGLK+GDE++SV+GQ F+DW++LV YVRERP++Q+ L IKR+G    I++ TGSQ N  K+EG+IGVRSQKVDWPAHWLRLE++ PISALGTAF QT+ LTGTTF LMGRLVTG+LGLNSISGPVGIAQGAG SGRGGLVSYLFFLALVSISLGALNLLPIP+LDGGHLLYYVLEIIRRKPLSDGVK+VG+Y GL+LLVALMFVAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|769980411|ref|WP_045096396.1|</Hit_id>
+  <Hit_def>zinc metalloprotease [Legionella fallonii] &gt;gi|698844025|emb|CEG57994.1| zinc metallopeptidase [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096396</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>728.783</Hsp_bit-score>
+      <Hsp_score>1880</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>18</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>352</Hsp_identity>
+      <Hsp_positive>396</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>432</Hsp_align-len>
+      <Hsp_qseq>IHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>IHEYGHFQVARWCGVKVLRFSFGFGKVLARWVDKRGTEYAWSLFPLGGYVKMLDESEGEVEENEKHLAFNNQSIFARIAIVLAGPLFNFIFAFVALWLVLVIGMYSLAPMIESVKPNSVAAKAGLTAKEEIIALNDTKINSWRDFQYAMMPLVGSQETVKVTVKSLVDGHQRVVFLPLAHWQLDDKKPDPLKSLGIAPFIPTIPPVIGEVVPDSPAEKAGLHIGDKILSVDGKSFDDWMFLVDYVRQRPDTQLDLQIKRNGTLQNITVHTGSQQNKNKTEGLIGVRSQKVDWPAHWLRLERQGPIAAIGTALKQTIHLTGTTFVLMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSIGLYIGLFLLVALMFVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>IHEYGHFQVARWCGVKVLRFSFGFGK+LAR+ DK+GTEYAWSLFPLGGYVKMLDE+EGEV E EK  AFNNQS+  RIAIV+AGPLFNFIFAFVALWLVLVIGM+SLAPMIESVKPNS+AA+AGL  K+EI+ALN  KINSWRDFQY +MPL+GSQETV +TVKS+++G +  ++LPL  WQLDDKKPDP+KSLGI PFIPTIPP++GEVVPDSPAEKAGL IGD+I+SV+G+ F+DW++LV YVR+RP++Q++L IKR G L +ITVHTGSQ N  K EGLIGVRSQKVDWPAHWLRLE+Q PI+A+GTA KQT+ LTGTTF+LMGRLVTGKLGLNSISGPVGIAQGAGDSGR GLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKS+G+Y GL LLVALMFVAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966440838|ref|WP_058481161.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella waltersii] &gt;gi|962291896|gb|KTD75594.1| membrane associated zinc metalloprotease [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481161</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>721.079</Hsp_bit-score>
+      <Hsp_score>1860</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>361</Hsp_identity>
+      <Hsp_positive>408</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTWVYFLLALIVLVTVHEYGHFQVARWCGVKVLRFSFGFGKVLARFCDKKGTEYVWSLVPLGGYVKMLDETEGDVSEEERPLAFNNQSLLVRVAVVIAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAAHAGLSSNQEIIALNGEKINSWRDFQYALMPFIGSQETISVTVKSMNDGTIKELSVPLGNWALDDKKPDPIGSLGIEPFIPKIPPIIGEIVPESPAEKAGLQIGDLILSVNGKRFDDWMFIVDYVRERPNAKLSLDIKRKNQLMTLSILTGSQENNGKVEGYLGVRSQKVDWPSHWLRLERQTPILALGTALKQTVDLTETTFILMGRLFTGKLSLNSISGPVGIAQGAGDSGRGGFVSYLLFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPLSEGVKSVGIYLGLLVLVALMFIALTNDISRLTS</Hsp_hseq>
+      <Hsp_midline>MLST +YFLLAL++LVT+HEYGHFQVARWCGVKVLRFSFGFGK+LARF DKKGTEY WSL PLGGYVKMLDETEG+VSE+E+P AFNNQS+LVR+A+V+AGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAA AGL   QEI+ALNG KINSWRDFQY +MP IGSQET+S+TVKSM +G    L +PL  W LDDKKPDPI SLGI PFIP IPPI+GE+VP+SPAEKAGL+IGD I+SVNG+ F+DW+++V YVRERPN++++LDIKR+ +LM +++ TGSQ+NNGK+EG +GVRSQKVDWP+HWLRLE+Q PI ALGTA KQTV LT TTFILMGRL TGKL LNSISGPVGIAQGAGDSGRGG VSYL FLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKPLS+GVKSVGIY GLL+LVALMF+AL+NDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|517404013|ref|WP_018576826.1|</Hit_id>
+  <Hit_def>zinc metalloprotease [Legionella shakespearei] &gt;gi|962283729|gb|KTD67501.1| membrane associated zinc metalloprotease [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576826</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>719.539</Hsp_bit-score>
+      <Hsp_score>1856</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>134</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>342</Hsp_identity>
+      <Hsp_positive>389</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>434</Hsp_align-len>
+      <Hsp_qseq>VTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>VTVHEYGHFQVARWCGVKVLRFSFGFGTVLARWHDKKGTEYAWSLFPLGGYIKMLDESEGDVPENEKHLAFNNQPVLSRIAIVLAGPLFNFLFAFVALWLVLVIGMYSLAPMIASVKPDSIAAKAGLGSKQEIISLNSTPVNSWRDFQYVMMPLIGSEETVDVTVKSLVDGKQSQHFLPLANWTLDDKKPDPINSLGIEPFIPTIPPVIGEVVSDSPAAKAGLHVGDYVLSVNGQSFDDWMFLVDYVRERPDTQLNLEIKRKGTEQKIVILTGKQMNQGKPEGFIGVRSQKVDWPAHWLRMERQGPFTALGTAFKQTLQLTGTTFTLMGRLVTGRLSINSISGPVGIAQGAGDSGRSGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYALEIIRRKPLSDGVKTVGVYFGLLLLVALMFVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>VT+HEYGHFQVARWCGVKVLRFSFGFG +LAR++DKKGTEYAWSLFPLGGY+KMLDE+EG+V E EK  AFNNQ VL RIAIV+AGPLFNF+FAFVALWLVLVIGM+SLAPMI SVKP+SIAA+AGL  KQEI++LN   +NSWRDFQY +MPLIGS+ETV +TVKS+++G++S  +LPL  W LDDKKPDPI SLGI PFIPTIPP++GEVV DSPA KAGL +GD ++SVNGQ F+DW++LV YVRERP++Q+NL+IKR+G    I + TG Q N GK EG IGVRSQKVDWPAHWLR+E+Q P +ALGTAFKQT+QLTGTTF LMGRLVTG+L +NSISGPVGIAQGAGDSGR GLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYY LEIIRRKPLSDGVK+VG+YFGLLLLVALMFVAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966468576|ref|WP_058499902.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella gratiana] &gt;gi|962221365|gb|KTD06025.1| membrane-associated Zn-dependent protease EcfE [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499902</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>713.375</Hsp_bit-score>
+      <Hsp_score>1840</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>337</Hsp_identity>
+      <Hsp_positive>395</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFFLALILLVTIHEYGHFQVARWCGVKVLRFSFGFGPVLARWQGKKGTEYAWSLFPLGGYVKMLDESEGVVAENERHLAFNNQPLWKRAAIVFAGPLFNFLFAFVALWLVLIIGMPSLAPMIESVKPNSIAAHAGLDAKEEIIAFNGNKINSWRDFQYAIMPLVGSEETIQLTVKSLVDGRQRQIFLPLARWQLDSKKPDPLQSLGIEPFIPSIPPIVGEVVPNSPAAKAGLQNGDKILSVDGKHFDDWLYLVNYVQKRPDKSLALTIKRNKTVQKVMVHTGSQENKGKIEGFLGVRSQKVKWPAHWLRIEREDPLTAIGTSLKQTTQLTSATFTLMGRLVMGRLGLNSISGPVGIAQGAGDSGRNGLAAYLFFLALVSISLGALNLLPIPMLDGGHLLYYLVEAIRRKPLSNGLKSAGAYFGLLLLVVLMFIAITNDLSRLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYF LAL+LLVTIHEYGHFQVARWCGVKVLRFSFGFG +LAR+  KKGTEYAWSLFPLGGYVKMLDE+EG V+E E+  AFNNQ +  R AIV AGPLFNF+FAFVALWLVL+IGM SLAPMIESVKPNSIAA AGL  K+EI+A NG KINSWRDFQY IMPL+GS+ET+ LTVKS+++G +  ++LPL +WQLD KKPDP++SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G+HF+DWLYLV+YV++RP+  + L IKR   +  + VHTGSQ+N GK+EG +GVRSQKV WPAHWLR+E++ P++A+GT+ KQT QLT  TF LMGRLV G+LGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHLLYY++E IRRKPLS+G+KS G YFGLLLLV LMF+A++ND+SRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966498825|ref|WP_058515591.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella santicrucis] &gt;gi|962269265|gb|KTD53279.1| membrane-associated Zn-dependent protease EcfE [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515591</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>702.205</Hsp_bit-score>
+      <Hsp_score>1811</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>335</Hsp_identity>
+      <Hsp_positive>387</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFFLALILLVTIHEYGHFQVARWCGVKVLRFSFGFGPILARWQGKKGTEYAWSLFPLGGYVKMLDESEGEVAENERHLAFNNQPLWKRTAIVFAGPLFNFLFAFVALWLVLVIGMPSLAPMIESVKPNSIAAHAGLEAKEEIIALNDSKINSWRDFQYAIMPLVGSEETIQLTVKSLVDGRQHQVFLPLANWHLDSKRPDPLQSLGIEPFIPSIPPVVGEVVPDSPAAKSGLQNGDIILSVDGKSFKDWLFLVDFVQKHPDKTVTLTIKRNKAIQKIMVHTGSQENKGKIEGFLGVRSQKVKWPAHWLRLERQDPFTAIGTSLKQTTQLTSATFTLMGRLVMGKLGLNSISGPVGIAQGAGDSGRNGLAAYLFFLALVSISLGALNLLPIPMLDGGHLLYYLVEAIQRKPLSNGLKSAGAYFGLLLLVVLMFIAITNDLSRLT</Hsp_hseq>
+      <Hsp_midline>MLSTLLYF LAL+LLVTIHEYGHFQVARWCGVKVLRFSFGFG ILAR+  KKGTEYAWSLFPLGGYVKMLDE+EGEV+E E+  AFNNQ +  R AIV AGPLFNF+FAFVALWLVLVIGM SLAPMIESVKPNSIAA AGL  K+EI+ALN  KINSWRDFQY IMPL+GS+ET+ LTVKS+++G +  ++LPL  W LD K+PDP++SLGI PFIP+IPP+VGEVVPDSPA K+GL+ GD I+SV+G+ F DWL+LV +V++ P+  + L IKR   +  I VHTGSQ+N GK+EG +GVRSQKV WPAHWLRLE+Q P +A+GT+ KQT QLT  TF LMGRLV GKLGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHLLYY++E I+RKPLS+G+KS G YFGLLLLV LMF+A++ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966422745|ref|WP_058465946.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella cincinnatiensis] &gt;gi|962197751|gb|KTC82790.1| membrane-associated Zn-dependent protease EcfE [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465946</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>700.279</Hsp_bit-score>
+      <Hsp_score>1806</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>332</Hsp_identity>
+      <Hsp_positive>388</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFFLALILLVTIHEYGHFQVARWCGVKVLRFSFGFGPILARWQGKKGTEYAWSLFPLGGYVKMLDESEGEVAENERHLAFNNQPLWKRAAIVFAGPLFNFLFAFVALWLVLVIGMPSLAPIVEAVKPNSIAAHGGLEAKEEIIALNGSKINSWRDFQYAIMPLVGSEETIQLTVKSLVDGRQHQVFLPLAHWQLDSKRPDPLQSLGIEPFIPSIPPVVGEVVPDSPAAKSGLQNGDIILSVDGKSFKDWLFLVDFVQKHPDKSLTLTIKRNKAIQKIMVHTGSQENKGKIEGFLGVRSQKVKWPAHWLRLERQDPFTAIGTSLKQTTQLTSATFTLMGRLVMGKLGLNSISGPVGIAQGAGDSGRNGLAAYLFFLALVSISLGALNLLPIPMLDGGHLLYYLVEAIQRKPVSNGLKSAGAYFGLLLLVVLMFIAITNDLSRLT</Hsp_hseq>
+      <Hsp_midline>MLSTLLYF LAL+LLVTIHEYGHFQVARWCGVKVLRFSFGFG ILAR+  KKGTEYAWSLFPLGGYVKMLDE+EGEV+E E+  AFNNQ +  R AIV AGPLFNF+FAFVALWLVLVIGM SLAP++E+VKPNSIAA  GL  K+EI+ALNG KINSWRDFQY IMPL+GS+ET+ LTVKS+++G +  ++LPL  WQLD K+PDP++SLGI PFIP+IPP+VGEVVPDSPA K+GL+ GD I+SV+G+ F DWL+LV +V++ P+  + L IKR   +  I VHTGSQ+N GK+EG +GVRSQKV WPAHWLRLE+Q P +A+GT+ KQT QLT  TF LMGRLV GKLGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHLLYY++E I+RKP+S+G+KS G YFGLLLLV LMF+A++ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966516715|ref|WP_058533209.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533209</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>698.738</Hsp_bit-score>
+      <Hsp_score>1802</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>134</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>332</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>434</Hsp_align-len>
+      <Hsp_qseq>VTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>VTIHEYGHFQVARWCGVKVLRFSFGFGTILARWKDKKGTEYAWSLFPFGGYVKMLDESEGEVPENERHLAFNNQSVWKRIAIVLAGPMFNFIFAFFALWLVLVIGMPSLAPMIDGVRPGSIAAESGLKAKEEIISLNNVKINSWRDFQYAMMPMVGSNETVHLVVKSLDNGQQSQISLPLANWVLDDKKPDPLKSLGIEPFIPSIPPIVGEVIPDSPADKAGLKTADKILSVDGKSFKDWLFLVEYVQARPDTQIILHINRKGTMQNLSVHTGSQDNKGKLEGFLGVRSQKVKWPEHWLRMEREHPLAALSTALKQTVQLTGTTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLASYLFFLALVSISLGALNLLPIPMLDGGHLLYYVVELIQRKPVSDSLKSAGAYVGLLLLAALMFIALTNDLSRLT</Hsp_hseq>
+      <Hsp_midline>VTIHEYGHFQVARWCGVKVLRFSFGFG ILAR+ DKKGTEYAWSLFP GGYVKMLDE+EGEV E E+  AFNNQSV  RIAIV+AGP+FNFIFAF ALWLVLVIGM SLAPMI+ V+P SIAA +GL  K+EI++LN VKINSWRDFQY +MP++GS ETV L VKS+ NG++S + LPL  W LDDKKPDP+KSLGI PFIP+IPPIVGEV+PDSPA+KAGLK  D+I+SV+G+ F DWL+LV YV+ RP++QI L I R+G + +++VHTGSQDN GKLEG +GVRSQKV WP HWLR+E++ P++AL TA KQTVQLTGTTF LMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGL SYLFFLALVSISLGALNLLPIPMLDGGHLLYYV+E+I+RKP+SD +KS G Y GLLLL ALMF+AL+ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|493927730|ref|WP_006872465.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella drancourtii] &gt;gi|363536182|gb|EHL29628.1| membrane associated zinc metalloprotease [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872465</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>698.353</Hsp_bit-score>
+      <Hsp_score>1801</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>346</Hsp_identity>
+      <Hsp_positive>397</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALLLLVTVHEYGHFQVARWCGVKVLRFSFGFGTVLASWRDKRGTEYAWSLFPLGGYVKMLDESEGEVPENERHLAFNNQAIWKRIAIVLAGPLFNFIFAFIALWLVLVIGMQSLAPMIDTVKPSSIAANAGLTAHEEIIAVNHMKINSWRDFQYALMPLVGSNATIKVTVKSLIDGHQSEVSLPLANWQLDDKKPDPLKSLGIEPFIPSIPAIVGEVVADSPAAKAGLQNKDKIVRVDGKPFADWLFLVNYVQARPDTQITLQIKRDGTLKNIIVHTGSLKNKGKSEGFLGVRSQKVDWPKHWLRMEREHPIAALGTALKQTVQLTKTTFVLMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIQRKPVSDGLKSAGAYVGLLLLFALMFIALTNDIARLTS</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLAL+LLVT+HEYGHFQVARWCGVKVLRFSFGFG +LA + DK+GTEYAWSLFPLGGYVKMLDE+EGEV E E+  AFNNQ++  RIAIV+AGPLFNFIFAF+ALWLVLVIGM SLAPMI++VKP+SIAA AGL   +EI+A+N +KINSWRDFQY +MPL+GS  T+ +TVKS+I+G +S + LPL  WQLDDKKPDP+KSLGI PFIP+IP IVGEVV DSPA KAGL+  D+I+ V+G+ F DWL+LV+YV+ RP++QI L IKR G L +I VHTGS  N GK EG +GVRSQKVDWP HWLR+E++ PI+ALGTA KQTVQLT TTF+LMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEII+RKP+SDG+KS G Y GLLLL ALMF+AL+NDI+RLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966460463|ref|WP_058492892.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella worsleiensis] &gt;gi|962296534|gb|KTD80171.1| membrane associated zinc metalloprotease [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492892</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>696.041</Hsp_bit-score>
+      <Hsp_score>1795</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>134</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>333</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>434</Hsp_align-len>
+      <Hsp_qseq>VTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>VTVHEYGHFQVARWCGVKVLRFSFGFGKVLAKWQDKKGTEYAWSLFPLGGYVKMLDETEGEVAEQDKPYAFNNKSVWVRIAIVLAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPGSLAAQAGLGPKQEIIALNDKAINSWRDFQYAMMPLIGSHDTVKITVKSEVDGRQSQIRLPLTDWKLDDKAPDALDSLGIEPFIPTIPPVVGEVVPDSPAAKAGLMVGDYIISVDGKPLKDWIFLVDYVKERPDTRLIVQVKRNNAEQRIDILTGSQKNKDKTEGFIGVRSQKVDWPEHWLRLEREGPISALGTAFNQTIELTGTTFILMGRLVTGRLALNSISGPVGIAQGAGNSGRSGLTSYLFFLALVSISLGALNLLPVPMLDGGHLLYYALEIVRRKPLSDQVKTAGAYLGLILLVALMCVALTNDISRLT</Hsp_hseq>
+      <Hsp_midline>VT+HEYGHFQVARWCGVKVLRFSFGFGK+LA++ DKKGTEYAWSLFPLGGYVKMLDETEGEV+E++KP+AFNN+SV VRIAIV+AGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKP S+AA+AGL PKQEI+ALN   INSWRDFQY +MPLIGS +TV +TVKS ++G +S + LPL  W+LDDK PD + SLGI PFIPTIPP+VGEVVPDSPA KAGL +GD IISV+G+   DW++LV YV+ERP++++ + +KR      I + TGSQ N  K EG IGVRSQKVDWP HWLRLE++ PISALGTAF QT++LTGTTFILMGRLVTG+L LNSISGPVGIAQGAG+SGR GL SYLFFLALVSISLGALNLLP+PMLDGGHLLYY LEI+RRKPLSD VK+ G Y GL+LLVALM VAL+NDISRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|489731255|ref|WP_003635371.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella longbeachae] &gt;gi|269987495|gb|EEZ93750.1| RIP metalloprotease RseP [Legionella longbeachae D-4968] &gt;gi|288859186|emb|CBJ13118.1| putative membrane-associated Zn-dependent protease EcfE [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635371</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>681.404</Hsp_bit-score>
+      <Hsp_score>1757</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFFLALILLVTIHEYGHFQVARWCGVKVLRFSFGFGPILARWQGKKGTEYAWSLIPLGGYVKMLDESEGEVPENERHLAFNNQPLWKRAAIVFAGPLFNFLFAFVALWLVLVIGMPSLAPMIESVKPNSIAAHAGLEAKEEIIALNGSKINSWRDFQYAIMPLVGSEETIQLTVKSLVDGRQHQVLLPLVNWQLDSKKPDPLQSLGIEPFIPSIPPVVGEVVPDSPAAKSGLQNGDIILSVNGKSFKDWLFLVDFVQKHPDKSITLTINRNKTIQEIMVHTGSLENKGKIEGFLGVRSQKVKWPAHWLRLERQDPITAIGTALKQTTQLTTATFTLMGRLVMGKLGLNSISGPVGIAQGAGDSGRNGLAAYLFFLALVSISLGALNLLPIPMLDGGHLLYYLVEAIKRKPLSNGLKSAGAYFGLVLLVVLMFIAITNDLSRLT</Hsp_hseq>
+      <Hsp_midline>MLSTLLYF LAL+LLVTIHEYGHFQVARWCGVKVLRFSFGFG ILAR+  KKGTEYAWSL PLGGYVKMLDE+EGEV E E+  AFNNQ +  R AIV AGPLFNF+FAFVALWLVLVIGM SLAPMIESVKPNSIAA AGL  K+EI+ALNG KINSWRDFQY IMPL+GS+ET+ LTVKS+++G +  + LPL  WQLD KKPDP++SLGI PFIP+IPP+VGEVVPDSPA K+GL+ GD I+SVNG+ F DWL+LV +V++ P+  I L I R   + +I VHTGS +N GK+EG +GVRSQKV WPAHWLRLE+Q PI+A+GTA KQT QLT  TF LMGRLV GKLGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHLLYY++E I+RKPLS+G+KS G YFGL+LLV LMF+A++ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|653017715|ref|WP_027269679.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella sainthelensi] &gt;gi|962270949|gb|KTD54952.1| membrane-associated Zn-dependent protease EcfE [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269679</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>679.478</Hsp_bit-score>
+      <Hsp_score>1752</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>334</Hsp_identity>
+      <Hsp_positive>389</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFFLALILLVTIHEYGHFQVARWCGVKVLRFSFGFGPILARWQGKKGTEYAWSLIPLGGYVKMLDESEGEVAENERHLAFNNQTLWKRAAIVFAGPLFNFLFAFVALWLVLVIGMPSLAPMIESVKPNSIAAHAGLEAKEEIIALNGSKINSWRDFQYAIMPLVGSGETIELTVKSLVDGRQHQVFLPLANWQLDSKRPDPLQSLGIEPFIPSIPPVVGEVVPDSPAAKSGLQNGDIILSVDGKSFKDWLFLVDFVQKHPDKSLILTIKRDKAIQEIMVHTGSQENKGKIEGFLGVRSQKVKWPAHWLRLERQDPFTAIGTSLKQTTQLTTATFTLMGRLVMGKLGLNSISGPVGIAQGAGDSGRNGLAAYLFFLALVSISLGALNLLPIPMLDGGHLLFYLVEAIKRKPLSNGLKSAGAYFGLVLLVVLMFIAITNDLSRLT</Hsp_hseq>
+      <Hsp_midline>MLSTLLYF LAL+LLVTIHEYGHFQVARWCGVKVLRFSFGFG ILAR+  KKGTEYAWSL PLGGYVKMLDE+EGEV+E E+  AFNNQ++  R AIV AGPLFNF+FAFVALWLVLVIGM SLAPMIESVKPNSIAA AGL  K+EI+ALNG KINSWRDFQY IMPL+GS ET+ LTVKS+++G +  ++LPL  WQLD K+PDP++SLGI PFIP+IPP+VGEVVPDSPA K+GL+ GD I+SV+G+ F DWL+LV +V++ P+  + L IKR   + +I VHTGSQ+N GK+EG +GVRSQKV WPAHWLRLE+Q P +A+GT+ KQT QLT  TF LMGRLV GKLGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHLL+Y++E I+RKPLS+G+KS G YFGL+LLV LMF+A++ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|671587465|ref|WP_031563690.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563690</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>677.167</Hsp_bit-score>
+      <Hsp_score>1746</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>338</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGPVLARWRDKKGTEYAWSLLPLGGYVKMLDESEGDVPENERHLAFNNQSLWKRAAIVLAGPFFNFIFAFVALWCVLVIGMQSLAPMIEAVKPNSIAAYAGIKSNEEIVALNDTKINSWRDFQYAIMPLVGSGETIQLTLKSLKNGHQRQVSLPLNNWNLDSKKPDPLLSLGIEPFIPSIPPIVGEVIPNSPAAKAGLQNGDKILSVDGKSFNDWLFLVDYVQVHPDKKMILSINRVGSIQKLAVQAGSQENKGKIEGFLGVRSQKVNWPAHWLRLERQDPITALGTALKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLFYYVLEAILRKPVSDSLKSAGAYLGLMILAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFG +LAR+ DKKGTEYAWSL PLGGYVKMLDE+EG+V E E+  AFNNQS+  R AIV+AGP FNFIFAFVALW VLVIGM SLAPMIE+VKPNSIAA AG+   +EI+ALN  KINSWRDFQY IMPL+GS ET+ LT+KS+ NG +  + LPL+ W LD KKPDP+ SLGI PFIP+IPPIVGEV+P+SPA KAGL+ GD+I+SV+G+ FNDWL+LV YV+  P+ ++ L I R G +  + V  GSQ+N GK+EG +GVRSQKV+WPAHWLRLE+Q PI+ALGTA KQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHL YYVLE I RKP+SD +KS G Y GL++L ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|654930652|ref|WP_028381021.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella cherrii] &gt;gi|962197417|gb|KTC82461.1| membrane-associated Zn-dependent protease EcfE [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381021</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>677.167</Hsp_bit-score>
+      <Hsp_score>1746</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>346</Hsp_identity>
+      <Hsp_positive>395</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILARWRDKKGTEYAWSLFPLGGYVKMLDESEGDVDEKERHLAFNNQSLWKRAAIVLAGPFFNFIFAFVALWFVLIIGMQSLAPMIESVKPNSIAAHAGLNAKEEIIALNNTKINSWRDFQYALMPLVGSQETIQLTIKSLVNGKERQVLLPLANWQLDSKKPDPLESLGIQPFIPSIPPIVGEVVPNSPAAKAGLENGDKILSVDGKPFDDWLFLVDYVQTRPNQQLTLSINRNGSIQNVVVQTGSQKNKDKIEGFLGVRSQKVKWPAHWLRMEREDPLTAVGTALRQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLSTYLFFLALVSISLGALNLLPIPMLDGGHLMYYLLEAIRRKPLSDGLKSAGAYLGLLLLAALMFIALSNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILAR+ DKKGTEYAWSLFPLGGYVKMLDE+EG+V EKE+  AFNNQS+  R AIV+AGP FNFIFAFVALW VL+IGM SLAPMIESVKPNSIAA AGL  K+EI+ALN  KINSWRDFQY +MPL+GSQET+ LT+KS++NG+E  + LPL  WQLD KKPDP++SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G+ F+DWL+LV YV+ RPN Q+ L I R G + ++ V TGSQ N  K+EG +GVRSQKV WPAHWLR+E++ P++A+GTA +QTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL +YLFFLALVSISLGALNLLPIPMLDGGHL+YY+LE IRRKPLSDG+KS G Y GLLLL ALMF+ALSND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966493986|ref|WP_058510774.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella steelei] &gt;gi|962284940|gb|KTD68706.1| membrane-associated Zn-dependent protease EcfE [Legionella steelei] &gt;gi|1113342850|gb|OJW06711.1| RIP metalloprotease RseP [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510774</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>675.626</Hsp_bit-score>
+      <Hsp_score>1742</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>347</Hsp_identity>
+      <Hsp_positive>394</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWRDKKGTEYAWSLFPLGGYVKMLDESEGDVDEKERHLAFNNQSLWKRTAIVLAGPFFNFIFAFVALWLVLVIGIQSLAPMIESVKPNSIAAQAGLNAQEEIIALDHTKINSWRDFQYALMPLVGSNETIQLTIKSLVNGQERQIFLPLTHWQIDSKKPDPLGSLGIQPFIPSIPPIVGEIVPDSPAAKAGLENGDKILSVDGTPFNDWLFLVDYVKARPDKQLTLSIKRAGSIQNVVVQTGSQDNKGKIEGFIGVRSQKVKWPAHWLRLERQDPLTAVPTALKQTVQLTATTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPLSDSLKSAGAYLGLLLLAALMFIALTNDLSRLT</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA + DKKGTEYAWSLFPLGGYVKMLDE+EG+V EKE+  AFNNQS+  R AIV+AGP FNFIFAFVALWLVLVIG+ SLAPMIESVKPNSIAA+AGL  ++EI+AL+  KINSWRDFQY +MPL+GS ET+ LT+KS++NG+E  ++LPL  WQ+D KKPDP+ SLGI PFIP+IPPIVGE+VPDSPA KAGL+ GD+I+SV+G  FNDWL+LV YV+ RP+ Q+ L IKR G + ++ V TGSQDN GK+EG IGVRSQKV WPAHWLRLE+Q P++A+ TA KQTVQLT TTF LMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKPLSD +KS G Y GLLLL ALMF+AL+ND+SRLT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966423416|ref|WP_058466562.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Fluoribacter gormanii] &gt;gi|962220886|gb|KTD05548.1| membrane-associated Zn-dependent protease EcfE [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466562</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>669.078</Hsp_bit-score>
+      <Hsp_score>1725</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>395</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEFGHFQVARWCGVKVLRFSFGFGPILARWCDKKGTEYAWSLFPLGGYVKMLDESEGDVAESERHLAFNNQALWKRTAIVLAGPFFNFLFAFVALWLVLVIGMQSLAPMIESVKPNSIAAQAGLKAKEEIIAMNDTKINSWRDFQYAIMPLVGSQETIQLTLKSLVDGHQHQVSLPLTEWKLDSKKPDPLESLGIEPFIPSIPPIVGEVVPDSPAAKAGLENGDKILSVDGKDFNDWLFLVDYVQARPDKQLILSVNRKGSIQKVIVQTGSQKNKDKIEGFLGVRSQKVQWPSHWLRLERQAPLTAVGTALKQTVQLTGTTFTLMGRLVTGRLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPLSDSLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HE+GHFQVARWCGVKVLRFSFGFG ILAR+ DKKGTEYAWSLFPLGGYVKMLDE+EG+V+E E+  AFNNQ++  R AIV+AGP FNF+FAFVALWLVLVIGM SLAPMIESVKPNSIAA+AGL  K+EI+A+N  KINSWRDFQY IMPL+GSQET+ LT+KS+++G +  + LPL +W+LD KKPDP++SLGI PFIP+IPPIVGEVVPDSPA KAGL+ GD+I+SV+G+ FNDWL+LV YV+ RP+ Q+ L + R+G +  + V TGSQ N  K+EG +GVRSQKV WP+HWLRLE+Q P++A+GTA KQTVQLTGTTF LMGRLVTG+LGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKPLSD +KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|498340464|ref|WP_010654620.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Fluoribacter dumoffii] &gt;gi|962206002|gb|KTC90939.1| membrane-associated Zn-dependent protease EcfE [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654620</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>667.152</Hsp_bit-score>
+      <Hsp_score>1720</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>137</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>327</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>HEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>HEYGHFQVARWCGVKVLRFSFGFGPILARWRDKKGTEYAWSLFPLGGYVKMLDESEGDVDEKERHLAFNNQSLWKRAAIVLAGPFFNFIFAFVALWLVLVIGMQSLAPMIESVKPNSIAAKAGLGANEEIIALNDTNINSWRDFQYAIMPLVGSEETIRLTVKSLTNGHKHQVFLPLTDWQLDNKKPDPLDSLGIQPFIPSIPPIVGEVVPDSPAAKAGLESGDKILKVDGKPFNDWLFLVDYVQTRPDKQLTLSLKRNGKIQNVLVQTGSQEIKGKVEGFLGVRSEKVKWPANWLRLEREDPLTAVGTSLKQTVQLTGTTFTLMGRLVTGRLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPLSDGLKSAGAYLGLLLLAALMFIALTNDLTRLA</Hsp_hseq>
+      <Hsp_midline>HEYGHFQVARWCGVKVLRFSFGFG ILAR+ DKKGTEYAWSLFPLGGYVKMLDE+EG+V EKE+  AFNNQS+  R AIV+AGP FNFIFAFVALWLVLVIGM SLAPMIESVKPNSIAA+AGL   +EI+ALN   INSWRDFQY IMPL+GS+ET+ LTVKS+ NG +  ++LPL  WQLD+KKPDP+ SLGI PFIP+IPPIVGEVVPDSPA KAGL+ GD+I+ V+G+ FNDWL+LV YV+ RP+ Q+ L +KR GK+ ++ V TGSQ+  GK+EG +GVRS+KV WPA+WLRLE++ P++A+GT+ KQTVQLTGTTF LMGRLVTG+LGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKPLSDG+KS G Y GLLLL ALMF+AL+ND++RL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|518063371|ref|WP_019233579.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella anisa] &gt;gi|962187530|gb|KTC72656.1| membrane-associated Zn-dependent protease EcfE [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233579</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>665.226</Hsp_bit-score>
+      <Hsp_score>1715</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>390</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWRDKKGTEYAWSLFPLGGYVKMLDESEGNVAENERHLAFNNQSLWKRTAIVLAGPFFNFLFAFVALWWVLVIGMQSLAPMIESVRPNSIAAHAGVNGKEEIVALNDTKINSWRDFQYAIMPLVGSQETIQLTLKSMVDGHRRQVSLPLADWQLDSKKPDPLQSLGIEPFIPSIPPIVGEVVPNSPAAKAGLENGDKILSVDGTPFNDWLFLVNYVQERPAKQVTLSINRKGKIQKVVVLTGSQENKGKIEGFLGVRSQKVNWPEHWLRLERQDPLTAVGTALNQTVQLTATTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSGRNGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAVRRKPLSDNLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA + DKKGTEYAWSLFPLGGYVKMLDE+EG V+E E+  AFNNQS+  R AIV+AGP FNF+FAFVALW VLVIGM SLAPMIESV+PNSIAA AG+  K+EI+ALN  KINSWRDFQY IMPL+GSQET+ LT+KSM++G    + LPL  WQLD KKPDP++SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G  FNDWL+LV+YV+ERP  Q+ L I R+GK+  + V TGSQ+N GK+EG +GVRSQKV+WP HWLRLE+Q P++A+GTA  QTVQLT TTF LMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE +RRKPLSD +KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966415324|ref|WP_058458609.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Fluoribacter bozemanae] &gt;gi|962189831|gb|KTC74933.1| membrane-associated Zn-dependent protease EcfE [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458609</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>664.455</Hsp_bit-score>
+      <Hsp_score>1713</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>392</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWRDKKGTEYAWSLFPLGGYVKMLDESEGDVAENERHLAFNNQSLWKRTAIVLAGPFFNFLFAFVALWWVLVIGMQSLAPMIESVKPNSIAAHAGINAKEEIVALNDTKINSWRDFQYAIMPLVGSQETIQLTLKSMVDGHRHQVSLPLANWQLDSKKPDPLQSLGIEPFIPSIPPIVGEVVPNSPAAKAGLENGDKILSVDGKPFDDWLFLVSYVQERPAKQLILSINRKGSIQKVIIQTGSQENKGKVEGFLGVRSQKVNWPEHWLRLERQDPLTAVGTALKQTVQLTATTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEGIQRKPLSDNLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA + DKKGTEYAWSLFPLGGYVKMLDE+EG+V+E E+  AFNNQS+  R AIV+AGP FNF+FAFVALW VLVIGM SLAPMIESVKPNSIAA AG+  K+EI+ALN  KINSWRDFQY IMPL+GSQET+ LT+KSM++G    + LPL  WQLD KKPDP++SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G+ F+DWL+LVSYV+ERP  Q+ L I R+G +  + + TGSQ+N GK+EG +GVRSQKV+WP HWLRLE+Q P++A+GTA KQTVQLT TTF LMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE I+RKPLSD +KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966504693|ref|WP_058521352.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella tucsonensis] &gt;gi|962290682|gb|KTD74390.1| membrane-associated Zn-dependent protease EcfE [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521352</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>661.759</Hsp_bit-score>
+      <Hsp_score>1706</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>341</Hsp_identity>
+      <Hsp_positive>390</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWHDKKGTEYAWSLFPLGGYVKMLDESEGNVAENERHLAFNNQSLWKRTAIVLAGPFFNFLFAFIALWWVLVIGMQSLAPMIEAVKPNSIAAHAGIKTKEEIVALNDTKINSWRDFQYAIMPLIGSQETIQLTLKSMVDGHLRHVSLPLADWKLDSKKPDPLQSLGIEPFIPSIPPIVGEVVPNSPAAKAGLENGDKILSVDGKPFNDWLFLVSYVQERPAKQLTLSINRKGSIQKVVVQTGSQENKGKVEGFLGVRSQKVDWPAHWLRLERQGPLPAVGTALKQTVQLTATTFTLIGRLVTGKLELNSISGPVGIAQGAGDSARSGLTTYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPVSDNLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA ++DKKGTEYAWSLFPLGGYVKMLDE+EG V+E E+  AFNNQS+  R AIV+AGP FNF+FAF+ALW VLVIGM SLAPMIE+VKPNSIAA AG+  K+EI+ALN  KINSWRDFQY IMPLIGSQET+ LT+KSM++G    + LPL  W+LD KKPDP++SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G+ FNDWL+LVSYV+ERP  Q+ L I R+G +  + V TGSQ+N GK+EG +GVRSQKVDWPAHWLRLE+Q P+ A+GTA KQTVQLT TTF L+GRLVTGKL LNSISGPVGIAQGAGDS R GL +YLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKP+SD +KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966500619|ref|WP_058517292.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella parisiensis] &gt;gi|962255955|gb|KTD40092.1| membrane-associated Zn-dependent protease EcfE [Legionella parisiensis] &gt;gi|1069289946|gb|OEH45366.1| Regulator of sigma-E protease RseP [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517292</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>660.988</Hsp_bit-score>
+      <Hsp_score>1704</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>342</Hsp_identity>
+      <Hsp_positive>389</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWRDKKGTEYAWSLFPLGGYVKMLDESEGDVAENERHLAFNNQSLWKRTAIVLAGPFFNFLFAFVALWWVLVIGMQSLAPMIESVKPNSIAAFAGINGKEEIVALNDTKINSWRDFQYAIMPLVGSQETIQLTLKSMVDGHRHQVSLPLANWQLDSKKPDPLGSLGIEPFIPSIPPIVGEVVPNSPAAKAGLENGDSILSVDGKPFDDWLFLVSYVQERPAKQLILSINRKGTIQKVVIQTGSQENKGKVEGFLGVRSQKVNWPEHWLRLERQDPLTAVGTALKQTVQLTATTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSARSGLASYLFFLALVSISLGALNLLPIPMLDGGHLLYYLLEAIRRKPVSDNLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA + DKKGTEYAWSLFPLGGYVKMLDE+EG+V+E E+  AFNNQS+  R AIV+AGP FNF+FAFVALW VLVIGM SLAPMIESVKPNSIAA AG+  K+EI+ALN  KINSWRDFQY IMPL+GSQET+ LT+KSM++G    + LPL  WQLD KKPDP+ SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD I+SV+G+ F+DWL+LVSYV+ERP  Q+ L I R+G +  + + TGSQ+N GK+EG +GVRSQKV+WP HWLRLE+Q P++A+GTA KQTVQLT TTF LMGRLVTGKLGLNSISGPVGIAQGAGDS R GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY+LE IRRKP+SD +KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966436889|ref|WP_058477257.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella steigerwaltii] &gt;gi|962293666|gb|KTD77341.1| membrane-associated Zn-dependent protease EcfE [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477257</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>657.136</Hsp_bit-score>
+      <Hsp_score>1694</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>394</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTVHEYGHFQVARWCGVKVLRFSFGFGPILAHWRDKKGTEYAWSLFPLGGYVKMLDESEGEVDEKERHLAFNNQSLWKRAAIVLAGPFFNFIFAFAALWLVLVIGMQSLAPMIESVKPNSIAAQAGLNGKEEIVALNNTKINSWRDFQYALMPLVGSHETIRLTVKSLANGHERQVFLPLTNWQLDNKKPDPLDSLGIQPFIPSIPPIVGEVVPNSPAAKAGLEEGDKILSVDGKPFDDWLFLVDYVQTRPDKQLTLSIKRKGSIQNVVVQTGSQENKGKIEGFLGVRSQKVKWPAHWLRLERQDPLSAVDTALKQTVQLTGTTFTLMGRLVTGKLGLNSISGPVGIAQGAGDSGRSGLTSYLFFLALVSISLGALNLLPIPMLDGGHLLYYFLEAIRRKPISDGLKSAGAYLGLLLLAALMFIALTNDLSRLA</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVT+HEYGHFQVARWCGVKVLRFSFGFG ILA + DKKGTEYAWSLFPLGGYVKMLDE+EGEV EKE+  AFNNQS+  R AIV+AGP FNFIFAF ALWLVLVIGM SLAPMIESVKPNSIAA+AGL  K+EI+ALN  KINSWRDFQY +MPL+GS ET+ LTVKS+ NG E  ++LPL  WQLD+KKPDP+ SLGI PFIP+IPPIVGEVVP+SPA KAGL+ GD+I+SV+G+ F+DWL+LV YV+ RP+ Q+ L IKR+G + ++ V TGSQ+N GK+EG +GVRSQKV WPAHWLRLE+Q P+SA+ TA KQTVQLTGTTF LMGRLVTGKLGLNSISGPVGIAQGAGDSGR GL SYLFFLALVSISLGALNLLPIPMLDGGHLLYY LE IRRKP+SDG+KS G Y GLLLL ALMF+AL+ND+SRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966398358|ref|WP_058442332.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella brunensis] &gt;gi|962192985|gb|KTC78052.1| membrane associated zinc metalloprotease [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442332</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>647.121</Hsp_bit-score>
+      <Hsp_score>1668</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>566</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>448</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>448</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRL</Hsp_qseq>
+      <Hsp_hseq>MVSTLFYFFLALLVLITVHEYGHFIVARWCGVKVLRFSFGFGKVLARWHDKKGTEYAWSLFPLGGYVKMLDETEGEVSEDERHLAFNNKSVWARIAIVVAGPLFNFLLAFFALWLVLVIGIQSLAPMIEKVKPNSIAAIAGLEAKQEILALNNNEVGSWRDFQFALMPLLGSDETVDITVKSLRDGKLKSLALPLSQWEMDAKNPDPLGSLGIVPFIPNIPPIVGEVVADSPAQRAGLQIGDVIKRMNGKPLNDWLDLVDYVRQHPNDSLILAILRQGKNHTLQVQIGTKTEGGNKEGFLGVRSQKVNWPPEWLRFQRQGPIEALGTAFSQTIELTGATFSLIGRFATGKLGLKTISGPVGIAQGAGESARSGLAYYLSFLALVSISLGVLNLLPIPMLDGGHLLYCIVEIIRGRPLSDEIKSFGIYLGLVFLVALMILALSNDLSRL</Hsp_hseq>
+      <Hsp_midline>M+STL YF LAL++L+T+HEYGHF VARWCGVKVLRFSFGFGK+LAR++DKKGTEYAWSLFPLGGYVKMLDETEGEVSE E+  AFNN+SV  RIAIVVAGPLFNF+ AF ALWLVLVIG+ SLAPMIE VKPNSIAA AGL  KQEILALN  ++ SWRDFQ+ +MPL+GS ETV +TVKS+ +G+  +L LPL +W++D K PDP+ SLGIVPFIP IPPIVGEVV DSPA++AGL+IGD I  +NG+  NDWL LV YVR+ PN  + L I RQGK   + V  G++   G  EG +GVRSQKV+WP  WLR ++Q PI ALGTAF QT++LTG TF L+GR  TGKLGL +ISGPVGIAQGAG+S R GL  YL FLALVSISLG LNLLPIPMLDGGHLLY ++EIIR +PLSD +KS GIY GL+ LVALM +ALSND+SRL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|657233501|ref|WP_029345859.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_029345859</Hit_accession>
+  <Hit_len>316</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.425</Hsp_bit-score>
+      <Hsp_score>1661</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>434</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>316</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRL</Hsp_qseq>
+      <Hsp_hseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLLPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLLKITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRL</Hsp_hseq>
+      <Hsp_midline>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGL+PKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKL+ ITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966403175|ref|WP_058446770.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella feeleii] &gt;gi|962211516|gb|KTC96408.1| membrane associated zinc metalloprotease [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446770</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>642.499</Hsp_bit-score>
+      <Hsp_score>1656</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>566</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>448</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>448</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRL</Hsp_qseq>
+      <Hsp_hseq>MVMTLIYFFLALLLLITVHEYGHFLVARLCGVKVLRFSFGFGKVLARWHDKQGTEYAWSLFPLGGYVKMLDETEGEVPEKERHLAFNNKSVWARIAIIVAGPLFNFIFAFIALWLVLVIGIQSLAPMIETVKPGSIAAEAGLGPKQEILALDNKKITSWRDFQFALMPLLGSDEKISISVKSLANGEKKTFTLPLANWNLDAKKPDPLGSLGITPFIPTIPPIVGEVLDDSPAKAAGLQPGDIIKTVDGKPLEDWLNLVEHVKQHPGAPLHLLIARQGQIENVKLQIGTKVNDGQNEGFLGVRSQKVDWPPQWLRVQRQGPVEAVGTAFTQTIDLTGATFSLIGRFITGKLALQSISGPVGIAQGAGESARTGFTYYLSFLALVSISLGVLNLLPIPMLDGGHLLYCLMEIVRRRPLSEEVRSAGIYVGLLFMMALMILALSNDISRL</Hsp_hseq>
+      <Hsp_midline>M+ TL+YF LAL+LL+T+HEYGHF VAR CGVKVLRFSFGFGK+LAR++DK+GTEYAWSLFPLGGYVKMLDETEGEV EKE+  AFNN+SV  RIAI+VAGPLFNFIFAF+ALWLVLVIG+ SLAPMIE+VKP SIAA AGL PKQEILAL+  KI SWRDFQ+ +MPL+GS E +S++VKS+ NGE+ T  LPL  W LD KKPDP+ SLGI PFIPTIPPIVGEV+ DSPA+ AGL+ GD I +V+G+   DWL LV +V++ P + ++L I RQG++ ++ +  G++ N+G+ EG +GVRSQKVDWP  WLR+++Q P+ A+GTAF QT+ LTG TF L+GR +TGKL L SISGPVGIAQGAG+S R G   YL FLALVSISLG LNLLPIPMLDGGHLLY ++EI+RR+PLS+ V+S GIY GLL ++ALM +ALSNDISRL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966441985|ref|WP_058482247.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella spiritensis] &gt;gi|962282090|gb|KTD65880.1| membrane-associated Zn-dependent protease EcfE [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058482247</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>628.246</Hsp_bit-score>
+      <Hsp_score>1619</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>567</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>449</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLT</Hsp_qseq>
+      <Hsp_hseq>MVLTLVYFILALLLLITVHEYGHFIVARWCGVKVLRFSFGFGKVLARWKDKKGTEFVWSLLPLGGYVKMLDEAEGEVPPNERHLAFNNKSVWVRIAVVIAGPLFNFLFAFLALWLVLVIGIRSLAPMIEDVKPNSLAAKAGLQANEEILALNDQKIRSWRDFQYALLPNIGSDETVVIQVKSMTDNQKRTVILPLANWRLDSKKPDLLASLGIVPFIPTIPPVIGEVVKDSPAQLAGLQSHDLINAVDGKPLNDWLELVELVRTRPDQRLTLSINRKGRFITLSVLTGSHLNNGVQEGFLGVRSQKVNWPKTWLRVQREGPLDAIGTALKQTYGLTETTFALIGRFITGKLALQSISGPVGIAQGAGESGRSGLAYYLSFLALVSISLGVLNILPIPMLDGGHLLYYLIEIIRRRPLSEEVKTAGLYIGLAFLIALMLLALSNDISRLA</Hsp_hseq>
+      <Hsp_midline>M+ TL+YF+LAL+LL+T+HEYGHF VARWCGVKVLRFSFGFGK+LAR+ DKKGTE+ WSL PLGGYVKMLDE EGEV   E+  AFNN+SV VRIA+V+AGPLFNF+FAF+ALWLVLVIG+ SLAPMIE VKPNS+AA+AGL   +EILALN  KI SWRDFQY ++P IGS ETV + VKSM + ++ T+ LPL  W+LD KKPD + SLGIVPFIPTIPP++GEVV DSPA+ AGL+  D I +V+G+  NDWL LV  VR RP+ ++ L I R+G+ + ++V TGS  NNG  EG +GVRSQKV+WP  WLR++++ P+ A+GTA KQT  LT TTF L+GR +TGKL L SISGPVGIAQGAG+SGR GL  YL FLALVSISLG LN+LPIPMLDGGHLLYY++EIIRR+PLS+ VK+ G+Y GL  L+ALM +ALSNDISRL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966428603|ref|WP_058471099.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella jordanis] &gt;gi|962232789|gb|KTD17337.1| membrane associated zinc metalloprotease [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058471099</Hit_accession>
+  <Hit_len>451</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>612.453</Hsp_bit-score>
+      <Hsp_score>1578</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>451</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>296</Hsp_identity>
+      <Hsp_positive>365</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>451</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQD-NNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MLLTLFYFFLALFVLVTVHEYGHFLMARLCGVKVLRFSFGFGKVLARWHDKKGTEYAWSLFPLGGYVKMLDENEEEVAAHERHLAFNNKSVWARILIVIAGPLFNFLFAFLALWLVLIIGIKSLAPMIDEVKPGSIAAQAGLQAKEEIVSLNDKNISSWRDFQFALMPLLGSSESIKLKVKSLENGTIKTLHLPLEDWNLNTKNPDPLGSLGIVPFIPSVPPIVGEVVENSPAAAVGIKAGDFIQTMNNKPVHDWLDLVNYVRLHPGGALDLSIKRQGKQLNLTVQIAAKEGQDGQQQGFLGLRSEKVDWPSKWLRVQRQGPIEAVGTALMQTTELTGATFSLIGRLATGKLGLKSISGPVGIAQGAGESARSGLAYYLSFLALVSISLGVLNLLPIPMLDGGHLLYYLFEIVRGKPLSDEIRSLGIYLGLVFLAVLMVLALSNDLSRLIS</Hsp_hseq>
+      <Hsp_midline>ML TL YF LAL +LVT+HEYGHF +AR CGVKVLRFSFGFGK+LAR++DKKGTEYAWSLFPLGGYVKMLDE E EV+  E+  AFNN+SV  RI IV+AGPLFNF+FAF+ALWLVL+IG+ SLAPMI+ VKP SIAA+AGL  K+EI++LN   I+SWRDFQ+ +MPL+GS E++ L VKS+ NG   TL+LPL+ W L+ K PDP+ SLGIVPFIP++PPIVGEVV +SPA   G+K GD I ++N +  +DWL LV+YVR  P   ++L IKRQGK +++TV   +++  +G+ +G +G+RS+KVDWP+ WLR+++Q PI A+GTA  QT +LTG TF L+GRL TGKLGL SISGPVGIAQGAG+S R GL  YL FLALVSISLG LNLLPIPMLDGGHLLYY+ EI+R KPLSD ++S+GIY GL+ L  LM +ALSND+SRL S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|762037298|ref|WP_043873236.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella massiliensis] &gt;gi|683290151|emb|CEE12512.1| Regulator of sigma-E protease RseP [Legionella massiliensis] &gt;gi|685072521|emb|CDZ76774.1| Regulator of sigma E protease [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043873236</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>612.068</Hsp_bit-score>
+      <Hsp_score>1577</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MVSTLFYFFLALLLLINIHEFGHFIVARLCGVKVLRFSFGFGKVLARWYDKRGTEYAWSLLPLGGYVKMLDEAEGEVPVNERHLAFNNKSVWARIAIIVAGPFFNFIFAFVALWLVLVIGIQSLAPMIDDVKPGSIAAKAGLQAKEEILALDNKPINSWRDFQFALMPLLGSQAEIPISVKSLDNTQRKNLVLPLANWELDSKKPDPLGSLGIVPFIPKIPPVIGEVVADTPAQSAGLKQGDIIKQLNGKPLDDWLDLVEFVRLHPNEQLSLLLNRQGQDETVSLHIGSKGDKGQNEGFLGLRSQAVNWPKQWLRLERQGPIDAMGTAFRQTVELTGATFSLIGRFATGKLAMQSISGPVGIAQGAGESARSGLTYYLSFLALVSISLGVLNLLPIPMLDGGHLLYCIIELIRGQPLTDGVKSIGIYMGLIFLVGLMLLALSNDISRLTN</Hsp_hseq>
+      <Hsp_midline>M+STL YF LAL+LL+ IHE+GHF VAR CGVKVLRFSFGFGK+LAR+YDK+GTEYAWSL PLGGYVKMLDE EGEV   E+  AFNN+SV  RIAI+VAGP FNFIFAFVALWLVLVIG+ SLAPMI+ VKP SIAA+AGL  K+EILAL+   INSWRDFQ+ +MPL+GSQ  + ++VKS+ N +   L LPL  W+LD KKPDP+ SLGIVPFIP IPP++GEVV D+PA+ AGLK GD I  +NG+  +DWL LV +VR  PN Q++L + RQG+   +++H GS+ + G+ EG +G+RSQ V+WP  WLRLE+Q PI A+GTAF+QTV+LTG TF L+GR  TGKL + SISGPVGIAQGAG+S R GL  YL FLALVSISLG LNLLPIPMLDGGHLLY ++E+IR +PL+DGVKS+GIY GL+ LV LM +ALSNDISRLT+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966509844|ref|WP_058526435.1|</Hit_id>
+  <Hit_def>RIP metalloprotease RseP [Legionella erythra] &gt;gi|962213373|gb|KTC98242.1| membrane associated zinc metalloprotease [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526435</Hit_accession>
+  <Hit_len>450</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>610.527</Hsp_bit-score>
+      <Hsp_score>1573</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>568</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>450</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>296</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>450</Hsp_align-len>
+      <Hsp_qseq>MLSTLLYFLLALVLLVTIHEYGHFQVARWCGVKVLRFSFGFGKILARFYDKKGTEYAWSLFPLGGYVKMLDETEGEVSEKEKPFAFNNQSVLVRIAIVVAGPLFNFIFAFVALWLVLVIGMHSLAPMIESVKPNSIAARAGLVPKQEILALNGVKINSWRDFQYEIMPLIGSQETVSLTVKSMINGEESTLYLPLDKWQLDDKKPDPIKSLGIVPFIPTIPPIVGEVVPDSPAEKAGLKIGDEIISVNGQHFNDWLYLVSYVRERPNSQINLDIKRQGKLMDITVHTGSQDNNGKLEGLIGVRSQKVDWPAHWLRLEQQPPISALGTAFKQTVQLTGTTFILMGRLVTGKLGLNSISGPVGIAQGAGDSGRGGLVSYLFFLALVSISLGALNLLPIPMLDGGHLLYYVLEIIRRKPLSDGVKSVGIYFGLLLLVALMFVALSNDISRLTS</Hsp_qseq>
+      <Hsp_hseq>MAYTLGFFILALLLLVTVHEFGHFIVARLCGVKVLRFSFGFGKVLFRWHDRQGTEYAWSLLPLGGYVKMLDEGEGEVPEDQRHLAFNNKSVWARIAIVAAGPLFNLMFAFLALWLVLVIGIYSLAPMIEAVKLGSLADKAGLAPQQEIIRLNDEPVRSWRDFQYLLLPLVGSDETVSMTVKPLAGGQQQTVFLPLGEWHLDPQKPDPLASLGITPFIPTIPPVVGEVMVDSPAEKAGLVLNDTIKTVDGKPLSDWLDLVEIVKKNPNHVLMLGIVRDGKNETIALRTGSKDVNGSQEGYIGVRSKKVDWPKTWLRVQREGPLDALGTAFRQTVDLTATTFSLIGRFVTGKLALKTISGPVGIAQGAGESARSGIAYYLSFLALVSISLGVLNLLPIPMLDGGHLLYYFIEIIIRRPLSEGIRTAGLYAGLAFLIALTVLALTNDISRLTS</Hsp_hseq>
+      <Hsp_midline>M  TL +F+LAL+LLVT+HE+GHF VAR CGVKVLRFSFGFGK+L R++D++GTEYAWSL PLGGYVKMLDE EGEV E ++  AFNN+SV  RIAIV AGPLFN +FAF+ALWLVLVIG++SLAPMIE+VK  S+A +AGL P+QEI+ LN   + SWRDFQY ++PL+GS ETVS+TVK +  G++ T++LPL +W LD +KPDP+ SLGI PFIPTIPP+VGEV+ DSPAEKAGL + D I +V+G+  +DWL LV  V++ PN  + L I R GK   I + TGS+D NG  EG IGVRS+KVDWP  WLR++++ P+ ALGTAF+QTV LT TTF L+GR VTGKL L +ISGPVGIAQGAG+S R G+  YL FLALVSISLG LNLLPIPMLDGGHLLYY +EII R+PLS+G+++ G+Y GL  L+AL  +AL+NDISRLTS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

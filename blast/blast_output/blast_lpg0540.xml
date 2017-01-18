@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_12527</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>607</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_12527</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>607</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248709|ref|WP_010946249.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|52840746|ref|YP_094545.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|81603523|sp|Q5ZY71.1|GPMI_LEGPH RecName: Full=2,3-bisphosphoglycerate-independent phosphoglycerate mutase; Short=BPG-independent PGAM; Short=Phosphoglyceromutase; Short=iPGM &gt;gi|52627857|gb|AAU26598.1| phosphoglycerate mutase, 2,3-bisphosphoglycerate independent [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507258|gb|AEW50782.1| phosphoglycerate mutase, 2,3-bisphosphoglycerate independent [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492962|gb|AGH54807.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081166|gb|AGN13414.1| phosphoglyceromutase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771559|emb|CZI76758.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998774470|emb|CZH08931.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998777350|emb|CZH13228.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998783279|emb|CZH40300.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998786260|emb|CZH07330.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998795747|emb|CZI43571.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998800537|emb|CZL11152.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998804139|emb|CZK64582.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998807229|emb|CZI32066.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998810753|emb|CZI18595.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998813088|emb|CZH13099.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998816472|emb|CZM22572.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998819711|emb|CZL99953.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998825585|emb|CZK40260.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998832798|emb|CZI17701.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998834438|emb|CZL49497.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998838670|emb|CZJ29412.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998840539|emb|CZL85398.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998843119|emb|CZL09271.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998846350|emb|CZL09984.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998849197|emb|CZI98258.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998852463|emb|CZL89594.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998855922|emb|CZL52499.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998858587|emb|CZM28480.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998862285|emb|CZK40214.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998864735|emb|CZJ86687.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998867184|emb|CZJ82110.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998870230|emb|CZM42811.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998873649|emb|CZK73204.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998876243|emb|CZM48328.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998879362|emb|CZJ75981.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998885814|emb|CZM36876.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998888622|emb|CZK50793.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998895777|emb|CZK07937.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998905291|emb|CZK93939.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998908446|emb|CZL69173.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998916063|emb|CZK71253.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998917516|emb|CZL65090.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998920496|emb|CZL71497.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998926855|emb|CZL99580.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998930895|emb|CZK82157.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998933702|emb|CZL68677.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998938768|emb|CZL21559.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998946227|emb|CZK70438.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998948015|emb|CZL30158.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998956983|emb|CZM68171.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998960438|emb|CZK67596.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998963186|emb|CZK80716.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998966736|emb|CZM42748.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998969352|emb|CZL05319.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998972361|emb|CZK82044.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998978475|emb|CZM00724.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998986085|emb|CZK09175.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998987527|emb|CZL90322.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998998253|emb|CZJ96226.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999006449|emb|CZL24052.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999011914|emb|CZL85386.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999014955|emb|CZM79260.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999021198|emb|CZL93104.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999024071|emb|CZL21582.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999036208|emb|CZL84988.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999045262|emb|CZM31891.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999066460|emb|CZJ49526.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999075343|emb|CZH15840.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999078593|emb|CZK43606.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999083060|emb|CZK85827.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999087928|emb|CZL16440.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999090990|emb|CZL91977.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999093852|emb|CZH48597.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999096996|emb|CZH53456.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999101365|emb|CZL74906.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999110949|emb|CZL05444.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999114026|emb|CZL58620.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999115918|emb|CZK72869.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999124773|emb|CZL33107.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999132536|emb|CZL70629.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999133862|emb|CZL46888.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999137002|emb|CZK89934.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999140861|emb|CZL85037.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999144820|emb|CZK80286.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999146348|emb|CZM10341.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999155636|emb|CZI38619.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999174237|emb|CZL62220.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999189828|emb|CZI76365.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999192948|emb|CZJ17572.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999199223|emb|CZH00490.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999202157|emb|CZJ22454.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999208460|emb|CZL36246.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999217970|emb|CZM06441.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999220939|emb|CZJ09486.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999333379|emb|CZL31505.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002074307|emb|CZR05583.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002078839|emb|CZQ92286.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003018361|emb|CZR30401.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003021433|emb|CZR26741.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003024527|emb|CZR30328.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1073863669|gb|AOU03620.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073866627|gb|AOU06577.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073869632|gb|AOU09581.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073872576|gb|AOU12524.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073875558|gb|AOU15505.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073878519|gb|AOU18465.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073881514|gb|AOU21459.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073884476|gb|AOU24420.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073887474|gb|AOU27417.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073890459|gb|AOU30401.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073893424|gb|AOU33365.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073896388|gb|AOU36328.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073899352|gb|AOU39291.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073902303|gb|AOU42241.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073905214|gb|AOU45151.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073908232|gb|AOU48167.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073911287|gb|AOU51219.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073917164|gb|AOU57094.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073920130|gb|AOU60059.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073923105|gb|AOU63032.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073926117|gb|AOU66043.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073929097|gb|AOU69006.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073932482|gb|AOU72041.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073945704|gb|AOU85428.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073948667|gb|AOU88390.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1104001818|emb|SFZ36320.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1129967282|gb|APT97641.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946249</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1082.4</Hsp_bit-score>
+      <Hsp_score>2798</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>607</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>514</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1074848437|ref|WP_070065749.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073914206|gb|AOU54137.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1073935429|gb|AOU82428.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_070065749</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1081.24</Hsp_bit-score>
+      <Hsp_score>2795</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>607</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>514</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>513</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAVECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQA+ECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1005400403|ref|WP_061634823.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|999060262|emb|CZL79232.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061634823</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1080.86</Hsp_bit-score>
+      <Hsp_score>2794</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>607</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>514</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>513</Hsp_identity>
+      <Hsp_positive>513</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQTLKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQ LKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAHP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|499533457|ref|WP_011214741.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|81601519|sp|Q5WZ43.1|GPMI_LEGPL RecName: Full=2,3-bisphosphoglycerate-independent phosphoglycerate mutase; Short=BPG-independent PGAM; Short=Phosphoglyceromutase; Short=iPGM &gt;gi|53753322|emb|CAH14769.1| hypothetical protein lpl0539 [Legionella pneumophila str. Lens] &gt;gi|998822456|emb|CZH34253.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1080002227|gb|AOW52799.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006020|gb|AOW56300.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008120|gb|AOW58108.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012218|gb|AOW61709.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014725|gb|AOW63598.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018461|gb|AOW67106.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214741</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1077.77</Hsp_bit-score>
+      <Hsp_score>2786</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>511</Hsp_identity>
+      <Hsp_positive>512</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWQRVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRW+RVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652967233|ref|WP_027220205.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999247907|emb|CZH57355.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999454038|emb|CZI20508.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999460502|emb|CZG99615.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999773153|emb|CZH90579.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999796141|emb|CZI24663.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220205</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1077</Hsp_bit-score>
+      <Hsp_score>2784</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>511</Hsp_identity>
+      <Hsp_positive>512</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDRCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLD+CMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1011911187|ref|WP_062725872.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062725872</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1075.46</Hsp_bit-score>
+      <Hsp_score>2780</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>510</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWQRVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKKHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRW+RVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEK HAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504653946|ref|WP_014841048.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|395126483|emb|CCD04666.1| phosphoglycero mutase III, cofactor-independent [Legionella pneumophila subsp. pneumophila] &gt;gi|998923759|emb|CZK25695.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998943829|emb|CZJ50936.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998954366|emb|CZK62025.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998975537|emb|CZJ91303.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998992797|emb|CZJ46322.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999009029|emb|CZK45215.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999018191|emb|CZJ86334.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999027306|emb|CZK23766.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999030593|emb|CZH24908.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999033256|emb|CZK20092.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999039462|emb|CZJ94927.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999042472|emb|CZK05707.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999048495|emb|CZK01038.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999051602|emb|CZJ93300.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999054519|emb|CZK28275.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999063714|emb|CZK03178.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999070543|emb|CZJ64057.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999072762|emb|CZK30608.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999085022|emb|CZK31843.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999184357|emb|CZP96335.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999198490|emb|CZP14588.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999206223|emb|CZP63993.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999228326|emb|CZP09469.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999235231|emb|CZP59306.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999240259|emb|CZH89860.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999244396|emb|CZH77486.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999248803|emb|CZH09083.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999252019|emb|CZH37899.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999256008|emb|CZP80419.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999259086|emb|CZP46165.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999261327|emb|CZH42536.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999265243|emb|CZP07884.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999269455|emb|CZO34035.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999272257|emb|CZP59089.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999274825|emb|CZG80393.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999277639|emb|CZP37994.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999281330|emb|CZP15139.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999283702|emb|CZP62450.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999291019|emb|CZP33031.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999296454|emb|CZP57510.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999299541|emb|CZP46464.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999307337|emb|CZH71520.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999309401|emb|CZP28024.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999315791|emb|CZI09103.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999318709|emb|CZP65836.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999322051|emb|CZH99478.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999324410|emb|CZH32224.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999328654|emb|CZG65645.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999331791|emb|CZG57108.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999337788|emb|CZP48071.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999344421|emb|CZP83695.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999347240|emb|CZP64059.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999349676|emb|CZH40114.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999353442|emb|CZP67968.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999357200|emb|CZP67345.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999363780|emb|CZP55674.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999367148|emb|CZP77758.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999369909|emb|CZP77007.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999392337|emb|CZP98486.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999398585|emb|CZQ01276.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999403090|emb|CZP40133.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999450654|emb|CZP36589.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999464821|emb|CZM51435.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999467845|emb|CZO28691.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999469344|emb|CZH07854.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999474730|emb|CZM62786.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999477187|emb|CZN75694.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999480689|emb|CZN01218.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999484220|emb|CZN88411.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999487121|emb|CZM12317.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999490294|emb|CZN80049.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999493485|emb|CZM11743.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999500065|emb|CZN74269.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999503191|emb|CZO08878.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999506341|emb|CZN15284.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999509544|emb|CZG50407.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999512882|emb|CZN29450.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999516030|emb|CZM01173.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999518973|emb|CZM83571.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999521897|emb|CZP17314.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999532329|emb|CZO45340.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999535485|emb|CZN39558.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999538566|emb|CZM74897.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999542010|emb|CZO20160.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999544972|emb|CZO60372.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999548184|emb|CZN89946.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999551496|emb|CZO12000.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999554531|emb|CZN32101.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999557894|emb|CZO55150.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999561097|emb|CZM42692.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999564103|emb|CZO67694.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999567467|emb|CZM53324.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999570667|emb|CZN51313.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999573855|emb|CZN93575.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999580347|emb|CZO17474.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999583635|emb|CZO38761.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999586998|emb|CZM65674.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999589967|emb|CZM39780.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999593126|emb|CZN44681.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999596199|emb|CZO11230.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999599519|emb|CZO36863.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999602655|emb|CZL97716.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999605443|emb|CZN73658.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999608980|emb|CZN63885.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999615592|emb|CZM48186.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999618639|emb|CZN89907.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999621791|emb|CZO82732.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999625119|emb|CZN72072.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999628382|emb|CZM62322.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999631568|emb|CZM59798.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999634628|emb|CZN60064.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999637956|emb|CZN52203.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999641152|emb|CZO80198.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999644144|emb|CZO53845.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999647635|emb|CZN95341.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999650679|emb|CZO04721.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999653936|emb|CZO01479.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999657133|emb|CZM30260.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999660207|emb|CZM65578.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999663362|emb|CZN16840.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999666727|emb|CZM37348.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999669919|emb|CZL83932.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999673117|emb|CZM38283.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999676313|emb|CZN77263.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999679342|emb|CZM79908.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999682537|emb|CZM82740.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999686224|emb|CZO00793.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999689108|emb|CZN30198.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999692301|emb|CZN98759.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999695518|emb|CZN28665.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999698815|emb|CZM12764.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999701759|emb|CZM79185.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999704994|emb|CZL95378.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999708148|emb|CZN56535.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999711567|emb|CZN00477.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999714663|emb|CZN20981.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999718007|emb|CZO46473.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999720963|emb|CZM94213.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999724482|emb|CZN34881.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999727813|emb|CZL98752.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999731004|emb|CZO43912.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999734156|emb|CZM25242.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999737504|emb|CZO71114.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999740985|emb|CZM32122.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999744077|emb|CZN26340.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999747219|emb|CZM24513.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999750549|emb|CZL96879.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999753745|emb|CZM81655.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999756796|emb|CZN11066.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999760297|emb|CZM24953.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999763358|emb|CZN29741.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999766884|emb|CZM47645.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999769733|emb|CZN50101.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999776197|emb|CZL99548.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999777462|emb|CZH48970.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999782915|emb|CZH63001.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999786396|emb|CZM23992.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999789561|emb|CZO66492.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999792906|emb|CZO60231.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999799791|emb|CZO55193.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003029212|emb|CZR19180.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003036395|emb|CZR17106.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1005832270|gb|AMQ26996.1| phosphoglyceromutase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431635|gb|AMV13262.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1041014540|gb|ANN91601.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1103995568|emb|SFZ36611.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1103998699|emb|SFZ36329.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841048</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1073.92</Hsp_bit-score>
+      <Hsp_score>2776</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>510</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|742353202|ref|WP_038837503.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998782992|emb|CZI84714.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998828298|emb|CZH37139.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998883024|emb|CZI85497.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998897683|emb|CZK07584.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998938010|emb|CZL86043.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998951049|emb|CZJ94658.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999000069|emb|CZG93807.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999058467|emb|CZM30584.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999103725|emb|CZI20373.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999128481|emb|CZH15132.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999152605|emb|CZM81833.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999161914|emb|CZM40044.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999236728|emb|CZG94375.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002085571|emb|CZQ97561.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002088279|emb|CZQ79038.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1104005383|emb|SFZ36274.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837503</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1073.15</Hsp_bit-score>
+      <Hsp_score>2774</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWQRVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGEEHSIQDGDAVLFFNFRADRARQLTSIFLDPSFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRW+RVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIG+EHSIQDGDAVLFFNFRADRARQLTS FLDPSFKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|504656280|ref|WP_014843382.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|395129589|emb|CCD07822.1| phosphoglycero mutase III, cofactor-independent [Legionella pneumophila subsp. pneumophila] &gt;gi|761992722|dbj|GAN16510.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|761995912|dbj|GAN19616.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998791230|emb|CZG39548.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998892647|emb|CZJ25101.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998982394|emb|CZI65073.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999107546|emb|CZI63669.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999231775|emb|CZI44199.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999287227|emb|CZI46582.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999293645|emb|CZI46645.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999312666|emb|CZI53864.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002081584|emb|CZR00170.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1002092764|emb|CZQ95393.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1032656678|gb|ANH11949.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1032659645|gb|ANH14915.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|1032662612|gb|ANH17881.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843382</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1072.77</Hsp_bit-score>
+      <Hsp_score>2773</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLTLCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALL LCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1005410645|ref|WP_061639897.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|998793153|emb|CZI52251.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639897</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1072</Hsp_bit-score>
+      <Hsp_score>2771</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>511</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLNPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFL+P FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|754875874|ref|WP_042236312.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236312</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1071.23</Hsp_bit-score>
+      <Hsp_score>2769</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>508</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAISNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLTLCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAI+NGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALL LCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1006037747|ref|WP_061721444.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|999340111|emb|CZH27135.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061721444</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1070.84</Hsp_bit-score>
+      <Hsp_score>2768</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNRKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINN KFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|499526489|ref|WP_011213129.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|81601998|sp|Q5X7P2.1|GPMI_LEGPA RecName: Full=2,3-bisphosphoglycerate-independent phosphoglycerate mutase; Short=BPG-independent PGAM; Short=Phosphoglyceromutase; Short=iPGM &gt;gi|53750317|emb|CAH11711.1| hypothetical protein lpp0563 [Legionella pneumophila str. Paris] &gt;gi|536613615|gb|ERB41987.1| phosphoglyceromutase [Legionella pneumophila str. 121004] &gt;gi|541995580|gb|ERH41679.1| phosphoglyceromutase [Legionella pneumophila str. Leg01/11] &gt;gi|541997370|gb|ERH43416.1| phosphoglyceromutase [Legionella pneumophila str. Leg01/53] &gt;gi|542121162|gb|ERI47495.1| phosphoglyceromutase [Legionella pneumophila str. Leg01/20] &gt;gi|762002520|dbj|GAN25638.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999171881|emb|CZI30378.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999187838|emb|CZI95959.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999212754|emb|CZG79165.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999216888|emb|CZI65129.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999225300|emb|CZG82262.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999360000|emb|CZI62552.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999373428|emb|CZG56359.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999376462|emb|CZJ17906.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999379781|emb|CZH70169.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999382676|emb|CZI58769.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999386255|emb|CZG63524.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999389126|emb|CZI57540.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999396876|emb|CZG08315.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999405892|emb|CZG70700.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999408921|emb|CZH92339.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999412769|emb|CZG33625.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999415404|emb|CZG87235.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999418744|emb|CZG63755.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999421939|emb|CZH72471.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999425253|emb|CZG74319.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999428393|emb|CZG73711.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999431617|emb|CZG72431.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999434975|emb|CZH99373.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999438159|emb|CZG61593.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999441155|emb|CZK28168.1| phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999444652|emb|CZH77931.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999447855|emb|CZG54060.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999457596|emb|CZK22782.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999496281|emb|CZI47613.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999525332|emb|CZJ06666.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999528045|emb|CZI73605.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999576054|emb|CZI42961.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999611310|emb|CZI63749.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1003032398|emb|CZR24955.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1041017637|gb|ANN94697.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213129</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.53</Hsp_bit-score>
+      <Hsp_score>2762</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSCFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLS FVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1004334289|ref|WP_061513214.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513214</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.14</Hsp_bit-score>
+      <Hsp_score>2761</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>506</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINDGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFKSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRGRQLTSSFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAIN+GKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKF+SVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADR RQLTS+FLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1006041607|ref|WP_061721923.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila] &gt;gi|999181670|emb|CZG52294.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061721923</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1066.99</Hsp_bit-score>
+      <Hsp_score>2758</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>508</Hsp_identity>
+      <Hsp_positive>510</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIYFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSCFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAI+FYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLS FVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1004027684|ref|WP_061489597.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489597</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1062.37</Hsp_bit-score>
+      <Hsp_score>2746</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>505</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELVKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSEHQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLFTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHAEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEEL KHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSE QFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTH+EGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652966182|ref|WP_027219183.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998801857|emb|CZI09172.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999003160|emb|CZI82265.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999149952|emb|CZI48241.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999159302|emb|CZJ68581.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999165663|emb|CZG82505.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999168600|emb|CZI45019.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999178309|emb|CZJ55346.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219183</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1062.37</Hsp_bit-score>
+      <Hsp_score>2746</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>505</Hsp_identity>
+      <Hsp_positive>508</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELVKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSEHQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLITTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHAEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEEL KHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSE QFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL+TTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTH+EGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|500490100|ref|WP_011945657.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|166991391|sp|A5IH96.1|GPMI_LEGPC RecName: Full=2,3-bisphosphoglycerate-independent phosphoglycerate mutase; Short=BPG-independent PGAM; Short=Phosphoglyceromutase; Short=iPGM &gt;gi|148282658|gb|ABQ56746.1| phosphoglycerate mutase, 2,3-bisphosphoglycerate independent [Legionella pneumophila str. Corby] &gt;gi|295647950|gb|ADG23797.1| phosphoglycerate mutase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989535|dbj|GAN22598.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|761999036|dbj|GAN28949.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998912140|emb|CZH22968.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|998994559|emb|CZI21783.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999302862|emb|CZI38215.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945657</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1060.83</Hsp_bit-score>
+      <Hsp_score>2742</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>504</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELVKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSEHQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLSYFVSMTQYDKNLITTIAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHAEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEEL KHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSE QFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKLSYFVSMTQYDKNL+TT AFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTH+EGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1004017586|ref|WP_061485317.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485317</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1059.67</Hsp_bit-score>
+      <Hsp_score>2739</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>504</Hsp_identity>
+      <Hsp_positive>505</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELVKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSEHQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPLFKGFERKTLPKLPYFVSMTQYDKNLFTTIAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHAEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEEL KHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSE QFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDP FKGFERKTLPKL YFVSMTQYDKNL TT AFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTH+EGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1003782910|ref|WP_061467285.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467285</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1059.28</Hsp_bit-score>
+      <Hsp_score>2738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>503</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELVKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSEHQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTATFLDPLFKGFERKTLPKLSYFVSMTQYDKNLITTIAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHAEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEEL KHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSE QFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLT+TFLDP FKGFERKTLPKLSYFVSMTQYDKNL+TT AFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DYHVIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTH+EGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1011913792|ref|WP_062727006.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727006</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1033.86</Hsp_bit-score>
+      <Hsp_score>2672</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>491</Hsp_identity>
+      <Hsp_positive>502</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MPHNAPLVLMILDGWGYNENNRYNAIAKAHTPQWDEWWQTCPHILLQASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAIKNGEFAKNAVFHEVIDQLQKTEKSLHIMGLLSSGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKGHSIQDGDAVLFFNFRADRARQLTTTFLDPLFKGFERKTRPKLSYFVSMTQYDKNLLTTIAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYNVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFNESTNQAHTAHTSDPVPFLYVGGGWHFTHSEGSLIDIAPSLLTLLGITPPSEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>M HNAPLVLMILDGWGYNEN+RYNAIAKA+TPQWDEWWQTCPHILL+ASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAI NG+FAKNAVFHEVIDQL+KTEKSLHIMGLLS GGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGK HSIQDGDAVLFFNFRADRARQLT+TFLDP FKGFERKT PKLSYFVSMTQYDKNLLTT AFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DY+VIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMF+E+TNQAHTAHTS+PVPFLYVGGGWHFTHSEGSLIDIAPSLL LLGITPP EMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|652976181|ref|WP_027228854.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|985765959|gb|KXB27070.1| phosphoglyceromutase [Legionella pneumophila] &gt;gi|985767731|gb|KXB28817.1| phosphoglyceromutase [Legionella pneumophila] &gt;gi|999119276|emb|CZG76650.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|999122516|emb|CZH12234.1| 2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1024341662|gb|KZX35969.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1108603977|gb|APF02345.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. fraseri] &gt;gi|1108606988|gb|APF05355.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228854</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1028.85</Hsp_bit-score>
+      <Hsp_score>2659</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>487</Hsp_identity>
+      <Hsp_positive>501</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MPHNAPLVLMILDGWGYNENNRYNAIAKAHTPQWDEWWQTCPHILLQASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAIKNGEFAKNAVFHEVIEQLQKTEKSLHIMGLLSSGGVHSHEQHLFALLALCNQKKFRTVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKVSDEFVPPTLIGKGHSIQDGDAVLFFNFRADRARQLTTTFLDPLFKGFERKTRPKLSYFVSMTQYDKNLLTTIAFPPAPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYNVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFNESTNQAHTAHTSDPVPFLYVGGGWHFTHSEGSLIDIAPSLLTLLGITPPSEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>M HNAPLVLMILDGWGYNEN+RYNAIAKA+TPQWDEWWQTCPHILL+ASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAI NG+FAKNAVFHEVI+QL+KTEKSLHIMGLLS GGVHSHEQHLFALLALCNQKKFR+VHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNK+SDEFVPPTLIGK HSIQDGDAVLFFNFRADRARQLT+TFLDP FKGFERKT PKLSYFVSMTQYDKNLLTT AFPP PLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DY+VIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMF+E+TNQAHTAHTS+PVPFLYVGGGWHFTHSEGSLIDIAPSLL LLGITPP EMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|652970676|ref|WP_027223568.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila] &gt;gi|1005362775|gb|AMP88644.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365776|gb|AMP91553.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368763|gb|AMP94539.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223568</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1027.31</Hsp_bit-score>
+      <Hsp_score>2655</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>488</Hsp_identity>
+      <Hsp_positive>499</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSHNAPLVLMILDGWGYNENDRYNAIAKAHTPQWDEWWQTCPHILLQASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAIKNGEFAKNAVFHEVIDQLQKTEKSLHIMGLLSSGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKYLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKVSDEFVPPTLIGKGHSIQDGDAVLFFNFRADRARQLTTTFLDPLFKGFERKTRPKLSYFVSMTQYDKNLLTTIAFPPAPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYNVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFNESTNQAHTAHTSDPVPFLYVGGGWHFIHCEGSLIDIAPSLLTLLGITPPSEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>MSHNAPLVLMILDGWGYNENDRYNAIAKA+TPQWDEWWQTCPHILL+ASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAI NG+FAKNAVFHEVIDQL+KTEKSLHIMGLLS GGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLK LNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNK+SDEFVPPTLIGK HSIQDGDAVLFFNFRADRARQLT+TFLDP FKGFERKT PKLSYFVSMTQYDKNLLTT AFPP PLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DY+VIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMF+E+TNQAHTAHTS+PVPFLYVGGGWHF H EGSLIDIAPSLL LLGITPP EMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|654928775|ref|WP_028379200.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028379200</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1006.51</Hsp_bit-score>
+      <Hsp_score>2601</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>486</Hsp_identity>
+      <Hsp_positive>501</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MPHNAPLVLMILDGWGYNENNRYNAIAKAHTPQWDEWWQTCPHILLQASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAIKNGEFAKNAVFHEVIEQLQKTEKSLHIMGLLSSGGVHSHEQHLFALLALCNQKKFRTVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKVSDEFVPPTLIGKGHSIQDGDAVLFFNFRADRARQLTTTFLDPLFKGFERKTRPKLSYFVSMTQYDKNLLTTIAFPPAPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAPELTKTLIAAINSRDYNVIICNYANADMVGHTGNFEATVQAIECLDQCMHQVWQALKNNGGKLLITADHGNAEEMFNESTNQAHTAHTSDPVPFLYVGGGWHFTHSEGSLIDIAPSLLTLLGLTPPSEMTGRILLEKNHAH</Hsp_hseq>
+      <Hsp_midline>M HNAPLVLMILDGWGYNEN+RYNAIAKA+TPQWDEWWQTCPHILL+ASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAI NG+FAKNAVFHEVI+QL+KTEKSLHIMGLLS GGVHSHEQHLFALLALCNQKKFR+VHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNK+SDEFVPPTLIGK HSIQDGDAVLFFNFRADRARQLT+TFLDP FKGFERKT PKLSYFVSMTQYDKNLLTT AFPP PLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSA ELTKTLIAAINS+DY+VIICNYANADMVGHTGNFEATVQAIECLDQCM QVWQALKNNGGKLLITADHGNAEEMF+E+TNQAHTAHTS+PVPFLYVGGGWHFTHSEGSLIDIAPSLL LLG+TPP EMTGRILLEKNHAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|737924725|ref|WP_035889978.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella norrlandica] &gt;gi|701445699|gb|KGP63071.1| phosphoglyceromutase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889978</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.123</Hsp_bit-score>
+      <Hsp_score>2330</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>605</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>512</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>419</Hsp_identity>
+      <Hsp_positive>464</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>512</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHA</Hsp_qseq>
+      <Hsp_hseq>MLNTAPLVLIILDGWGYNKSDKYNAIAKAHTPQWDEWWETCPHILLQASGLPVGLPAEQMGNSEVGHMHIGAGRIIQQDFTRINEAINKGDFAKNPVFHEVIDKLQETEKSLHLMGLLSPGGVHSHEHHLFALLALCDQKKFNSVHLHLFLDGRDTPPQSAIDSLRRLNKELTNHPVGKIASICGRYYAMDRDKRWERLEPVYNLLTQNQSEHQFAKAETAVHFYYQNKISDEFIPPTLIGESNPIQDGDAVIFFNFRADRARQLTYAFLDPLFKGFPRTVHPELSYFVTMTQYDKNLSNPIAFPPAPLNNTLGEVLASHGLSQLRIAETEKYAHVTFFFNGGSESIFANEERIMVPSPQVATYDLQPEMSAPKLTDILVEAINSHDYDVIICNYANADMVGHTGDFEATIRAIECLDQCMKRVWDALKNQGGKLLITADHGNAEEMFNESTHQAHTAHTSEPVPFIYIGGGWHFTQTEGSLMDIAPTLLTLLEIPPPPEMTGHALLEKNYA</Hsp_hseq>
+      <Hsp_midline>M + APLVL+ILDGWGYN++D+YNAIAKA+TPQWDEWW+TCPHILL+ASGLPVGLP EQMGNSEVGHMHIGAGR+IQQDFTRINEAIN G FAKN VFHEVID+L++TEKSLH+MGLLSPGGVHSHE HLFALLALC+QKKF SVHLHLFLDGRDTPPQSA+DSL+ LN+EL  HPV  I SICGRYYAMDRDKRWER+EPVYNLLTQ +SE QF  AETA+HFYY+NKISDEF+PPTLIG+ + IQDGDAV+FFNFRADRARQLT  FLDP FKGF R   P+LSYFV+MTQYDKNL    AFPP PLNNTLGEVL+SHGLSQLRIAETEKYAHVTFFFNGG ES+F NEERIMVPSPQVATYDLQPEMSA +LT  L+ AINS DY VIICNYANADMVGHTG+FEAT++AIECLDQCM++VW ALKN GGKLLITADHGNAEEMF+E+T+QAHTAHTSEPVPF+Y+GGGWHFT +EGSL+DIAP+LL LL I PPPEMTG  LLEKN+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|517404008|ref|WP_018576821.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella shakespearei] &gt;gi|962283734|gb|KTD67506.1| phosphoglyceromutase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576821</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>857.055</Hsp_bit-score>
+      <Hsp_score>2213</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>605</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>512</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>398</Hsp_identity>
+      <Hsp_positive>456</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>512</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHA</Hsp_qseq>
+      <Hsp_hseq>MSKNAPLVLMILDGWGYNPSDTHNAIAKAHTPQWDEWWQTCPHMLLHASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINQSIKTGEFAENQVFNQIITELQDNNKSLHIMGLLSPGGVHSHEQHLFALLALCHARKFTAVCLHLFLDGRDTPPQSALDSLERLNAELKKYPVASISSITGRYYAMDRDKRWERMEPVYNLLTQNQSEHHFPDAQTAIKSFYEQKLSDEFIPPTLIGTHQPIEDGDAVLFFNFRADRARQLTAAFIDPAFNGFKRQFLPKLSCFATMTQYDKNIPTSMAFPPMQLNNTLGELLASHGLSQLRIAETEKYAHVTFFFNGGSELVFAHEERILIPSPKVATYDLQPEMSAEELTEKLVAAINSTTYDVIICNYANADMVGHSGNFNATVQAIECLDRCMNKVWQALAIQGGKLLITADHGNAEEMFDDTTHQAHTAHTSEPVPLVYVGGGWHFTQSSGSLIDVAPTVLTLLGITPPPEMTGQPLLERDYA</Hsp_hseq>
+      <Hsp_midline>MS NAPLVLMILDGWGYN +D +NAIAKA+TPQWDEWWQTCPH+LL ASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRIN++I  G+FA+N VF+++I +L+   KSLHIMGLLSPGGVHSHEQHLFALLALC+ +KF +V LHLFLDGRDTPPQSALDSL+ LN EL K+PVA+I+SI GRYYAMDRDKRWER+EPVYNLLTQ +SE  FPDA+TAI  +Y+ K+SDEF+PPTLIG    I+DGDAVLFFNFRADRARQLT+ F+DP+F GF+R+ LPKLS F +MTQYDKN+ T+ AFPP+ LNNTLGE+L+SHGLSQLRIAETEKYAHVTFFFNGG E VF +EERI++PSP+VATYDLQPEMSA ELT+ L+AAINS  Y VIICNYANADMVGH+GNF ATVQAIECLD+CM +VWQAL   GGKLLITADHGNAEEMF + T+QAHTAHTSEPVP +YVGGGWHFT S GSLID+AP++L LLGITPPPEMTG+ LLE+++A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966423419|ref|WP_058466565.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Fluoribacter gormanii] &gt;gi|962220889|gb|KTD05551.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466565</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>848.966</Hsp_bit-score>
+      <Hsp_score>2192</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>396</Hsp_identity>
+      <Hsp_positive>445</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKATLLLMILDGWGYNENNKHNAIAQANTPQWDEWWKNCPHILLQASGFAVGLPDAQMGNSEVGHMHIGAGRVIQQDFTRINESINHGEFAHNPVFHDVINTLQKTGKSLHIMGLFSPGGVHSHEHHLFALLDLCAQQKFTSVYLHLFLDGRDTPPQSALQSLERLNTKLKTNPIARVCSISGRYYAMDRDNRWERVEPVYTLLTQGNSEHHFQDAETAIKSYYQQNLSDEFIPPTLIGEPRAIEDGDAVLFFNFRADRARQLTTAFIDPAFKKFNRAVQPQLSYFVSMTQYDKNLPTTQAFPPIPLNNTLGEVLSAHGLSQLRIAETEKYAHVTFFFNGGNENIFTNEERILIPSPKVATYDLQPEMSAPQLTERLVEAINSQDYDVIICNYANADMVGHSGDFKATTRAIECLDQCMSKVWHALARQGGTLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGNWHFTQSEGSLIDIAPTMLGLLGITPPAEMTGRQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   A L+LMILDGWGYNEN+++NAIA+ANTPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQDFTRINE+IN+G+FA N VFH+VI+ L+KT KSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV+LHLFLDGRDTPPQSAL SL+ LN +L  +P+A + SI GRYYAMDRD RWERVEPVY LLTQG SE  F DAETAI  YY+  +SDEF+PPTLIG+  +I+DGDAVLFFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVLS+HGLSQLRIAETEKYAHVTFFFNGG E++FTNEERI++PSP+VATYDLQPEMSA +LT+ L+ AINSQDY VIICNYANADMVGH+G+F+AT +AIECLDQCM +VW AL   GG LLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT SEGSLIDIAP++L LLGITPP EMTGR LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966436887|ref|WP_058477255.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella steigerwaltii] &gt;gi|962293663|gb|KTD77338.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477255</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>844.729</Hsp_bit-score>
+      <Hsp_score>2181</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>396</Hsp_identity>
+      <Hsp_positive>441</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKNTPLLLMILDGWGYNENNKHNAIAQANTPQWDEWWANCPHILLHASGFAVGLPDEQMGNSEVGHMHIGAGRVIQQDLTRINESIKNGEFANNPVFHDVITTLQKTDKSLHIMGLFSPGGVHSHEQHLFALLDLCAQQKFTSVYLHLFLDGRDTPPQSALQSLERLNAELKMHPAARICSISGRYYAMDRDNRWERIEPVYTLLTQGYSQHHFQDAEAAIRSYYQHNLSDEFIPPTLIGAKKVIEDGDAVLFFNFRADRARQLTTAFIDPTFKKFDRAEQPQLSYFVSMTQYDKNLPTTQAFPPIPLNNTLGEVLADHGLSQLRIAETEKYAHVTFFFNGGNESVFSNEERILIPSPKVATYDLQPEMSAPQLTECLVEAINSQAYDVIICNYANADMVGHSGNFKATIRAIECLDQCMHKVWDALAKQKGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGDWHFSRSEGSLIDIAPTILALLEITPPVEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M  N PL+LMILDGWGYNEN+++NAIA+ANTPQWDEWW  CPHILL ASG  VGLPDEQMGNSEVGHMHIGAGRVIQQD TRINE+I NG+FA N VFH+VI  L+KT+KSLHIMGL SPGGVHSHEQHLFALL LC Q+KF SV+LHLFLDGRDTPPQSAL SL+ LN EL  HP A I SI GRYYAMDRD RWER+EPVY LLTQG S+  F DAE AI  YY++ +SDEF+PPTLIG +  I+DGDAVLFFNFRADRARQLT+ F+DP+FK F+R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVL+ HGLSQLRIAETEKYAHVTFFFNGG ESVF+NEERI++PSP+VATYDLQPEMSA +LT+ L+ AINSQ Y VIICNYANADMVGH+GNF+AT++AIECLDQCM +VW AL    GKLLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHF+ SEGSLIDIAP++LALL ITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966415327|ref|WP_058458612.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Fluoribacter bozemanae] &gt;gi|962189834|gb|KTC74936.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458612</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>843.573</Hsp_bit-score>
+      <Hsp_score>2178</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>394</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNKHNAIAQANTPQWDEWWKNCPHILLQASGFAVGLPDAQMGNSEVGHMHIGAGRVIQQDYTRINESIKNGEFANNPVFHDVISTLQKTEKSLHIMGLFSPGGVHSHEHHLFALLNLCAQQKFTSVYLHLFLDGRDTPPQSVLHSLERLNAELKTHPVARVCSISGRYYAMDRDNRWERIEPVYTLLTQGNSEHHFSDAETAIKSYYQQNLSDEFIPPTLIGEKKPIEDGDAVFFFNFRADRARQLTTAFIDPTFKKFNRSAQPQLSYFVSMTQYDKNLPTTQAFPPIPLNNTLGEVLAAHGLSQLRIAETEKYAHVTFFFNGGNENVFTHEERILIASPKVATYDLQPEMSAPQLTECLIEAINSHAYDVIICNYANADMVGHSGDFKATIRAIECLDQCMSKVWNALEKQGGKLLITADHGNAEEMFDETTLQAHTAHTSEPVPLVYVGGHWHFSRSEGSLIDIAPTMLALLGITPPAEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN+++NAIA+ANTPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQD+TRINE+I NG+FA N VFH+VI  L+KTEKSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV+LHLFLDGRDTPPQS L SL+ LN EL  HPVA + SI GRYYAMDRD RWER+EPVY LLTQG SE  F DAETAI  YY+  +SDEF+PPTLIG++  I+DGDAV FFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VFT+EERI++ SP+VATYDLQPEMSA +LT+ LI AINS  Y VIICNYANADMVGH+G+F+AT++AIECLDQCM +VW AL+  GGKLLITADHGNAEEMF E T QAHTAHTSEPVP +YVGG WHF+ SEGSLIDIAP++LALLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|654930649|ref|WP_028381018.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381018</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>842.417</Hsp_bit-score>
+      <Hsp_score>2175</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>391</Hsp_identity>
+      <Hsp_positive>442</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKTPLLLMILDGWGYNKNNKYNAIAQANTPQWDEWWNNCPHILLHASGYAVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINESIKNGEFANNTIFREVITTLKKNNKSLHIMGLFSPGGVHSHEQHLFALLDLCAQQQFTSVYLHLFLDGRDTPPQSALDSLERLNSKLKIHPVARICSISGRYYAMDRDNRWERIEPVYTLLTQGHSQHHFQDAEAAIKSYYQQNLSDEFIPPTLIGEKKAIEDGDAVLFYNFRADRARQLTTAFIDPTFKKFNRTVQPQLSYFVSMTQYDKNLPTSQAFPPIPLNNTLGEVIAEYGLSQLRIAETEKYAHVTFFFNGGNENVFSNEERILIPSPKVATYDLQPEMSAPQLTESLVEAINSQAYDVIICNYANADMVGHSGNFQATIRAIECLDQCMSKVWHALAQQDGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGHWHFTRSEGSLIDIAPTMLALLGITPPAEMTGHQLLEKD</Hsp_hseq>
+      <Hsp_midline>M    PL+LMILDGWGYN+N++YNAIA+ANTPQWDEWW  CPHILL ASG  VGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINE+I NG+FA N +F EVI  LKK  KSLHIMGL SPGGVHSHEQHLFALL LC Q++F SV+LHLFLDGRDTPPQSALDSL+ LN +L  HPVA I SI GRYYAMDRD RWER+EPVY LLTQG S+  F DAE AI  YY+  +SDEF+PPTLIG++ +I+DGDAVLF+NFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL T+ AFPP+PLNNTLGEV++ +GLSQLRIAETEKYAHVTFFFNGG E+VF+NEERI++PSP+VATYDLQPEMSA +LT++L+ AINSQ Y VIICNYANADMVGH+GNF+AT++AIECLDQCM +VW AL    GKLLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT SEGSLIDIAP++LALLGITPP EMTG  LLEK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1069289943|gb|OEH45363.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>OEH45363</Hit_accession>
+  <Hit_len>935</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>839.336</Hsp_bit-score>
+      <Hsp_score>2167</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>602</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>509</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>390</Hsp_identity>
+      <Hsp_positive>437</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>509</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEK</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNHHNAIAQANTPQWDEWWENCPHILLQASGFAVGLPDAQMGNSEVGHMHIGAGRVIQQDYTRINKSIKNGEFAKNPVFHEVISTLQKTGKSLHIMGLFSPGGVHSHEHHLFALLNLCAQQKFTSVFLHLFLDGRDTPPQSVLHSLERLNAELNTHPVGRVCSISGRYYAMDRDNRWERIEPVYTLLTQGNSEHHFLDAETAIKSYYQQNLSDEFIPPTLIGEKKPIEDGDAVFFFNFRADRARQLTTAFIDPTFKKFNRSAQPQLSYFVSMTQYDKNLPTTQAFPPIPLNNTLGEVLAAHGLSQLRIAETEKYAHVTFFFNGGNENVFTHEKRILIASPKVTTYDLQPEMSAPQLTECLIEAINSHAYDVIICNYANADMVGHSGNFKATIRAIECLDQCMGKVWNALEKQGGKLLITSDHGNAEEMFDETTLQAHTAHTSEPVPLVYVGGQWHFSRSEGSLIDIAPTMLALLGITPPEEMTGHQLLEK</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN+ +NAIA+ANTPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQD+TRIN++I NG+FAKN VFHEVI  L+KT KSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV LHLFLDGRDTPPQS L SL+ LN EL  HPV  + SI GRYYAMDRD RWER+EPVY LLTQG SE  F DAETAI  YY+  +SDEF+PPTLIG++  I+DGDAV FFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VFT+E+RI++ SP+V TYDLQPEMSA +LT+ LI AINS  Y VIICNYANADMVGH+GNF+AT++AIECLDQCM +VW AL+  GGKLLIT+DHGNAEEMF E T QAHTAHTSEPVP +YVGG WHF+ SEGSLIDIAP++LALLGITPP EMTG  LLEK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966432001|ref|WP_058472434.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella quateirensis] &gt;gi|962271463|gb|KTD55465.1| phosphoglyceromutase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472434</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>834.713</Hsp_bit-score>
+      <Hsp_score>2155</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>388</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MPKNAPLVLMILDGWGYNSSDKHNAIASAHTPQWDKWWQSCPHILLQASGEPVGLPDKQMGNSEVGHMHIGAGRVIQQEFTRINKAIQNGEFADNPVFNQAINELNQTGKSLHIMGLFSPGGVHSHERHLFALLKLCHAKKFSSVYLHLFLDGRDTPPQSALDSLQRLNKELETHPGITISSITGRYYAMDRDKRWDRVEPVYKLLTLGQSTHHFDDAESAIKHFYQNELSDEFIPPTLIGTPKAIEDGDAVLFFNFRADRARQLTSAFIDPAFSGFNRSNCPKLSYFISMTQYDKKLSTIPAFPPVPLNNTLGEIIALHGLKQLRIAETEKYAHVTFFFNGGSEHIFTNEERILIPSPKVATYDLQPEMSAPELTNILVDVINQQKYDVIICNYANADMVGHSGDFNATVRAIECLDQCMKRVGDALKIQGGTLLITSDHGNAEEMFDDTTHQAHTAHTSEPVPFICVGGDWHFTQTEGSLIDIAPTLLSIIGITPPKEMTGHILLEKSHAH</Hsp_hseq>
+      <Hsp_midline>M  NAPLVLMILDGWGYN +D++NAIA A+TPQWD+WWQ+CPHILL+ASG PVGLPD+QMGNSEVGHMHIGAGRVIQQ+FTRIN+AI NG+FA N VF++ I++L +T KSLHIMGL SPGGVHSHE+HLFALL LC+ KKF SV+LHLFLDGRDTPPQSALDSL+ LN+EL  HP  TI+SI GRYYAMDRDKRW+RVEPVY LLT G+S   F DAE+AI  +Y+N++SDEF+PPTLIG   +I+DGDAVLFFNFRADRARQLTS F+DP+F GF R   PKLSYF+SMTQYDK L T  AFPPVPLNNTLGE+++ HGL QLRIAETEKYAHVTFFFNGG E +FTNEERI++PSP+VATYDLQPEMSA ELT  L+  IN Q Y VIICNYANADMVGH+G+F ATV+AIECLDQCM++V  ALK  GG LLIT+DHGNAEEMF + T+QAHTAHTSEPVPF+ VGG WHFT +EGSLIDIAP+LL+++GITPP EMTG ILLEK+HAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|518063368|ref|WP_019233576.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella anisa] &gt;gi|962187533|gb|KTC72659.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233576</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>833.943</Hsp_bit-score>
+      <Hsp_score>2153</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>389</Hsp_identity>
+      <Hsp_positive>439</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKATLLLMILDGWGYNENNKHNAIAQANTPQWDEWWKSCPHILLQASGFAVGLPDAQMGNSEVGHMHIGAGRVIQQDYTRINESIKNGEFANNPVFHDVISTLQKTEKSLHIMGLFSPGGVHSHEQHLFALLNLCAQQKFTSVYLHLFLDGRDTPPQSVLQSLARLNAELKTHPVAQVCSISGRYYAMDRDNRWERIEPVYTVLTQGSSEHHFEDAETAIKSYYQQNLSDEFIPPTRIGKKKAIEDGDAIFFFNFRADRARQLTTAFIDPTFKKFNRAVQPQLSYFVSMTQYDKKLPTTQAFPPILLNNTLGEVLAVHGLSQLRIAETEKYAHVTFFFNGGNENVFTHEERILIASPKVATYDLQPEMSAPQLTECLVEAINSNAYDVIICNYANADMVGHSGDFKATIRAIECLDQCMSKVWNALEKQGGKLLITADHGNAEEMFDETTLQAHTAHTSEPVPLVYVGGHWHFSRSEGSLIDIAPTMLALLGITPPVEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   A L+LMILDGWGYNEN+++NAIA+ANTPQWDEWW++CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQD+TRINE+I NG+FA N VFH+VI  L+KTEKSLHIMGL SPGGVHSHEQHLFALL LC Q+KF SV+LHLFLDGRDTPPQS L SL  LN EL  HPVA + SI GRYYAMDRD RWER+EPVY +LTQG SE  F DAETAI  YY+  +SDEF+PPT IGK+ +I+DGDA+ FFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDK L TT AFPP+ LNNTLGEVL+ HGLSQLRIAETEKYAHVTFFFNGG E+VFT+EERI++ SP+VATYDLQPEMSA +LT+ L+ AINS  Y VIICNYANADMVGH+G+F+AT++AIECLDQCM +VW AL+  GGKLLITADHGNAEEMF E T QAHTAHTSEPVP +YVGG WHF+ SEGSLIDIAP++LALLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966500616|ref|WP_058517289.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella parisiensis] &gt;gi|962255952|gb|KTD40089.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517289</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>832.787</Hsp_bit-score>
+      <Hsp_score>2150</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>391</Hsp_identity>
+      <Hsp_positive>438</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNHHNAIAQANTPQWDEWWENCPHILLQASGFAVGLPDAQMGNSEVGHMHIGAGRVIQQDYTRINKSIKNGEFAKNPVFHEVISTLQKTGKSLHIMGLFSPGGVHSHEHHLFALLNLCAQQKFTSVFLHLFLDGRDTPPQSVLHSLERLNAELNTHPVGRVCSISGRYYAMDRDNRWERIEPVYTLLTQGNSEHHFLDAETAIKSYYQQNLSDEFIPPTLIGEKKPIEDGDAVFFFNFRADRARQLTTAFIDPTFKKFNRSAQPQLSYFVSMTQYDKNLPTTQAFPPIPLNNTLGEVLAAHGLSQLRIAETEKYAHVTFFFNGGNENVFTHEKRILIASPKVTTYDLQPEMSAPQLTECLIEAINSHAYDVIICNYANADMVGHSGNFKATIRAIECLDQCMGKVWNALEKQGGKLLITSDHGNAEEMFDETTLQAHTAHTSEPVPLVYVGGQWHFSRSEGSLIDIAPTMLALLGITPPEEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN+ +NAIA+ANTPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQD+TRIN++I NG+FAKN VFHEVI  L+KT KSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV LHLFLDGRDTPPQS L SL+ LN EL  HPV  + SI GRYYAMDRD RWER+EPVY LLTQG SE  F DAETAI  YY+  +SDEF+PPTLIG++  I+DGDAV FFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VFT+E+RI++ SP+V TYDLQPEMSA +LT+ LI AINS  Y VIICNYANADMVGH+GNF+AT++AIECLDQCM +VW AL+  GGKLLIT+DHGNAEEMF E T QAHTAHTSEPVP +YVGG WHF+ SEGSLIDIAP++LALLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966493989|ref|WP_058510777.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella steelei] &gt;gi|962284943|gb|KTD68709.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella steelei] &gt;gi|1113342847|gb|OJW06708.1| phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510777</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>830.861</Hsp_bit-score>
+      <Hsp_score>2145</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>392</Hsp_identity>
+      <Hsp_positive>440</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MPKKAPLLLMILDGWGYNKNNKYNAIAQANTPQWDEWWANCPHILLHASGFAVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINESIKNGTFANTPVFHEVLATLEKTGKSLHIMGLFSPGGVHSHEQHLFALLDLCAQQQFTSVYLHLFLDGRDTPPQSVLHSLERLNTELKIHPVARICSISGRYYAMDRDNRWERIEPVYTLLTQGYSQHLFQDAETAIKSYYQQNLSDEFIPPTLIGEKKTIEDGDAVLFFNFRADRARQLTSAFIDPTFKQFNRTVQPQLSYFISMTQYDKNLPTTQAFPPISLNNTLGEVLANHGLNQLRIAETEKYAHVTFFFNGGNENVFPNEERILIPSPKVATYDLQPEMSAPELTECLVEAINSKAYDVIICNYANADMVGHSGDFQATIRAIECLDQCMSKVWAALAKQEGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGHWHFTCNEGNLIDIAPTMLALLGITPPVEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYN+N++YNAIA+ANTPQWDEWW  CPHILL ASG  VGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINE+I NG FA   VFHEV+  L+KT KSLHIMGL SPGGVHSHEQHLFALL LC Q++F SV+LHLFLDGRDTPPQS L SL+ LN EL  HPVA I SI GRYYAMDRD RWER+EPVY LLTQG S+  F DAETAI  YY+  +SDEF+PPTLIG++ +I+DGDAVLFFNFRADRARQLTS F+DP+FK F R   P+LSYF+SMTQYDKNL TT AFPP+ LNNTLGEVL++HGL+QLRIAETEKYAHVTFFFNGG E+VF NEERI++PSP+VATYDLQPEMSA ELT+ L+ AINS+ Y VIICNYANADMVGH+G+F+AT++AIECLDQCM +VW AL    GKLLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT +EG+LIDIAP++LALLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966468574|ref|WP_058499900.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella gratiana] &gt;gi|962221362|gb|KTD06022.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499900</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>827.009</Hsp_bit-score>
+      <Hsp_score>2135</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>511</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>444</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>511</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKE-HSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MPKKAPLLLMILDGWGYNENNRYNAIAQAKTPQWDEWWENCPHMLLQASGDSVGLPDAQMGNSEVGHMHIGAGRVIEQDFTRINKSIKNGEFANNPAFCEVITALQKTQKSLHIMGLFSPGGVHSHEQHLFALLDLCIEQKFTAIYLHLFLDGRDTPPQSALQSLERLNTKLKIHPVATITSISGRYYAMDRDNRWERIEQVYTLLTQGESKYHFMDAKTAIESYYQQNLSDEFIPPTRIGKQQHTIKDGDAILFFNFRADRARQLTTAFIDPKFKKFNRKTLPQLSYFVSMTQYDKNMPTLPAFPPTPLNNTLGEVLATHGLSQLRIAETEKYAHVTFFFNGGNENVFPNEERVLIPSPQVATYNLQPEMSAPQLTEHLVEAIKNQSYDVIICNYANADMVGHSGDFEATVSAIECLDRCMSKVWHALAKHGGQLLITADHGNAEEMFDESTHQAHTAHTNEPVPLVYVGRHWHFTHSKGSLIDIAPTMLTLLGITPPAEMTGHSLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN+RYNAIA+A TPQWDEWW+ CPH+LL+ASG  VGLPD QMGNSEVGHMHIGAGRVI+QDFTRIN++I NG+FA N  F EVI  L+KT+KSLHIMGL SPGGVHSHEQHLFALL LC ++KF +++LHLFLDGRDTPPQSAL SL+ LN +L  HPVATI SI GRYYAMDRD RWER+E VY LLTQG+S+  F DA+TAI  YY+  +SDEF+PPT IGK+ H+I+DGDA+LFFNFRADRARQLT+ F+DP FK F RKTLP+LSYFVSMTQYDKN+ T  AFPP PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VF NEER+++PSPQVATY+LQPEMSA +LT+ L+ AI +Q Y VIICNYANADMVGH+G+FEATV AIECLD+CM +VW AL  +GG+LLITADHGNAEEMF E+T+QAHTAHT+EPVP +YVG  WHFTHS+GSLIDIAP++L LLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|654933340|ref|WP_028383694.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella moravica] &gt;gi|962251437|gb|KTD35625.1| phosphoglyceromutase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383694</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>825.083</Hsp_bit-score>
+      <Hsp_score>2130</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>440</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSQNTPLVLMILDGWGYNASDKHNAIASAHTPQWDKWWQNCPHILLQASGEPVGLPDKQMGNSEVGHMHIGSGRVIQQDFTRINKAIQQGEFADNPVFNQAIEILGQTGKSLHIMGLFSPGGVHSHECHLFALLNLCHEKQFSSVYLHLFLDGRDTPPQSALDSLHRLNKELETHPGITISSITGRYYAMDRDKRWDRVEPVYNLLTQGQSTHHFDDVETAIKHFYQNELSDEFIPPTLIGNPKIIEDGDAILFFNFRADRARQLSSAFIDPAFSGFKRTICPKLSCFISMTQYDKNLKTTPAFPPVPLNNTLGEVIARQGLKQLRIAETEKYAHVTFFFNGGSEHVFANEERILIPSPKVATYDLQPEMSAPELTDILVDVINQKKYDVIICNYANADMVGHSGNFNATVRAIECLDQCMKRVGDALKSQGGTLLITSDHGNAEEMFDDTTRQAHTAHTSEPVPFMCVGGDWHFTQSEGSLIDIAPTLLSIIGITPPKEMTGHILLENSHVH</Hsp_hseq>
+      <Hsp_midline>MS N PLVLMILDGWGYN +D++NAIA A+TPQWD+WWQ CPHILL+ASG PVGLPD+QMGNSEVGHMHIG+GRVIQQDFTRIN+AI  G+FA N VF++ I+ L +T KSLHIMGL SPGGVHSHE HLFALL LC++K+F SV+LHLFLDGRDTPPQSALDSL  LN+EL  HP  TI+SI GRYYAMDRDKRW+RVEPVYNLLTQG+S   F D ETAI  +Y+N++SDEF+PPTLIG    I+DGDA+LFFNFRADRARQL+S F+DP+F GF+R   PKLS F+SMTQYDKNL TT AFPPVPLNNTLGEV++  GL QLRIAETEKYAHVTFFFNGG E VF NEERI++PSP+VATYDLQPEMSA ELT  L+  IN + Y VIICNYANADMVGH+GNF ATV+AIECLDQCM++V  ALK+ GG LLIT+DHGNAEEMF + T QAHTAHTSEPVPF+ VGG WHFT SEGSLIDIAP+LL+++GITPP EMTG ILLE +H H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|653017712|ref|WP_027269676.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella sainthelensi] &gt;gi|962270952|gb|KTD54955.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269676</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>825.083</Hsp_bit-score>
+      <Hsp_score>2130</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>438</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKTPLLLMILDGWGYNENNQYNAIAQAKTPQWDEWWKNCPHILLQAAGDSVGLPDAQMGNSEVGHMHIGAGRVIEQDFTRINKSIKNGQFANNPVFCNVITTLQKTEKALHIMGLFSPGGVHSHEQHLFALLDLCVQQKFTAVYLHLFLDGRDTPPQSALLSLERLESYLKTHPVATIASISGRYYAMDRDNRWDRIEQVYSVLTQSESKYHFADAETAIKSYYRENLSDEFIPPTQIAKPHSIKDGDAVLFFNFRADRARQLSTAFLDPEFKKFNRTIKPQLSYFVSMTQYDKNLPTTAAFPPIPLNNTLGEVLATHGLSQLRIAETEKYAHVTFFFNGGNENVFPNEERVLIPSPKIATYNLQPEMSAPQLTQQLIAAIDSQAYDVIICNYANADMVGHSGDFAATVTAIECLDQCMSQVWHALAQHGGQLLITSDHGNAEEMFDENTHQAHTAHTSEPVPLLYVGGLWHFTYSEGSLTDIAPTMLTLLGITPPAEMTGHSLLEKN</Hsp_hseq>
+      <Hsp_midline>M    PL+LMILDGWGYNEN++YNAIA+A TPQWDEWW+ CPHILL+A+G  VGLPD QMGNSEVGHMHIGAGRVI+QDFTRIN++I NG+FA N VF  VI  L+KTEK+LHIMGL SPGGVHSHEQHLFALL LC Q+KF +V+LHLFLDGRDTPPQSAL SL+ L   L  HPVATI SI GRYYAMDRD RW+R+E VY++LTQ +S+  F DAETAI  YY+  +SDEF+PPT I K HSI+DGDAVLFFNFRADRARQL++ FLDP FK F R   P+LSYFVSMTQYDKNL TT AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VF NEER+++PSP++ATY+LQPEMSA +LT+ LIAAI+SQ Y VIICNYANADMVGH+G+F ATV AIECLDQCM QVW AL  +GG+LLIT+DHGNAEEMF E T+QAHTAHTSEPVP LYVGG WHFT+SEGSL DIAP++L LLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966504695|ref|WP_058521354.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella tucsonensis] &gt;gi|962290685|gb|KTD74393.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521354</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>823.928</Hsp_bit-score>
+      <Hsp_score>2127</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>437</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKATLLLMILDGWGYNKNNKHNAIAQANTPQWDEWWKNCPHILLQASGFSVGLPDAQMGNSEVGHMHIGAGRVIQQDYTRINESIKNGEFANNPVFHDVISTLQKTEKSLHIMGLFSPGGVHSHEHHLFALLNLCAQQKFTSVYLHLFLDGRDTPPQSVLNSLERLNAELKTHPVARVCSISGRYYAMDRDNRWERIEPVYTLLTQGNSEHHFVDAETAIKSFYQQNRSDEFIPPTLIGEKKAIEDGDAAFFFNFRADRARQLTTAFIDPTFKKFNRATQPQLSYFVSMTQYDKNLPTTQVFPPIPLNNTLGEVLAAHNLSQLRIAETEKYAHVTFFFNGGNENVFPHEERILIASPNVATYDLQPEMSAPQLTECLIEAINSNAYDVIICNYANADMVGHSGDFKATIRAIECLDQCMSKVWNALERQGGKLLITADHGNAEEMFDETTLQAHTAHTSEPVPLVYVGGHWHFSRSKGSLIDIAPTILALLEITPPAEMTGHQLLEKN</Hsp_hseq>
+      <Hsp_midline>M   A L+LMILDGWGYN+N+++NAIA+ANTPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQD+TRINE+I NG+FA N VFH+VI  L+KTEKSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV+LHLFLDGRDTPPQS L+SL+ LN EL  HPVA + SI GRYYAMDRD RWER+EPVY LLTQG SE  F DAETAI  +Y+   SDEF+PPTLIG++ +I+DGDA  FFNFRADRARQLT+ F+DP+FK F R T P+LSYFVSMTQYDKNL TT  FPP+PLNNTLGEVL++H LSQLRIAETEKYAHVTFFFNGG E+VF +EERI++ SP VATYDLQPEMSA +LT+ LI AINS  Y VIICNYANADMVGH+G+F+AT++AIECLDQCM +VW AL+  GGKLLITADHGNAEEMF E T QAHTAHTSEPVP +YVGG WHF+ S+GSLIDIAP++LALL ITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966422743|ref|WP_058465944.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella cincinnatiensis] &gt;gi|962197748|gb|KTC82787.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465944</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>823.543</Hsp_bit-score>
+      <Hsp_score>2126</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>385</Hsp_identity>
+      <Hsp_positive>437</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNQYNAIAQAKTPQWDEWWENCPHILLQASGDSVGLPDAQMGNSEVGHMHIGAGRIIEQDFTRINKSIKNGEFANNPVFYKVITTLQKTEKTLHIMGLFSPGGVHSHEQHLFALLDLCAQQKFTAVYLHLFLDGRDTPPQSALPSLERLNAYFKIHPVATIASISGRYYAMDRDNRWNRIEQVYTLLTQSEGKYHYADAETAIKSYYLENLSDEFIPPTRIGKQHPIKDGDAVLFFNFRADRARQLTTAFLDPEFKKFHRTLRPQLSYFVSMTQYDKNLPTTSAFPPIPLNNTLGEVLATHGLSQLRIAETEKYAHVTFFLNGGNENVFPNEERVLIPSPKVATYNLQPEMSAPQLTEHLVEAINSQAYDVIICNYANADMVGHSGDFAATLSAIECLDQCMSRVWHALAQHGGQLLITADHGNAEEMFDENTHQAHTAHTSEPVPLVYVGGLWHFTRSEGSLIDIAPTMLTLLGITPPAEMTGHSLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN++YNAIA+A TPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGR+I+QDFTRIN++I NG+FA N VF++VI  L+KTEK+LHIMGL SPGGVHSHEQHLFALL LC Q+KF +V+LHLFLDGRDTPPQSAL SL+ LN     HPVATI SI GRYYAMDRD RW R+E VY LLTQ + +  + DAETAI  YY   +SDEF+PPT IGK+H I+DGDAVLFFNFRADRARQLT+ FLDP FK F R   P+LSYFVSMTQYDKNL TT+AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFF NGG E+VF NEER+++PSP+VATY+LQPEMSA +LT+ L+ AINSQ Y VIICNYANADMVGH+G+F AT+ AIECLDQCM +VW AL  +GG+LLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT SEGSLIDIAP++L LLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966498828|ref|WP_058515594.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella santicrucis] &gt;gi|962269268|gb|KTD53282.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515594</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>822.772</Hsp_bit-score>
+      <Hsp_score>2124</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>385</Hsp_identity>
+      <Hsp_positive>437</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNQYNAIAQAKTPQWDEWWENCPHILLQASGDAVGLPDAQMGNSEVGHMHIGAGRVIEQDFTRINKSIKNGEFANNPVFYKAITTLKKTEKALHIMGLFSAGGVHSHEQHLFALLDLCTQQKFTAVYLHLFLDGRDTPPQSALLSLERLDAYLKTHPIATIASISGRYYAMDRDNRWERIEQVYTLLTQSESKYHYADAETAIKSYYLENLSDEFIPPTRIGKQHPIKDGDAVLFFNFRADRARQLTTSFLDPEFNKFNRTIQPQLSSFVSMTQYDKNLPTTSAFPPIPLNNTLGEVLATHGLSQLRIAETEKYAHVTFFFNGGNESVFPNEERVLIPSPKVATYNLQPEMSAPQLTEHLVEAINSQAYDVIICNYANADMVGHSGDFAATLSAIECLDQCMSHVWHALAQHGGQLLITADHGNAEEMFDENTHQAHTAHTSEPVPLVYVGGLWHFTRSEGSLIDIAPTMLTLLGITPPAEMSGHSLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN++YNAIA+A TPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVI+QDFTRIN++I NG+FA N VF++ I  LKKTEK+LHIMGL S GGVHSHEQHLFALL LC Q+KF +V+LHLFLDGRDTPPQSAL SL+ L+  L  HP+ATI SI GRYYAMDRD RWER+E VY LLTQ +S+  + DAETAI  YY   +SDEF+PPT IGK+H I+DGDAVLFFNFRADRARQLT++FLDP F  F R   P+LS FVSMTQYDKNL TT+AFPP+PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG ESVF NEER+++PSP+VATY+LQPEMSA +LT+ L+ AINSQ Y VIICNYANADMVGH+G+F AT+ AIECLDQCM  VW AL  +GG+LLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT SEGSLIDIAP++L LLGITPP EM+G  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|493927727|ref|WP_006872462.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella drancourtii] &gt;gi|363536179|gb|EHL29625.1| hypothetical protein LDG_8590 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872462</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>821.231</Hsp_bit-score>
+      <Hsp_score>2120</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>435</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MRKNAPLLLMILDGWGYNKNNKHNAIAQANTPQWDEWWQTCPHILLEASGLPVGLPNKQMGNSEVGHMHIGAGRVIQQDFTRINESIDNGSFATNPVFLNVITQLKQTRHSLHIMGLFSPGGVHSHEHHLFALLALCAQQNFHSVCLHLFLDGRDTPPQSALQSFGRLQAKLKKYPVAQICSISGRYYAMDRDNRWERIEPVYTLLTEGQSVHHFADAQTAIESYYQQNLSDEFIPPTLIGTKQTITDGDAVLFFNFRADRARQLTSAFIDKSFNKFQRKVQPQLADFVSMTQYDTNLATTPAFPPYPLNNTLGEVLAAHGLSQLRIAETEKYAHVTFFFNGGNEHIFAHEERILIPSPKVATYDLQPEMSAPQLTERLVEAINNQTYDVIICNYANADMVGHTGNFKATVCAIECLDHCMTKVWQALSKQGGQLLITADHGNAEEMFDESTEQPHTAHTSEPVPLVYVGGNWHFTRAEGSLIDIAPTMLTLLGINPPAEMTGHPLLEQD</Hsp_hseq>
+      <Hsp_midline>M  NAPL+LMILDGWGYN+N+++NAIA+ANTPQWDEWWQTCPHILL+ASGLPVGLP++QMGNSEVGHMHIGAGRVIQQDFTRINE+I+NG FA N VF  VI QLK+T  SLHIMGL SPGGVHSHE HLFALLALC Q+ F SV LHLFLDGRDTPPQSAL S   L  +L K+PVA I SI GRYYAMDRD RWER+EPVY LLT+G+S   F DA+TAI  YY+  +SDEF+PPTLIG + +I DGDAVLFFNFRADRARQLTS F+D SF  F+RK  P+L+ FVSMTQYD NL TT AFPP PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E +F +EERI++PSP+VATYDLQPEMSA +LT+ L+ AIN+Q Y VIICNYANADMVGHTGNF+ATV AIECLD CM +VWQAL   GG+LLITADHGNAEEMF E+T Q HTAHTSEPVP +YVGG WHFT +EGSLIDIAP++L LLGI PP EMTG  LLE++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966516712|ref|WP_058533206.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533206</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>819.305</Hsp_bit-score>
+      <Hsp_score>2115</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>381</Hsp_identity>
+      <Hsp_positive>441</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MHKRAPLLLMILDGWGYNKNNKHNAIAQANTPQWDEWWQTRPHMLLNASGLPVGLPDEQMGNSEVGHMHIGAGRIIQQDFTRINQSIAEGEFAKNPVFLNMLQKLKQTGKSLHIMGLFSPGGVHSHEHHLFALLALCAQYNFHAVCLHLFLDGRDTPPQSALQSIARLNAELQKYPVARICSISGRYYAMDRDNRWERIAPVYNLLTLGQSQHQFTDAETAIKFYYQQNLTDEFIPPTQIDSGAIIKDGDAILFFNFRADRARQLTTAFINSSFEHFNRQACPRLSYFVSMTQYDKNLATTSAFPPIPLNNTLGEVLAAHGLRQLRIAETEKYAHVTFFFNGGKEQVFDNEERILIPSPRVATYNLQPEMSAPQLTDRLVEAISNQAYDVIICNYANADMVGHSGDFDATIQAIECLDQCMHRVWKALEQQGGQLLITADHGNAEEMFDESTHQAHTAHTSEPVPLVYVGGNWHFTRAEGSLTDIAPTMLALLGITPPAEMTGHQLLEKD</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYN+N+++NAIA+ANTPQWDEWWQT PH+LL ASGLPVGLPDEQMGNSEVGHMHIGAGR+IQQDFTRIN++I  G+FAKN VF  ++ +LK+T KSLHIMGL SPGGVHSHE HLFALLALC Q  F +V LHLFLDGRDTPPQSAL S+  LN EL K+PVA I SI GRYYAMDRD RWER+ PVYNLLT G+S+ QF DAETAI FYY+  ++DEF+PPT I     I+DGDA+LFFNFRADRARQLT+ F++ SF+ F R+  P+LSYFVSMTQYDKNL TT+AFPP+PLNNTLGEVL++HGL QLRIAETEKYAHVTFFFNGG E VF NEERI++PSP+VATY+LQPEMSA +LT  L+ AI++Q Y VIICNYANADMVGH+G+F+AT+QAIECLDQCM +VW+AL+  GG+LLITADHGNAEEMF E+T+QAHTAHTSEPVP +YVGG WHFT +EGSL DIAP++LALLGITPP EMTG  LLEK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|498340467|ref|WP_010654623.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Fluoribacter dumoffii] &gt;gi|962206005|gb|KTC90942.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654623</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>816.609</Hsp_bit-score>
+      <Hsp_score>2108</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>383</Hsp_identity>
+      <Hsp_positive>432</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKNATLLLMILDGWGYNKNSEYNAIAQANTPQWDEWWAHCPHILLDAAGHAVGLPDAQMGNSEVGHMHIGAGRVIQQDFTRINDSIKKGEFANNPVFQDVIKTLQTTKKSLHIMGLFSPGGVHSHENHLFALLELCAQQKFTSVYLHLFLDGRDTPPQSALHSLQRLDIELKKHPVAQVCSISGRYYAMDRDNRWERIEPVYTLLTQARCDSHFQDAETAIITYYQQNLSDEFIPPTLIGKGKPIEDGDAVLFFNFRADRARQLTTAFIDPAFKKFNRTVHPQLSYFVSMTQYDKNLPTSNAFPPIPLNNTLGEVLANHDLSQLRIAETEKYAHVTFFFNGGNENIFANEERILIPSPKIPTYDLQPEMSAPQLTECLVEAINSRAYDVIICNYANADMVGHSGNFQATVRAIECLDHCMSTVWKALSQQGGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGDWHFKRSEGSLIDIAPTMLALLGINPPAEMTGHPLLEKD</Hsp_hseq>
+      <Hsp_midline>M  NA L+LMILDGWGYN+N  YNAIA+ANTPQWDEWW  CPHILL A+G  VGLPD QMGNSEVGHMHIGAGRVIQQDFTRIN++I  G+FA N VF +VI  L+ T+KSLHIMGL SPGGVHSHE HLFALL LC Q+KF SV+LHLFLDGRDTPPQSAL SL+ L+ EL KHPVA + SI GRYYAMDRD RWER+EPVY LLTQ + +  F DAETAI  YY+  +SDEF+PPTLIGK   I+DGDAVLFFNFRADRARQLT+ F+DP+FK F R   P+LSYFVSMTQYDKNL T+ AFPP+PLNNTLGEVL++H LSQLRIAETEKYAHVTFFFNGG E++F NEERI++PSP++ TYDLQPEMSA +LT+ L+ AINS+ Y VIICNYANADMVGH+GNF+ATV+AIECLD CM  VW+AL   GGKLLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHF  SEGSLIDIAP++LALLGI PP EMTG  LLEK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|966440833|ref|WP_058481156.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella waltersii] &gt;gi|962291890|gb|KTD75588.1| phosphoglyceromutase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481156</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.757</Hsp_bit-score>
+      <Hsp_score>2098</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>605</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>512</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>445</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>512</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHA</Hsp_qseq>
+      <Hsp_hseq>MPNSSPLVLMILDGWGYNSNAKYNAIAQANTPQWDEWWHNCPHILLEASGNPVGLPDHQMGNSEVGHMHIGAGRVIQQDFTRINDAIKSGEFAKNSNFNLVIDELTKDKKSLHIMGLFSPGGVHSHEEHLFALLELCNKKNYKSVHLHLFLDGRDTPPQSAMDSLKRLSRVLSENPVGKIDSISGRYYAMDRDKRWDRIELVFSLLTQGIAKHQFLNAEQAILSFYQDNISDEFIPPTLIGEVSPIKDGDAVLFFNFRADRARQLTSAFIDPHFNGFIRPSVPRLSYFISMTQYDKHLDTLIAFPPIPLNNTLGEVLSAHGLKQLRIAETEKYAHVTFFLNGGTEQVFANEKRILIPSPKVSTYDLKPEMSAPELTDVLVNAINNNEFDVIICNFANADMVGHSGNFKATLKAIECLDTCMKKIGDALEKKSGQLLITADHGNAEEMYDDVTQQAHTAHTTEPVPLIYVGGGWHFTCKSGSLIDVAPTLLTLLNISPPPEMTGHILLEKDHA</Hsp_hseq>
+      <Hsp_midline>M +++PLVLMILDGWGYN N +YNAIA+ANTPQWDEWW  CPHILL+ASG PVGLPD QMGNSEVGHMHIGAGRVIQQDFTRIN+AI +G+FAKN+ F+ VID+L K +KSLHIMGL SPGGVHSHE+HLFALL LCN+K ++SVHLHLFLDGRDTPPQSA+DSLK L+  L+++PV  I+SI GRYYAMDRDKRW+R+E V++LLTQG ++ QF +AE AI  +Y++ ISDEF+PPTLIG+   I+DGDAVLFFNFRADRARQLTS F+DP F GF R ++P+LSYF+SMTQYDK+L T  AFPP+PLNNTLGEVLS+HGL QLRIAETEKYAHVTFF NGG E VF NE+RI++PSP+V+TYDL+PEMSA ELT  L+ AIN+ ++ VIICN+ANADMVGH+GNF+AT++AIECLD CM+++  AL+   G+LLITADHGNAEEM+ + T QAHTAHT+EPVP +YVGGGWHFT   GSLID+AP+LL LL I+PPPEMTG ILLEK+HA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966460458|ref|WP_058492887.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella worsleiensis] &gt;gi|962296527|gb|KTD80164.1| phosphoglyceromutase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492887</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.372</Hsp_bit-score>
+      <Hsp_score>2097</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>439</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MSQNTPLVLMILDGWGYNSSDKHNAIAMAHTPQWDQWWQTCPHILLQASGEPVGLPDKQMGNSEVGHMHIGSGRVIQQDFTRINKAIEQGEFAHNPVFNQTIDTLNQTGNSLHIMGLFSPGGVHSHEQHLYALLNLCCAKKLSSVCLHLFLDGRDTPPQSALNSVQRLNQIIEKHPEITISSICGRYYAMDRDNRWDRVEPVYNLLTLGQSSHQFASAEQAITHFYQNERSDEFIPPTLIGKTQPIKDGDAILFFNFRADRARQLSSAFIDSEFSGFKRSSIPRLSSFISMTQYDKNLATTPAFPPIAMHNTLGEVIARQGLKQLRIAETEKYAHVTFFFNGGSEHVFAHEERILVPSPKVATYDLQPEMSAPELTNILVDAINKQKYDVIICNYANADMVGHSGNFEATVRAVECLDQCMRRVWEALKKQDGVLLITADHGNAEEMFDDTTHQAHTAHTSEPVPFVCIGGHWHFTQAEGSLIDIAPTVLSILGITLPQEMTGHNLLEQSHAH</Hsp_hseq>
+      <Hsp_midline>MS N PLVLMILDGWGYN +D++NAIA A+TPQWD+WWQTCPHILL+ASG PVGLPD+QMGNSEVGHMHIG+GRVIQQDFTRIN+AI  G+FA N VF++ ID L +T  SLHIMGL SPGGVHSHEQHL+ALL LC  KK  SV LHLFLDGRDTPPQSAL+S++ LN+ + KHP  TI+SICGRYYAMDRD RW+RVEPVYNLLT G+S  QF  AE AI  +Y+N+ SDEF+PPTLIGK   I+DGDA+LFFNFRADRARQL+S F+D  F GF+R ++P+LS F+SMTQYDKNL TT AFPP+ ++NTLGEV++  GL QLRIAETEKYAHVTFFFNGG E VF +EERI+VPSP+VATYDLQPEMSA ELT  L+ AIN Q Y VIICNYANADMVGH+GNFEATV+A+ECLDQCM++VW+ALK   G LLITADHGNAEEMF + T+QAHTAHTSEPVPF+ +GG WHFT +EGSLIDIAP++L++LGIT P EMTG  LLE++HAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|489731247|ref|WP_003635363.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella longbeachae] &gt;gi|269987491|gb|EEZ93746.1| 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella longbeachae D-4968] &gt;gi|288859189|emb|CBJ13121.1| putative phosphoglycerate mutase proteins [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635363</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>812.372</Hsp_bit-score>
+      <Hsp_score>2097</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>381</Hsp_identity>
+      <Hsp_positive>433</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKAPLLLMILDGWGYNENNQYNAIAQAKTPQWDEWWEKCPHILLQASGDSVGLPDAQMGNSEVGHMHIGAGRVIEQDFTRINKSIANGEFAENPVFHNVLTTLQKTKKTLHIMGLFSPGGVHSHEQHLFALLDLCAQQKFTSVYLHLFLDGRDTPPQSALPSLERLDAYLRTHPIATIASISGRYYAMDRDNRWDRIEQVYNLLTQSVSKSRFADAETAIKSYYLENLSDEFIPPTQIGEPHPMKDGDAVLFFNFRADRARQLTTAFLDPEFNKFNRTKNTQLSYFVSMTQYDKNLPTTAAFPPIHLNNTLGEVLAAHGLSQLRIAETEKYAHVTFFFNGGNENVFPHEERVLIPSPKIATYNLQPEMSAPQLTDHLVAAINSHAYDVIICNYANADMVGHSGDFAATVSAIECLDRCMSQVWHALAKQGGQLLITADHGNAEEMFDEKTHQAHTAHTSEPVPLVYVGGPWHFTRSEGGLTDIAPTMLTLLGITPPTEMTGHSLLEKN</Hsp_hseq>
+      <Hsp_midline>M   APL+LMILDGWGYNEN++YNAIA+A TPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVI+QDFTRIN++I NG+FA+N VFH V+  L+KT+K+LHIMGL SPGGVHSHEQHLFALL LC Q+KF SV+LHLFLDGRDTPPQSAL SL+ L+  L  HP+ATI SI GRYYAMDRD RW+R+E VYNLLTQ  S+ +F DAETAI  YY   +SDEF+PPT IG+ H ++DGDAVLFFNFRADRARQLT+ FLDP F  F R    +LSYFVSMTQYDKNL TT AFPP+ LNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E+VF +EER+++PSP++ATY+LQPEMSA +LT  L+AAINS  Y VIICNYANADMVGH+G+F ATV AIECLD+CM QVW AL   GG+LLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGG WHFT SEG L DIAP++L LLGITPP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|769980415|ref|WP_045096400.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella fallonii] &gt;gi|698844030|emb|CEG57999.1| phosphoglycero mutase III, cofactor-independent [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096400</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>806.594</Hsp_bit-score>
+      <Hsp_score>2082</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>606</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>427</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>513</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNHAH</Hsp_qseq>
+      <Hsp_hseq>MKKNGPLVLLILDGWGYNPRKKHNAIATAHTPQWDEWWNKCPHILLDASGLSVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINQAISNGEFANSPLFNGTLDHLKKNYKSLHIMGLLSPGGVHSHEEHLFAFLELCASKQFNSVCLHLFLDGRDTPPQSALGSLDRLNKVLEKYKVGKICSISGRYYAMDRDKRWDRVEPVYTLLTQGQSKNHFADAKEAIEFFYKNNLSDEFIPPTQIGEKKPIESGDAVFFFNFRADRARQLTAAFIDPEFNGFNRDTRPQLYNFITMTQYDKNLPTIIAFPPIPLNNTLGELLAINNLKQLRIAETEKYAHVTFFFNGGSEQTFPNEKRILIPSPHVATYDLQPEMSAPKLTATLVEAINCQTYDVIICNYANADMVGHSGNFDATVRAVECLDQCMSQIGQALAKKNGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPFLYVGGGWHFTQSTGSLIDIAPTLLTLLGINPPAEMTGHALLEKDHAH</Hsp_hseq>
+      <Hsp_midline>M  N PLVL+ILDGWGYN   ++NAIA A+TPQWDEWW  CPHILL ASGL VGLPDEQMGNSEVGHMHIGAGRVIQQDFTRIN+AI+NG+FA + +F+  +D LKK  KSLHIMGLLSPGGVHSHE+HLFA L LC  K+F SV LHLFLDGRDTPPQSAL SL  LN+ L K+ V  I SI GRYYAMDRDKRW+RVEPVY LLTQG+S+  F DA+ AI F+YKN +SDEF+PPT IG++  I+ GDAV FFNFRADRARQLT+ F+DP F GF R T P+L  F++MTQYDKNL T  AFPP+PLNNTLGE+L+ + L QLRIAETEKYAHVTFFFNGG E  F NE+RI++PSP VATYDLQPEMSA +LT TL+ AIN Q Y VIICNYANADMVGH+GNF+ATV+A+ECLDQCM Q+ QAL    GKLLITADHGNAEEMF E T+QAHTAHTSEPVPFLYVGGGWHFT S GSLIDIAP+LL LLGI PP EMTG  LLEK+HAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|671587460|ref|WP_031563686.1|</Hit_id>
+  <Hit_def>2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563686</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>804.283</Hsp_bit-score>
+      <Hsp_score>2076</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>603</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>510</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>372</Hsp_identity>
+      <Hsp_positive>437</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKN</Hsp_qseq>
+      <Hsp_hseq>MQKKSPLVLMILDGWGYNENNKHNAIAQAHTPQWDEWWEQCPHILLQASGYSVGLPDAQMGNSEVGHMHIGAGRVIQQDFTRINDSIKSGEFFHNPVFNEVIETLKKSGKSLHLIGLFSPGGVHSHEEHLFALLKLCAQHHFNSIYLHLFLDGRDTPPQSALQSVERLKTELKTYPVARVCSISGRYYAMDRDNRWERIEPVYQLITEGLSDLYFSDAETAIKYYYKQNLSDEFIPPSRIGEIKTIEDGDAVLFFNFRADRARQLTTAFVDRDFEKFPRAAIPKLSYFVSMTQYDKNLATTEAFPSIPLNNTLGEVLANHGLSQLRIAETEKYAHVTFFFNGGKEHVFNLEQRILIPSPKVATYNLQPEMSAPQLTEALVEAIEDQTYNVIICNYANADMVGHSGDFKATLKAIECLDLCMSKVWQALEKQGGKLLITADHGNAEEMFDETTHQAHTAHTSEPVPLVYVGGGWHFARTEGSLTDIAPTILSLLGISPPREMTGLKLLEKN</Hsp_hseq>
+      <Hsp_midline>M   +PLVLMILDGWGYNEN+++NAIA+A+TPQWDEWW+ CPHILL+ASG  VGLPD QMGNSEVGHMHIGAGRVIQQDFTRIN++I +G+F  N VF+EVI+ LKK+ KSLH++GL SPGGVHSHE+HLFALL LC Q  F S++LHLFLDGRDTPPQSAL S++ L  EL  +PVA + SI GRYYAMDRD RWER+EPVY L+T+G S+  F DAETAI +YYK  +SDEF+PP+ IG+  +I+DGDAVLFFNFRADRARQLT+ F+D  F+ F R  +PKLSYFVSMTQYDKNL TT AFP +PLNNTLGEVL++HGLSQLRIAETEKYAHVTFFFNGG E VF  E+RI++PSP+VATY+LQPEMSA +LT+ L+ AI  Q Y+VIICNYANADMVGH+G+F+AT++AIECLD CM +VWQAL+  GGKLLITADHGNAEEMF E T+QAHTAHTSEPVP +YVGGGWHF  +EGSL DIAP++L+LLGI+PP EMTG  LLEKN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966403181|ref|WP_058446776.1|</Hit_id>
+  <Hit_def>phosphoglycerate mutase (2,3-diphosphoglycerate-independent) [Legionella feeleii] &gt;gi|962211519|gb|KTC96411.1| phosphoglyceromutase [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058446776</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>769.229</Hsp_bit-score>
+      <Hsp_score>1985</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>604</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>511</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>367</Hsp_identity>
+      <Hsp_positive>413</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>511</Hsp_align-len>
+      <Hsp_qseq>MSHNAPLVLMILDGWGYNENDRYNAIAKANTPQWDEWWQTCPHILLKASGLPVGLPDEQMGNSEVGHMHIGAGRVIQQDFTRINEAINNGKFAKNAVFHEVIDQLKKTEKSLHIMGLLSPGGVHSHEQHLFALLALCNQKKFRSVHLHLFLDGRDTPPQSALDSLKCLNEELAKHPVATINSICGRYYAMDRDKRWERVEPVYNLLTQGKSERQFPDAETAIHFYYKNKISDEFVPPTLIGKEHSIQDGDAVLFFNFRADRARQLTSTFLDPSFKGFERKTLPKLSYFVSMTQYDKNLLTTTAFPPVPLNNTLGEVLSSHGLSQLRIAETEKYAHVTFFFNGGCESVFTNEERIMVPSPQVATYDLQPEMSAHELTKTLIAAINSQDYHVIICNYANADMVGHTGNFEATVQAIECLDQCMQQVWQALKNNGGKLLITADHGNAEEMFSEATNQAHTAHTSEPVPFLYVGGGWHFTHSEGSLIDIAPSLLALLGITPPPEMTGRILLEKNH</Hsp_qseq>
+      <Hsp_hseq>MQKIKPLVLMILDGWGYQENTAHNAIAAANTPQWDEWWQSRPHILLDASGHQVGLPDEQMGNSEVGHMHIGAGRIIYQDFTRINEAISRGEFAKNPVLTNLIEDMQKKNKTLHVMGLLSPGGVHSHENHLFAFLALCHQLKFSNVCLHLFLDGRDTPPKSALQSLDRLNQHLERYPVATICSLSGRYFAMDRDKRWERVAPVYRLLTEAKSNYQFQRAETAITTFYEEKKYDEFIPPTLIGAGKMIEDGDSVLFFNFRADRARQLTQAFLDEEFNGFIRSTRPTLAHFVSMTHYAKNLATEIAFPPITLNNTLGEVIANNGLSQLRIAETEKYAHVTFFFNGGSEQVFRNEDRILIPSPSVATYDLLPEMSAPELTRALIDAIRSEAYDVIICNYANADMVGHSGDFNAAVKAVECLDQCMHDVWQALTETGGALLITADHGNAEAMFDETTQQAHTAHTCEPVPLLYVGGDWQFNQSKGSLIDVAPTILALLGITQPHEMTGHALLVKNY</Hsp_hseq>
+      <Hsp_midline>M    PLVLMILDGWGY EN  +NAIA ANTPQWDEWWQ+ PHILL ASG  VGLPDEQMGNSEVGHMHIGAGR+I QDFTRINEAI+ G+FAKN V   +I+ ++K  K+LH+MGLLSPGGVHSHE HLFA LALC+Q KF +V LHLFLDGRDTPP+SAL SL  LN+ L ++PVATI S+ GRY+AMDRDKRWERV PVY LLT+ KS  QF  AETAI  +Y+ K  DEF+PPTLIG    I+DGD+VLFFNFRADRARQLT  FLD  F GF R T P L++FVSMT Y KNL T  AFPP+ LNNTLGEV++++GLSQLRIAETEKYAHVTFFFNGG E VF NE+RI++PSP VATYDL PEMSA ELT+ LI AI S+ Y VIICNYANADMVGH+G+F A V+A+ECLDQCM  VWQAL   GG LLITADHGNAE MF E T QAHTAHT EPVP LYVGG W F  S+GSLID+AP++LALLGIT P EMTG  LL KN+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

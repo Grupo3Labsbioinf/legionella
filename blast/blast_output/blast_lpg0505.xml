@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_77251</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>473</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_77251</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>473</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248692|ref|WP_010946232.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|52840729|ref|YP_094528.1| protease subunit HflK [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627840|gb|AAU26581.1| HflK protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507241|gb|AEW50765.1| HflK protein [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|469492980|gb|AGH54825.1| HflK protein [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081149|gb|AGN13397.1| protease subunit HflK [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771670|emb|CZI66651.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998774530|emb|CZH00466.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998777506|emb|CZG98524.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998783624|emb|CZH33955.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998786278|emb|CZG99040.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998795730|emb|CZI43042.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998798531|emb|CZL71044.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998804402|emb|CZK47563.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998808943|emb|CZH73418.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998810770|emb|CZI19394.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998814784|emb|CZG50361.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998816666|emb|CZM04633.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998819692|emb|CZL99355.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998825604|emb|CZK40945.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998831330|emb|CZI84932.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998834510|emb|CZL39106.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998838652|emb|CZJ28602.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998840559|emb|CZL86226.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998843409|emb|CZK84055.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998846415|emb|CZL02915.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998850729|emb|CZI22728.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998852685|emb|CZL85536.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998855863|emb|CZL50504.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998858659|emb|CZM19077.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998862268|emb|CZK39640.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998864717|emb|CZJ85766.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998867167|emb|CZJ81565.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998870436|emb|CZM39656.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998873666|emb|CZK73910.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998876374|emb|CZM36339.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998879379|emb|CZJ76695.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998885831|emb|CZM37635.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998888831|emb|CZK47116.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998894438|emb|CZK50599.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998905349|emb|CZK82544.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998908790|emb|CZL58354.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998914358|emb|CZL38192.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998917794|emb|CZL55029.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998920668|emb|CZL59112.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998927947|emb|CZL75380.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998929834|emb|CZL07424.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998932791|emb|CZM04783.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998939397|emb|CZK99446.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998944984|emb|CZL44839.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998948075|emb|CZL21144.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998957147|emb|CZM63852.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998960421|emb|CZK66855.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998963247|emb|CZK70860.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998966079|emb|CZM80847.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998969424|emb|CZK95077.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998972581|emb|CZK79556.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998978547|emb|CZL93398.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998984469|emb|CZK71162.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998987656|emb|CZL78416.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998996793|emb|CZK32539.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999006466|emb|CZL24856.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999011975|emb|CZL77505.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999017221|emb|CZL84609.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999021518|emb|CZL70301.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999024297|emb|CZL05642.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999036280|emb|CZL77569.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999045487|emb|CZM18032.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999060447|emb|CZL65108.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999066532|emb|CZJ44139.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999075731|emb|CZH08283.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999078728|emb|CZK34578.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999081814|emb|CZL25861.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999087945|emb|CZL17065.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999091160|emb|CZL74235.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999094371|emb|CZH34154.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999097329|emb|CZH42278.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999100202|emb|CZM12683.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999109489|emb|CZL51307.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999112458|emb|CZM01355.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999115901|emb|CZK72211.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999124967|emb|CZL19780.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999130769|emb|CZM16896.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999134292|emb|CZL38459.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999138448|emb|CZK11077.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999140842|emb|CZL84162.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999143466|emb|CZL43714.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999146420|emb|CZM00646.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999155896|emb|CZI32107.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999174610|emb|CZL51020.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999189929|emb|CZI66446.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999193197|emb|CZJ09245.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999200033|emb|CZG75640.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999202507|emb|CZJ08912.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999208681|emb|CZL32459.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999218436|emb|CZL89151.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999221041|emb|CZI96653.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999333865|emb|CZL16093.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002074473|emb|CZR04870.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002077375|emb|CZR11165.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1003018345|emb|CZR30335.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|1003021418|emb|CZR26680.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|1003024544|emb|CZR30396.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|1073863654|gb|AOU03605.1| HflK protein [Legionella pneumophila] &gt;gi|1073866612|gb|AOU06562.1| HflK protein [Legionella pneumophila] &gt;gi|1073869617|gb|AOU09566.1| HflK protein [Legionella pneumophila] &gt;gi|1073872561|gb|AOU12509.1| HflK protein [Legionella pneumophila] &gt;gi|1073875543|gb|AOU15490.1| HflK protein [Legionella pneumophila] &gt;gi|1073878504|gb|AOU18450.1| HflK protein [Legionella pneumophila] &gt;gi|1073881499|gb|AOU21444.1| HflK protein [Legionella pneumophila] &gt;gi|1073884461|gb|AOU24405.1| HflK protein [Legionella pneumophila] &gt;gi|1073887459|gb|AOU27402.1| HflK protein [Legionella pneumophila] &gt;gi|1073890444|gb|AOU30386.1| HflK protein [Legionella pneumophila] &gt;gi|1073893409|gb|AOU33350.1| HflK protein [Legionella pneumophila] &gt;gi|1073896373|gb|AOU36313.1| HflK protein [Legionella pneumophila] &gt;gi|1073899337|gb|AOU39276.1| HflK protein [Legionella pneumophila] &gt;gi|1073902288|gb|AOU42226.1| HflK protein [Legionella pneumophila] &gt;gi|1073905199|gb|AOU45136.1| HflK protein [Legionella pneumophila] &gt;gi|1073908217|gb|AOU48152.1| HflK protein [Legionella pneumophila] &gt;gi|1073911272|gb|AOU51204.1| HflK protein [Legionella pneumophila] &gt;gi|1073914191|gb|AOU54122.1| HflK protein [Legionella pneumophila] &gt;gi|1073917149|gb|AOU57079.1| HflK protein [Legionella pneumophila] &gt;gi|1073920115|gb|AOU60044.1| HflK protein [Legionella pneumophila] &gt;gi|1073923090|gb|AOU63017.1| HflK protein [Legionella pneumophila] &gt;gi|1073926102|gb|AOU66028.1| HflK protein [Legionella pneumophila] &gt;gi|1073929082|gb|AOU68991.1| HflK protein [Legionella pneumophila] &gt;gi|1073932467|gb|AOU72026.1| HflK protein [Legionella pneumophila] &gt;gi|1073935414|gb|AOU82413.1| HflK protein [Legionella pneumophila] &gt;gi|1073945689|gb|AOU85413.1| HflK protein [Legionella pneumophila] &gt;gi|1073948652|gb|AOU88375.1| HflK protein [Legionella pneumophila] &gt;gi|1104001801|emb|SFZ36238.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1129967267|gb|APT97626.1| protease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_010946232</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>780.785</Hsp_bit-score>
+      <Hsp_score>2015</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499526475|ref|WP_011213115.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|53750302|emb|CAH11696.1| protease subunit HflK [Legionella pneumophila str. Paris] &gt;gi|395126468|emb|CCD04651.1| modulator for HflB protease specific for phage lambda cII repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|536613605|gb|ERB41977.1| protease [Legionella pneumophila str. 121004] &gt;gi|541997361|gb|ERH43407.1| protease [Legionella pneumophila str. Leg01/53] &gt;gi|542121150|gb|ERI47483.1| protease [Legionella pneumophila str. Leg01/20] &gt;gi|762002505|dbj|GAN25623.1| modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998782977|emb|CZI84212.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998828283|emb|CZH36550.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998883039|emb|CZI86139.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998897668|emb|CZK06930.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998912125|emb|CZH22388.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998923774|emb|CZK26364.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998937995|emb|CZL85350.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998943844|emb|CZJ51422.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998951034|emb|CZJ93999.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998954381|emb|CZK62710.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998975552|emb|CZJ91844.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998992782|emb|CZJ45626.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998994544|emb|CZI21034.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999000054|emb|CZG93301.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999009014|emb|CZK44413.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999018176|emb|CZJ85769.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999027291|emb|CZK23141.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999030608|emb|CZH25424.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999033241|emb|CZK19734.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999039447|emb|CZJ94479.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999042487|emb|CZK06211.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999048480|emb|CZK00479.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999051617|emb|CZJ93870.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999054504|emb|CZK27559.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999058482|emb|CZM31205.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999063729|emb|CZK03657.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999070528|emb|CZJ63536.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999072747|emb|CZK29909.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999085037|emb|CZK32603.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999103740|emb|CZI20868.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999128466|emb|CZH14492.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999152590|emb|CZM81127.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999161929|emb|CZM40558.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999171896|emb|CZI30887.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999181685|emb|CZG52779.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999184372|emb|CZP96558.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999187853|emb|CZI96313.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999198505|emb|CZP15297.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999206238|emb|CZP64438.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999212769|emb|CZG80006.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999216873|emb|CZI64478.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999225285|emb|CZG81457.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999228341|emb|CZP10235.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999235246|emb|CZP59846.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999236743|emb|CZG94969.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999240244|emb|CZH89312.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999244411|emb|CZH78144.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999248818|emb|CZH09597.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999252034|emb|CZH38506.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999256023|emb|CZP80933.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999259071|emb|CZP45712.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999261342|emb|CZH43052.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999265258|emb|CZP08325.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999269470|emb|CZO34477.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999272272|emb|CZP59682.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999274840|emb|CZG81181.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999277654|emb|CZP38653.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999281315|emb|CZP14471.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999283717|emb|CZP62843.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999291034|emb|CZP33507.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999296439|emb|CZP57103.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999299526|emb|CZP45860.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999307352|emb|CZH71965.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999309416|emb|CZP28627.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999315776|emb|CZI08560.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999318724|emb|CZP66182.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999322066|emb|CZH99981.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999324395|emb|CZH31750.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999328669|emb|CZG66370.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999331776|emb|CZG56662.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999337803|emb|CZP48512.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999340126|emb|CZH27554.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999344406|emb|CZP83361.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999347255|emb|CZP64394.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999349661|emb|CZH39546.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999353427|emb|CZP67433.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999357185|emb|CZP66965.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999360015|emb|CZI63118.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999363765|emb|CZP55233.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999367163|emb|CZP78242.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999369894|emb|CZP76678.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999373413|emb|CZG55857.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999376447|emb|CZJ17384.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999379796|emb|CZH70533.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999382691|emb|CZI59447.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999386240|emb|CZG62970.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999389141|emb|CZI58169.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999392352|emb|CZP98703.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999396861|emb|CZG07410.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999398600|emb|CZQ01418.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999403075|emb|CZP39533.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999405877|emb|CZG69940.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999408936|emb|CZH93051.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999412784|emb|CZG34115.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999415389|emb|CZG86603.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999418729|emb|CZG63197.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999421924|emb|CZH72112.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999425238|emb|CZG73806.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999428408|emb|CZG74438.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999431602|emb|CZG71889.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999434960|emb|CZH98696.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999438144|emb|CZG61123.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999441140|emb|CZK27562.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|999444667|emb|CZH78616.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999447870|emb|CZG54642.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999450669|emb|CZP37027.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999457611|emb|CZK23480.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999464806|emb|CZM50711.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999467830|emb|CZO28101.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999469359|emb|CZH08335.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999474745|emb|CZM63467.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999477202|emb|CZN76400.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999480704|emb|CZN01827.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999484205|emb|CZN87661.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999487136|emb|CZM12794.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999490309|emb|CZN80707.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999493500|emb|CZM12256.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999496296|emb|CZI48239.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999500080|emb|CZN74804.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999503206|emb|CZO09652.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999506326|emb|CZN14682.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999509529|emb|CZG49776.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999512867|emb|CZN29025.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999516045|emb|CZM01609.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999518958|emb|CZM83066.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999521912|emb|CZP17931.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999525317|emb|CZJ06015.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999528030|emb|CZI72946.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999532314|emb|CZO44665.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999535470|emb|CZN39020.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999538551|emb|CZM74229.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999541995|emb|CZO19664.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999544957|emb|CZO59907.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999548199|emb|CZN90433.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999551511|emb|CZO12650.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999554546|emb|CZN32676.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999557879|emb|CZO54670.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999561112|emb|CZM43486.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999564118|emb|CZO68371.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999567482|emb|CZM53860.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999570682|emb|CZN51753.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999573870|emb|CZN94178.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999576069|emb|CZI43423.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999580362|emb|CZO18107.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999583650|emb|CZO39408.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999587013|emb|CZM66333.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999589952|emb|CZM39228.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999593111|emb|CZN44217.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999596184|emb|CZO10557.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999599504|emb|CZO36349.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999602670|emb|CZL98449.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999605458|emb|CZN74293.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999608995|emb|CZN64312.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999611325|emb|CZI64367.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999615607|emb|CZM48962.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999618624|emb|CZN89228.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999621806|emb|CZO83284.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999625134|emb|CZN72636.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999628367|emb|CZM61798.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999631583|emb|CZM60295.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999634643|emb|CZN60724.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999637971|emb|CZN52893.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999641167|emb|CZO80904.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999644159|emb|CZO54557.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999647650|emb|CZN95887.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999650664|emb|CZO04232.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999653951|emb|CZO01862.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999657148|emb|CZM30891.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999660222|emb|CZM66046.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999663347|emb|CZN16167.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999666712|emb|CZM36622.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999669904|emb|CZL83347.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999673132|emb|CZM38736.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999676298|emb|CZN76665.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999679357|emb|CZM80596.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999682552|emb|CZM83188.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999686239|emb|CZO01491.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999689093|emb|CZN29764.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999692286|emb|CZN98073.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999695503|emb|CZN27968.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999698830|emb|CZM13247.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999701774|emb|CZM79913.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999705009|emb|CZL96117.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999708133|emb|CZN56092.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999711552|emb|CZM99841.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999714648|emb|CZN20304.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999718022|emb|CZO47129.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999720978|emb|CZM94870.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999724497|emb|CZN35486.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999727798|emb|CZL98299.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999731019|emb|CZO44372.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999734141|emb|CZM24803.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999737519|emb|CZO71644.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999741000|emb|CZM32611.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999744062|emb|CZN25915.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999747204|emb|CZM24167.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999750564|emb|CZL97529.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999753760|emb|CZM82193.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999756811|emb|CZN11754.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999760312|emb|CZM25614.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999763343|emb|CZN29261.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999766869|emb|CZM46963.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999769718|emb|CZN49416.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999776182|emb|CZL99018.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999777447|emb|CZH48200.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999782930|emb|CZH63299.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999786381|emb|CZM23362.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999789546|emb|CZO65802.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999792891|emb|CZO59737.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999799776|emb|CZO54456.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002085586|emb|CZQ97677.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002088264|emb|CZQ79023.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1003029227|emb|CZR19250.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|1003036410|emb|CZR17215.1| membrane protease subunit HflK [Legionella pneumophila] &gt;gi|1005832256|gb|AMQ26982.1| protease [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431620|gb|AMV13247.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1041014526|gb|ANN91587.1| HflK protein [Legionella pneumophila] &gt;gi|1041017623|gb|ANN94683.1| HflK protein [Legionella pneumophila] &gt;gi|1103995553|emb|SFZ36546.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1103998684|emb|SFZ36251.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1104005368|emb|SFZ36174.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213115</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.859</Hsp_bit-score>
+      <Hsp_score>2010</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>379</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|653014618|ref|WP_027266648.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266648</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.089</Hsp_bit-score>
+      <Hsp_score>2008</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYIPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQY+PQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1080123422|ref|WP_070322146.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella pneumophila] &gt;gi|1080008133|gb|AOW58121.1| HflK protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012205|gb|AOW61696.1| HflK protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018449|gb|AOW67094.1| HflK protein [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322146</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>777.704</Hsp_bit-score>
+      <Hsp_score>2007</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRMLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDR+LDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652967246|ref|WP_027220218.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|999247922|emb|CZH57989.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999454023|emb|CZI19766.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999460487|emb|CZG98796.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999773168|emb|CZH91127.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999796156|emb|CZI25407.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220218</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>777.704</Hsp_bit-score>
+      <Hsp_score>2007</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTALLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVT LLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1005610000|ref|WP_061692494.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella pneumophila] &gt;gi|998822441|emb|CZH33695.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692494</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>776.933</Hsp_bit-score>
+      <Hsp_score>2005</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>379</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504656267|ref|WP_014843369.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|395129574|emb|CCD07807.1| modulator for HflB protease specific for phage lambda cII repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|761992707|dbj|GAN16495.1| modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|761995897|dbj|GAN19601.1| modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998791215|emb|CZG38750.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998892662|emb|CZJ25768.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|998982409|emb|CZI65666.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999107531|emb|CZI63070.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999231760|emb|CZI43560.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002081569|emb|CZQ99985.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843369</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>776.933</Hsp_bit-score>
+      <Hsp_score>2005</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGANVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNG NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1004017618|ref|WP_061485341.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485341</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>776.548</Hsp_bit-score>
+      <Hsp_score>2004</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLTAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVL AQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1005410653|ref|WP_061639905.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella pneumophila] &gt;gi|998793168|emb|CZI52937.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639905</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>776.163</Hsp_bit-score>
+      <Hsp_score>2003</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKIMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGANVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQK+MNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNG NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1011913464|ref|WP_062726678.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726678</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>775.778</Hsp_bit-score>
+      <Hsp_score>2002</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKTIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLK IKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|499533443|ref|WP_011214727.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|53753307|emb|CAH14754.1| protease subunit HflK [Legionella pneumophila str. Lens] &gt;gi|1080002239|gb|AOW52811.1| HflK protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006008|gb|AOW56288.1| HflK protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014738|gb|AOW63611.1| HflK protein [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214727</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>775.393</Hsp_bit-score>
+      <Hsp_score>2001</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRMLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVRNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDR+LDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNV NEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|652966171|ref|WP_027219172.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|998801872|emb|CZI09821.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999003180|emb|CZI83005.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999149937|emb|CZI47591.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999159282|emb|CZJ67798.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999165648|emb|CZG81912.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999168585|emb|CZI44301.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999178289|emb|CZJ54761.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999287242|emb|CZI47458.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999293630|emb|CZI46181.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999312681|emb|CZI54524.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1002092749|emb|CZQ95223.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1032656664|gb|ANH11935.1| protease modulator HflK [Legionella pneumophila] &gt;gi|1032659631|gb|ANH14901.1| protease modulator HflK [Legionella pneumophila] &gt;gi|1032662598|gb|ANH17867.1| protease modulator HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219172</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>775.393</Hsp_bit-score>
+      <Hsp_score>2001</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>378</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSGNLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQS NLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|654928774|ref|WP_028379199.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028379199</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.237</Hsp_bit-score>
+      <Hsp_score>1998</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>376</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLETMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKTIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLE MQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLK IKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|654927526|ref|WP_028378018.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378018</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>772.311</Hsp_bit-score>
+      <Hsp_score>1993</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIKEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLETMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKTIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRI++KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLE MQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLK IKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|652976196|ref|WP_027228869.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|985765972|gb|KXB27083.1| protease [Legionella pneumophila] &gt;gi|985767718|gb|KXB28804.1| protease [Legionella pneumophila] &gt;gi|999119291|emb|CZG77229.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999122501|emb|CZH11512.1| Modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|1024341649|gb|KZX35956.1| protease [Legionella pneumophila] &gt;gi|1108603964|gb|APF02332.1| HflK protein [Legionella pneumophila subsp. fraseri] &gt;gi|1108606975|gb|APF05342.1| HflK protein [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228869</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>772.311</Hsp_bit-score>
+      <Hsp_score>1993</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLETMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNRYVPQSENLKTIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLE MQKVMNKSSTIIVDSKAGNLLYLPLDKLLGN+YVPQSENLK IKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|500490083|ref|WP_011945643.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|148282673|gb|ABQ56761.1| protease subunit HflK [Legionella pneumophila str. Corby] &gt;gi|295647935|gb|ADG23782.1| membrane protease subunit HflK [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989520|dbj|GAN22583.1| modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|761999044|dbj|GAN28933.1| modulator of FtsH protease HflK [Legionella pneumophila] &gt;gi|999302847|emb|CZI37719.1| Modulator of FtsH protease HflK [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945643</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>770.77</Hsp_bit-score>
+      <Hsp_score>1989</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>376</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVQQSGNLKAIKNGANVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYV QS NLKAIKNG NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652970662|ref|WP_027223554.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella pneumophila] &gt;gi|1005362762|gb|AMP88631.1| protease [Legionella pneumophila subsp. pascullei] &gt;gi|1005365763|gb|AMP91540.1| protease [Legionella pneumophila subsp. pascullei] &gt;gi|1005368751|gb|AMP94527.1| protease [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223554</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.222</Hsp_bit-score>
+      <Hsp_score>1972</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYAETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLDSYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIQQEAEAYSKQIVLTAQGEVAEFLALLPQYNATPQVTAKRMYLETMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKSGTNVSDEEDNLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKY ETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTL+SYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRIQQEAEAYSKQ+VL AQGEVAEFLALLPQYNA PQVTAKRMYLE MQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIK+GTNVS+EEDNLILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|737924674|ref|WP_035889928.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella norrlandica] &gt;gi|701445685|gb|KGP63057.1| protease [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889928</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>685.641</Hsp_bit-score>
+      <Hsp_score>1768</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>336</Hsp_identity>
+      <Hsp_positive>354</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQEKLKKTFLGGGGKSNNSS--GTGGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRLISSKIIMNVDRVLDYSYSAQMLTSDENLVAVSLAVQYRINDLKEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLIKTLSNYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGTASRIRQEAEAYSKQVVLTAQGEVAEFLALLPQYNAAPQIMAERMYLETMQKVLRNSTKIIVDNKAGNLLYLPLDKILGNQNIPQSEIPKPVK--TTSSDEEDNLILSGRELKRPTYSEERD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQ+KLKKTF GG GKSNN+S  G+ GGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLV+VSLAVQYRINDL EYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETL KTL +YKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG ASRI+QEAEAYSKQVVL AQGEVAEFLALLPQYNAAPQ+ A+RMYLE MQKV+  S+ IIVD+KAGNLLYLPLDK+LGNQ +PQSE  K +K  T  S+EEDNLILSGR+L RPTYS+ RD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966440826|ref|WP_058481149.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella waltersii] &gt;gi|962291883|gb|KTD75581.1| protease subunit HflK [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481149</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>654.825</Hsp_bit-score>
+      <Hsp_score>1688</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>311</Hsp_identity>
+      <Hsp_positive>344</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEQGKDPWKGKNQPPDLDEAIKRIHDKLKKALFGGAGKSPGSPSTGTNAGLISLSVLLIVFILWALSGIFIVDPAEQAAILRFGKYVETVGPGPHWIPRFISSKVVVNVDRVMDYSYSAQMLTSDENLVAVSLAVQYRIGDLQDYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGNRVQDTLTKTLAIYKTGVLIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGTASRIKQEAEAYSKQSVLRAEGEVAGFIALLPQYNAAPQVTSERMYLDTMQKVLNKSSKIIVDSKAGNLLYLPLDKMIAAQSYSQTSNSKESKTAASNSNDENSLIIAGRDLTRPTYDQGRE</Hsp_hseq>
+      <Hsp_midline>MGWNEPE+GKDPW GKNQPPDLDEA+KRI DKLKK  FGG GKS  + S G++ GL++++VLLI FILWALSGIFIVDPAEQA ILRFGKYVETVGPGPHWIPRFISSK+V+NVDRV+DYSYSAQMLTSDENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWG RVQ+TLTKTL  YKTG+LIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG ASRI+QEAEAYSKQ VLRA+GEVA F+ALLPQYNAAPQVT++RMYL+ MQKV+NKSS IIVDSKAGNLLYLPLDK++  Q   Q+ N K  K   + SN+E++LI++GRDLTRPTY QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966431992|ref|WP_058472425.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella quateirensis] &gt;gi|962271454|gb|KTD55456.1| protease subunit HflK [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472425</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>650.588</Hsp_bit-score>
+      <Hsp_score>1677</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>319</Hsp_identity>
+      <Hsp_positive>348</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGKNQPPDLDEALKRIHEKLKKTFFGGNGQSENQSSGGSSGGLLAMIVVLIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIVMNVDRVLDYSYSAQMLTSDENLVAVSLAVQYRISDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREIWGNSVQDTLVKTLDIYKPGISIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVIPIAEGNASRIEQEAQAYSKQVVLRAQGEVAEFLALLPQYVTSPQIMSERMYLETMQKVLNKSTKIIVDSKSGNLLYLPLDKIIGNQNIAQSNTMKNKISSANSGSDEDSLILAGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW GKNQPPDLDEALKRI +KLKKTFFGG G+S N SSGGSSGGLLA+ V+LIAFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKIVMNVDRVLDYSYSAQMLTSDENLV+VSLAVQYRI+DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGRE+WG  VQ+TL KTL+ YK GI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKV+PIAEG ASRI+QEA+AYSKQVVLRAQGEVAEFLALLPQY  +PQ+ ++RMYLE MQKV+NKS+ IIVDSK+GNLLYLPLDK++GNQ + QS  +K   +  N  ++ED+LIL+GRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966460452|ref|WP_058492881.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella worsleiensis] &gt;gi|962296521|gb|KTD80158.1| protease subunit HflK [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492881</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>641.728</Hsp_bit-score>
+      <Hsp_score>1654</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>339</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGKNQPPDLDEALKRIHEKLKRTFFGGNSQSDNPASGGSGGGLIATIVALVAFILWVLAGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKVVMNVDRVMDYSYSAQMLTRDENLVAVSLAVQYRISDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREIWGNSVQDTLVKTLDIYKPGISIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVIPIAEGNASRIEQEAQAYSKQVVLRAQGEVAEFLALLPQYVLAPKVMSERMYLETMQKVLSKSTKIIVDSKSGNLLYLPLDKIMSSSTETQSNAMNTKANSADNGNDGDSLILAGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW GKNQPPDLDEALKRI +KLK+TFFGG  +S+N +SGGS GGL+A  V L+AFILW L+GIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSK+VMNVDRV+DYSYSAQMLT DENLV+VSLAVQYRI+DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGRE+WG  VQ+TL KTL+ YK GI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKV+PIAEG ASRI+QEA+AYSKQVVLRAQGEVAEFLALLPQY  AP+V ++RMYLE MQKV++KS+ IIVDSK+GNLLYLPLDK++ +    QS  +    N  +  N+ D+LIL+GRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|654933332|ref|WP_028383686.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella moravica] &gt;gi|962248469|gb|KTD32693.1| protease subunit HflK [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383686</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>636.336</Hsp_bit-score>
+      <Hsp_score>1640</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>345</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGKNQPPDLDEALKRIHEKLKNTFFGGNGSSENQSSGGSSGGLLAMIVALIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIVMNVDRVMDYSYSAQMLTSDENLVAVSLAVQYRISDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREIWGNSVQDTLVKTLDIYKPGISIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVIPIAEGNASRIEQEAEAYSKQVVLRAQGEVAEFLALLPQFVASPQIMSERMYLETMQKVLNSSTKIIVDSKSGNMLYLPLDKIIGNQNATQTNSTKSKISTVNSANDNDSLILSGRDLTRPTYSQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW GKNQPPDLDEALKRI +KLK TFFGG G S N SSGGSSGGLLA+ V LIAFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKIVMNVDRV+DYSYSAQMLTSDENLV+VSLAVQYRI+DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGRE+WG  VQ+TL KTL+ YK GI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKV+PIAEG ASRI+QEAEAYSKQVVLRAQGEVAEFLALLPQ+ A+PQ+ ++RMYLE MQKV+N S+ IIVDSK+GN+LYLPLDK++GNQ   Q+ + K+  +  N +N+ D+LILSGRDLTRPTYSQGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|517404000|ref|WP_018576814.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella shakespearei] &gt;gi|962283741|gb|KTD67513.1| protease subunit HflK [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576814</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>631.328</Hsp_bit-score>
+      <Hsp_score>1627</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>342</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGQNQPPDLDEALKRIHEKLKKTFFGGSDKSDNNSSNSSGGGLLAVMIALIIFILWVLSGIFIVDPAEQAAILRFGKYVETVGPGPHWIPRIISSKIVMNVDRVLDYSYSAQMLTSDENLVEVALAVQYRISDLQQYLFNVANPEESLQQATSSALRQVVGMTTLDQIITEGREVWGNSVQDTLIKTLALYKTGISIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAFAYAARVVPIAEGNASRINQEAQAFSKQVVLRAQGEVAEFLALLPQFVASPQVMSERMYLETMQKVLSKSSKIIVDSKSGNLLYLPLDKLIGKQLNSQTTALKSDNNAANGTNDEDSLILSGRDLTRPTYSQGRE</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW G+NQPPDLDEALKRI +KLKKTFFGG+ KS+NNSS  S GGLLAV + LI FILW LSGIFIVDPAEQA ILRFGKYVETVGPGPHWIPR ISSKIVMNVDRVLDYSYSAQMLTSDENLV V+LAVQYRI+DL +YLFNVANPEESLQQATSSALRQVVG TTLDQIITEGREVWG  VQ+TL KTL  YKTGI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQA+AYAA+VVPIAEG ASRI QEA+A+SKQVVLRAQGEVAEFLALLPQ+ A+PQV ++RMYLE MQKV++KSS IIVDSK+GNLLYLPLDKL+G Q   Q+  LK+  N  N +N+ED+LILSGRDLTRPTYSQGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|654930641|ref|WP_028381010.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381010</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>629.402</Hsp_bit-score>
+      <Hsp_score>1622</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>336</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRAHDKLKKFLFGGSTKIGNEPSKKSNGGLIALTVILVAFILWVLSGVFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRIGDLQEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQETLIKTLDLYKTGIVIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQALAYAAKVVPIAEGKASRIQQEAEAFSKQLVLNAQGEVSEFLALLPQYTAAPKVMAERMYLETMQKVISKSSTIIVDSKSGNLLYLPLDKLFGKSSGFPTETAKNDKAESDESNETENLV-DGRELTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR  DKLKK  FGG+ K  N  S  S+GGL+A+TV+L+AFILW LSG+FIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRI DL EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQETL KTL+ YKTGI+IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQA AYAAKVVPIAEGKASRIQQEAEA+SKQ+VL AQGEV+EFLALLPQY AAP+V A+RMYLE MQKV++KSSTIIVDSK+GNLLYLPLDKL G      +E  K  K  ++ SNE +NL+  GR+LTRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|963702372|ref|WP_058387409.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella cherrii] &gt;gi|962197405|gb|KTC82449.1| protease subunit HflK [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058387409</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.861</Hsp_bit-score>
+      <Hsp_score>1618</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>336</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRAHDKLKKFLFGGSTKIGSEPSKKSNGGLIALTVILVAFILWVLSGVFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRIGDLQEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQETLIKTLDLYKTGIVIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQALAYAAKVVPIAEGKASRIQQEAEAFSKQLVLNAQGEVSEFLALLPQYTAAPKVMAERMYLETMQKVISKSSTIIVDSKSGNLLYLPLDKLFGKSSGFPTETAKNDKAESDESNETENLV-DGRELTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR  DKLKK  FGG+ K  +  S  S+GGL+A+TV+L+AFILW LSG+FIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRI DL EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQETL KTL+ YKTGI+IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQA AYAAKVVPIAEGKASRIQQEAEA+SKQ+VL AQGEV+EFLALLPQY AAP+V A+RMYLE MQKV++KSSTIIVDSK+GNLLYLPLDKL G      +E  K  K  ++ SNE +NL+  GR+LTRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|493927719|ref|WP_006872454.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella drancourtii] &gt;gi|363536171|gb|EHL29617.1| hypothetical protein LDG_8582 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006872454</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.091</Hsp_bit-score>
+      <Hsp_score>1616</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>335</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEED---NLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRINDKLKKILFGGSGKSGNEPSKTSNGGLVAIMVILSAFLLWVLSGIFIVDPAEQAVILRFGEYVETVGPGPHWIPRIISSKIIMNVDRVLDHSYSAQMLTSDENLVAVSLAVQYRIGDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGNQVQETLVKTLDLYKTGIVIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGNASRIQQEAEAFSKQVVLRAQGEVAEFLALLPQYTAAPAITAQRMYLETMQTVLNKSSKIIVDSKSSNLMYLPLGKLVQS----QSANFPADNAKTNKANNGDDDGDSLIDGRDLTRPVYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKRI DKLKK  FGG+GKS N  S  S+GGL+A+ V+L AF+LW LSGIFIVDPAEQAVILRFG+YVETVGPGPHWIPR ISSKI+MNVDRVLD+SYSAQMLTSDENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWG +VQETL KTL+ YKTGI+IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG ASRIQQEAEA+SKQVVLRAQGEVAEFLALLPQY AAP +TA+RMYLE MQ V+NKSS IIVDSK+ NL+YLPL KL+ +    QS N  A    TN +N  D   + ++ GRDLTRP Y QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|966498836|ref|WP_058515602.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella santicrucis] &gt;gi|962269278|gb|KTD53292.1| protease subunit HflK [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515602</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>621.313</Hsp_bit-score>
+      <Hsp_score>1601</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>303</Hsp_identity>
+      <Hsp_positive>333</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRLHEKLKKILFGGTVKTNNEPSKKSNGGLVAMMIVLIAFLLWALSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVVVSLAVQYRIGDLEQYLFNVANPEESLQQATSSALRQVVGATTLNQMITEGREVWGSQVQETLIKTLNLYNTGIVIVNVAPQPARAPESVQEAFDDAIKAQEDEKRFKAQAYAYVAKVIPIAEGKASRIQQEAEAYSKQVVLNAQGEVSEFLALLSQYNAAPEVMAERMYLETMQKVLNKTSKIIVDSKSGNLLYLPLDKLFTNSSGP-LETAKNNKAGTDESNEVENLV-DGREFTRPVYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKR+ +KLKK  FGGT K+NN  S  S+GGL+A+ ++LIAF+LWALSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLV VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVG TTL+Q+ITEGREVWG +VQETL KTL  Y TGI+IVNV+PQPARAPESVQ+AFDDAIKAQEDEKRFK QAYAY AKV+PIAEGKASRIQQEAEAYSKQVVL AQGEV+EFLALL QYNAAP+V A+RMYLE MQKV+NK+S IIVDSK+GNLLYLPLDKL  N   P  E  K  K GT+ SNE +NL+  GR+ TRP Y QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|966493996|ref|WP_058510784.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella steelei] &gt;gi|962284950|gb|KTD68716.1| protease subunit HflK [Legionella steelei] &gt;gi|1113342840|gb|OJW06701.1| HflK protein [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510784</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.157</Hsp_bit-score>
+      <Hsp_score>1598</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>330</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEAFKRVHDKLKKMLFGGSNKVGNEPSKKSNGGLITTIVILLAFILWVLSGVFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRIGDLNEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQETLIKTLDLYKTGIFIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQALAYAAKVVPIAEGKASRIQQEAEAYSKQLVLNAQGEVSAFLALLPQFTAAPKIMAERMYLETMQKVISSSSTIIVDSKSGNLLYLPLDKLFEKTSGFPTETAKNSKAESDESNETENLV-DGREFTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEA KR+ DKLKK  FGG+ K  N  S  S+GGL+   V+L+AFILW LSG+FIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRI DL+EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQETL KTL+ YKTGI IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQA AYAAKVVPIAEGKASRIQQEAEAYSKQ+VL AQGEV+ FLALLPQ+ AAP++ A+RMYLE MQKV++ SSTIIVDSK+GNLLYLPLDKL        +E  K  K  ++ SNE +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|518063361|ref|WP_019233569.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella anisa] &gt;gi|962187540|gb|KTC72666.1| protease subunit HflK [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233569</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>616.69</Hsp_bit-score>
+      <Hsp_score>1589</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>331</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKFFGGGTSKTSNEPSKKSNGGLVTLVVILIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIIMNVDRVLDYSYSGQMLTSDENLVSVSLAVQYRIGDLEDYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNKVQDTLIKTLDLYKTGIFIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIQQEAEAYSKQVVLNAQGQVAEFLALLPQYTAAPIVTAERMYLETMQQVLSQTSKIIVDSKSGNLLYLPLDKLFDKSSGFPHETAKNSNVEGDETSETENLV-DGREFTRPIYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK F GGT K++N  S  S+GGL+ + V+LIAFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MNVDRVLDYSYS QMLTSDENLVSVSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTL+ YKTGI IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRIQQEAEAYSKQVVL AQG+VAEFLALLPQY AAP VTA+RMYLE MQ+V++++S IIVDSK+GNLLYLPLDKL         E  K      + ++E +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|498340474|ref|WP_010654630.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Fluoribacter dumoffii] &gt;gi|962206012|gb|KTC90949.1| protease subunit HflK [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010654630</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>616.69</Hsp_bit-score>
+      <Hsp_score>1589</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>328</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGKNQPPDLDEALKRAHAKLKKMIFGGSNKPGNEPTKKSNGGLIAIAVISAAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRILSSKVILNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRIGDLKEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQETLIKILNPYNTGIVIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQIVLNAQGEVAEFLALLPQYTIAPKIMAERMYLDTMQKVLNKSSKIIVDSKSGNLLYLPLDKLFEKSSIPM-ETAKNSKAESDESIEAESLV-DGRDLTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW GKNQPPDLDEALKR   KLKK  FGG+ K  N  +  S+GGL+A+ V+  AFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR +SSK+++NVDRVLDYSYSAQMLTSDENLVSVSLAVQYRI DL EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQETL K L  Y TGI+IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQ+VL AQGEVAEFLALLPQY  AP++ A+RMYL+ MQKV+NKSS IIVDSK+GNLLYLPLDKL     +P  E  K  K  ++ S E ++L+  GRDLTRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966436880|ref|WP_058477248.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella steigerwaltii] &gt;gi|962293656|gb|KTD77331.1| protease subunit HflK [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058477248</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>615.92</Hsp_bit-score>
+      <Hsp_score>1587</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>304</Hsp_identity>
+      <Hsp_positive>334</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKFLFGGSTKISNEPSKKSNGGLIATAVILLVFILWVLSGVFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRIGDLNEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQETLIKTLDLYKTGILIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQALAYAAKVVPIAEGKASRIQQEAEAYSKQVVLNAQGEVSEFLALLPQFTAAPKVMAERMYLETMQKVLSKSSTIIVDSKSSNLLYLPLDKLFEKSAGYPIETAKNSKAESDESSETESLV-DGRELTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK  FGG+ K +N  S  S+GGL+A  V+L+ FILW LSG+FIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRI DL+EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQETL KTL+ YKTGILIVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQA AYAAKVVPIAEGKASRIQQEAEAYSKQVVL AQGEV+EFLALLPQ+ AAP+V A+RMYLE MQKV++KSSTIIVDSK+ NLLYLPLDKL         E  K  K  ++ S+E ++L+  GR+LTRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966468565|ref|WP_058499891.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella gratiana] &gt;gi|962221352|gb|KTD06012.1| protease subunit HflK [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499891</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>615.15</Hsp_bit-score>
+      <Hsp_score>1585</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>296</Hsp_identity>
+      <Hsp_positive>327</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRIHDKMKKILFGGNGKSNNEPSKKSTNGLVATLIILIAFLLWSLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIIMNADRVLDYSYSAQMLTRDENLVAVSLAVQYRIGDLKEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREIWGSKVQDTLIKTLSLYKTGIVIVNVAPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYVAKVVPIAEGKASRIQQEAEAYSKKVVLNAQGEVAEFLALLPQYDNAPQIMAERMYLETMQRILNKSSKIIVDSKSSNLLYLPLDKLFTKSSGFSLETAKNSKIGNDEFNEAESAV-DEREFTRPVYRQGRE</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKRI DK+KK  FGG GKSNN  S  S+ GL+A  ++LIAF+LW+LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MN DRVLDYSYSAQMLT DENLV+VSLAVQYRI DL EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGRE+WG +VQ+TL KTL  YKTGI+IVNV+PQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAY AKVVPIAEGKASRIQQEAEAYSK+VVL AQGEVAEFLALLPQY+ APQ+ A+RMYLE MQ+++NKSS IIVDSK+ NLLYLPLDKL         E  K  K G +  NE ++ +   R+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966422734|ref|WP_058465935.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella cincinnatiensis] &gt;gi|962197738|gb|KTC82777.1| protease subunit HflK [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465935</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>614.764</Hsp_bit-score>
+      <Hsp_score>1584</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>329</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRIHEKLKKILFGGTVKTNNEPSKKSNGGLVAMMIVLIAFLLWALSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVAVSLAVQYRIGDLEQYLFNVANPEESLQQATSSALRQVVGATTLDQMITEGREVWGSQVQETLVKTLNLYHTGIVIVNVAPQPARAPESVQEAFDDAIKAQEDEKRFKAQAYAYVAKVVPIAEGKASRIKQEAEAYSKQVVLNAQGEVSEFLALLSQYNVAPDVMAERMYLETMEKVLNRTSKIIVDSKSGNLLYLPLDKLFTKSSGPL-ETAKNNKTGIDESNEMETLV-DGREFTRPVYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKRI +KLKK  FGGT K+NN  S  S+GGL+A+ ++LIAF+LWALSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVG TTLDQ+ITEGREVWG +VQETL KTL  Y TGI+IVNV+PQPARAPESVQ+AFDDAIKAQEDEKRFK QAYAY AKVVPIAEGKASRI+QEAEAYSKQVVL AQGEV+EFLALL QYN AP V A+RMYLE M+KV+N++S IIVDSK+GNLLYLPLDKL      P  E  K  K G + SNE + L+  GR+ TRP Y QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966415333|ref|WP_058458618.1|</Hit_id>
+  <Hit_def>HflK protein [Fluoribacter bozemanae] &gt;gi|962189841|gb|KTC74943.1| protease subunit HflK [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058458618</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>614.764</Hsp_bit-score>
+      <Hsp_score>1584</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>329</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKLFGGGSAKTSNEPSKKSNGGLMTLVVILVAFILWVLSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSGQMLTSDENLVSVSLAVQYRIGDLEDYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNKVQDTLIKTLDLYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIQQEAEAYSKQVVLNAQGQVAEFLALLPQYTAAPIVTAERMYLETMQHVLSQSSKIIVDSKSGNLLYLPLDKWFEKSSGFSHETAKNGKAEDDEFSETENLV-DGREFTRPIYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK F GG+ K++N  S  S+GGL+ + V+L+AFILW LSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYS QMLTSDENLVSVSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTL+ YKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRIQQEAEAYSKQVVL AQG+VAEFLALLPQY AAP VTA+RMYLE MQ V+++SS IIVDSK+GNLLYLPLDK          E  K  K   +  +E +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966500609|ref|WP_058517282.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella parisiensis] &gt;gi|962255945|gb|KTD40082.1| protease subunit HflK [Legionella parisiensis] &gt;gi|1069293513|gb|OEH48839.1| Modulator of FtsH protease HflK [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058517282</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>613.224</Hsp_bit-score>
+      <Hsp_score>1580</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>332</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>382</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGT--NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKLFGGGPAKTGNEPTKKSNGGLMTLVVILIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIIMNVDRVLDYSYSGQMLTRDENLVSVSVAVQYRIGDLEDYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNKVQDTLIKTLELYKTGILIVNVSPQPARAPESVQEAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIQQEAEAYSKQVVLNAQGEVSEFLALLPQYTATPTITAERMYLETMQQVLSKSTKIIVDSKTGNLMYLPLDKLF-EKYSGFSH--ETAKNGKVDDESSETENLV-DGREFTRPIYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK F GG  K+ N  +  S+GGL+ + V+LIAFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI+MNVDRVLDYSYS QMLT DENLVSVS+AVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTLE YKTGILIVNVSPQPARAPESVQ+AFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRIQQEAEAYSKQVVL AQGEV+EFLALLPQY A P +TA+RMYLE MQ+V++KS+ IIVDSK GNL+YLPLDKL   +Y   S   +  KNG   + S+E +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966504703|ref|WP_058521362.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella tucsonensis] &gt;gi|962290694|gb|KTD74402.1| protease subunit HflK [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058521362</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>612.068</Hsp_bit-score>
+      <Hsp_score>1577</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>327</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKLFGGGGAKTTNEPSKKSNGGLVTLVVILIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSGQMLTRDENLVSVSLAVQYRIGDLEDYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNKVQDTLIKTLDLYKTGVLIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIQQEAEAYSKQVVLNAQGQVSEFLALLPQYTATPIVTAERMYLETMQQVLSKSTKIIVDSKTGNLLYLPLDKLFEKYSGFSHEAAKNGKAEDDESSETENLV-DGREFTRPIYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK F GG  K+ N  S  S+GGL+ + V+LIAFILW LSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYS QMLT DENLVSVSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTL+ YKTG+LIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRIQQEAEAYSKQVVL AQG+V+EFLALLPQY A P VTA+RMYLE MQ+V++KS+ IIVDSK GNLLYLPLDKL         E  K  K   + S+E +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|653017702|ref|WP_027269666.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella sainthelensi] &gt;gi|962270962|gb|KTD54965.1| protease subunit HflK [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269666</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>610.142</Hsp_bit-score>
+      <Hsp_score>1572</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>333</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRIHEKLKKVLFGGTAKTNNEPSKKSNGGLVAMMIILLAFLLWALSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVAVSLAVQYRIGDLEQYLFNVANPEESLQQATSSALRQVVGATTLNQMITEGREVWGNQVQDTLVKTLNLYNTGIVIVNVAPQPARAPESVQEAFDDAIKAQEDEKRFKAQAYAYVAKVIPIAEGKASRIQQEAEAYSKQVVLNAQGEVSEFLALLSQYKVAPEVMAERMYLETMEKVLNKTSKIIVDSKSGNLLYLPLDQLV-TKSSALLETAKNNKTGTDESNEIESLV-DGRELTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKRI +KLKK  FGGT K+NN  S  S+GGL+A+ ++L+AF+LWALSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVG TTL+Q+ITEGREVWG +VQ+TL KTL  Y TGI+IVNV+PQPARAPESVQ+AFDDAIKAQEDEKRFK QAYAY AKV+PIAEGKASRIQQEAEAYSKQVVL AQGEV+EFLALL QY  AP+V A+RMYLE M+KV+NK+S IIVDSK+GNLLYLPLD+L+  +     E  K  K GT+ SNE ++L+  GR+LTRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966423426|ref|WP_058466572.1|</Hit_id>
+  <Hit_def>HflK protein [Fluoribacter gormanii] &gt;gi|962220896|gb|KTD05558.1| protease subunit HflK [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058466572</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>606.675</Hsp_bit-score>
+      <Hsp_score>1563</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>326</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGT---NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDKLKKILFGGAAKMSNEPSKKSNSALVTLIVVSIAFILWVLSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSGQMLTRDENLVSVSLAVQYRIGDLEDYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNQVQDTLAKTLDLYKTGISIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLNAQGEVSEFLALLPQYIAAPNITAERMYLETMQKVLSQTSKIIVDSKSGNLLYLPLDKLFEK---PSSFPTVSAKNGKTERDESGETENLV-DDREFTRPVYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK  FGG  K +N  S  S+  L+ + V+ IAFILW LSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYS QMLT DENLVSVSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTL+ YKTGI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVL AQGEV+EFLALLPQY AAP +TA+RMYLE MQKV++++S IIVDSK+GNLLYLPLDKL      P S    + KNG    + S E +NL+   R+ TRP Y QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|489731226|ref|WP_003635342.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella longbeachae] &gt;gi|269987479|gb|EEZ93734.1| HflK protein [Legionella longbeachae D-4968] &gt;gi|288859199|emb|CBJ13131.1| protease subunit HflK [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003635342</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>603.208</Hsp_bit-score>
+      <Hsp_score>1554</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>327</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKEPWKGKNQPPDLDEALKRIHEKLKKILFGGTVKTNNEPSKKSNGGLVTMMIVLFAFLIWALSGIFIVDPAEQAVILRFGKYVETVGSGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVAVSLAVQYRIGDLEQYLFNVANPEESLQQATSSALRQVVGATTLNQMITEGREVWGSQVQDTLVKILNLYNTGIVIVNVAPQPARAPESVQEAFDDAIKAQEDEKRFKAQANAYVAKVIPIAEGKASRIQQEAEAYSKQVVLNAQGEVSEFLALLSQYNVAPEVMAERMYLETMQKVLNKTSKIIVDSKSSNLLYLPLDKLFTKSSGPL-ETAKNNKAGTDESNEIENLV-DGREFTRPVYRQGRN</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGK+PW GKNQPPDLDEALKRI +KLKK  FGGT K+NN  S  S+GGL+ + ++L AF++WALSGIFIVDPAEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVG TTL+Q+ITEGREVWG +VQ+TL K L  Y TGI+IVNV+PQPARAPESVQ+AFDDAIKAQEDEKRFK QA AY AKV+PIAEGKASRIQQEAEAYSKQVVL AQGEV+EFLALL QYN AP+V A+RMYLE MQKV+NK+S IIVDSK+ NLLYLPLDKL      P  E  K  K GT+ SNE +NL+  GR+ TRP Y QGR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966516704|ref|WP_058533198.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533198</Hit_accession>
+  <Hit_len>383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>600.512</Hsp_bit-score>
+      <Hsp_score>1547</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>472</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>381</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>296</Hsp_identity>
+      <Hsp_positive>330</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>384</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGK--SNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENL---KAIKNGTNVSNEEDNLILSGRDLTRPTYSQGR</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRLHDKLKKMLFGSTGKPGAEPPKTSNSNASLVAIMFAVSAFILWALAGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKVVMNVDRLLDYSYSAQMLTSDENLVSVSLAVQYRIGDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREIWGNQVQETLTKTLDMYKTGIVIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQALAYAAKVVPIAEGNASRIKQEAEAFSKQVVLQAQGEVAEFLALLPQYTLTPEITAKRMYLDTMQMVLSKSSKIIVDNKAGNLLYIPLDKLATAK--PESSPVISKRSTKAEQSTTAELGNLI-DGRTLTRPVYNQGR</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ DKLKK  FG TGK  +    +  S+  L+A+   + AFILWAL+GIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSK+VMNVDR+LDYSYSAQMLTSDENLVSVSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGRE+WG +VQETLTKTL+ YKTGI+IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQA AYAAKVVPIAEG ASRI+QEAEA+SKQVVL+AQGEVAEFLALLPQY   P++TAKRMYL+ MQ V++KSS IIVD+KAGNLLY+PLDKL   +  P+S  +   ++ K   + + E  NLI  GR LTRP Y+QGR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|769980423|ref|WP_045096408.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella fallonii] &gt;gi|698844039|emb|CEG58008.1| modulator for HflB protease specific for phage lambda cII repressor [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096408</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>599.742</Hsp_bit-score>
+      <Hsp_score>1545</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>337</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPEKGKDPWKGKNQPPDLDEAFKRLHEKVKK-LFGGSGKSSNKSSNGSSGGLLTGMVILIVFVLWVLSGIFIVDAAEQAVILRFGKYVETVGAGPHWIPRIISSKIIMNVDRVLDYSYSAQMLTSDENLVSVSIAVQYRIGDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREIWGNKVQDSLVKTLERYKTGIFIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGNASRIEQEAEAFSKQVVLRAQGEVAQFLALLPQYLLAPQVMSERMYLDTMEKVLNNSSKIIVDNKSGNLLYLPLDKLSINQST-QSDNSKAKKGEAADNNDEDNGTLAGRDLTRPTYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEPEKGKDPW GKNQPPDLDEA KR+ +K+KK  FGG+GKS+N SS GSSGGLL   V+LI F+LW LSGIFIVD AEQAVILRFGKYVETVG GPHWIPR ISSKI+MNVDRVLDYSYSAQMLTSDENLVSVS+AVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGRE+WG +VQ++L KTLE YKTGI IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG ASRI+QEAEA+SKQVVLRAQGEVA+FLALLPQY  APQV ++RMYL+ M+KV+N SS IIVD+K+GNLLYLPLDKL  NQ   QS+N KA K     +N+EDN  L+GRDLTRPTY QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|671587447|ref|WP_031563678.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031563678</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>598.586</Hsp_bit-score>
+      <Hsp_score>1542</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>324</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>381</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGN-QYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWKGKNQPPDLDEALKRVHDRLKR-LFGGGAKPGNEPSKKSNSGLITGVVVLFALILWALAGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIILNVDRVLDYSYSGQMLTNDENLVSVSLAVQYRIGDLKEYLFNVANPEESLQQATSSALRQVVGTTTLDQMITEGREVWGNKVQDTLVKTLDLYKTGIVIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAARVVPIAEGRASRIQQEAEAYSKKVVLNAQGEVSEFLALLPQYTATPSITAERMYLETMQRVLSKSSKIIVDSKSGNVLYLPLDKLFDRASNFPQGIAKNGKVQGDEASDAEN--LVDGREFTRPIYRQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPW GKNQPPDLDEALKR+ D+LK+  FGG  K  N  S  S+ GL+   V+L A ILWAL+GIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKI++NVDRVLDYSYS QMLT+DENLVSVSLAVQYRI DL EYLFNVANPEESLQQATSSALRQVVGTTTLDQ+ITEGREVWG +VQ+TL KTL+ YKTGI+IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAA+VVPIAEG+ASRIQQEAEAYSK+VVL AQGEV+EFLALLPQY A P +TA+RMYLE MQ+V++KSS IIVDSK+GN+LYLPLDKL       PQ         G   S+ E+  ++ GR+ TRP Y QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1113575525|gb|OJY35263.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJY35263</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>588.956</Hsp_bit-score>
+      <Hsp_score>1517</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>470</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>288</Hsp_identity>
+      <Hsp_positive>325</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNS-SGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSN-EEDNLILSGRDLTRPTYSQ</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGQDPWKGKNQPPDLDEAMKRLQRKLKQ-FLGGKGKSFNDSPKNAGSTGLIATMIILSAFILWVLSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKVVMNVDRVMDYSYSGQMLTRDENLVAVSLAVQYRIGDLQQYLFNVANPEESLQQATSSALRQVVGTTTLDEIITEGREVWGSKVQETLTKTLGLYKTGIVIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGRASRIRQEAEAYSQQLVLRAQGQVSEFLALLPEYNAAPEIIGKQLYLETLQKVFEQSSKIIVDGKSGNLLYLPLEKLMAGDTAP--ADLVNSKNKSRNDNANEDETTIDGRTMTRPVYSR</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KG+DPW GKNQPPDLDEA+KR+Q KLK+ F GG GKS N+S     S GL+A  ++L AFILW LSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSK+VMNVDRV+DYSYS QMLT DENLV+VSLAVQYRI DL +YLFNVANPEESLQQATSSALRQVVGTTTLD+IITEGREVWG +VQETLTKTL  YKTGI+IVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEG+ASRI+QEAEAYS+Q+VLRAQG+V+EFLALLP+YNAAP++  K++YLE +QKV  +SS IIVD K+GNLLYLPL+KL+     P   +L   KN +   N  ED   + GR +TRP YS+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966398483|ref|WP_058442387.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella brunensis] &gt;gi|962193042|gb|KTC78109.1| protease subunit HflK [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442387</Hit_accession>
+  <Hit_len>382</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>583.178</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>381</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>280</Hsp_identity>
+      <Hsp_positive>320</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>381</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGT-NVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWSGKNQPPDLDEALKRFQDKLKKTFFGGSNQPEGDSPANKSGGLLAVMAALIVFILWALAGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIVQNVDRVSDFSYSAQMLTKDENLVAVSVVVQYRIGDLEDYLFNVADPQESLQQATSSALRQVVGTTTFDQIITEGREAWGNSVQDTLVKILDRYKTGIVIVNVSPQPARAPENVQDAFDDAIKAREDEKRFKEQALAYQAKVVPIAEGNAKRILEEAQAYAQQVILRAKGEVAEFLALLPEFTLAPAVTSERMYLEMMQQVLSNSSKIIVDGKAGNILYLPLDKLAKTTPSPMVDTAQVAANKSESAANEAENTIVTDRNITRRTYRPGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPWSGKNQPPDLDEALKR QDKLKKTFFGG+ +   +S    SGGLLAV   LI FILWAL+GIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKIV NVDRV D+SYSAQMLT DENLV+VS+ VQYRI DL +YLFNVA+P+ESLQQATSSALRQVVGTTT DQIITEGRE WG  VQ+TL K L+ YKTGI+IVNVSPQPARAPE+VQDAFDDAIKA+EDEKRFKEQA AY AKVVPIAEG A RI +EA+AY++QV+LRA+GEVAEFLALLP++  AP VT++RMYLE MQ+V++ SS IIVD KAGN+LYLPLDKL      P  +  +   N + + +NE +N I++ R++TR TY  GRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|518045892|ref|WP_019216100.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019216100</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>579.711</Hsp_bit-score>
+      <Hsp_score>1493</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>471</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>323</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKD--PWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLK---AIKNGTNVSNEEDNLILSGRDLTRPTYSQG</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKDKDKDPWSGKNQPPDLDEALKRFQDKLKKTFFGGSGQPGNESPSSGNGGVLAVMVALIVFILWAISGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIVQNVERVSDYSYSAQMLTKDENLVSVSLAVQYRINDLRAYLFNVADPQESLQQATSSALRQVVGTTTLDQIITEGREAWGSNVQDSLIKILEKYKTGIVIVNVSPQPARAPENVQDAFDDAIKAQEDEKRFKEQAFAYQARVVPIAEGGAKRIFEEAQAFAKQAVLRAKGEVAEFVALLPSYTQSPLVTSERMYLDTMQQVLSKSSKIIVDGKSGNLLYLPLDKLALNSASAASTSVTPEAAKMDNSTVANDIQNTLVSDRNITRRTYRQG</Hsp_hseq>
+      <Hsp_midline>MGWNEP+K KD  PWSGKNQPPDLDEALKR QDKLKKTFFGG+G+  N S    +GG+LAV V LI FILWA+SGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKIV NV+RV DYSYSAQMLT DENLVSVSLAVQYRINDL  YLFNVA+P+ESLQQATSSALRQVVGTTTLDQIITEGRE WG  VQ++L K LE YKTGI+IVNVSPQPARAPE+VQDAFDDAIKAQEDEKRFKEQA+AY A+VVPIAEG A RI +EA+A++KQ VLRA+GEVAEF+ALLP Y  +P VT++RMYL+ MQ+V++KSS IIVD K+GNLLYLPLDKL  N     S ++    A  + + V+N+  N ++S R++TR TY QG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|769982627|ref|WP_045098609.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Tatlockia micdadei] &gt;gi|698846167|emb|CEG60150.1| Protein hflK [Tatlockia micdadei] &gt;gi|962245673|gb|KTD29968.1| protease subunit HflK [Tatlockia micdadei] &gt;gi|1081463870|emb|SCY64530.1| protease FtsH subunit HflK [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098609</Hit_accession>
+  <Hit_len>385</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.392</Hsp_bit-score>
+      <Hsp_score>1474</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>471</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>381</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>381</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLG-NQYVPQSENLKAIKNG--TNVSNEEDNLILSGRDLTRPTYSQG</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWSGKNQPPDLDEALKRFQEKLKKTFFGGSEQPDETPPTNKSTGLLVVMAMLVIFILWALSGIFIVDEGEQAAILRFGKYVETVGPGPHWIPRIISSKIVKNVERVSDYSYSAQMLTKDENLVSVSLAVQYRIGDLQAYLFNVADPQESLQQATSSALRQVVGTTTLDQIITEGREAWGSNVQESLTRILENYKTGIVIVNVSPQPARAPENVQDAFDDAIKAQEDEKRFKEQAFAYQARVVPIAEGNAKRISEEAQAFAQQVVLRAKGEVSEFLGLLPQYTQSPAVTAERMYLEMMQQVLSNSSKVIVDSKANNLLYLPLDKLANTDNLLPKAALAGAATTSPKPTVSSESESLAVSSRDITRRTYSSG</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPWSGKNQPPDLDEALKR Q+KLKKTFFGG+ + +       S GLL V  +L+ FILWALSGIFIVD  EQA ILRFGKYVETVGPGPHWIPR ISSKIV NV+RV DYSYSAQMLT DENLVSVSLAVQYRI DL  YLFNVA+P+ESLQQATSSALRQVVGTTTLDQIITEGRE WG  VQE+LT+ LE+YKTGI+IVNVSPQPARAPE+VQDAFDDAIKAQEDEKRFKEQA+AY A+VVPIAEG A RI +EA+A+++QVVLRA+GEV+EFL LLPQY  +P VTA+RMYLE MQ+V++ SS +IVDSKA NLLYLPLDKL   +  +P++    A        VS+E ++L +S RD+TR TYS G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966407059|ref|WP_058450465.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella jamestowniensis] &gt;gi|962223797|gb|KTD08447.1| protease subunit HflK [Legionella jamestowniensis] &gt;gi|1045920119|gb|OCH97086.1| HflK protein [Legionella jamestowniensis] &gt;gi|1097331347|emb|SFL51177.1| protease FtsH subunit HflK [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450465</Hit_accession>
+  <Hit_len>384</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>567.77</Hsp_bit-score>
+      <Hsp_score>1462</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>318</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>385</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNS-SGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEED----NLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWSGKNQPPDLDEALKRFQEKLKKTFFGGSKQPEGGSPANKSSGGMLALLAALIVFILWALAGIFIVDPAEQAAILRFGKYVETVGPGPHWIPRIISTKIVQNVDRVSDYSYSAQMLTKDENLVAVSVVVQYRIGDLEEYLFNVADPQESLQQATSSALRQVVGTTTFDQIITEGREAWGNSVHDTLVKILNQYKTGIVVVNVSPQPARAPENVQDAFDDAIKAREDEKRFKEQALAYQAKVVPIAEGNAKRILEEAQAYAQQVILRAKGDVAEFLALLPEYTQAPGVTSERMYLEMMQQVLSTSSKIIVDGKSGNLLYLPLDKLANASLDPALMNTESA--GTKKSSAEDEQAESTIVTSRNIGRRTYQQGRD</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPWSGKNQPPDLDEALKR Q+KLKKTFFGG+ +    S +  SSGG+LA+   LI FILWAL+GIFIVDPAEQA ILRFGKYVETVGPGPHWIPR IS+KIV NVDRV DYSYSAQMLT DENLV+VS+ VQYRI DL EYLFNVA+P+ESLQQATSSALRQVVGTTT DQIITEGRE WG  V +TL K L  YKTGI++VNVSPQPARAPE+VQDAFDDAIKA+EDEKRFKEQA AY AKVVPIAEG A RI +EA+AY++QV+LRA+G+VAEFLALLP+Y  AP VT++RMYLE MQ+V++ SS IIVD K+GNLLYLPLDKL      P   N ++   GT  S+ ED    + I++ R++ R TY QGRD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966410157|ref|WP_058453549.1|</Hit_id>
+  <Hit_def>HflK protein [Legionella maceachernii] &gt;gi|962239606|gb|KTD23993.1| protease subunit HflK [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058453549</Hit_accession>
+  <Hit_len>385</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>565.844</Hsp_bit-score>
+      <Hsp_score>1457</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>471</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>381</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>276</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>381</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNV---SNEEDNLILSGRDLTRPTYSQG</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKGKDPWSGKNQPPDLDEALKRFQEKLKKTFFGGSDQSDETPPRNKSTGLLAVMAALIIFILWALSGIFIVDEGEQAAILRFGKYVGTVGPGPHWIPRIISSKIVQNVERVSDYSYSAQMLTKDENLVSVSLAVQYRIGDLQAYLFNVADPQESLQQATSSALRQVVGTTTLDQIITEGREAWGSNVQDSLTRILETYKTGIIIVNVSPQPARAPENVQDAFDDAIKAQEDEKRFKEQAFAYQARVVPIAEGNAKRIIEEAQAFAQQVVLRAKGEVAEFLALLPQYVQSPAVTSQRMYLEMMQQVLSKTSKVIVDNKANNLLYLPLDKLANTDHLLPKAALAGTATASPKPIENSESESLAVSSRDIARRTYSSG</Hsp_hseq>
+      <Hsp_midline>MGWNEP+KGKDPWSGKNQPPDLDEALKR Q+KLKKTFFGG+ +S+       S GLLAV   LI FILWALSGIFIVD  EQA ILRFGKYV TVGPGPHWIPR ISSKIV NV+RV DYSYSAQMLT DENLVSVSLAVQYRI DL  YLFNVA+P+ESLQQATSSALRQVVGTTTLDQIITEGRE WG  VQ++LT+ LE+YKTGI+IVNVSPQPARAPE+VQDAFDDAIKAQEDEKRFKEQA+AY A+VVPIAEG A RI +EA+A+++QVVLRA+GEVAEFLALLPQY  +P VT++RMYLE MQ+V++K+S +IVD+KA NLLYLPLDKL    ++     L      +     ++E ++L +S RD+ R TYS G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|654921601|ref|WP_028372161.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella lansingensis] &gt;gi|962239364|gb|KTD23844.1| protease subunit HflK [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028372161</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>563.148</Hsp_bit-score>
+      <Hsp_score>1450</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGNQYVPQSENLKAIKNGTNVSNEEDNLILSGRDLTRPTYSQGRD</Hsp_qseq>
+      <Hsp_hseq>MSWNEPDKGKDPWSGKNQPPDLDEALKRFQEKLKKTFFGGSNQPEGGSSGTKSGGLLALMIALLVFVLWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRIISSKIVKNVDRVSDYSYSAQMLTKDENLVSVSVVVQYRIGDLEEYLFNVSDPQESLQQATSSALRQVVGTTTFDQIITEGREAWGTNVQDTLVKILNQYKAGIVIVNVSPQPARAPENVQDAFDDAIKAREDEKRFKEQALAYQARVVPIAEGNAKRILAEAQAFAQQVTFRAQGEVAEFLALLPEYVLAPFVTSQRMYLETMQYVLNKSSKIIVDNKAGNLLYLPLDKLVGTKTALATPMQAGVAKEGTVSNEAEGTIVTDRNIGRRTYRPGRN</Hsp_hseq>
+      <Hsp_midline>M WNEP+KGKDPWSGKNQPPDLDEALKR Q+KLKKTFFGG+ +    SSG  SGGLLA+ + L+ F+LWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPR ISSKIV NVDRV DYSYSAQMLT DENLVSVS+ VQYRI DL EYLFNV++P+ESLQQATSSALRQVVGTTT DQIITEGRE WG  VQ+TL K L  YK GI+IVNVSPQPARAPE+VQDAFDDAIKA+EDEKRFKEQA AY A+VVPIAEG A RI  EA+A+++QV  RAQGEVAEFLALLP+Y  AP VT++RMYLE MQ V+NKSS IIVD+KAGNLLYLPLDKL+G +    +     +     VSNE +  I++ R++ R TY  GR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|654938355|ref|WP_028388597.1|</Hit_id>
+  <Hit_def>protease modulator HflK [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028388597</Hit_accession>
+  <Hit_len>383</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>561.222</Hsp_bit-score>
+      <Hsp_score>1445</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>469</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>321</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>MGWNEPEKGKDPWSGKNQPPDLDEALKRIQDKLKKTFFGGTGKSNNNSSGGSSGGLLAVTVLLIAFILWALSGIFIVDPAEQAVILRFGKYVETVGPGPHWIPRFISSKIVMNVDRVLDYSYSAQMLTSDENLVSVSLAVQYRINDLSEYLFNVANPEESLQQATSSALRQVVGTTTLDQIITEGREVWGGRVQETLTKTLESYKTGILIVNVSPQPARAPESVQDAFDDAIKAQEDEKRFKEQAYAYAAKVVPIAEGKASRIQQEAEAYSKQVVLRAQGEVAEFLALLPQYNAAPQVTAKRMYLEAMQKVMNKSSTIIVDSKAGNLLYLPLDKLLGN-QYVPQSENLKAIKNGTNVSNEE--DNLILSGRDLTRPTYS</Hsp_qseq>
+      <Hsp_hseq>MGWNEPDKDKDPWSGKNQPPDLDEALKRFQEKLKKTFFGSSGQSDKNSSSNKNSGFLTLLAVLIIFILWALSGVFIVDEGEQAAILRFGKYVKTVGAGPHWIPRIISSKIVQNVERVSDYSYAAQMLTKDENLVAVSLVVQYRIGDLQDYLFNVTDPQESLQQATSSALRQVVGTTTLDQIITEGREAWGSSVQDSLTRILEKYKTGIVIVNVSPQPARAPENVQDAFDDAIKAQEDEKRFKEQAFAYQARVVPIAEGNAKRISEEAQAFAQQVVLKAKGEVAEFLALLPQYIQAPGVTSERMYLEMMQRVLTQSSKIIVDNKANNLLYLPLDKLMKPINVLPKAAD--AIGSAHSVANDEGTESLAVRSRDITRRTYS</Hsp_hseq>
+      <Hsp_midline>MGWNEP+K KDPWSGKNQPPDLDEALKR Q+KLKKTFFG +G+S+ NSS   + G L +  +LI FILWALSG+FIVD  EQA ILRFGKYV+TVG GPHWIPR ISSKIV NV+RV DYSY+AQMLT DENLV+VSL VQYRI DL +YLFNV +P+ESLQQATSSALRQVVGTTTLDQIITEGRE WG  VQ++LT+ LE YKTGI+IVNVSPQPARAPE+VQDAFDDAIKAQEDEKRFKEQA+AY A+VVPIAEG A RI +EA+A+++QVVL+A+GEVAEFLALLPQY  AP VT++RMYLE MQ+V+ +SS IIVD+KA NLLYLPLDKL+     +P++ +  AI +  +V+N+E  ++L +  RD+TR TYS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

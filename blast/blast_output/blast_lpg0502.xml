@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_171721</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>480</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_171721</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>480</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248690|ref|WP_010946230.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|52840727|ref|YP_094526.1| endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627838|gb|AAU26579.1| endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507239|gb|AEW50763.1| endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946230</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>796.579</Hsp_bit-score>
+      <Hsp_score>2056</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>387</Hsp_identity>
+      <Hsp_positive>387</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119426366|ref|WP_072401666.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401666</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>789.26</Hsp_bit-score>
+      <Hsp_score>2037</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>383</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>387</Hsp_align-len>
+      <Hsp_qseq>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDVLRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MGSGFYKKIRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISD LRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|505257712|ref|WP_015444814.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella pneumophila] &gt;gi|469492982|gb|AGH54827.1| hypothetical protein LPE509_02736 [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081147|gb|AGN13395.1| endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771672|emb|CZI66709.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998774532|emb|CZH00531.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998783622|emb|CZH33890.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998786280|emb|CZG99107.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998795728|emb|CZI42976.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998798533|emb|CZL71094.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998804404|emb|CZK47634.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998808945|emb|CZH73470.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998810772|emb|CZI19480.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998814786|emb|CZG50413.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998816668|emb|CZM04738.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998819690|emb|CZL99292.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998825606|emb|CZK41019.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998831328|emb|CZI84846.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998834512|emb|CZL39176.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998838650|emb|CZJ28493.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998840561|emb|CZL86307.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998843411|emb|CZK84149.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998846417|emb|CZL02977.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998850731|emb|CZI22814.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998852683|emb|CZL85436.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998855861|emb|CZL50428.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998858661|emb|CZM19164.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998862266|emb|CZK39570.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998864715|emb|CZJ85663.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998867165|emb|CZJ81478.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998870434|emb|CZM39558.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998873668|emb|CZK73972.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998876376|emb|CZM36407.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998879381|emb|CZJ76767.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998885833|emb|CZM37725.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998888829|emb|CZK47019.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998894440|emb|CZK50672.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998905351|emb|CZK82628.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998908788|emb|CZL58271.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998914360|emb|CZL38269.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998917792|emb|CZL54933.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998920670|emb|CZL59200.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998927945|emb|CZL75307.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998929836|emb|CZL07473.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998932793|emb|CZM04847.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998939395|emb|CZK99399.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998944986|emb|CZL44917.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998948077|emb|CZL21198.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998957145|emb|CZM63767.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998960419|emb|CZK66792.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998963249|emb|CZK70932.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998966081|emb|CZM80943.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998969426|emb|CZK95154.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998972579|emb|CZK79489.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998978549|emb|CZL93461.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998984471|emb|CZK71228.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998987658|emb|CZL78469.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998996795|emb|CZK32613.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999006468|emb|CZL24932.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999011977|emb|CZL77575.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999017219|emb|CZL84530.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999021520|emb|CZL70407.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999024299|emb|CZL05695.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999045489|emb|CZM18102.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999060449|emb|CZL65179.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999066534|emb|CZJ44198.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999075729|emb|CZH08229.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999078730|emb|CZK34649.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999081816|emb|CZL25916.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999087947|emb|CZL17134.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999091162|emb|CZL74351.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999094369|emb|CZH34100.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999097327|emb|CZH42210.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999100200|emb|CZM12631.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999109487|emb|CZL51250.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999112460|emb|CZM01403.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999115899|emb|CZK72141.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999124969|emb|CZL19870.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999130771|emb|CZM16965.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999134290|emb|CZL38399.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999138446|emb|CZK10994.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999140840|emb|CZL84080.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999143464|emb|CZL43593.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999146422|emb|CZM00735.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999155894|emb|CZI32026.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999174608|emb|CZL50959.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999189931|emb|CZI66489.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999193195|emb|CZJ09158.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999200031|emb|CZG75575.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999202505|emb|CZJ08821.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999208679|emb|CZL32397.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999218434|emb|CZL89039.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999221043|emb|CZI96720.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999333863|emb|CZL16023.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002074471|emb|CZR04854.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002077373|emb|CZR11159.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1003018343|emb|CZR30327.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|1003021416|emb|CZR26671.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|1003024546|emb|CZR30403.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|1073866052|gb|AOU06003.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073869017|gb|AOU08967.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073872018|gb|AOU11967.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073874872|gb|AOU14820.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073877941|gb|AOU17888.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073880903|gb|AOU20849.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073883903|gb|AOU23848.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073886895|gb|AOU26839.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073889849|gb|AOU29792.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073892850|gb|AOU32792.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073895813|gb|AOU35754.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073898773|gb|AOU38713.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073901725|gb|AOU41664.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073904647|gb|AOU44585.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073907600|gb|AOU47537.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073910601|gb|AOU50536.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073913631|gb|AOU53563.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073916586|gb|AOU56517.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073919555|gb|AOU59485.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073922453|gb|AOU62382.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073925537|gb|AOU65464.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073928500|gb|AOU68426.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073931487|gb|AOU71396.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073934844|gb|AOU74403.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073937822|gb|AOU84821.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073948090|gb|AOU87814.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1073951015|gb|AOU90738.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1104001799|emb|SFZ36230.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1129969674|gb|APU00034.1| 1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444814</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>770.385</Hsp_bit-score>
+      <Hsp_score>1988</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1020109627|ref|WP_063244370.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|999036282|emb|CZL77624.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_063244370</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>767.689</Hsp_bit-score>
+      <Hsp_score>1981</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPEYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEP YGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1006021824|ref|WP_061719585.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998777508|emb|CZG98593.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061719585</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>767.303</Hsp_bit-score>
+      <Hsp_score>1980</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKRPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGK PSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|653014617|ref|WP_027266647.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266647</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>766.918</Hsp_bit-score>
+      <Hsp_score>1979</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>372</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAESKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAE+KEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1011910227|ref|WP_062724912.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062724912</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>764.222</Hsp_bit-score>
+      <Hsp_score>1972</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>371</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDVLRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISD LRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499533441|ref|WP_011214725.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|53753305|emb|CAH14752.1| hypothetical protein lpl0522 [Legionella pneumophila str. Lens] &gt;gi|1080002241|gb|AOW52813.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006006|gb|AOW56286.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008135|gb|AOW58123.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012203|gb|AOW61694.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014740|gb|AOW63613.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018447|gb|AOW67092.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214725</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>763.451</Hsp_bit-score>
+      <Hsp_score>1970</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>371</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|742353150|ref|WP_038837481.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998782975|emb|CZI84150.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998822439|emb|CZH33631.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998828281|emb|CZH36489.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998883041|emb|CZI86208.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998897666|emb|CZK06846.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998937993|emb|CZL85256.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998951032|emb|CZJ93909.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999000052|emb|CZG93253.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999058484|emb|CZM31289.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999103742|emb|CZI20931.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999128464|emb|CZH14422.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999152588|emb|CZM81041.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999161931|emb|CZM40617.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999236745|emb|CZG95051.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002085588|emb|CZQ97691.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002088262|emb|CZQ79021.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1104005366|emb|SFZ36158.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837481</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>762.296</Hsp_bit-score>
+      <Hsp_score>1967</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDVLRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISD LRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|652967248|ref|WP_027220220.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|999247924|emb|CZH58063.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999454021|emb|CZI19670.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999460485|emb|CZG98691.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999773170|emb|CZH91220.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999796158|emb|CZI25512.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220220</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>761.911</Hsp_bit-score>
+      <Hsp_score>1966</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFNQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEF+QLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1006645380|ref|WP_061819310.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|999225283|emb|CZG81360.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061819310</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>761.525</Hsp_bit-score>
+      <Hsp_score>1965</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|504656265|ref|WP_014843367.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|395129572|emb|CCD07805.1| endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|998892664|emb|CZJ25850.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002081567|emb|CZQ99962.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843367</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>756.133</Hsp_bit-score>
+      <Hsp_score>1951</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>366</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|752488009|ref|WP_041174029.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998923776|emb|CZK26452.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998943846|emb|CZJ51495.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998954383|emb|CZK62782.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998975554|emb|CZJ91905.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998992780|emb|CZJ45536.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999009012|emb|CZK44313.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999018174|emb|CZJ85680.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999027289|emb|CZK23093.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999030610|emb|CZH25486.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999033239|emb|CZK19684.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999039445|emb|CZJ94422.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999042489|emb|CZK06271.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999048478|emb|CZK00425.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999051619|emb|CZJ93949.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999054502|emb|CZK27474.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999063731|emb|CZK03702.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999070526|emb|CZJ63483.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999072745|emb|CZK29825.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999085039|emb|CZK32673.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999149935|emb|CZI47488.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999168583|emb|CZI44207.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999184374|emb|CZP96589.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999198507|emb|CZP15368.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999206240|emb|CZP64504.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999228343|emb|CZP10299.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999235248|emb|CZP59908.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999240242|emb|CZH89255.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999244413|emb|CZH78236.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999248820|emb|CZH09667.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999252036|emb|CZH38584.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999256025|emb|CZP81011.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999259069|emb|CZP45656.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999261344|emb|CZH43113.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999265260|emb|CZP08398.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999269472|emb|CZO34521.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999272274|emb|CZP59759.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999274842|emb|CZG81272.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999277656|emb|CZP38744.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999281313|emb|CZP14393.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999283719|emb|CZP62897.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999291036|emb|CZP33561.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999296437|emb|CZP57046.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999299524|emb|CZP45774.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999307354|emb|CZH72018.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999309418|emb|CZP28710.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999315774|emb|CZI08465.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999318726|emb|CZP66224.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999322068|emb|CZI00040.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999324393|emb|CZH31692.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999328671|emb|CZG66467.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999331774|emb|CZG56587.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999337805|emb|CZP48563.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999340128|emb|CZH27608.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999344404|emb|CZP83317.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999347257|emb|CZP64441.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999349659|emb|CZH39470.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999353425|emb|CZP67372.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999357183|emb|CZP66923.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999363763|emb|CZP55179.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999367165|emb|CZP78293.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999369892|emb|CZP76633.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999392354|emb|CZP98722.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999398602|emb|CZQ01438.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999403073|emb|CZP39453.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999450671|emb|CZP37071.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999464804|emb|CZM50618.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999467828|emb|CZO28017.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999469361|emb|CZH08401.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999474747|emb|CZM63545.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999477204|emb|CZN76481.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999480706|emb|CZN01893.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999484203|emb|CZN87570.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999487138|emb|CZM12858.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999490311|emb|CZN80788.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999493502|emb|CZM12322.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999500082|emb|CZN74858.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999503208|emb|CZO09716.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999506324|emb|CZN14615.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999509527|emb|CZG49696.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999512865|emb|CZN28964.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999516047|emb|CZM01670.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999518956|emb|CZM83013.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999521914|emb|CZP17997.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999532312|emb|CZO44557.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999535468|emb|CZN38950.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999538549|emb|CZM74147.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999541993|emb|CZO19596.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999544955|emb|CZO59855.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999548201|emb|CZN90479.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999551513|emb|CZO12717.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999554548|emb|CZN32753.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999557877|emb|CZO54611.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999561114|emb|CZM43568.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999564120|emb|CZO68449.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999567484|emb|CZM53931.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999570684|emb|CZN51809.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999573872|emb|CZN94272.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999580364|emb|CZO18180.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999583652|emb|CZO39492.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999587015|emb|CZM66425.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999589950|emb|CZM39167.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999593109|emb|CZN44156.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999596182|emb|CZO10473.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999599502|emb|CZO36280.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999602672|emb|CZL98535.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999605460|emb|CZN74357.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999608997|emb|CZN64358.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999615609|emb|CZM49066.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999618622|emb|CZN89159.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999621808|emb|CZO83351.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999625136|emb|CZN72714.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999628365|emb|CZM61729.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999631585|emb|CZM60371.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999634645|emb|CZN60801.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999637973|emb|CZN52973.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999641169|emb|CZO80985.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999644161|emb|CZO54671.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999647652|emb|CZN95953.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999650662|emb|CZO04173.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999653953|emb|CZO01904.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999657150|emb|CZM30970.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999660224|emb|CZM66096.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999663345|emb|CZN16082.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999666710|emb|CZM36530.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999669902|emb|CZL83278.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999673134|emb|CZM38785.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999676296|emb|CZN76576.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999679359|emb|CZM80687.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999682554|emb|CZM83246.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999686241|emb|CZO01583.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999689091|emb|CZN29702.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999692284|emb|CZN97982.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999695501|emb|CZN27865.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999698832|emb|CZM13302.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999701776|emb|CZM79996.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999705011|emb|CZL96200.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999708131|emb|CZN56022.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999711550|emb|CZM99765.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999714646|emb|CZN20210.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999718024|emb|CZO47185.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999720980|emb|CZM94949.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999724499|emb|CZN35560.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999727796|emb|CZL98248.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999731021|emb|CZO44443.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999734139|emb|CZM24758.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999737521|emb|CZO71710.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999741002|emb|CZM32659.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999744060|emb|CZN25853.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999747202|emb|CZM24082.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999750566|emb|CZL97622.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999753762|emb|CZM82248.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999756813|emb|CZN11835.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999760314|emb|CZM25709.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999763341|emb|CZN29179.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999766867|emb|CZM46877.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999769716|emb|CZN49277.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999776180|emb|CZL98957.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999777445|emb|CZH48113.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999782932|emb|CZH63334.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999786379|emb|CZM23283.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999789544|emb|CZO65721.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999792889|emb|CZO59674.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999799774|emb|CZO54363.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1003029229|emb|CZR19258.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|1003036412|emb|CZR17226.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|1005832254|gb|AMQ26980.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431617|gb|AMV13244.1| Putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|1041014524|gb|ANN91585.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1103995551|emb|SFZ36530.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1103998682|emb|SFZ36244.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_041174029</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>754.592</Hsp_bit-score>
+      <Hsp_score>1947</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|499526473|ref|WP_011213113.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|53750300|emb|CAH11694.1| hypothetical protein lpp0546 [Legionella pneumophila str. Paris] &gt;gi|536613603|gb|ERB41975.1| endo-1,3-beta-glucanase [Legionella pneumophila str. 121004] &gt;gi|541995567|gb|ERH41666.1| endo-1,3-beta-glucanase [Legionella pneumophila str. Leg01/11] &gt;gi|541997359|gb|ERH43405.1| endo-1,3-beta-glucanase [Legionella pneumophila str. Leg01/53] &gt;gi|542121148|gb|ERI47481.1| endo-1,3-beta-glucanase [Legionella pneumophila str. Leg01/20] &gt;gi|762002503|dbj|GAN25621.1| putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|999171898|emb|CZI30973.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999181687|emb|CZG52851.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999187855|emb|CZI96371.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999212771|emb|CZG80100.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999216871|emb|CZI64383.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999360017|emb|CZI63191.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999373411|emb|CZG55783.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999376445|emb|CZJ17326.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999379798|emb|CZH70574.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999382693|emb|CZI59527.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999386238|emb|CZG62900.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999389143|emb|CZI58252.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999396859|emb|CZG07288.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999405875|emb|CZG69826.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999408938|emb|CZH93130.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999412786|emb|CZG34174.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999415387|emb|CZG86502.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999418727|emb|CZG63106.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999421922|emb|CZH72069.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999425236|emb|CZG73742.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999428410|emb|CZG74523.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999431600|emb|CZG71770.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999434958|emb|CZH98585.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999438142|emb|CZG61077.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999441138|emb|CZK27485.1| endo-1%2C4 beta-glucanase [Legionella pneumophila] &gt;gi|999444669|emb|CZH78739.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999447872|emb|CZG54706.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999457613|emb|CZK23545.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999496298|emb|CZI48327.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999525315|emb|CZJ05940.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999528028|emb|CZI72853.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999576071|emb|CZI43482.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999611327|emb|CZI64434.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1003031810|emb|CZR29226.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1041017621|gb|ANN94681.1| 1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213113</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>752.666</Hsp_bit-score>
+      <Hsp_score>1942</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELADKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELA+KNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|754875982|ref|WP_042236388.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236388</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>752.666</Hsp_bit-score>
+      <Hsp_score>1942</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWVMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTAKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINW+MELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNT KLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|652966170|ref|WP_027219171.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998801874|emb|CZI09901.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999003182|emb|CZI83064.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999159280|emb|CZJ67731.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999165646|emb|CZG81814.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999178287|emb|CZJ54691.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999287244|emb|CZI47568.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999293628|emb|CZI46108.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999312683|emb|CZI54604.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1002092747|emb|CZQ95199.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219171</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.895</Hsp_bit-score>
+      <Hsp_score>1940</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>365</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMSGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKM GSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|502866118|ref|WP_013101094.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|295647933|gb|ADG23780.1| endo-1,4 beta-glucanase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989518|dbj|GAN22581.1| putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|761999042|dbj|GAN28931.1| putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|999302845|emb|CZI37662.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_013101094</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.895</Hsp_bit-score>
+      <Hsp_score>1940</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKKQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRIGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENK+QAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDR+GLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1004017630|ref|WP_061485350.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485350</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.51</Hsp_bit-score>
+      <Hsp_score>1939</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIISFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTISTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGQGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLI+SFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWT+STPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLG+GPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|652971359|ref|WP_027224218.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|761992705|dbj|GAN16493.1| putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|761995895|dbj|GAN19599.1| putative aminopeptidase YsdC [Legionella pneumophila] &gt;gi|998982411|emb|CZI65745.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999107529|emb|CZI62994.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999231758|emb|CZI43479.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224218</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.51</Hsp_bit-score>
+      <Hsp_score>1939</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>362</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPRGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWVMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTAKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTP+G VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINW+MELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNT KLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1006935322|ref|WP_061827945.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998791213|emb|CZG38671.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061827945</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.125</Hsp_bit-score>
+      <Hsp_score>1938</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>364</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGVSGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQGKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPG SG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQ +DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1005410693|ref|WP_061639940.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998793170|emb|CZI53002.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639940</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>750.74</Hsp_bit-score>
+      <Hsp_score>1937</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHATLISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTLYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIIELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHA L+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGAST+YKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWI+ELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1003782944|ref|WP_061467299.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1032656662|gb|ANH11933.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1032662037|gb|ANH17307.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1032665015|gb|ANH20284.1| 1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061467299</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>749.199</Hsp_bit-score>
+      <Hsp_score>1933</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMSGSPDINALFLDIGAENKKQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRIGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKM GSPDINALFLDIGAENK+QAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDR+GLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|500490081|ref|WP_011945641.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella pneumophila] &gt;gi|148282675|gb|ABQ56763.1| endo-1,4 beta-glucanase [Legionella pneumophila str. Corby]</Hit_def>
+  <Hit_accession>WP_011945641</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>748.814</Hsp_bit-score>
+      <Hsp_score>1932</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKKQAQKEFAIQPGLEVTPVSEFSLLSKNRFLGKALDDRIGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENK+QAQKEFAIQPGLEVTPVSEFS LSKNRFLGKALDDR+GLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1003927097|ref|WP_061469838.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|998912123|emb|CZH22310.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|998994542|emb|CZI20941.1| Putative aminopeptidase ysdC [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061469838</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>748.429</Hsp_bit-score>
+      <Hsp_score>1931</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMSGSPDINALFLDIGAENKKQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELADKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKM GSPDINALFLDIGAENK+QAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELA+KNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1004027705|ref|WP_061489603.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489603</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>746.117</Hsp_bit-score>
+      <Hsp_score>1925</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>362</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQSYMAELKIDGMGNLIGQRKDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKRSGSPDINALFLDIGAENKKQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRIGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLIVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQ YM ELKIDGMGNLIGQR+DNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKK  GSPDINALFLDIGAENK+QAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDR+GLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|652976198|ref|WP_027228871.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|985765974|gb|KXB27085.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|985767716|gb|KXB28802.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|999119293|emb|CZG77300.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|999122499|emb|CZH11414.1| Putative aminopeptidase ysdC [Legionella pneumophila] &gt;gi|1024341647|gb|KZX35954.1| 1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1108603962|gb|APF02330.1| 1,3-beta-glucanase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606973|gb|APF05340.1| 1,3-beta-glucanase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228871</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>738.799</Hsp_bit-score>
+      <Hsp_score>1906</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>356</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIFSFLASAAEMSFLAQLTEVPGASGYEKNVRHLLQKQWQPYMTELKVDGMGNLIGQRKYNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWAVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDVGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDVLGAVKQQPNQLYVAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDRSMIPHQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLKLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLI SFLASAAEMSFLAQLTEVPGASG+EKNVRHL+QKQWQPYM ELK+DGMGNLIGQR+ NQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRW VSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLD+GAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISD L AVKQQPNQLY+AATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYD+SMIP+QELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1011913469|ref|WP_062726683.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726683</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.643</Hsp_bit-score>
+      <Hsp_score>1903</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>356</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIFSFLASAAEMSFLAQLTEVPGASGYEKNVRHLLQKQWQPYMMELKVDGMGNLIGQRKYNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWAVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDVGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDVLGAVKQQPNQLYVAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDRSMIPHQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLKLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLI SFLASAAEMSFLAQLTEVPGASG+EKNVRHL+QKQWQPYM ELK+DGMGNLIGQR+ NQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRW VSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLD+GAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISD L AVKQQPNQLY+AATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYD+SMIP+QELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|395126466|emb|CCD04649.1|</Hit_id>
+  <Hit_def>endo-1,4 beta-glucanase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD04649</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>736.102</Hsp_bit-score>
+      <Hsp_score>1899</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>364</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>356</Hsp_identity>
+      <Hsp_positive>361</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>364</Hsp_align-len>
+      <Hsp_qseq>LIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIVSFLASAAEMSFLAQLTEVPGASGYEKNVRHLVQKQWQPYMAELKIDGMGNLIGQRKDNQQGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLRLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>+IVSFLASAAEMSFLAQLTEVPGASG+EKNVRHLVQKQWQPYM ELKIDGMGNLIGQR+DNQ+GPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|652970660|ref|WP_027223552.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella pneumophila] &gt;gi|1005365087|gb|AMP90956.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368163|gb|AMP93940.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pascullei] &gt;gi|1005371081|gb|AMP96857.1| 1,3-beta-glucanase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223552</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>731.48</Hsp_bit-score>
+      <Hsp_score>1887</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>351</Hsp_identity>
+      <Hsp_positive>366</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MIKHAILISGLIFSFLASAAEMSFLAQLTEVPGASGYEKNVRHLLQKQWQPYMAELKVDGMGNLIGQRKYNHKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTISTPKGPVLAYSGMDSPHLLGDKKMLGSPDINALFLDVGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRIGLAVISDILAAVKQQPNQLYVAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDRSMIPHQELINWIIELASKNNIPLQLEVEPGYGEDGSKVQSSGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLKLIAENLNQEVVDKIKKS</Hsp_hseq>
+      <Hsp_midline>MIKHAIL+SGLI SFLASAAEMSFLAQLTEVPGASG+EKNVRHL+QKQWQPYM ELK+DGMGNLIGQR+ N KGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWT+STPKG VLAYSGMDSPHLLGDKKMLGSPDINALFLD+GAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDR+GLAVISD L AVKQQPNQLY+AATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYD+SMIP+QELINWI+ELA+KNNIPLQLEVEPGYGEDGSKVQ+SGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLL LIAE+LNQEVVDKIKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966440824|ref|WP_058481147.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella waltersii] &gt;gi|962291881|gb|KTD75579.1| endo-1,4 beta-glucanase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481147</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>630.943</Hsp_bit-score>
+      <Hsp_score>1626</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>333</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MIKQLLGIVGFICSLASAASEMPLLSTLTEIPGASGYEKPVRTLMQNQWQPYLSESKIDGMGNLIGQFKNQPKGPKLLFMAHLDETGFMVESITPDGFLKVVPLGGIANSVLYAQRWNVSTTKGVVLAYSGMDSPHLLGDKKMLSSPDINVMFLDIGAENKEQAQSEFGIRPGLQVTPISEFSQLSKNRFLAKALDDRIGLAAITESLGSIKQKSIPNQLYLAATAQEEVGMRGASTVYNSTHPDVVINVEVGIADDYPMLLADRKGRLFLGKGPSLFVYDRSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDASKLQVSGDGVPAVNIGIPIRYAHQHAGIFDKRDYDNAVKLLSLIAENLTQDVVDKLK</Hsp_hseq>
+      <Hsp_midline>MIK  + + G I S  ++A+EM  L+ LTE+PGASG+EK VR L+Q QWQPY+ E KIDGMGNLIGQ ++  KGPKLLFMAHLDETGFMVESITPDGFLKV+PLGGIANSV+YAQRW VST KG VLAYSGMDSPHLLGDKKML SPDIN +FLDIGAENKEQAQ EF I+PGL+VTP+SEFSQLSKNRFL KALDDR+GLA I+++L ++KQ+  PNQLYLAAT QEEVGMRGASTVY +THPD+ INVEVGIADDYPMLLADRKGR+ LGKGPSLFVYD+SMIPNQELINWIMELANKNNIPLQLEVEPGYGED SK+Q SG GVP VNIGIPIRYAHQHAGIFDKRDYDN VKLLSLIAE+L Q+VVDK+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966431990|ref|WP_058472423.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella quateirensis] &gt;gi|962271452|gb|KTD55454.1| endo-1,4 beta-glucanase [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472423</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>618.616</Hsp_bit-score>
+      <Hsp_score>1594</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>336</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAA-EMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQ--QPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MLGKILVITGMIASLTVNAASEMPLLASLTEMAGASGFEKPIRQVMQKNWQPLLTDLKVDGMGNLIG-RKNNQQGPKLLFMAHLDETGFMIESITPEGFLKVVPLGGIANSVIYAQRWTVTTAKGPVLAYSGMDSPHLLGDKKMLGSPDMNFLFLDIGAESQEQAQKEFGIRPGLEVTPVSEFSQLSSNRFLAKALDDRIGLASISDVLELMKQKQQPNQLYVAATVQEEIGLRGASTVYKATHPDVAINIEVGIADDYPALLADRKSRIFLGKGPSVFVYDHSMIPNQELLEWVIELANKNNIPLQLEVEPGYGEDGAKIQASGTGVPTVNIGIPIRYAHQHAGVFDKRDYDNAVKLMTLIAEHLNQDVLDKIKTS</Hsp_hseq>
+      <Hsp_midline>M+   ++++G+I S   +AA EM  LA LTE+ GASG EK +R ++QK WQP + +LK+DGMGNLIG R++NQ+GPKLLFMAHLDETGFM+ESITP+GFLKV+PLGGIANSVIYAQRWTV+T KG VLAYSGMDSPHLLGDKKMLGSPD+N LFLDIGAE++EQAQKEF I+PGLEVTPVSEFSQLS NRFL KALDDR+GLA ISD L  +KQ  QPNQLY+AATVQEE+G+RGASTVYKATHPD+AIN+EVGIADDYP LLADRK RI LGKGPS+FVYD SMIPNQEL+ W++ELANKNNIPLQLEVEPGYGEDG+K+QASG GVP VNIGIPIRYAHQHAG+FDKRDYDN VKL++LIAE LNQ+V+DKIK S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|654933330|ref|WP_028383684.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella moravica] &gt;gi|962248467|gb|KTD32691.1| endo-1,4 beta-glucanase [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_028383684</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>607.06</Hsp_bit-score>
+      <Hsp_score>1564</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>480</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>331</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAA-EMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQ--QPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKKS</Hsp_qseq>
+      <Hsp_hseq>MFGKLLLISGFTVSLAVNAASEMPLLAHLTEIAGASGFEKPVRQAMQKNWQPLLTDLKVDGMGNLIG-RKNNQHGPKLLLMAHLDETGFMVESITPEGFLKVVPLGGIANSVIYAQRWTVTTAQGPVLAYSGMDSPHLLGDKKMLGSPDMNFLFLDIGAESQEQAQKEFGIRPGLEVTPISEFSRLSSHRFLAKALDDRIGLASITDMLELLKQKQQPNQLYVAATVQEEIGLRGASTVYKATHPDVAINIEVGIADDYPALLAERKNRIFLGKGPSVFVYDHSMIPNQELLEWVIELANKNYIPLQLEVEPGYGEDGAKIQASGSGVPVVNIGIPIRYAHQHAGIFDKRDYDNAVKLMTLIAEHLNQDVVDNIKKS</Hsp_hseq>
+      <Hsp_midline>M    +L+SG  VS   +AA EM  LA LTE+ GASG EK VR  +QK WQP + +LK+DGMGNLIG R++NQ GPKLL MAHLDETGFMVESITP+GFLKV+PLGGIANSVIYAQRWTV+T +G VLAYSGMDSPHLLGDKKMLGSPD+N LFLDIGAE++EQAQKEF I+PGLEVTP+SEFS+LS +RFL KALDDR+GLA I+D L  +KQ  QPNQLY+AATVQEE+G+RGASTVYKATHPD+AIN+EVGIADDYP LLA+RK RI LGKGPS+FVYD SMIPNQEL+ W++ELANKN IPLQLEVEPGYGEDG+K+QASG GVPVVNIGIPIRYAHQHAGIFDKRDYDN VKL++LIAE LNQ+VVD IKKS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966460451|ref|WP_058492880.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella worsleiensis] &gt;gi|962296519|gb|KTD80156.1| endo-1,4 beta-glucanase [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492880</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>596.275</Hsp_bit-score>
+      <Hsp_score>1536</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>281</Hsp_identity>
+      <Hsp_positive>331</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>375</Hsp_align-len>
+      <Hsp_qseq>MIKHAILVSGLIVSFLASAA-EMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQ--QPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MLRKTVLISSFLISCAAHAASEMPLLAHLTEMAGASGFEKPIRQAIEKTWQPLLTDLKVDGMGNLIGHK-NNQKGPKLLFMAHMDETGFMVESITPEGFLKVVPLGGIANAVIYAQRWTVTTAKGAVLAYSGMDSPHLLGDKKLLGSPDMNFLFLDIGAESCEQAQNEFGMRPGLEVTPVSEFSQLSPNRFLAKALDDRIGLASISDTLESLKQKQQPNRLYVAATVQEEIGLRGASTVYQATHPDVAINIEVGIADDYPALMAERKNRIFLGKGPSVFVYDHSMIPNQELLEWVIELAKVNNIPLQLEVEPGYGEDGAKIQTAGNGVPVVNIGIPVRYAHQHAGVFDKRDYDNAVKLMALIAEHLNQDVVDKIK</Hsp_hseq>
+      <Hsp_midline>M++  +L+S  ++S  A AA EM  LA LTE+ GASG EK +R  ++K WQP + +LK+DGMGNLIG + +NQKGPKLLFMAH+DETGFMVESITP+GFLKV+PLGGIAN+VIYAQRWTV+T KG+VLAYSGMDSPHLLGDKK+LGSPD+N LFLDIGAE+ EQAQ EF ++PGLEVTPVSEFSQLS NRFL KALDDR+GLA ISD L ++KQ  QPN+LY+AATVQEE+G+RGASTVY+ATHPD+AIN+EVGIADDYP L+A+RK RI LGKGPS+FVYD SMIPNQEL+ W++ELA  NNIPLQLEVEPGYGEDG+K+Q +G GVPVVNIGIP+RYAHQHAG+FDKRDYDN VKL++LIAE LNQ+VVDKIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|962185397|gb|KTC70557.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Legionella anisa]</Hit_def>
+  <Hit_accession>KTC70557</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.865</Hsp_bit-score>
+      <Hsp_score>1361</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>IRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MKKLNLFTMGLM---LIHATGAIADEHS-LAKLTDLAGASGFEKSVRDAVKQQWQPSMNRITVDGMGNLIGQYKTNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPSSVIFAQRWMVSTPKGAILAYSGMDSTHLIDEVKKNQLPKGNAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSALSENRFLAKALDDRLGLALISDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYKSTHPDITINVEVGIADDYPALIAKRKGRIALGKGPTLFVFDRSMIPHQELLNWVLDLAKKNNIQVQLESEIGYGQDGSKVQSSGSGVPSINIGVPIRYAHQQAGMFDKRDYDQAVKLVSLIVTHLNQQVVEQIK</Hsp_hseq>
+      <Hsp_midline>++KL++    ++   LI +  A A E S LA+LT++ GASG EK+VR  V++QWQP M  + +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI +SVI+AQRW VSTPKG++LAYSGMDS HL+ + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+ISD L ++K Q  PNQLY AATVQEEVG+RGASTVYK+THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFV+D+SMIP+QEL+NW+++LA KNNI +QLE E GYG+DGSKVQ+SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VV++IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1041898864|ref|WP_065233479.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_065233479</Hit_accession>
+  <Hit_len>369</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.48</Hsp_bit-score>
+      <Hsp_score>1360</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>367</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>364</Hsp_align-len>
+      <Hsp_qseq>LIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MLIHATGAIADEHSLAKLTDLAGASGFEKSVRDAVKQQWQPSMNRITVDGMGNLIGQYKTNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPSSVIFAQRWMVSTPKGAILAYSGMDSTHLIDEVKKNQLPKGNAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSALSENRFLAKALDDRLGLALISDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYKSTHPDITINVEVGIADDYPALIAKRKGRIALGKGPTLFVFDRSMIPHQELLNWVLDLAKKNNIQVQLESEIGYGQDGSKVQSSGSGVPSINIGVPIRYAHQQAGMFDKRDYDQAVKLVSLIVTHLNQQVVEQIK</Hsp_hseq>
+      <Hsp_midline>+++    + A+   LA+LT++ GASG EK+VR  V++QWQP M  + +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI +SVI+AQRW VSTPKG++LAYSGMDS HL+ + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+ISD L ++K Q  PNQLY AATVQEEVG+RGASTVYK+THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFV+D+SMIP+QEL+NW+++LA KNNI +QLE E GYG+DGSKVQ+SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VV++IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966436027|ref|WP_058476395.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella steigerwaltii] &gt;gi|962295958|gb|KTD79601.1| endo-1,4-beta-glucanase [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058476395</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.709</Hsp_bit-score>
+      <Hsp_score>1358</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>IRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MKRLNMLTMGLM---LIGATTGAIADEHSLAKLTDLAGASGFEKSVRDVVKQQWQQSMSNLTVDGMGNLIGQYKVNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPASVIFAQRWLVSTPNGAILAYSGMDSTHLLEEAKKNNLPLANAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSPLSENRFLAKALDDRLGLALIGDVLDSIKNQNRPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALVAKRKGRIALGKGPTLFVYDRSMIPHQELLNWILDLAQKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLVSLIVTHLNQQVVDQIK</Hsp_hseq>
+      <Hsp_midline>+++L+M+   ++   LI +   + A+   LA+LT++ GASG EK+VR +V++QWQ  M  L +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI  SVI+AQRW VSTP G++LAYSGMDS HLL + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+I D L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NWI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966472026|ref|WP_058502941.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella israelensis] &gt;gi|962229847|gb|KTD14444.1| endo-1,4 beta-glucanase [Legionella israelensis]</Hit_def>
+  <Hit_accession>WP_058502941</Hit_accession>
+  <Hit_len>375</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.324</Hsp_bit-score>
+      <Hsp_score>1357</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>373</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>356</Hsp_align-len>
+      <Hsp_qseq>SAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVK-QQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>AVTELPLLAKLTETAGASGFEKPVRHMLKEQWQPFMSKLAVDGMGNLIGSHKNNQDGPRVLIMAHMDEVAFMVESITPEGFLKVIPIGGIYNSVAYAQRWQVSTAKGLVKAYSGMDSPHIV-EKKPSGSPELSALFLDIGAASREEVESKFAIRPGLPVTPESAFTSLGEHRFLAKALDDRLGLAVISDAMRLIKHQQPNQLHLAATVQEEIGLRGASTLFESIHPDIAINVEVGIADDYPLLQSERKGRISLGKGPTLFVYDRSMIPNQELLNWVLALAEKYHINVQLEVEPGYGEDAAKLQTSGSGVPALNIGIPVRYAHQHAGVFDERDYQQAVKLLGLIIEHLNQEVMDQIK</Hsp_hseq>
+      <Hsp_midline>+  E+  LA+LTE  GASG EK VRH++++QWQP+M +L +DGMGNLIG  ++NQ GP++L MAH+DE  FMVESITP+GFLKVIP+GGI NSV YAQRW VST KG V AYSGMDSPH++ +KK  GSP+++ALFLDIGA ++E+ + +FAI+PGL VTP S F+ L ++RFL KALDDRLGLAVISDA+R +K QQPNQL+LAATVQEE+G+RGAST++++ HPDIAINVEVGIADDYP+L ++RKGRI LGKGP+LFVYD+SMIPNQEL+NW++ LA K +I +QLEVEPGYGED +K+Q SG GVP +NIGIP+RYAHQHAG+FD+RDY   VKLL LI E LNQEV+D+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|518062342|ref|WP_019232550.1|</Hit_id>
+  <Hit_def>endo-1,3-beta-glucanase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019232550</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.324</Hsp_bit-score>
+      <Hsp_score>1357</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>312</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>IRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MKKLNLFTMGLM---LIHATGAIADEHS-LAKLTDLAGASGFEKSVRDAVKQQWQPSMNRITVDGMGNLIGQYKTNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPSSVIFAQRWMVSTPKGPILAYSGMDSTHLIDEVKKNQLPKGNAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSALSENRFLAKALDDRLGLALISDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYKSTHPDITINVEVGIADDYPALIAKRKGRIALGKGPTLFVFDRSMIPHQELLNWVLDLAKKNNIQVQLESEIGYGQDGSKVQSSGSGVPSINIGVPIRYAHQQAGMFDKRDYDQAVKLVSLIVTHLNQQVVEQIK</Hsp_hseq>
+      <Hsp_midline>++KL++    ++   LI +  A A E S LA+LT++ GASG EK+VR  V++QWQP M  + +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI +SVI+AQRW VSTPKG +LAYSGMDS HL+ + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+ISD L ++K Q  PNQLY AATVQEEVG+RGASTVYK+THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFV+D+SMIP+QEL+NW+++LA KNNI +QLE E GYG+DGSKVQ+SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VV++IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1113351751|gb|OJW15509.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>OJW15509</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.939</Hsp_bit-score>
+      <Hsp_score>1356</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>365</Hsp_align-len>
+      <Hsp_qseq>LIVSFLASA-AEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MLISATASAVADEHSLAKLTDLAGASGFEKSVRDVVKQQWQQSMNNLSVDGMGNLIGQYKLNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPASVIFAQRWMVSTPQGPILAYSGMDSTHLIEEAKKNNLPAAHAVFLDIGAENKEQAETKFNVRPGLQVTPASQFSALSDNRFLAKALDDRLGLALIGDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALVAKRKGRIALGKGPTLFVYDRSMIPHQELLNWILDLAKKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLVSLIVTHLNQQVVDQIK</Hsp_hseq>
+      <Hsp_midline>+++S  ASA A+   LA+LT++ GASG EK+VR +V++QWQ  M  L +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI  SVI+AQRW VSTP+G +LAYSGMDS HL+ + K    P  +A+FLDIGAENKEQA+ +F ++PGL+VTP S+FS LS NRFL KALDDRLGLA+I D L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NWI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966494503|ref|WP_058511291.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella steelei]</Hit_def>
+  <Hit_accession>WP_058511291</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.554</Hsp_bit-score>
+      <Hsp_score>1355</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>370</Hsp_align-len>
+      <Hsp_qseq>ILVSGLIVSFLASA-AEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>LMLGLMLISATASAVADEHSLAKLTDLAGASGFEKSVRDVVKQQWQQSMNNLSVDGMGNLIGQYKLNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPASVIFAQRWMVSTPQGPILAYSGMDSTHLIEEAKKNNLPAAHAVFLDIGAENKEQAETKFNVRPGLQVTPASQFSALSDNRFLAKALDDRLGLALIGDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALVAKRKGRIALGKGPTLFVYDRSMIPHQELLNWILDLAKKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLVSLIVTHLNQQVVDQIK</Hsp_hseq>
+      <Hsp_midline>+++  +++S  ASA A+   LA+LT++ GASG EK+VR +V++QWQ  M  L +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI  SVI+AQRW VSTP+G +LAYSGMDS HL+ + K    P  +A+FLDIGAENKEQA+ +F ++PGL+VTP S+FS LS NRFL KALDDRLGLA+I D L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NWI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|962190738|gb|KTC75825.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>KTC75825</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.554</Hsp_bit-score>
+      <Hsp_score>1355</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>102</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>255</Hsp_identity>
+      <Hsp_positive>312</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>379</Hsp_align-len>
+      <Hsp_qseq>IRKLSMIKHAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MKKLNLFTMGLM---LIQATGAIADEHS-LAKLTDLAGASGFEKSVRDAVKQQWQPSMSKVTVDGMGNLIGQYKANQKGPNVLLMAHMDEVGYMIESITPDGFLKVIPLGGIPSSVIFAQRWMVSTPKGPILAYSGMDSTHLIDEAKKNQLPMGNAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSPLSENRFLAKALDDRLGLALISDVLDSIKNQDRPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALIAKRKGRIALGKGPTLFVYDRSMIPHQELLNWVLDLAQKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGMFDKRDYDQAVKLVSLIVTHLNQQVVEQIK</Hsp_hseq>
+      <Hsp_midline>++KL++    ++   LI +  A A E S LA+LT++ GASG EK+VR  V++QWQP M ++ +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLKVIPLGGI +SVI+AQRW VSTPKG +LAYSGMDS HL+ + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+ISD L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NW+++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VV++IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1031610217|ref|WP_064115070.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_064115070</Hit_accession>
+  <Hit_len>369</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.168</Hsp_bit-score>
+      <Hsp_score>1354</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>367</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>364</Hsp_align-len>
+      <Hsp_qseq>LIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>MLIQATGAIADEHSLAKLTDLAGASGFEKSVRDAVKQQWQPSMSKVTVDGMGNLIGQYKANQKGPNVLLMAHMDEVGYMIESITPDGFLKVIPLGGIPSSVIFAQRWMVSTPKGPILAYSGMDSTHLIDEAKKNQLPMGNAVFLDIGAETKEQAETKFNVRPGLQVTPASQFSPLSENRFLAKALDDRLGLALISDVLDSIKNQDRPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALIAKRKGRIALGKGPTLFVYDRSMIPHQELLNWVLDLAQKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGMFDKRDYDQAVKLVSLIVTHLNQQVVEQIK</Hsp_hseq>
+      <Hsp_midline>+++    + A+   LA+LT++ GASG EK+VR  V++QWQP M ++ +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLKVIPLGGI +SVI+AQRW VSTPKG +LAYSGMDS HL+ + K    P  NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+ISD L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NW+++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VV++IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966422554|ref|WP_058465755.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465755</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.168</Hsp_bit-score>
+      <Hsp_score>1354</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>HAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVK--QQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>NAVLMGLMMMGSFGVIADQNSLAKLTDLAGASGFEKSVRDVVKQQWQQSMSRVTVDGMGNLIGLYKDNSKGPNVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPNGPILAYSGMDSTHLIEETKKNKLPAVNAVFLDIGAETKEQAETQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESLKNQQQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIALGKGPTLFVYDRSMIPHQELLSWILELAKKNNIPIQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>+A+L+  +++      A+ + LA+LT++ GASG EK+VR +V++QWQ  M  + +DGMGNLIG  +DN KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTP G +LAYSGMDS HL+ + K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++K  QQPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI+ELA KNNIP+QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|962285577|gb|KTD69343.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Legionella steelei]</Hit_def>
+  <Hit_accession>KTD69343</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.168</Hsp_bit-score>
+      <Hsp_score>1354</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>370</Hsp_align-len>
+      <Hsp_qseq>ILVSGLIVSFLASA-AEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>LMLGLMLISATASAVADEHSLAKLTDLAGASGFEKSVRDVVKQQWQQSMNNLSVDGMGNLIGQYKLNQKGPNVLLMAHMDEVGYMIESITPDGFLKIIPLGGIPASVIFAQRWMVSTPQGPILAYSGMDSTHLIEEAKKNNLPAAHAVFLDIGAENKEQAETKFNVRPGLQVTPASQFSALSDNRFLAKALDDRLGLALIGDVLDSIKNQERPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALVAKRKGRIALGKGPTLFVYDRSMIPHQELLNWILDLAKKNNIQVQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLVSLIVTHLNQQVVDQIK</Hsp_hseq>
+      <Hsp_midline>+++  +++S  ASA A+   LA+LT++ GASG EK+VR +V++QWQ  M  L +DGMGNLIGQ + NQKGP +L MAH+DE G+M+ESITPDGFLK+IPLGGI  SVI+AQRW VSTP+G +LAYSGMDS HL+ + K    P  +A+FLDIGAENKEQA+ +F ++PGL+VTP S+FS LS NRFL KALDDRLGLA+I D L ++K Q  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NWI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ+VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|962198232|gb|KTC83264.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>KTC83264</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.168</Hsp_bit-score>
+      <Hsp_score>1354</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>HAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVK--QQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>NAVLMGLMMMGSFGVIADQNSLAKLTDLAGASGFEKSVRDVVKQQWQQSMSRVTVDGMGNLIGLYKDNSKGPNVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPNGPILAYSGMDSTHLIEETKKNKLPAVNAVFLDIGAETKEQAETQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESLKNQQQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIALGKGPTLFVYDRSMIPHQELLSWILELAKKNNIPIQLESEIGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>+A+L+  +++      A+ + LA+LT++ GASG EK+VR +V++QWQ  M  + +DGMGNLIG  +DN KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTP G +LAYSGMDS HL+ + K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++K  QQPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI+ELA KNNIP+QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|963704166|ref|WP_058388191.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella cherrii] &gt;gi|962195959|gb|KTC81020.1| endo-1,4-beta-glucanase [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_058388191</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>524.242</Hsp_bit-score>
+      <Hsp_score>1349</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>479</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>249</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>365</Hsp_align-len>
+      <Hsp_qseq>LIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVKQQ--PNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIKK</Hsp_qseq>
+      <Hsp_hseq>LISATTGAVADEYSLVKLTDLAGASGFEKSVRDLVKQQWQQSMSNLTVDGMGNLIGQYKEDQKGPHVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPNGPILAYSGMDSTHLLEEAKKNNLPAANAVFLDIGAESKEQAETKFMVRPGLQVTPASQFSPLSENRFLAKALDDRLGLALIGDVLDSIKNKDRPNQLYAAATVQEEVGLRGASTVYQSTHPDITINVEVGIADDYPALVAKRKGRIALGKGPTLFVYDRSMIPHQELLNWILDLAKNNNIQVQLESEVGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLVGLIVTHLNQKVVDKIKE</Hsp_hseq>
+      <Hsp_midline>LI +   + A+   L +LT++ GASG EK+VR LV++QWQ  M  L +DGMGNLIGQ +++QKGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTP G +LAYSGMDS HLL + K    P  NA+FLDIGAE+KEQA+ +F ++PGL+VTP S+FS LS+NRFL KALDDRLGLA+I D L ++K +  PNQLY AATVQEEVG+RGASTVY++THPDI INVEVGIADDYP L+A RKGRI LGKGP+LFVYD+SMIP+QEL+NWI++LA  NNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+ LI   LNQ+VVDKIK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966467248|ref|WP_058498574.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058498574</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.316</Hsp_bit-score>
+      <Hsp_score>1344</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>126</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>355</Hsp_align-len>
+      <Hsp_qseq>AEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVK--QQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>ADQNSLAKLTDLAGASGFEKSVRDAVKQQWQQSMSHVAVDGMGNLIGRYKDNAKGPHVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPKGPILAYSGMDSTHLLEETKKNKLPAVNAIFLDIGAETKEQAEAQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESIKNQEQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIVLGKGPTLFVYDRSMIPHQELLSWILDLAKKNNIPVQLESEVGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>A+ + LA+LT++ GASG EK+VR  V++QWQ  M  + +DGMGNLIG+ +DN KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTPKG +LAYSGMDS HLL + K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++K  +QPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI++LA KNNIP+QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|962227345|gb|KTD11976.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Legionella gratiana]</Hit_def>
+  <Hit_accession>KTD11976</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.316</Hsp_bit-score>
+      <Hsp_score>1344</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>126</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>355</Hsp_align-len>
+      <Hsp_qseq>AEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAVK--QQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>ADQNSLAKLTDLAGASGFEKSVRDAVKQQWQQSMSHVAVDGMGNLIGRYKDNAKGPHVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPKGPILAYSGMDSTHLLEETKKNKLPAVNAIFLDIGAETKEQAEAQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESIKNQEQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIVLGKGPTLFVYDRSMIPHQELLSWILDLAKKNNIPVQLESEVGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>A+ + LA+LT++ GASG EK+VR  V++QWQ  M  + +DGMGNLIG+ +DN KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTPKG +LAYSGMDS HLL + K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++K  +QPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI++LA KNNIP+QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|653018570|ref|WP_027270528.1|</Hit_id>
+  <Hit_def>1,3-beta-glucanase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270528</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.316</Hsp_bit-score>
+      <Hsp_score>1344</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>HAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAV--KQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>NAVLMGVMMMASLDVSADQHSLAKLTDLAGASGFEKSVRDVVKLQWQQSMSRVTVDGMGNLIGVYKENAKGPNVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPKGPILAYSGMDSTHLIEEQKKNKLPAVNAVFLDIGAETKEQAETQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESINNQQQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIALGKGPTLFVYDRSMIPHQELLSWILDLAKKNNIQVQLESEMGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>+A+L+  ++++ L  +A+   LA+LT++ GASG EK+VR +V+ QWQ  M  + +DGMGNLIG  ++N KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTPKG +LAYSGMDS HL+ ++K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++  +QQPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|962270866|gb|KTD54869.1|</Hit_id>
+  <Hit_def>endo-1,4-beta-glucanase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>KTD54869</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>521.931</Hsp_bit-score>
+      <Hsp_score>1343</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>110</Hsp_query-from>
+      <Hsp_query-to>478</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>HAILVSGLIVSFLASAAEMSFLAQLTEVPGASGHEKNVRHLVQKQWQPYMEELKIDGMGNLIGQRRDNQKGPKLLFMAHLDETGFMVESITPDGFLKVIPLGGIANSVIYAQRWTVSTPKGSVLAYSGMDSPHLLGDKKMLGSPDINALFLDIGAENKEQAQKEFAIQPGLEVTPVSEFSQLSKNRFLGKALDDRLGLAVISDALRAV--KQQPNQLYLAATVQEEVGMRGASTVYKATHPDIAINVEVGIADDYPMLLADRKGRIGLGKGPSLFVYDKSMIPNQELINWIMELANKNNIPLQLEVEPGYGEDGSKVQASGMGVPVVNIGIPIRYAHQHAGIFDKRDYDNTVKLLSLIAESLNQEVVDKIK</Hsp_qseq>
+      <Hsp_hseq>NAVLMGVMMMASLDVSADQHSLAKLTDLAGASGFEKSVRDVVKLQWQQSMSRVTVDGMGNLIGVYKENAKGPNVLLMAHMDEVGYMVESITPDGFLKIIPLGGIPASVIFAQRWTVSTPKGPILAYSGMDSTHLIEEQKKNKLPAVNAVFLDIGAETKEQAETQFNVRPGLQVTPASQFSPLSENRYLAKALDDRLGLALIGDVLESINNQQQPNQLFTAATVQEEVGLRGASTVFNSTHPDVTINVEVGIADDYPALIAARKGKIALGKGPTLFVYDRSMIPHQELLSWILDLAKKNNIQVQLESEMGYGQDGSKVQGSGSGVPSINIGVPIRYAHQQAGVFDKRDYDQAVKLISLIVTHLNQNVVDQIK</Hsp_hseq>
+      <Hsp_midline>+A+L+  ++++ L  +A+   LA+LT++ GASG EK+VR +V+ QWQ  M  + +DGMGNLIG  ++N KGP +L MAH+DE G+MVESITPDGFLK+IPLGGI  SVI+AQRWTVSTPKG +LAYSGMDS HL+ ++K    P +NA+FLDIGAE KEQA+ +F ++PGL+VTP S+FS LS+NR+L KALDDRLGLA+I D L ++  +QQPNQL+ AATVQEEVG+RGASTV+ +THPD+ INVEVGIADDYP L+A RKG+I LGKGP+LFVYD+SMIP+QEL++WI++LA KNNI +QLE E GYG+DGSKVQ SG GVP +NIG+PIRYAHQ AG+FDKRDYD  VKL+SLI   LNQ VVD+IK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_219947</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>314</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_219947</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>314</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248700|ref|WP_010946240.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|52840737|ref|YP_094536.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627848|gb|AAU26589.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507249|gb|AEW50773.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946240</Hit_accession>
+  <Hit_len>221</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.817</Hsp_bit-score>
+      <Hsp_score>1148</Hsp_score>
+      <Hsp_evalue>3.07587e-157</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>MDKGVNMMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDKGVNMMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MDKGVNMMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379896|ref|WP_072356030.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356030</Hit_accession>
+  <Hit_len>221</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>437.958</Hsp_bit-score>
+      <Hsp_score>1125</Hsp_score>
+      <Hsp_evalue>9.79778e-154</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>MDKGVNMMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDKGVNMTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MDKGVNM E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119426368|ref|WP_072401668.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401668</Hit_accession>
+  <Hit_len>221</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>437.958</Hsp_bit-score>
+      <Hsp_score>1125</Hsp_score>
+      <Hsp_evalue>1.24691e-153</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>MDKGVNMMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDKGVNMTDVMQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MDKGVNM +V+QNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|511302989|ref|WP_016356730.1|</Hit_id>
+  <Hit_def>amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|509081157|gb|AGN13405.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771568|emb|CZI77003.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998774479|emb|CZH09234.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998777359|emb|CZH13527.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998783270|emb|CZH39961.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998786269|emb|CZH07653.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998795738|emb|CZI43298.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998800528|emb|CZL10851.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998804148|emb|CZK64846.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998807238|emb|CZI32387.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998810762|emb|CZI19035.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998813079|emb|CZH12746.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998816481|emb|CZM22910.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998819702|emb|CZL99648.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998825594|emb|CZK40628.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998832789|emb|CZI17211.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998834429|emb|CZL49115.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998838660|emb|CZJ28956.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998840548|emb|CZL85788.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998843128|emb|CZL09695.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998846359|emb|CZL10318.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998849206|emb|CZI98584.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998852472|emb|CZL90056.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998855913|emb|CZL52181.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998858578|emb|CZM28113.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998862276|emb|CZK39910.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998864725|emb|CZJ86159.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998867175|emb|CZJ81833.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998870239|emb|CZM43126.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998873658|emb|CZK73580.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998876252|emb|CZM48680.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998879371|emb|CZJ76398.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998885823|emb|CZM37305.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998888631|emb|CZK51108.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998895768|emb|CZK07646.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998905300|emb|CZK94308.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998908455|emb|CZL69534.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998916054|emb|CZK70926.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998917525|emb|CZL65594.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998920505|emb|CZL71791.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998926864|emb|CZL99877.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998930886|emb|CZK81857.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998933711|emb|CZL68945.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998938777|emb|CZL21865.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998946218|emb|CZK70019.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998948024|emb|CZL30470.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998956992|emb|CZM68609.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998960429|emb|CZK67194.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998963195|emb|CZK81113.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998966745|emb|CZM43219.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998969343|emb|CZL04969.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998972352|emb|CZK81705.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998978466|emb|CZM00441.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998986076|emb|CZK08767.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998987536|emb|CZL90614.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998998244|emb|CZJ95931.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999006458|emb|CZL24525.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999011923|emb|CZL85697.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999014964|emb|CZM79727.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999021189|emb|CZL92710.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999024080|emb|CZL21898.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999036199|emb|CZL84634.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999045271|emb|CZM32159.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999060253|emb|CZL78793.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999066451|emb|CZJ49288.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999075334|emb|CZH15551.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999078584|emb|CZK43278.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999083051|emb|CZK85527.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999087937|emb|CZL16763.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999090999|emb|CZL92393.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999093843|emb|CZH48130.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999097005|emb|CZH53870.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999101356|emb|CZL74582.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999110958|emb|CZL05686.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999114017|emb|CZL58357.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999115909|emb|CZK72503.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999124782|emb|CZL33375.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999132545|emb|CZL70923.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999133853|emb|CZL46656.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999137011|emb|CZK90441.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999140852|emb|CZL84625.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999144811|emb|CZK79897.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999146339|emb|CZM09999.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999155645|emb|CZI38915.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999174246|emb|CZL62530.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999189837|emb|CZI76674.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999192957|emb|CZJ17973.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999199214|emb|CZH00194.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999202166|emb|CZJ22855.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999208469|emb|CZL36668.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999217979|emb|CZM06847.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999220948|emb|CZJ09870.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999333388|emb|CZL31834.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002074316|emb|CZR05657.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002078848|emb|CZQ92361.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1003018352|emb|CZR30364.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|1003021424|emb|CZR26710.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|1003024536|emb|CZR30365.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|1073863661|gb|AOU03612.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073866619|gb|AOU06569.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073869624|gb|AOU09573.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073872568|gb|AOU12516.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073875550|gb|AOU15497.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073878511|gb|AOU18457.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073881506|gb|AOU21451.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073884468|gb|AOU24412.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073887466|gb|AOU27409.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073890451|gb|AOU30393.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073893416|gb|AOU33357.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073896380|gb|AOU36320.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073899344|gb|AOU39283.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073902295|gb|AOU42233.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073905206|gb|AOU45143.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073908224|gb|AOU48159.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073911279|gb|AOU51211.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073914198|gb|AOU54129.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073917156|gb|AOU57086.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073920122|gb|AOU60051.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073923097|gb|AOU63024.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073926109|gb|AOU66035.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073929089|gb|AOU68998.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073932474|gb|AOU72033.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073935421|gb|AOU82420.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073945696|gb|AOU85420.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1073948659|gb|AOU88382.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1104001809|emb|SFZ36278.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1129967274|gb|APT97633.1| glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_016356730</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.95</Hsp_bit-score>
+      <Hsp_score>1112</Hsp_score>
+      <Hsp_evalue>8.87554e-152</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>215</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|469492971|gb|AGH54816.1|</Hit_id>
+  <Hit_def>Amino acid ABC transporter, permease protein [Legionella pneumophila subsp. pneumophila LPE509]</Hit_def>
+  <Hit_accession>AGH54816</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>431.409</Hsp_bit-score>
+      <Hsp_score>1108</Hsp_score>
+      <Hsp_evalue>3.88411e-151</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>214</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>214</Hsp_align-len>
+      <Hsp_qseq>MEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|500490088|ref|WP_011945648.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|148282667|gb|ABQ56755.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila str. Corby] &gt;gi|761989526|dbj|GAN22589.1| arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|761999027|dbj|GAN28940.1| arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998801866|emb|CZI09546.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998912131|emb|CZH22617.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998994550|emb|CZI21345.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999003169|emb|CZI82632.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999149943|emb|CZI47845.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999159293|emb|CZJ68217.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999165654|emb|CZG82162.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999168591|emb|CZI44593.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999178300|emb|CZJ55088.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999302853|emb|CZI37904.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945648</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>426.017</Hsp_bit-score>
+      <Hsp_score>1094</Hsp_score>
+      <Hsp_evalue>5.39872e-149</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|504653939|ref|WP_014841041.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|395126474|emb|CCD04657.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila subsp. pneumophila] &gt;gi|998923768|emb|CZK26101.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998943838|emb|CZJ51235.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998954375|emb|CZK62444.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998975546|emb|CZJ91617.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998992788|emb|CZJ45907.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999009020|emb|CZK44723.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999018182|emb|CZJ86004.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999027297|emb|CZK23374.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999030602|emb|CZH25220.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999033247|emb|CZK19873.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999039453|emb|CZJ94666.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999042481|emb|CZK06032.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999048486|emb|CZK00744.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999051611|emb|CZJ93668.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999054510|emb|CZK27838.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999063723|emb|CZK03492.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999070534|emb|CZJ63743.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999072753|emb|CZK30197.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999085031|emb|CZK32267.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999184366|emb|CZP96470.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999198499|emb|CZP15004.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999206232|emb|CZP64248.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999228335|emb|CZP09937.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999235240|emb|CZP59637.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999240250|emb|CZH89485.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999244405|emb|CZH77874.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999248812|emb|CZH09385.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999252028|emb|CZH38287.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999256017|emb|CZP80703.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999259077|emb|CZP45907.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999261336|emb|CZH42844.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999265252|emb|CZP08144.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999269464|emb|CZO34328.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999272266|emb|CZP59454.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999274834|emb|CZG80897.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999277648|emb|CZP38390.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999281321|emb|CZP14739.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999283711|emb|CZP62696.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999291028|emb|CZP33313.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999296445|emb|CZP57266.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999299532|emb|CZP46111.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999307346|emb|CZH71760.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999309410|emb|CZP28404.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999315782|emb|CZI08747.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999318718|emb|CZP66050.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999322060|emb|CZH99801.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999324401|emb|CZH31938.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999328663|emb|CZG66071.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999331782|emb|CZG56850.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999337797|emb|CZP48344.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999340120|emb|CZH27389.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999344412|emb|CZP83501.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999347249|emb|CZP64256.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999349667|emb|CZH39769.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999353433|emb|CZP67646.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999357191|emb|CZP67109.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999363771|emb|CZP55401.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999367157|emb|CZP78064.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999369900|emb|CZP76820.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999392346|emb|CZP98632.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999398594|emb|CZQ01351.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999403081|emb|CZP39769.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999450663|emb|CZP36857.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999464812|emb|CZM50993.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999467836|emb|CZO28319.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999469353|emb|CZH08168.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999474739|emb|CZM63205.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999477196|emb|CZN76112.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999480698|emb|CZN01595.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999484211|emb|CZN87977.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999487130|emb|CZM12593.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999490303|emb|CZN80425.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999493494|emb|CZM12023.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999500074|emb|CZN74500.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999503200|emb|CZO09371.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999506332|emb|CZN14963.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999509535|emb|CZG50011.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999512873|emb|CZN29181.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999516039|emb|CZM01445.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999518964|emb|CZM83258.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999521906|emb|CZP17700.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999532320|emb|CZO44937.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999535476|emb|CZN39239.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999538557|emb|CZM74478.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999542001|emb|CZO19855.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999544963|emb|CZO60078.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999548193|emb|CZN90233.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999551505|emb|CZO12414.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999554540|emb|CZN32456.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999557885|emb|CZO54863.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999561106|emb|CZM43163.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999564112|emb|CZO68099.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999567476|emb|CZM53644.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999570676|emb|CZN51583.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999573864|emb|CZN93933.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999580356|emb|CZO17847.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999583644|emb|CZO39140.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999587007|emb|CZM66084.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999589958|emb|CZM39440.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999593117|emb|CZN44385.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999596190|emb|CZO10959.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999599510|emb|CZO36551.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999602664|emb|CZL98183.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999605452|emb|CZN74075.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999608989|emb|CZN64123.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999615601|emb|CZM48654.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999618630|emb|CZN89505.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999621800|emb|CZO83068.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999625128|emb|CZN72401.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999628373|emb|CZM62006.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999631577|emb|CZM60102.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999634637|emb|CZN60446.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999637965|emb|CZN52631.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999641161|emb|CZO80639.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999644153|emb|CZO54258.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999647644|emb|CZN95603.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999650670|emb|CZO04426.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999653945|emb|CZO01696.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999657142|emb|CZM30677.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999660216|emb|CZM65869.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999663353|emb|CZN16423.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999666718|emb|CZM36903.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999669910|emb|CZL83616.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999673126|emb|CZM38555.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999676304|emb|CZN76897.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999679351|emb|CZM80315.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999682546|emb|CZM83018.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999686233|emb|CZO01241.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999689099|emb|CZN29932.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999692292|emb|CZN98314.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999695509|emb|CZN28246.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999698824|emb|CZM13042.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999701768|emb|CZM79613.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999705003|emb|CZL95822.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999708139|emb|CZN56262.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999711558|emb|CZN00106.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999714654|emb|CZN20591.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999718016|emb|CZO46867.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999720972|emb|CZM94643.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999724491|emb|CZN35250.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999727804|emb|CZL98476.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999731013|emb|CZO44200.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999734147|emb|CZM24984.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999737513|emb|CZO71447.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999740994|emb|CZM32442.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999744068|emb|CZN26084.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999747210|emb|CZM24307.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999750558|emb|CZL97239.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999753754|emb|CZM81966.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999756805|emb|CZN11527.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999760306|emb|CZM25378.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999763349|emb|CZN29444.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999766875|emb|CZM47240.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999769724|emb|CZN49696.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999776188|emb|CZL99227.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999777453|emb|CZH48508.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999782924|emb|CZH63194.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999786387|emb|CZM23613.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999789552|emb|CZO66072.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999792897|emb|CZO59935.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999799782|emb|CZO54758.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1003029221|emb|CZR19223.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|1003036404|emb|CZR17170.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|1005832262|gb|AMQ26988.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431626|gb|AMV13253.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1032656670|gb|ANH11941.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1032659637|gb|ANH14907.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1032662604|gb|ANH17873.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1041014532|gb|ANN91593.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1103995559|emb|SFZ36569.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1103998690|emb|SFZ36292.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841041</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.861</Hsp_bit-score>
+      <Hsp_score>1091</Hsp_score>
+      <Hsp_evalue>1.49577e-148</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|653012675|ref|WP_027264778.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|998782983|emb|CZI84409.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998822447|emb|CZH33967.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998828289|emb|CZH36766.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998883033|emb|CZI85900.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998897674|emb|CZK07176.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998938001|emb|CZL85680.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998951040|emb|CZJ94271.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999000060|emb|CZG93515.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999058476|emb|CZM30932.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999103734|emb|CZI20667.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999128472|emb|CZH14753.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999152596|emb|CZM81419.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999161923|emb|CZM40355.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999225291|emb|CZG81798.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999236737|emb|CZG94739.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002085580|emb|CZQ97630.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002088270|emb|CZQ79029.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1104005374|emb|SFZ36222.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264778</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.476</Hsp_bit-score>
+      <Hsp_score>1090</Hsp_score>
+      <Hsp_evalue>2.10081e-148</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTDVMQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M +V+QNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|504656272|ref|WP_014843374.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|395129580|emb|CCD07813.1| amino acid (glutamine) ABC transporter, permease [Legionella pneumophila subsp. pneumophila] &gt;gi|761992713|dbj|GAN16501.1| arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|761995903|dbj|GAN19607.1| arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998791221|emb|CZG39087.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998892656|emb|CZJ25494.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|998982403|emb|CZI65411.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999107537|emb|CZI63318.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999231766|emb|CZI43799.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999287236|emb|CZI47113.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999293636|emb|CZI46369.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999312675|emb|CZI54253.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002081575|emb|CZR00062.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1002092755|emb|CZQ95295.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843374</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>424.091</Hsp_bit-score>
+      <Hsp_score>1089</Hsp_score>
+      <Hsp_evalue>2.44912e-148</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGIRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLG+RPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|499526481|ref|WP_011213121.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|53750308|emb|CAH11702.1| hypothetical protein lpp0554 [Legionella pneumophila str. Paris] &gt;gi|536613608|gb|ERB41980.1| arginine ABC transporter permease [Legionella pneumophila str. 121004] &gt;gi|541995572|gb|ERH41671.1| arginine ABC transporter permease [Legionella pneumophila str. Leg01/11] &gt;gi|541997364|gb|ERH43410.1| arginine ABC transporter permease [Legionella pneumophila str. Leg01/53] &gt;gi|542121154|gb|ERI47487.1| arginine ABC transporter permease [Legionella pneumophila str. Leg01/20] &gt;gi|762002511|dbj|GAN25629.1| arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999171890|emb|CZI30659.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999181679|emb|CZG52578.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999187847|emb|CZI96158.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999212763|emb|CZG79665.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999216879|emb|CZI64723.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999360009|emb|CZI62895.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999373419|emb|CZG56059.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999376453|emb|CZJ17553.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999379790|emb|CZH70399.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999382685|emb|CZI59165.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999386246|emb|CZG63200.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999389135|emb|CZI57942.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999396867|emb|CZG07837.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999405883|emb|CZG70239.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999408930|emb|CZH92782.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999412778|emb|CZG33925.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999415395|emb|CZG86837.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999418735|emb|CZG63423.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999421930|emb|CZH72254.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999425244|emb|CZG74012.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999428402|emb|CZG74144.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999431608|emb|CZG72088.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999434966|emb|CZH98968.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999438150|emb|CZG61326.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999441146|emb|CZK27786.1| amino acid (glutamine) ABC transporter permease [Legionella pneumophila] &gt;gi|999444661|emb|CZH78250.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999447864|emb|CZG54433.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999457605|emb|CZK23195.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999496290|emb|CZI47986.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999525323|emb|CZJ06260.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999528036|emb|CZI73213.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999576063|emb|CZI43250.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999611319|emb|CZI64129.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1003032407|emb|CZR25002.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1041017629|gb|ANN94689.1| glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213121</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.165</Hsp_bit-score>
+      <Hsp_score>1084</Hsp_score>
+      <Hsp_evalue>1.87987e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVAGFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+A FVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|499533449|ref|WP_011214733.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella pneumophila] &gt;gi|53753313|emb|CAH14760.1| hypothetical protein lpl0530 [Legionella pneumophila str. Lens] &gt;gi|1080002233|gb|AOW52805.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006013|gb|AOW56293.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014732|gb|AOW63605.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214733</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>422.165</Hsp_bit-score>
+      <Hsp_score>1084</Hsp_score>
+      <Hsp_evalue>1.87987e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTDVMQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGYYAASH</Hsp_hseq>
+      <Hsp_midline>M +V+QNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRG+YAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1005410651|ref|WP_061639903.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|998793162|emb|CZI52664.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639903</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>2.26477e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRYQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGIRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICR+QG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLG+RPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|764926071|ref|WP_044496971.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|999454029|emb|CZI20037.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999460493|emb|CZG99096.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_044496971</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.779</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>2.64025e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFAINRFISILRGTPLILQLSFIYFAVPVLFGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMISEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACF INRFISILRGTPLILQLSFIYFAVPVL GMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMI+EMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1004017605|ref|WP_061485331.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485331</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>421.009</Hsp_bit-score>
+      <Hsp_score>1081</Hsp_score>
+      <Hsp_evalue>5.26543e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGILLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLESLGKKIEKRGHYVASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGI+LTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLE+LGKKIEKRGHY ASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1080123420|ref|WP_070322144.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1080008127|gb|AOW58115.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012211|gb|AOW61702.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018455|gb|AOW67100.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322144</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>420.624</Hsp_bit-score>
+      <Hsp_score>1080</Hsp_score>
+      <Hsp_evalue>5.74781e-147</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTDVMQNLYFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGYYAASH</Hsp_hseq>
+      <Hsp_midline>M +V+QNL+FIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRG+YAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|652967241|ref|WP_027220213.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|999247916|emb|CZH57715.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999773162|emb|CZH90933.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999796150|emb|CZI25119.1| Arginine transport system permease protein ArtQ [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220213</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>419.468</Hsp_bit-score>
+      <Hsp_score>1077</Hsp_score>
+      <Hsp_evalue>1.6637e-146</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGMLIGVLLGTLLSICRHQGVACFAINRFISILRGTPLILQLSFIYFAVPVLFGMRPSILVAGIVVFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVARNIFPAMISEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGGMLIGVLLG+LLSICRHQG+ACF INRFISILRGTPLILQLSFIYFAVPVL GMRPSILVAGIV FGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV RNIFPAMI+EMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|652970667|ref|WP_027223559.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1005362767|gb|AMP88636.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pascullei] &gt;gi|1005365768|gb|AMP91545.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pascullei] &gt;gi|1005368755|gb|AMP94531.1| glutamine ABC transporter permease [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223559</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.927</Hsp_bit-score>
+      <Hsp_score>1073</Hsp_score>
+      <Hsp_evalue>6.47314e-146</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>204</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEMVQNLFFIGKGIVLTMQLLAGGMLIGVLLGTLLSICRHQGVACFFINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLESLGKKIEKRGHYVASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLL GGMLIGVLLG+LLSICRHQG+ACF INRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV+RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLE+LGKKIEKRGHY ASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1011913785|ref|WP_062726999.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062726999</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>413.69</Hsp_bit-score>
+      <Hsp_score>1062</Hsp_score>
+      <Hsp_evalue>3.34237e-144</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEMAQNLFFIGKGIVLTMQLLTGAMLIGVLLGTLLSICRHQGVACFFINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAARTLQIPTFYLWKDIILPQVIRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLESLGKKIEKRGHYVASH</Hsp_hseq>
+      <Hsp_midline>M E+ QNLFFIGKGIVLTMQLLTG MLIGVLLG+LLSICRHQG+ACF INRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAA TLQIP+FYLWKDIILPQV+RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLE+LGKKIEKRGHY ASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|295647941|gb|ADG23788.1|</Hit_id>
+  <Hit_def>amino acid (glutamine) ABC transporter, permease [Legionella pneumophila 2300/99 Alcoy]</Hit_def>
+  <Hit_accession>ADG23788</Hit_accession>
+  <Hit_len>197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>394.045</Hsp_bit-score>
+      <Hsp_score>1011</Hsp_score>
+      <Hsp_evalue>1.25494e-136</Hsp_evalue>
+      <Hsp_query-from>118</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>197</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>192</Hsp_identity>
+      <Hsp_positive>197</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>MQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MQLLTGGMLIGVLLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIKNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>MQLLTGGMLIGVLLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIP+FYLWKDIILPQV++NIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1004334281|ref|WP_061513206.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513206</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>389.808</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>1.09166e-134</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEIVQNLFFIGKGIVLTMQLLTGGILIGILLGTLLSICRHQGVACFVINRFISILRGTPLILQLSFIYFAVPVLLGIRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGIVLTMQLLTGG+LIG+LLG+LLSICRHQG+ACFVINRFISILRGTPLILQLSFIYFAVPVLLG+RPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV+RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|652976190|ref|WP_027228863.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|985765966|gb|KXB27077.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|985767724|gb|KXB28810.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|999119285|emb|CZG76982.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|999122507|emb|CZH11819.1| Arginine transport system permease protein ArtQ [Legionella pneumophila] &gt;gi|1024341655|gb|KZX35962.1| glutamine ABC transporter permease [Legionella pneumophila] &gt;gi|1108603970|gb|APF02338.1| glutamine ABC transporter permease [Legionella pneumophila subsp. fraseri] &gt;gi|1108606981|gb|APF05348.1| glutamine ABC transporter permease [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228863</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>385.571</Hsp_bit-score>
+      <Hsp_score>989</Hsp_score>
+      <Hsp_evalue>5.26782e-133</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEMVQNLFFIGKGIILTMQLLTGGLLIGVLLGTLLSICRHQGVACFFINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRSGIESLPKGQFEAALTLQIPTFYLWKDIILPQVIRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLESLGKKIEKRGHYVASH</Hsp_hseq>
+      <Hsp_midline>M E+VQNLFFIGKGI+LTMQLLTGG+LIGVLLG+LLSICRHQG+ACF INRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILR+GIESLPKGQFEAALTLQIP+FYLWKDIILPQV+RNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLE+LGKKIEKRGHY ASH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|737924712|ref|WP_035889965.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella norrlandica] &gt;gi|701445692|gb|KGP63064.1| glutamine ABC transporter permease [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889965</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>362.844</Hsp_bit-score>
+      <Hsp_score>930</Hsp_score>
+      <Hsp_evalue>4.1871e-124</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>195</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEFVQNIFFIGKGIALTLQLLIGGMLIGIALGTLWSIGRYQGIACFSINRFISIMRGTPLILQLSFIYFSFPSLLGMRPSILMAGIIAFGLNSSAYLAEILRAGIESLPKGQFEAAATLQVPTFYLWKDIILPQVIKNIFPAIVNETIALLKETALISTIGGLDLMRQAQSVAAQQFTYFMPLCIAGIYYYGLVLLIELLGKVVEKRGNYVAGH</Hsp_hseq>
+      <Hsp_midline>M E VQN+FFIGKGI LT+QLL GGMLIG+ LG+L SI R+QGIACF INRFISI+RGTPLILQLSFIYF+ P LLGMRPSIL+AGI+AFGLNSSAY AEILRAGIESLPKGQFEAA TLQ+P+FYLWKDIILPQV++NIFPA++NE IALLKETALISTIGG+DLMRQAQ++AAQQFTYFMPLCI G YYY LVLL+E LGK +EKRG+Y A H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966510090|ref|WP_058526681.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella erythra] &gt;gi|962212830|gb|KTC97705.1| amino acid (glutamine) ABC transporter permease [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526681</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>339.732</Hsp_bit-score>
+      <Hsp_score>870</Hsp_score>
+      <Hsp_evalue>5.94086e-115</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MNEWSQNLWFIGQGIALTLQLLAGGITLGLVLGSLWSIGRYYGIATWCINRLISILRGTPLILQLSLIYFSAPALTGARPSILIAGIIAFGLNSSAYFAEILRAGIEGLPKGQFEAAATLQIPTFYLWKDIILPQVVKAIFPAIINEIIALLKETALISTIGGMDLMRQAQSLAAQQFTYFIPLCIAGCYYYSLVLFIEWLGKTIEKRGDYVTNH</Hsp_hseq>
+      <Hsp_midline>M E  QNL+FIG+GI LT+QLL GG+ +G++LGSL SI R+ GIA + INR ISILRGTPLILQLS IYF+ P L G RPSIL+AGI+AFGLNSSAYFAEILRAGIE LPKGQFEAA TLQIP+FYLWKDIILPQVV+ IFPA+INE+IALLKETALISTIGGMDLMRQAQ+LAAQQFTYF+PLCI G YYYSLVL +E LGK IEKRG Y  +H</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|966400694|ref|WP_058444289.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella feeleii] &gt;gi|962217298|gb|KTD02041.1| amino acid (glutamine) ABC transporter permease [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444289</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>337.806</Hsp_bit-score>
+      <Hsp_score>865</Hsp_score>
+      <Hsp_evalue>3.85584e-114</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>163</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDELKQNLLFIGQGTVLTLELLAGGMLIGILLGTILAILRYNGMAKLLINRFVSIIRGTPLILQLSFIYFAVPGLLGLRPDILVAGILTFGLNSSAYIAEILRSGIDSLPKGQFEAAKTLQIPTFYLWKDIILPQVIKNILPALINEMIALLKETALISTIGGMDLMRKAQSIAAEQFTYFLPLCIAGCYYYGLVLLIEYLGKKIEQGGHDAVHQ</Hsp_hseq>
+      <Hsp_midline>M E+ QNL FIG+G VLT++LL GGMLIG+LLG++L+I R+ G+A  +INRF+SI+RGTPLILQLSFIYFAVP LLG+RP ILVAGI+ FGLNSSAY AEILR+GI+SLPKGQFEAA TLQIP+FYLWKDIILPQV++NI PA+INEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVLL+E LGKKIE+ GH A   </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|762038491|ref|WP_043874428.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella massiliensis] &gt;gi|683288855|emb|CEE13717.1| Arginine transport system permease protein ArtQ [Legionella massiliensis] &gt;gi|685071360|emb|CDZ77979.1| Arginine transport system permease protein ArtQ [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043874428</Hit_accession>
+  <Hit_len>212</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.028</Hsp_bit-score>
+      <Hsp_score>850</Hsp_score>
+      <Hsp_evalue>4.97577e-112</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>309</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>210</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGH</Hsp_qseq>
+      <Hsp_hseq>MEELKQNLTYIGQGTVLTLELMAGGMLIGLILGTILAVLRHKGFAKTVINRFISIMRGTPLILQLSFIYFAAPALIGLKANILVAGILTFGLNSSAYIAEILRSGIENLPKGQFEAAKTLQIPSFYLWKDIILPQVIRNILPALINEMIALLKETALISTIGGMDLMRKAQSIAAEQFSYFLPLCIAGCYYYGLVLLIEQLGKKIEKRGQ</Hsp_hseq>
+      <Hsp_midline>M E+ QNL +IG+G VLT++L+ GGMLIG++LG++L++ RH+G A  VINRFISI+RGTPLILQLSFIYFA P L+G++ +ILVAGI+ FGLNSSAY AEILR+GIE+LPKGQFEAA TLQIPSFYLWKDIILPQV+RNI PA+INEMIALLKETALISTIGGMDLMR+AQ++AA+QF+YF+PLCI G YYY LVLL+E LGKKIEKRG </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|648562299|ref|WP_026254050.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella shakespearei] &gt;gi|962281347|gb|KTD65160.1| amino acid (glutamine) ABC transporter permease [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_026254050</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>332.413</Hsp_bit-score>
+      <Hsp_score>851</Hsp_score>
+      <Hsp_evalue>5.06327e-112</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>172</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MTEFLQNSLYIGKGIALTMQLLTVGFFIGIILGILWSICRYQGFARFIINRFISIMRGTPLILQLSFIYFASPFFLGMRPSILVAGIIAFGLNSSAYLAEILRSGIESLPKGQFEAAATLQIPTFYLWKDIILPQVIKNIFPAMVNETIALLKETALISTIGGMDLMRQAQSLAAQQFTYFMPLCIAGLYYYGLVLLLELIGKRIEQRGHYVTDY</Hsp_hseq>
+      <Hsp_midline>M E +QN  +IGKGI LTMQLLT G  IG++LG L SICR+QG A F+INRFISI+RGTPLILQLSFIYFA P  LGMRPSILVAGI+AFGLNSSAY AEILR+GIESLPKGQFEAA TLQIP+FYLWKDIILPQV++NIFPAM+NE IALLKETALISTIGGMDLMRQAQ+LAAQQFTYFMPLCI G YYY LVLLLE +GK+IE+RGHY   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|737929012|ref|WP_035894004.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella oakridgensis] &gt;gi|570702423|gb|ETO93358.1| amino acid ABC transporter membrane protein, PAAT family [Legionella oakridgensis RV-2-2007]</Hit_def>
+  <Hit_accession>WP_035894004</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.946</Hsp_bit-score>
+      <Hsp_score>842</Hsp_score>
+      <Hsp_evalue>8.98261e-111</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>188</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDELNQSLLFIGKGIGLTLQLLTGSITIGLILGILWAICRYQGLAVPLINRFISIMRGTPLILQLSLVYFSTPAMLGVKPSILVAGIITYGLNSSAYLAEILRAGIESLPKGQFEAAKTLHIPTFYVWKDIILPQVLKNIFPALVNELISLLKETALISTIGGMDLMRHAQALAAEQFTYFLPLTIAGAYYYGLVLLIETAGKRIEKRGQYVANY</Hsp_hseq>
+      <Hsp_midline>M E+ Q+L FIGKGI LT+QLLTG + IG++LG L +ICR+QG+A  +INRFISI+RGTPLILQLS +YF+ P +LG++PSILVAGI+ +GLNSSAY AEILRAGIESLPKGQFEAA TL IP+FY+WKDIILPQV++NIFPA++NE+I+LLKETALISTIGGMDLMR AQ LAA+QFTYF+PL I G YYY LVLL+E  GK+IEKRG Y A++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|644964870|ref|WP_025385625.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella oakridgensis] &gt;gi|570284813|gb|AHE67000.1| amine acid ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|962254172|gb|KTD38348.1| amino acid (glutamine) ABC transporter permease [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385625</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.946</Hsp_bit-score>
+      <Hsp_score>842</Hsp_score>
+      <Hsp_evalue>1.16781e-110</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>188</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDELNQSLLFIGKGIGLTLQLLTGSITIGLILGILWAICRYQGLAVPLINRFISIMRGTPLILQLSLVYFSTPAILGVKPSILVAGIITYGLNSSAYLAEILRAGIESLPKGQFEAAKTLHIPTFYVWKDIILPQVLKNIFPALVNELISLLKETALISTIGGMDLMRHAQALAAEQFTYFLPLTIAGAYYYGLVLLIETAGKRIEKRGQYVANY</Hsp_hseq>
+      <Hsp_midline>M E+ Q+L FIGKGI LT+QLLTG + IG++LG L +ICR+QG+A  +INRFISI+RGTPLILQLS +YF+ P +LG++PSILVAGI+ +GLNSSAY AEILRAGIESLPKGQFEAA TL IP+FY+WKDIILPQV++NIFPA++NE+I+LLKETALISTIGGMDLMR AQ LAA+QFTYF+PL I G YYY LVLL+E  GK+IEKRG Y A++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966472570|ref|WP_058503333.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella nautarum] &gt;gi|962255023|gb|KTD39178.1| amino acid (glutamine) ABC transporter permease [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503333</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>327.02</Hsp_bit-score>
+      <Hsp_score>837</Hsp_score>
+      <Hsp_evalue>5.62667e-110</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>154</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>214</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAAS</Hsp_qseq>
+      <Hsp_hseq>MEELSQNLLFIGQGILLTLELMAGGMLIGMLLGTILAVLRYKGFSQSVINRFISVMRGTPLILQLSFVYFALPALIGLKANILVAGILTFGLNSSAYIAEILRSGIENLPKGQFEAAKTLHIPNFYLWKDIILPQVIKNILPALVNEMIALLKETALISTIGGMDLMRKAQSVAAEQFTYFLPLCIAGCYYYGLVLLIEQLGKKIEQGGKHVAS</Hsp_hseq>
+      <Hsp_midline>M E+ QNL FIG+GI+LT++L+ GGMLIG+LLG++L++ R++G +  VINRFIS++RGTPLILQLSF+YFA+P L+G++ +ILVAGI+ FGLNSSAY AEILR+GIE+LPKGQFEAA TL IP+FYLWKDIILPQV++NI PA++NEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVLL+E LGKKIE+ G + AS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966440098|ref|WP_058480421.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella waltersii] &gt;gi|962294665|gb|KTD78325.1| amino acid (glutamine) ABC transporter permease [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058480421</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.094</Hsp_bit-score>
+      <Hsp_score>832</Hsp_score>
+      <Hsp_evalue>2.90068e-109</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MNDLIQNLLFIGKGISLTLELLGGGIVIGLVLGGIWAVCRYQGVATLIINRFISIMRGTPLILQLSIIYFSAHQVTGLRPGILTAGIIAFGLNSSAYFAEILRAGIESIPKGQFEAAATLQISKWFMWKDIVFPQVLKNIFPAMVNEVIALLKETALISTIGGMDLMRSAQSLAAEQFTYFMPLCIAGAYYYGLVLIIEMLGKKIENRGDY</Hsp_hseq>
+      <Hsp_midline>M +++QNL FIGKGI LT++LL GG++IG++LG + ++CR+QG+A  +INRFISI+RGTPLILQLS IYF+   + G+RP IL AGI+AFGLNSSAYFAEILRAGIES+PKGQFEAA TLQI  +++WKDI+ PQV++NIFPAM+NE+IALLKETALISTIGGMDLMR AQ+LAA+QFTYFMPLCI G YYY LVL++E LGKKIE RG Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|654923259|ref|WP_028373797.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella lansingensis] &gt;gi|962237673|gb|KTD22112.1| amino acid (glutamine) ABC transporter permease [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028373797</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.709</Hsp_bit-score>
+      <Hsp_score>831</Hsp_score>
+      <Hsp_evalue>5.23477e-109</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>214</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAAS</Hsp_qseq>
+      <Hsp_hseq>MIELGQTLLFIGQGTLLTLELLAGGMFIGILLGTLLAISRYKGFAKPLINRFISLMRGTPLILQLSFIYFALPSLLGLRLSILIAGILTFGLNSSAYIAEILRSGIENIPKGQFEAARTLQISTFYLWKDIILPQVIKNILPALINEMIALLKETALISTIGGMDLMRKAQSVAAEQFTYFLPLCIAGLYYYSMVLLIEYLGRKIEQGGQHVAN</Hsp_hseq>
+      <Hsp_midline>M+E+ Q L FIG+G +LT++LL GGM IG+LLG+LL+I R++G A  +INRFIS++RGTPLILQLSFIYFA+P LLG+R SIL+AGI+ FGLNSSAY AEILR+GIE++PKGQFEAA TLQI +FYLWKDIILPQV++NI PA+INEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYYS+VLL+E LG+KIE+ G + A+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966463872|ref|WP_058495234.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella drozanskii] &gt;gi|962202315|gb|KTC87284.1| amino acid (glutamine) ABC transporter permease [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495234</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.168</Hsp_bit-score>
+      <Hsp_score>827</Hsp_score>
+      <Hsp_evalue>1.88109e-108</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>153</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>214</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAAS</Hsp_qseq>
+      <Hsp_hseq>MEELSQNLLFIGQGTVLTLELMAGGMLIGMLLGTILAVLRYNGFAQGLINRFISVMRGTPLILQLSFVYFALPALIGLKANILVAGILTFGLNSSAYIAEILRSGIDNLPKGQFEAAKTLHIPSFYLWKDIILPQVIKNILPALMNEMIALLKETALISTIGGMDLMRKAQSVAAEQFTYFLPLCIAGCYYYGLVLLIEQLGKKIEQGGKHVAG</Hsp_hseq>
+      <Hsp_midline>M E+ QNL FIG+G VLT++L+ GGMLIG+LLG++L++ R+ G A  +INRFIS++RGTPLILQLSF+YFA+P L+G++ +ILVAGI+ FGLNSSAY AEILR+GI++LPKGQFEAA TL IPSFYLWKDIILPQV++NI PA++NEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVLL+E LGKKIE+ G + A </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966515857|ref|WP_058532374.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella rubrilucens] &gt;gi|962261499|gb|KTD45592.1| amino acid (glutamine) ABC transporter permease [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058532374</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.783</Hsp_bit-score>
+      <Hsp_score>826</Hsp_score>
+      <Hsp_evalue>2.79388e-108</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>157</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MNEWSQNVWFVGQGITLTLQLLAGGIALGLVLGSVWAICRYYNLANWGINRLISILRGTPLILQLSLIYFSAPALTGVRPGILTAGILAFGLNSSAYFAEILRAGIENLPKGQFEAAATLNIPTFYLWKDIILPQVARAIFPAIINEVIALLKETALISTIGGMDLMRNAQSLAAQQFTYFLPLCIAGCYYYTLVLFIEWLGKTIEKRGVYDTNQ</Hsp_hseq>
+      <Hsp_midline>M E  QN++F+G+GI LT+QLL GG+ +G++LGS+ +ICR+  +A + INR ISILRGTPLILQLS IYF+ P L G+RP IL AGI+AFGLNSSAYFAEILRAGIE+LPKGQFEAA TL IP+FYLWKDIILPQV R IFPA+INE+IALLKETALISTIGGMDLMR AQ+LAAQQFTYF+PLCI G YYY+LVL +E LGK IEKRG Y  + </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966399075|ref|WP_058442722.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella brunensis] &gt;gi|962192780|gb|KTC77850.1| amino acid (glutamine) ABC transporter permease [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442722</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.857</Hsp_bit-score>
+      <Hsp_score>821</Hsp_score>
+      <Hsp_evalue>1.65649e-107</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>152</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MTELSTMLLFIAQGIILTLELLAGGLIIGLLFGTLLAILRHQKIAKVIIDRFISIMRGTPLILQLSFVYFAVPTLLGFRANILVAGILTFGLNSSAYIAEILRAGIDSIPKGQFEAAKTLQIPDFYLWKDIILPQVIKNVLPAITNEMIALLKETALISTIGGMDLMRKAQSIAAEQFTYFLPLCIAGCYYYGLVLFIEFLGKRLEQGGHH</Hsp_hseq>
+      <Hsp_midline>M E+   L FI +GI+LT++LL GG++IG+L G+LL+I RHQ IA  +I+RFISI+RGTPLILQLSF+YFAVP LLG R +ILVAGI+ FGLNSSAY AEILRAGI+S+PKGQFEAA TLQIP FYLWKDIILPQV++N+ PA+ NEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVL +E LGK++E+ GH+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966408719|ref|WP_058452111.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella maceachernii] &gt;gi|962242750|gb|KTD27085.1| transporter subunit: permease component of ABC superfamily transporter [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058452111</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>317.005</Hsp_bit-score>
+      <Hsp_score>811</Hsp_score>
+      <Hsp_evalue>5.60533e-106</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>150</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYA</Hsp_qseq>
+      <Hsp_hseq>MEELSQNLLFIGQGIILTLELMIGGMLIGMLLGTVLAILRYNGIIKPLINRFVSVMRGTPLILQLSFVYFALPALIGLKANILMAGILTFGLNSSAYIAEILRSGIEHLPKGQFEAAKTLHIPNFYLWKDIILPQVIKAILPALVNEMIALLKETALISTIGGMDLMRKAQSVAAEQFTYFLPLCIAGCYYYGLVLFIEQLGKKIEQGGKHA</Hsp_hseq>
+      <Hsp_midline>M E+ QNL FIG+GI+LT++L+ GGMLIG+LLG++L+I R+ GI   +INRF+S++RGTPLILQLSF+YFA+P L+G++ +IL+AGI+ FGLNSSAY AEILR+GIE LPKGQFEAA TL IP+FYLWKDIILPQV++ I PA++NEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVL +E LGKKIE+ G +A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|769982427|ref|WP_045098409.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Tatlockia micdadei] &gt;gi|698845922|emb|CEG59902.1| putative glutamine transport system permease protein glnP [Tatlockia micdadei] &gt;gi|962246092|gb|KTD30378.1| amino acid (glutamine) ABC transporter permease [Tatlockia micdadei] &gt;gi|1081464301|emb|SCY53152.1| amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-) [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045098409</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>315.464</Hsp_bit-score>
+      <Hsp_score>807</Hsp_score>
+      <Hsp_evalue>2.05799e-105</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>186</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYA</Hsp_qseq>
+      <Hsp_hseq>MEELSQNLLFIGQGVALTLELMFGGMVIGMLLGTGLAILRYNGIMKPLINRFVSIMRGTPLILQLSFVYFALPALIGLKANILAAGILTFGLNSSAYIAEILRSGIENLPKGQFEAAKTLQIPNFYLWKDIILPQVIKNILPALVNEMIALLKETALISTIGGMDLMRKAQSVAAEQFTYFLPLCIAGCYYYGLVLLIEQLGKKFEQGGKDA</Hsp_hseq>
+      <Hsp_midline>M E+ QNL FIG+G+ LT++L+ GGM+IG+LLG+ L+I R+ GI   +INRF+SI+RGTPLILQLSF+YFA+P L+G++ +IL AGI+ FGLNSSAY AEILR+GIE+LPKGQFEAA TLQIP+FYLWKDIILPQV++NI PA++NEMIALLKETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY LVLL+E LGKK E+ G  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|769978495|ref|WP_045094480.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella fallonii] &gt;gi|698841685|emb|CEG55630.1| putative glutamine transport system permease protein GlnP [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045094480</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>300.442</Hsp_bit-score>
+      <Hsp_score>768</Hsp_score>
+      <Hsp_evalue>2.02507e-99</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYA</Hsp_qseq>
+      <Hsp_hseq>MEEVIHNILFIGNGIVLTLKLLVGGLFMGLLGGTALAIVRHQGIAQGIINRFISIMRGTPVILQLSFIYFSLPGLIGVRPDIMLAGVLTFGLNSSAYIAEIIRAGIEQLPKGQFEAASSLAIPNFYLWKDIILPQVVKNILPALINETIALAKETALISTIGGMDLMRKAQSIAAEQFTYFLPLCIAGVYYYTLVLLIEHVGKKIANGGSYA</Hsp_hseq>
+      <Hsp_midline>M EV+ N+ FIG GIVLT++LL GG+ +G+L G+ L+I RHQGIA  +INRFISI+RGTP+ILQLSFIYF++P L+G+RP I++AG++ FGLNSSAY AEI+RAGIE LPKGQFEAA +L IP+FYLWKDIILPQVV+NI PA+INE IAL KETALISTIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY+LVLL+E +GKKI   G YA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966406708|ref|WP_058450114.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella jamestowniensis] &gt;gi|962223403|gb|KTD08053.1| amino acid (glutamine) ABC transporter permease [Legionella jamestowniensis] &gt;gi|1045920374|gb|OCH97334.1| glutamine ABC transporter permease [Legionella jamestowniensis] &gt;gi|1097327237|emb|SFM05955.1| amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-) [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450114</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>300.056</Hsp_bit-score>
+      <Hsp_score>767</Hsp_score>
+      <Hsp_evalue>2.68568e-99</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>141</Hsp_identity>
+      <Hsp_positive>178</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYA</Hsp_qseq>
+      <Hsp_hseq>MTTLSDTFLFIAQGILVTLELMAGGLMIGLMIGTGLAILRHQHIAKLLINRFISLMRGTPLILQLSFIYFAVPSLLGLRADVMVAGILTFGLNSSAYIAEIIRSGIEGIPRGQFEAAKVLQIPNFYLWKDIILPQVLKIIWPSLTNEMIALLKETALISTIGGMDLMRKAQLIAAEQFTYFLPLCIAGFYYYGFVLFIEYLGKKFELRMSHA</Hsp_hseq>
+      <Hsp_midline>M  +     FI +GI++T++L+ GG++IG+++G+ L+I RHQ IA  +INRFIS++RGTPLILQLSFIYFAVP LLG+R  ++VAGI+ FGLNSSAY AEI+R+GIE +P+GQFEAA  LQIP+FYLWKDIILPQV++ I+P++ NEMIALLKETALISTIGGMDLMR+AQ +AA+QFTYF+PLCI GFYYY  VL +E LGKK E R  +A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966475857|ref|WP_058506590.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella quinlivanii] &gt;gi|962267593|gb|KTD51623.1| amino acid (glutamine) ABC transporter permease [Legionella quinlivanii] &gt;gi|1090728901|emb|SEF61057.1| amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-) [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058506590</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>296.975</Hsp_bit-score>
+      <Hsp_score>759</Hsp_score>
+      <Hsp_evalue>4.86085e-98</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>170</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>212</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYA</Hsp_qseq>
+      <Hsp_hseq>MQDINQAFFFIAHGFTLTLELLAGGVIIGFTLGIFWAICRYQSIVSLPVKGIISILRGTPLILQLSLIYFAMPTLTGLHPDILIAGIIAFGLNSSAYFAELFRAGIESLPKGQFEAASTLEIKGCYLWKDIILPQVLSNSLPAMINEVIALLKETALISTIGGMDLMRSSQTVAAEQFTYFLPLCIAGAYYYCLVLLIELAGRVLEKRGHHA</Hsp_hseq>
+      <Hsp_midline>M ++ Q  FFI  G  LT++LL GG++IG  LG   +ICR+Q I    +   ISILRGTPLILQLS IYFA+P L G+ P IL+AGI+AFGLNSSAYFAE+ RAGIESLPKGQFEAA TL+I   YLWKDIILPQV+ N  PAMINE+IALLKETALISTIGGMDLMR +QT+AA+QFTYF+PLCI G YYY LVLL+E  G+ +EKRGH+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966506039|ref|WP_058522685.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella birminghamensis] &gt;gi|962190099|gb|KTC75200.1| amino acid (glutamine) ABC transporter permease [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522685</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>296.204</Hsp_bit-score>
+      <Hsp_score>757</Hsp_score>
+      <Hsp_evalue>7.52357e-98</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>213</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>169</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>213</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAA</Hsp_qseq>
+      <Hsp_hseq>MTEINHTILLIGQGAALTLKLLAGGAGIGFLLGMVWAVGRHQSILSYFVKGFISIFRGTPLILQLSLIYFAAPGVTGLHPSILTAGIIAFGLNSSAYFAELFRAGIESLPKGQFEAAKTLGIKGFYLWKDIIFPQVLRNTLPAIMNEMIALLKETALISTIGGMDIMRSSQTVAAEQFTYFIPLCIAGVYYYGLVLVIELAGGWLEKRGYYAA</Hsp_hseq>
+      <Hsp_midline>M E+   +  IG+G  LT++LL GG  IG LLG + ++ RHQ I  + +  FISI RGTPLILQLS IYFA P + G+ PSIL AGI+AFGLNSSAYFAE+ RAGIESLPKGQFEAA TL I  FYLWKDII PQV+RN  PA++NEMIALLKETALISTIGGMD+MR +QT+AA+QFTYF+PLCI G YYY LVL++E  G  +EKRG+YAA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966498371|ref|WP_058515137.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella santicrucis] &gt;gi|962271633|gb|KTD55631.1| transporter subunit: permease component of ABC superfamily transporter [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515137</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>294.278</Hsp_bit-score>
+      <Hsp_score>752</Hsp_score>
+      <Hsp_evalue>5.48134e-97</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>147</Hsp_identity>
+      <Hsp_positive>186</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MAELNQDILYIGEGILVTLILLFGGLLIGTFLGTLLALLRYQGIMKPLINGFISIMRGTPVILQLSFIYFAAPALIGIKANIMVAGLITFGLNSSAYIAEILRAGIDHLPKGQFEAAKTLHIPNFYLWKDIVLPQVIKNVLPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFIPLCIAGCYYYALVLLIESLGKKIEQRGLY</Hsp_hseq>
+      <Hsp_midline>M E+ Q++ +IG+GI++T+ LL GG+LIG  LG+LL++ R+QGI   +IN FISI+RGTP+ILQLSFIYFA P L+G++ +I+VAG++ FGLNSSAY AEILRAGI+ LPKGQFEAA TL IP+FYLWKDI+LPQV++N+ PA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY+LVLL+E+LGKKIE+RG Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966468227|ref|WP_058499553.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella gratiana] &gt;gi|962224559|gb|KTD09205.1| transporter subunit: permease component of ABC superfamily transporter [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499553</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>292.738</Hsp_bit-score>
+      <Hsp_score>748</Hsp_score>
+      <Hsp_evalue>1.92416e-96</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>148</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MAELNQDILYIGEGILVTLTLLFGGLLIGTVLGTLLALLRYQGIMKPLINGFISIMRGTPVILQLSFIYFAVPALIGIKANIMVAGLITFGLNSSAYIAEILRAGIDHLPKGQFEAAKTLHIPNFYLWKDIVLPQVIKNVLPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFIPLCIAGCYYYALVLLIEALGKKMEHRGLY</Hsp_hseq>
+      <Hsp_midline>M E+ Q++ +IG+GI++T+ LL GG+LIG +LG+LL++ R+QGI   +IN FISI+RGTP+ILQLSFIYFAVP L+G++ +I+VAG++ FGLNSSAY AEILRAGI+ LPKGQFEAA TL IP+FYLWKDI+LPQV++N+ PA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY+LVLL+EALGKK+E RG Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966518447|ref|WP_058534941.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058534941</Hit_accession>
+  <Hit_len>212</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>291.967</Hsp_bit-score>
+      <Hsp_score>746</Hsp_score>
+      <Hsp_evalue>3.13548e-96</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>308</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>209</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>180</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>209</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRG</Hsp_qseq>
+      <Hsp_hseq>MDELKQNIMFIGEGVMMTLSLLIGSLLIGTVFGTMLALLRHQGIAKPIINGFISIMRGTPMILQLSFAYFAVPVLIGFKPNILMAGLLTFGLNSSAYVAEILRAGIENLPKGQFEAAKTLQISGFYLWKDIILPQVIKNIFPAFINETITLLKETALIATIGGMDVMRRAQSVAAEQFTYFIPLCIAAAYYYGLVLFIEYIGKKIEARG</Hsp_hseq>
+      <Hsp_midline>M E+ QN+ FIG+G+++T+ LL G +LIG + G++L++ RHQGIA  +IN FISI+RGTP+ILQLSF YFAVPVL+G +P+IL+AG++ FGLNSSAY AEILRAGIE+LPKGQFEAA TLQI  FYLWKDIILPQV++NIFPA INE I LLKETALI+TIGGMD+MR+AQ++AA+QFTYF+PLCI   YYY LVL +E +GKKIE RG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|951143706|ref|WP_057624636.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Coxiellaceae bacterium CC99] &gt;gi|946811661|gb|KRG18332.1| Arginine transport system permease protein ArtQ [Coxiellaceae bacterium CC99]</Hit_def>
+  <Hit_accession>WP_057624636</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>290.812</Hsp_bit-score>
+      <Hsp_score>743</Hsp_score>
+      <Hsp_evalue>1.14237e-95</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>177</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MIDGIQNILFIGAGIYITLKILLGSVLLGLTMGTFIAILRYKNICLSIIKHYISIIRGTPVILQLSFIYFSVPTLTGFKLSIVSAGILSFGVNSSAYIAEILRSGIESLPAGQFEASKTLQIPSFYMWKDIILPQVFRNIFPAMINQSITLLKETALISTIGGMDLMRRAQSLAAEQFTYFMPMCIAACYYYGLILLIEYVSKKFEERSYH</Hsp_hseq>
+      <Hsp_midline>M++ +QN+ FIG GI +T+++L G +L+G+ +G+ ++I R++ I   +I  +ISI+RGTP+ILQLSFIYF+VP L G + SI+ AGI++FG+NSSAY AEILR+GIESLP GQFEA+ TLQIPSFY+WKDIILPQV RNIFPAMIN+ I LLKETALISTIGGMDLMR+AQ+LAA+QFTYFMP+CI   YYY L+LL+E + KK E+R ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1125736798|ref|WP_075064900.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Coxiellaceae bacterium HT99] &gt;gi|946816098|gb|KRG22715.1| Arginine transport system permease protein ArtQ [Coxiellaceae bacterium HT99]</Hit_def>
+  <Hit_accession>WP_075064900</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>289.271</Hsp_bit-score>
+      <Hsp_score>739</Hsp_score>
+      <Hsp_evalue>4.87271e-95</Hsp_evalue>
+      <Hsp_query-from>101</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>213</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>183</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>213</Hsp_align-len>
+      <Hsp_qseq>MEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAAS</Hsp_qseq>
+      <Hsp_hseq>MMLLENAMYIGQGIILTIELLMGGMLIGLILGSSLAICKYKGWLVAAINRYISIARGTPLILQLSFIYFAVPSALNIKFSILAAGIVTLGLNSSAYIAEILRAGIESLPKGQFEAAQTLQIPHWPLWKDIILPQVLRNIFPALINEMITLLKETALISTLGGMDLMRRAQSIAAEQFTYFTPICIAGIYYYLLILLIESLSKRIEKRGNYVKA</Hsp_hseq>
+      <Hsp_midline>M +++N  +IG+GI+LT++LL GGMLIG++LGS L+IC+++G     INR+ISI RGTPLILQLSFIYFAVP  L ++ SIL AGIV  GLNSSAY AEILRAGIESLPKGQFEAA TLQIP + LWKDIILPQV+RNIFPA+INEMI LLKETALIST+GGMDLMR+AQ++AA+QFTYF P+CI G YYY L+LL+E+L K+IEKRG+Y  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966432523|ref|WP_058472956.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella quateirensis] &gt;gi|962268922|gb|KTD52938.1| amino acid (glutamine) ABC transporter permease [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472956</Hit_accession>
+  <Hit_len>215</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>288.5</Hsp_bit-score>
+      <Hsp_score>737</Hsp_score>
+      <Hsp_evalue>7.71844e-95</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>174</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MEQINEYIVFIGSGMFLTLKLLAGGLLTGIVLGTVLAILRYNGIGKGLIRQFISVIRGTPVILQLSFVYFSLPGLTGFRPDILTAGILTFGLNSSAYIAEILRAGIEHLPKGQFEAAATLNISNFYLWKDIILPQVINNILPALINETIALTKETALISTIGGMDLMRKAQSAASEHFTYFLPLCIAGCYYYALVLLIEFLGKRIAKGGSH</Hsp_hseq>
+      <Hsp_midline>M ++ + + FIG G+ LT++LL GG+L G++LG++L+I R+ GI   +I +FIS++RGTP+ILQLSF+YF++P L G RP IL AGI+ FGLNSSAY AEILRAGIE LPKGQFEAA TL I +FYLWKDIILPQV+ NI PA+INE IAL KETALISTIGGMDLMR+AQ+ A++ FTYF+PLCI G YYY+LVLL+E LGK+I K G +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|498339346|ref|WP_010653502.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Fluoribacter dumoffii] &gt;gi|962205167|gb|KTC90104.1| transporter subunit: permease component of ABC superfamily transporter [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010653502</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.419</Hsp_bit-score>
+      <Hsp_score>729</Hsp_score>
+      <Hsp_evalue>1.28831e-93</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>151</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MEELKQNILYIGEGTLVTLILLLGGLCIGTLLGTVLALLRYQGIMKPLINSFISVMRGTPVILQLSFIYFAVPALIGMKANILMAGLLTFGLNSSAYIAEILRSGIENLPKGQFEAAKTLQIPSFYLWKDIVLPQVVKNIFPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFVPLCIAGCFYYGMVLLIELMGKKIEERGLY-VSH</Hsp_hseq>
+      <Hsp_midline>M E+ QN+ +IG+G ++T+ LL GG+ IG LLG++L++ R+QGI   +IN FIS++RGTP+ILQLSFIYFAVP L+GM+ +IL+AG++ FGLNSSAY AEILR+GIE+LPKGQFEAA TLQIPSFYLWKDI+LPQVV+NIFPA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI G +YY +VLL+E +GKKIE+RG Y  SH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|653018189|ref|WP_027270150.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella sainthelensi] &gt;gi|962275919|gb|KTD59822.1| transporter subunit: permease component of ABC superfamily transporter [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270150</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>284.263</Hsp_bit-score>
+      <Hsp_score>726</Hsp_score>
+      <Hsp_evalue>4.00874e-93</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>310</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>150</Hsp_identity>
+      <Hsp_positive>190</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHY</Hsp_qseq>
+      <Hsp_hseq>MIELNQDIFYIGEGILVTLILLFGGLLIGTLLGTLLALLRYQGIMKPLINGFISIMRGTPVILQLSFIYFAVPALIGIKANIMVAGLITFGLNSSAYIAEILRAGIDHLPKGQFEAAKTLHIPNFYLWKDIVLPQVIKNVLPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFIPLCIAGCYYYALVLLIESLGKKIEQRGLY</Hsp_hseq>
+      <Hsp_midline>M+E+ Q++F+IG+GI++T+ LL GG+LIG LLG+LL++ R+QGI   +IN FISI+RGTP+ILQLSFIYFAVP L+G++ +I+VAG++ FGLNSSAY AEILRAGI+ LPKGQFEAA TL IP+FYLWKDI+LPQV++N+ PA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI G YYY+LVLL+E+LGKKIE+RG Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|671590443|ref|WP_031566102.1|</Hit_id>
+  <Hit_def>glutamine ABC transporter permease [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031566102</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>284.263</Hsp_bit-score>
+      <Hsp_score>726</Hsp_score>
+      <Hsp_evalue>4.09721e-93</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>214</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>215</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRGHYAASH</Hsp_qseq>
+      <Hsp_hseq>MDELKQNVLFIGEGTLVTLFLLLGSLLIGTLLGTLMALLRYQGIMKPVINGFISVMRGTPVILQLSFIYFAAPALMGIKANILVAGLLTFGLNSSAYIAEIMRAGIEHLPKGQFEAAKTLRIPSFYLWKDIVLPQVIKNIFPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFVPLCIAGCFYYGMVLLIEFLGKRIQQRGLY-VSH</Hsp_hseq>
+      <Hsp_midline>M E+ QN+ FIG+G ++T+ LL G +LIG LLG+L+++ R+QGI   VIN FIS++RGTP+ILQLSFIYFA P L+G++ +ILVAG++ FGLNSSAY AEI+RAGIE LPKGQFEAA TL+IPSFYLWKDI+LPQV++NIFPA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI G +YY +VLL+E LGK+I++RG Y  SH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|489732092|ref|WP_003636207.1|</Hit_id>
+  <Hit_def>arginine ABC transporter permease [Legionella longbeachae] &gt;gi|269987940|gb|EEZ94195.1| amino acid ABC transporter permease protein [Legionella longbeachae D-4968] &gt;gi|288858781|emb|CBJ12686.1| putative transporter subunit: permease component of ABC superfamily transporter [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003636207</Hit_accession>
+  <Hit_len>212</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.722</Hsp_bit-score>
+      <Hsp_score>722</Hsp_score>
+      <Hsp_evalue>1.34266e-92</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>308</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>209</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>187</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>209</Hsp_align-len>
+      <Hsp_qseq>MMEVVQNLFFIGKGIVLTMQLLTGGMLIGVLLGSLLSICRHQGIACFVINRFISILRGTPLILQLSFIYFAVPVLLGMRPSILVAGIVAFGLNSSAYFAEILRAGIESLPKGQFEAALTLQIPSFYLWKDIILPQVVRNIFPAMINEMIALLKETALISTIGGMDLMRQAQTLAAQQFTYFMPLCITGFYYYSLVLLLEALGKKIEKRG</Hsp_qseq>
+      <Hsp_hseq>MAELNQDIVYIGEGILVTLILLFGGLLIGTLLGTLLALLRYQGIMKPLINGFISIMRGTPVILQLSFIYFAVPALIGIKANIMMAGLITFGLNSSAYIAEILRAGIEHLPKGQFEAAKTLHIPNFYLWKDIVLPQVIKNVLPAFINEMIALLKETALIATIGGMDLMRRAQSVAAEQFTYFLPLCIAGFYYYALVLLIETLGKKIEQRG</Hsp_hseq>
+      <Hsp_midline>M E+ Q++ +IG+GI++T+ LL GG+LIG LLG+LL++ R+QGI   +IN FISI+RGTP+ILQLSFIYFAVP L+G++ +I++AG++ FGLNSSAY AEILRAGIE LPKGQFEAA TL IP+FYLWKDI+LPQV++N+ PA INEMIALLKETALI+TIGGMDLMR+AQ++AA+QFTYF+PLCI GFYYY+LVLL+E LGKKIE+RG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

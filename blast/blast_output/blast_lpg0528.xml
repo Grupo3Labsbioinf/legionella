@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_232415</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>534</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_232415</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>534</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248703|ref|WP_010946243.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|52840740|ref|YP_094539.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627851|gb|AAU26592.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507252|gb|AEW50776.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946243</Hit_accession>
+  <Hit_len>441</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>922.154</Hsp_bit-score>
+      <Hsp_score>2382</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>441</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>441</Hsp_identity>
+      <Hsp_positive>441</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>441</Hsp_align-len>
+      <Hsp_qseq>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119426370|ref|WP_072401670.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401670</Hit_accession>
+  <Hit_len>441</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>905.975</Hsp_bit-score>
+      <Hsp_score>2340</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>441</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>434</Hsp_identity>
+      <Hsp_positive>435</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>441</Hsp_align-len>
+      <Hsp_qseq>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MYTTKRTLKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIVCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MYTTK+  KDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLI CLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119379898|ref|WP_072356032.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356032</Hit_accession>
+  <Hit_len>441</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>898.656</Hsp_bit-score>
+      <Hsp_score>2321</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>441</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>434</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>441</Hsp_align-len>
+      <Hsp_qseq>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MYTTKRMRKDSLTSFLYPLKSIARFIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MYTTK+MRKDSLTSFLYPLK IAR+IRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1119392824|ref|WP_072368654.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072368654</Hit_accession>
+  <Hit_len>441</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>897.501</Hsp_bit-score>
+      <Hsp_score>2318</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>441</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>434</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>441</Hsp_align-len>
+      <Hsp_qseq>MYTTKKMRKDSLTSFLYPLKFIARYIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MYTTKRMRKDSLTSFLYPLKSIARFIRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MYTTK+MRKDSLTSFLYPLK IAR+IRGGIMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|505257708|ref|WP_015444810.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|109940255|sp|Q5ZY77.2|ARLY_LEGPH RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase &gt;gi|469492968|gb|AGH54813.1| Argininosuccinate lyase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081160|gb|AGN13408.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771565|emb|CZI76914.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998774476|emb|CZH09129.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998777356|emb|CZH13412.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998783273|emb|CZH40088.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998786266|emb|CZH07537.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998795741|emb|CZI43385.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998800531|emb|CZL10959.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998804145|emb|CZK64765.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998807235|emb|CZI32284.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998810759|emb|CZI18879.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998813082|emb|CZH12867.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998816478|emb|CZM22787.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998819705|emb|CZL99755.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998825591|emb|CZK40541.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998832792|emb|CZI17368.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998834432|emb|CZL49261.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998838663|emb|CZJ29104.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998840545|emb|CZL85652.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998843125|emb|CZL09554.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998846356|emb|CZL10227.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998849203|emb|CZI98476.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998852469|emb|CZL89847.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998855916|emb|CZL52302.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998858581|emb|CZM28241.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998862279|emb|CZK40007.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998864728|emb|CZJ86311.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998867178|emb|CZJ81927.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998870236|emb|CZM43015.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998873655|emb|CZK73434.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998876249|emb|CZM48566.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998879368|emb|CZJ76221.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998885820|emb|CZM37151.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998888628|emb|CZK51006.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998895771|emb|CZK07744.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998905297|emb|CZK94179.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998908452|emb|CZL69418.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998916057|emb|CZK71033.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998917522|emb|CZL65466.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998920502|emb|CZL71695.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998926861|emb|CZL99772.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998930889|emb|CZK81951.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998933708|emb|CZL68858.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998938774|emb|CZL21717.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998946221|emb|CZK70130.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998948021|emb|CZL30364.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998956989|emb|CZM68450.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998960432|emb|CZK67335.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998963192|emb|CZK80984.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998966742|emb|CZM43060.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998969346|emb|CZL05095.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998972355|emb|CZK81816.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998978469|emb|CZM00529.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998986079|emb|CZK08911.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998987533|emb|CZL90515.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998998247|emb|CZJ96042.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999006455|emb|CZL24335.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999011920|emb|CZL85592.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999014961|emb|CZM79569.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999021192|emb|CZL92830.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999024077|emb|CZL21809.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999036202|emb|CZL84749.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999045268|emb|CZM32038.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999060256|emb|CZL78959.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999066454|emb|CZJ49349.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999075337|emb|CZH15639.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999078587|emb|CZK43383.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999083054|emb|CZK85619.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999087934|emb|CZL16652.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999090996|emb|CZL92235.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999093846|emb|CZH48271.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999097002|emb|CZH53740.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999101359|emb|CZL74706.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999110955|emb|CZL05583.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999114020|emb|CZL58444.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999115912|emb|CZK72629.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999124779|emb|CZL33293.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999132542|emb|CZL70828.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999133856|emb|CZL46729.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999137008|emb|CZK90293.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999140855|emb|CZL84768.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999144814|emb|CZK80027.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999146342|emb|CZM10120.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999155642|emb|CZI38808.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999174243|emb|CZL62426.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999189834|emb|CZI76564.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999192954|emb|CZJ17827.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999199217|emb|CZH00297.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999202163|emb|CZJ22716.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999208466|emb|CZL36562.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999217976|emb|CZM06696.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999220945|emb|CZJ09722.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999333385|emb|CZL31703.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002074313|emb|CZR05633.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002078845|emb|CZQ92337.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003018355|emb|CZR30376.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003021427|emb|CZR26722.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003024533|emb|CZR30353.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073863664|gb|AOU03615.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073866622|gb|AOU06572.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073869627|gb|AOU09576.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073872571|gb|AOU12519.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073875553|gb|AOU15500.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073878514|gb|AOU18460.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073881509|gb|AOU21454.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073884471|gb|AOU24415.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073887469|gb|AOU27412.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073890454|gb|AOU30396.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073893419|gb|AOU33360.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073896383|gb|AOU36323.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073899347|gb|AOU39286.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073902298|gb|AOU42236.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073905209|gb|AOU45146.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073908227|gb|AOU48162.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073911282|gb|AOU51214.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073914201|gb|AOU54132.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073917159|gb|AOU57089.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073920125|gb|AOU60054.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073923100|gb|AOU63027.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073926112|gb|AOU66038.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073929092|gb|AOU69001.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073932477|gb|AOU72036.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073935424|gb|AOU82423.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073945699|gb|AOU85423.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1073948662|gb|AOU88385.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1104001812|emb|SFZ36294.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1129967277|gb|APT97636.1| argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444810</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>859.751</Hsp_bit-score>
+      <Hsp_score>2220</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>411</Hsp_identity>
+      <Hsp_positive>411</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|653014624|ref|WP_027266654.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266654</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>853.588</Hsp_bit-score>
+      <Hsp_score>2204</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>408</Hsp_identity>
+      <Hsp_positive>409</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRIEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKARSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIR EIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKA+SGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|499533452|ref|WP_011214736.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|81601520|sp|Q5WZ49.1|ARLY_LEGPL RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase &gt;gi|53753316|emb|CAH14763.1| Argininosuccinate lyase [Legionella pneumophila str. Lens] &gt;gi|998782986|emb|CZI84514.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998828292|emb|CZH36870.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998883030|emb|CZI85755.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998897677|emb|CZK07297.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998938004|emb|CZL85806.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998951043|emb|CZJ94411.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999000063|emb|CZG93621.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999058473|emb|CZM30818.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999103731|emb|CZI20560.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999128475|emb|CZH14882.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999152599|emb|CZM81552.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999161920|emb|CZM40260.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999236734|emb|CZG94628.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002085577|emb|CZQ97608.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002088273|emb|CZQ79032.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1080002230|gb|AOW52802.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006016|gb|AOW56296.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014729|gb|AOW63602.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1104005377|emb|SFZ36248.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011214736</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>848.966</Hsp_bit-score>
+      <Hsp_score>2192</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>407</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIVCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLI CLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|652967238|ref|WP_027220210.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|999247913|emb|CZH57586.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999773159|emb|CZH90811.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999796147|emb|CZI24975.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220210</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>848.581</Hsp_bit-score>
+      <Hsp_score>2191</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>408</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAFFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGA+FNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1080123418|ref|WP_070322142.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|1080008124|gb|AOW58112.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012214|gb|AOW61705.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018458|gb|AOW67103.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322142</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>847.425</Hsp_bit-score>
+      <Hsp_score>2188</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIVCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAIIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLI CLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAA+IMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|764926073|ref|WP_044496973.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|999454032|emb|CZI20181.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999460496|emb|CZG99294.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_044496973</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>847.04</Hsp_bit-score>
+      <Hsp_score>2187</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>408</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTKLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAFFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLT+LIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGA+FNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1004334284|ref|WP_061513209.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513209</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>844.729</Hsp_bit-score>
+      <Hsp_score>2181</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>404</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAESQAIYSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMEGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAE Q IYSALEEIR+EIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVM+GMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|504653941|ref|WP_014841043.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|395126477|emb|CCD04660.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|998923765|emb|CZK25957.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998943835|emb|CZJ51124.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998954372|emb|CZK62301.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998975543|emb|CZJ91508.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998992791|emb|CZJ46063.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999009023|emb|CZK44896.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999018185|emb|CZJ86110.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999027300|emb|CZK23520.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999030599|emb|CZH25103.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999033250|emb|CZK19933.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999039456|emb|CZJ94758.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999042478|emb|CZK05930.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999048489|emb|CZK00832.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999051608|emb|CZJ93523.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999054513|emb|CZK27995.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999063720|emb|CZK03406.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999070537|emb|CZJ63850.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999072756|emb|CZK30331.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999085028|emb|CZK32119.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999198496|emb|CZP14853.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999206229|emb|CZP64162.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999228332|emb|CZP09749.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999235237|emb|CZP59525.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999240253|emb|CZH89629.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999244402|emb|CZH77754.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999248809|emb|CZH09269.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999252025|emb|CZH38155.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999256014|emb|CZP80604.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999259080|emb|CZP45998.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999261333|emb|CZH42744.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999269461|emb|CZO34231.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999274831|emb|CZG80733.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999324404|emb|CZH32027.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999331785|emb|CZG56944.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999337794|emb|CZP48256.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999340117|emb|CZH27304.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999347246|emb|CZP64180.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999349670|emb|CZH39889.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999464815|emb|CZM51143.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999467839|emb|CZO28446.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999469350|emb|CZH08050.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999474736|emb|CZM63064.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999477193|emb|CZN75941.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999480695|emb|CZN01445.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999484214|emb|CZN88131.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999487127|emb|CZM12480.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999490300|emb|CZN80287.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999493491|emb|CZM11924.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999500071|emb|CZN74427.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999503197|emb|CZO09118.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999506335|emb|CZN15076.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999509538|emb|CZG50137.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999512876|emb|CZN29266.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999516036|emb|CZM01352.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999518967|emb|CZM83342.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999532323|emb|CZO45059.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999535479|emb|CZN39348.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999538560|emb|CZM74615.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999542004|emb|CZO19956.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999544966|emb|CZO60188.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999548190|emb|CZN90138.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999551502|emb|CZO12236.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999554537|emb|CZN32337.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999557888|emb|CZO55020.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999561103|emb|CZM43000.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999564109|emb|CZO67957.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999567473|emb|CZM53518.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999570673|emb|CZN51493.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999573861|emb|CZN93807.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999580353|emb|CZO17713.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999583641|emb|CZO39032.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999587004|emb|CZM65938.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999589961|emb|CZM39569.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999593120|emb|CZN44480.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999596193|emb|CZO11040.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999599513|emb|CZO36639.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999602661|emb|CZL98004.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999605449|emb|CZN73939.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999608986|emb|CZN64046.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999615598|emb|CZM48496.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999618633|emb|CZN89633.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999621797|emb|CZO82951.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999625125|emb|CZN72303.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999628376|emb|CZM62117.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999631574|emb|CZM59997.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999634634|emb|CZN60308.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999637962|emb|CZN52476.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999641158|emb|CZO80465.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999644150|emb|CZO54109.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999647641|emb|CZN95531.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999650673|emb|CZO04524.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999653942|emb|CZO01611.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999657139|emb|CZM30549.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999660213|emb|CZM65777.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999663356|emb|CZN16597.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999666721|emb|CZM37069.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999669913|emb|CZL83714.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999673123|emb|CZM38463.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999676307|emb|CZN77022.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999679348|emb|CZM80173.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999682543|emb|CZM82935.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999686230|emb|CZO01080.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999689102|emb|CZN30016.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999692295|emb|CZN98450.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999695512|emb|CZN28405.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999698821|emb|CZM12934.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999701765|emb|CZM79475.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999705000|emb|CZL95681.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999708142|emb|CZN56353.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999711561|emb|CZN00232.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999714657|emb|CZN20721.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999718013|emb|CZO46750.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999720969|emb|CZM94457.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999724488|emb|CZN35129.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999727807|emb|CZL98565.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999731010|emb|CZO44098.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999734150|emb|CZM25072.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999737510|emb|CZO71327.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999740991|emb|CZM32342.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999744071|emb|CZN26183.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999747213|emb|CZM24378.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999750555|emb|CZL97113.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999753751|emb|CZM81882.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999756802|emb|CZN11324.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999760303|emb|CZM25243.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999763352|emb|CZN29541.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999766878|emb|CZM47374.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999769727|emb|CZN49822.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999776191|emb|CZL99331.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999777456|emb|CZH48665.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999782921|emb|CZH63130.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999786390|emb|CZM23738.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999789555|emb|CZO66227.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999792900|emb|CZO60044.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999799785|emb|CZO54901.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003029218|emb|CZR19209.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003036401|emb|CZR17148.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1005832265|gb|AMQ26991.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|1041014535|gb|ANN91596.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1103998693|emb|SFZ36305.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014841043</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>841.647</Hsp_bit-score>
+      <Hsp_score>2173</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>403</Hsp_identity>
+      <Hsp_positive>405</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1002546471|ref|WP_061391337.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|999184363|emb|CZP96425.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999265249|emb|CZP08053.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999277645|emb|CZP38268.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999281324|emb|CZP14868.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999283708|emb|CZP62606.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999291025|emb|CZP33217.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999296448|emb|CZP57353.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999299535|emb|CZP46233.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999307343|emb|CZH71688.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999309407|emb|CZP28275.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999315785|emb|CZI08888.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999318715|emb|CZP65983.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999322057|emb|CZH99686.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999344415|emb|CZP83569.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999353436|emb|CZP67762.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999357194|emb|CZP67179.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999363774|emb|CZP55496.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999367154|emb|CZP77961.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999369903|emb|CZP76882.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999392343|emb|CZP98589.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999398591|emb|CZQ01322.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999403084|emb|CZP39882.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999450660|emb|CZP36758.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999521903|emb|CZP17566.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1015431629|gb|AMV13256.1| Argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|1103995562|emb|SFZ36580.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061391337</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>840.106</Hsp_bit-score>
+      <Hsp_score>2169</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>403</Hsp_identity>
+      <Hsp_positive>405</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|499526484|ref|WP_011213124.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|81601999|sp|Q5X7P8.1|ARLY_LEGPA RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase &gt;gi|53750311|emb|CAH11705.1| Argininosuccinate lyase [Legionella pneumophila str. Paris] &gt;gi|536613610|gb|ERB41982.1| argininosuccinate lyase [Legionella pneumophila str. 121004] &gt;gi|541995575|gb|ERH41674.1| argininosuccinate lyase [Legionella pneumophila str. Leg01/11] &gt;gi|541997367|gb|ERH43413.1| argininosuccinate lyase [Legionella pneumophila str. Leg01/53] &gt;gi|542121157|gb|ERI47490.1| argininosuccinate lyase [Legionella pneumophila str. Leg01/20] &gt;gi|762002514|dbj|GAN25632.1| argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|999171887|emb|CZI30553.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999181676|emb|CZG52472.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999187844|emb|CZI96085.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999212760|emb|CZG79494.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999216882|emb|CZI64872.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999360006|emb|CZI62781.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999373422|emb|CZG56166.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999376456|emb|CZJ17646.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999379787|emb|CZH70311.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999382682|emb|CZI59034.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999386249|emb|CZG63320.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999389132|emb|CZI57765.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999396870|emb|CZG08025.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999405886|emb|CZG70387.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999408927|emb|CZH92621.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999412775|emb|CZG33823.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999415398|emb|CZG86957.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999418738|emb|CZG63536.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999421933|emb|CZH72331.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999425247|emb|CZG74123.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999428399|emb|CZG73986.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999431611|emb|CZG72199.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999434969|emb|CZH99100.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999438153|emb|CZG61406.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999441149|emb|CZK27928.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|999444658|emb|CZH78149.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999447861|emb|CZG54317.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999457602|emb|CZK23045.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999496287|emb|CZI47857.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999525326|emb|CZJ06409.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999528039|emb|CZI73351.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999576060|emb|CZI43161.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999611316|emb|CZI63995.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1003032404|emb|CZR24987.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1041017632|gb|ANN94692.1| argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213124</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>840.106</Hsp_bit-score>
+      <Hsp_score>2169</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>402</Hsp_identity>
+      <Hsp_positive>405</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRNAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFR+AHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1005403335|ref|WP_061636472.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|999328660|emb|CZG65922.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061636472</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>838.951</Hsp_bit-score>
+      <Hsp_score>2166</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>402</Hsp_identity>
+      <Hsp_positive>404</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYFALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IY ALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1006946112|ref|WP_061829155.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|999272263|emb|CZP59322.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061829155</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>838.565</Hsp_bit-score>
+      <Hsp_score>2165</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>402</Hsp_identity>
+      <Hsp_positive>404</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWFAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAW AEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|754875883|ref|WP_042236319.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236319</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>838.565</Hsp_bit-score>
+      <Hsp_score>2165</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>401</Hsp_identity>
+      <Hsp_positive>403</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEVESQAIYSALEEIRSEIKQGQYSFTERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTE E Q IYSALEEIR+EIKQGQYSF ERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|504656275|ref|WP_014843377.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|395129583|emb|CCD07816.1| argininosuccinate lyase [Legionella pneumophila subsp. pneumophila] &gt;gi|761992716|dbj|GAN16504.1| argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|761995906|dbj|GAN19610.1| argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|998791224|emb|CZG39243.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998892653|emb|CZJ25362.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998982400|emb|CZI65295.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999107540|emb|CZI63432.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999231769|emb|CZI43935.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999287233|emb|CZI46949.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999293639|emb|CZI46477.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999312672|emb|CZI54109.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002081578|emb|CZR00100.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1002092758|emb|CZQ95328.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1032656673|gb|ANH11944.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1032659640|gb|ANH14910.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1032662607|gb|ANH17876.1| argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_014843377</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>837.41</Hsp_bit-score>
+      <Hsp_score>2162</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>400</Hsp_identity>
+      <Hsp_positive>403</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFEQDINGSQVHVKQLAKQKILTEVESQAIYSALEEIRSEIKQGQYSFTERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLF+QDINGSQVHVKQLAKQKILTE E Q IYSALEEIR+EIKQGQYSF ERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|500490091|ref|WP_011945651.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|166217300|sp|A5IHA2.1|ARLY_LEGPC RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase &gt;gi|148282664|gb|ABQ56752.1| argininosuccinate lyase [Legionella pneumophila str. Corby] &gt;gi|295647944|gb|ADG23791.1| argininosuccinate lyase [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989529|dbj|GAN22592.1| argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|761999030|dbj|GAN28943.1| argininosuccinate lyase 1 [Legionella pneumophila] &gt;gi|998801863|emb|CZI09409.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998912134|emb|CZH22737.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|998994553|emb|CZI21500.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999003166|emb|CZI82504.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999149946|emb|CZI47984.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999159296|emb|CZJ68343.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999165657|emb|CZG82292.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999168594|emb|CZI44736.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999178303|emb|CZJ55173.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999302856|emb|CZI38014.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945651</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>835.484</Hsp_bit-score>
+      <Hsp_score>2157</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>400</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEVESQAIYSALEEIRSEIKQGQYSFNVRDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFGRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTE E Q IYSALEEIR+EIKQGQYSFN RDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMF RDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|757480319|ref|WP_042754458.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042754458</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>835.099</Hsp_bit-score>
+      <Hsp_score>2156</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>400</Hsp_identity>
+      <Hsp_positive>403</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLAFDHVLFDQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIVCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFGRDKSRLDDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLFDQDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLI CLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRL+DWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1004017597|ref|WP_061485325.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485325</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>833.558</Hsp_bit-score>
+      <Hsp_score>2152</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>399</Hsp_identity>
+      <Hsp_positive>401</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEVESQAIYSALEEIRSEIKQGQYSFNVRDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVMLGAYFNAYQCMFGRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTE E Q IYSALEEIR+EIKQGQYSFN RDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMF RDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFV LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1005410649|ref|WP_061639901.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|998793159|emb|CZI52529.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061639901</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>833.558</Hsp_bit-score>
+      <Hsp_score>2152</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>398</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLSFDHVLFEQDINGSQVHVKQLAKQKILTEVESQAIYSALEEIRSEIKQGQYSFTQRDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNLVILDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIACLQMITPFLQSLTFNTLLMKTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLF+QDINGSQVHVKQLAKQKILTE E Q IYSALEEIR+EIKQGQYSF +RDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFN V LDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQMITPFLQSLTFNT LM+TKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1005610002|ref|WP_061692496.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|998822450|emb|CZH34073.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999225294|emb|CZG81968.1| Argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061692496</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>830.861</Hsp_bit-score>
+      <Hsp_score>2145</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>398</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSGVNQFNASLAFDHVLFEQDINGSQVHVKQLAKQKILTEAECQGIYSALEEIRTEIKQSQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIVCLDDLTSKHQQDLMPGYTHLQQAQPVALGAFFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQIITPFLQSLTFNTPLMRAKAQSGYLDATAILESLVMKGMPFRDAHHQVGLWIAEAIEKQCSLTELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLF+QDINGSQVHVKQLAKQKILTEAECQ IYSALEEIRTEIKQ QYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLI CLDDLTSKHQQDLMPGYTHLQQAQPV LGA+FNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQ+ITPFLQSLTFNTPLMR KAQSGYLDATAILESLVMKGMPFRDAHHQVG WIAEAIEKQCSL ELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1011913788|ref|WP_062727002.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727002</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.698</Hsp_bit-score>
+      <Hsp_score>2129</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>393</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLAFDHVLFDQDINGSQVHVKQLAKQQILTEAESQAIFSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLTQKLGELGKKLHTGRSRNDQVALDLRLYTRDKGYLINELLTGLIDCLDDLTSKHQQDLMPGYTHLQQAQPVALGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFDFITLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQIITPFLQSLTFNTPLMRAKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLFDQDINGSQVHVKQLAKQ+ILTEAE Q I+SALEEIR+EIKQGQYSFNERDEEDIHMFIEQLL QK+G+LGKKLHTGRSRNDQVALDLRLYTRDKG LINELLT LIDCLDDLTSKHQQDLMPGYTHLQQAQPV LGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEF+F+TLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQ+ITPFLQSLTFNTPLMR KAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|652970670|ref|WP_027223562.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|1005362770|gb|AMP88639.1| argininosuccinate lyase [Legionella pneumophila subsp. pascullei] &gt;gi|1005365771|gb|AMP91548.1| argininosuccinate lyase [Legionella pneumophila subsp. pascullei] &gt;gi|1005368758|gb|AMP94534.1| argininosuccinate lyase [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223562</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>818.535</Hsp_bit-score>
+      <Hsp_score>2113</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>389</Hsp_identity>
+      <Hsp_positive>398</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLSFDHVLFEQDINGSQVHVKQLAKQKILTEAESQAIFSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLTQKLGELGKKLHTGRSRNDQVALDLRLYTRDKGYLINELLTGLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGTYFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAKSLGFTGIIPNTIDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIVVCLQMITPFLQSLIFNTPLMRTQAQSGYLDATAILESLVMKGTPFRDAHHQVGLWIAEAIEKQCSLTELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASLSFDHVLF+QDINGSQVHVKQLAKQKILTEAE Q I+SALEEIR+EIKQGQYSFNERDEEDIHMFIEQLL QK+G+LGKKLHTGRSRNDQVALDLRLYTRDKG LINELLT LIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLG YFNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVA+SLGF GIIPNT+DAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTI+VCLQMITPFLQSL FNTPLMRT+AQSGYLDATAILESLVMKG PFRDAHHQVG WIAEAIEKQCSL ELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1004049814|ref|WP_061504427.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061504427</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>810.446</Hsp_bit-score>
+      <Hsp_score>2092</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>396</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLAFDHVLFDQDINGSQVHVKQLAKQQILTEAESQAIFSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLTQKLGELGKKLHTGRSRNDQVALDLRLYTRDKGYLINELLTGLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGTYFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFTGIISNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFDFITLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQIIIPFLQSLTFNTPLMRAKAQSGYLDATAILESLVMKGIPFRDAHHQVGLWIAEAIEKQCSLTELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLFDQDINGSQVHVKQLAKQ+ILTEAE Q I+SALEEIR+EIKQGQYSFNERDEEDIHMFIEQLL QK+G+LGKKLHTGRSRNDQVALDLRLYTRDKG LINELLT LIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLG YFNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGF GII NTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEF+F+TLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQ+I PFLQSLTFNTPLMR KAQSGYLDATAILESLVMKG+PFRDAHHQVG WIAEAIEKQCSL ELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|654927529|ref|WP_028378021.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_028378021</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>810.061</Hsp_bit-score>
+      <Hsp_score>2091</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>396</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLAFDHVLFDQDINGSQVHVKQLAKQQILTEAESQAIFSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLTQKLGELGKKLHTGRSRNDQVALDLRLYTRDKGYLINALLTGLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGTYFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFTGIISNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFDFITLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQIITPFLQSLTFNTPLMRAKAQSGYLDATAILESLVMKGIPFRDAHHQVGLWIAEAIEKQCSLTELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLFDQDINGSQVHVKQLAKQ+ILTEAE Q I+SALEEIR+EIKQGQYSFNERDEEDIHMFIEQLL QK+G+LGKKLHTGRSRNDQVALDLRLYTRDKG LIN LLT LIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLG YFNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGF GII NTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEF+F+TLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQ+ITPFLQSLTFNTPLMR KAQSGYLDATAILESLVMKG+PFRDAHHQVG WIAEAIEKQCSL ELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|652976187|ref|WP_027228860.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella pneumophila] &gt;gi|985765963|gb|KXB27074.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|985767727|gb|KXB28813.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|999119282|emb|CZG76865.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|999122510|emb|CZH11988.1| Argininosuccinate lyase [Legionella pneumophila] &gt;gi|1024341658|gb|KZX35965.1| argininosuccinate lyase [Legionella pneumophila] &gt;gi|1108603973|gb|APF02341.1| argininosuccinate lyase [Legionella pneumophila subsp. fraseri] &gt;gi|1108606984|gb|APF05351.1| argininosuccinate lyase [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228860</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>808.135</Hsp_bit-score>
+      <Hsp_score>2086</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>534</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>385</Hsp_identity>
+      <Hsp_positive>395</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKGG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDSRVNQFNASLAFDHVLFDQDINGSQVHVKQLAKQQILTEAESQAIFSALEEIRSEIKQGQYSFNERDEEDIHMFIEQLLTQKLGELGKKLHTGRSRNDQVALDLRLYTRDKGYLINALLTGLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGTYFNAYQSMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFTGIISNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFDFITLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIGCLQIIIPFLQSLTFNTPLMRAKAQSGYLDATAILESLVMKGIPFRDAHHQVGLWIAEAIEKQCSLTELLKGG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLDS VNQFNASL+FDHVLFDQDINGSQVHVKQLAKQ+ILTEAE Q I+SALEEIR+EIKQGQYSFNERDEEDIHMFIEQLL QK+G+LGKKLHTGRSRNDQVALDLRLYTRDKG LIN LLT LIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLG YFNAYQ MFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGF GII NTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEF+F+TLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTII CLQ+I PFLQSLTFNTPLMR KAQSGYLDATAILESLVMKG+PFRDAHHQVG WIAEAIEKQCSL ELLKGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|737924717|ref|WP_035889970.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella norrlandica] &gt;gi|701445694|gb|KGP63066.1| argininosuccinate lyase [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_035889970</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>751.51</Hsp_bit-score>
+      <Hsp_score>1939</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>533</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>410</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>353</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKG</Hsp_qseq>
+      <Hsp_hseq>MINKTWGGRFKKPLDGRVNQFNASLSFDHVLFEQDINGSQAHVKQLVKQKIITEEEGQAIFVALDEIQNEIKQGQHSFNDSKEEDIHMFIEQLLTQKLGDLGKKLHTGRSRNDQVALDLRLFTRDKGNLINELLIELIHCLNELASKHQDDLMPGYTHLQQAQPITLGAYFNAYQSMFSRDKSRMEDWFQRMNYSPLGAGALAGSSLPLDRQWVAHWLGFAGIIPNTLDAVSDRDFVVELCSIAAMTMMHLSRLCEDLILWSTQEFNFITLDDAFATGSSLMPNKKNPDVLELIRGKTGRVYGHLMAILTVMKGLPLTYNKDMQEDKEGLFDTINTVVVCLQIITPFLQSLVFNTELMRAKAQSGYLDATAILESLVMKGMPFRDAHHQVGLWIIEAMENQCSLTELLKG</Hsp_hseq>
+      <Hsp_midline>M NKTWGGRFKK LD  VNQFNASLSFDHVLF+QDINGSQ HVKQL KQKI+TE E Q I+ AL+EI+ EIKQGQ+SFN+  EEDIHMFIEQLL QK+GDLGKKLHTGRSRNDQVALDLRL+TRDKG LINELL  LI CL++L SKHQ DLMPGYTHLQQAQP+TLGAYFNAYQ MFSRDKSR+EDWF+RMNYSPLGAGALAGS+LPLDR+WVA  LGFAGIIPNTLDAVSDRDFV+ELCS+AAM MMHLSRLCEDLILWSTQEFNF+TLDDAFATGSSLMPNKKNPDV ELIRGK+GRVYGHLMAILTVMKGLPL YNKDMQEDKEGLFDTINT++VCLQ+ITPFLQSL FNT LMR KAQSGYLDATAILESLVMKGMPFRDAHHQVG WI EA+E QCSL ELLKG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|517405878|ref|WP_018578539.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella shakespearei] &gt;gi|962281344|gb|KTD65157.1| argininosuccinate lyase [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018578539</Hit_accession>
+  <Hit_len>413</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>727.243</Hsp_bit-score>
+      <Hsp_score>1876</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>533</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>410</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>370</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLKG</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKALDSQVNQFNSSLSFDYVLFEQDIKGSQAHVQQLAKQHIITEDEGQTIYLALEEIRNEIKANQYDFKVNQEEDIHMFIEQLLIQKLGDLGKKLHTGRSRNDQVALDLRLYTLDKAHWINELLIKLIGCLDELTNNHQDDLMPGYTHLQQAQPITLGNYFNAYQSMFERDKNRLEDWFKRSNYSPLGAGALAGSKLPLDRKWVAKTLGFTGIIPNTLDAVSDRDFVIEFCSVCAMTMMHLSRLCEDLILWSTQEFNFLTLDDAFATGSSLMPNKKNPDVPELIRGKTGRVYGHLMSILTVMKGLPLAYNKDMQEDKEGLFDTVNTVVACLQIITPFLQSLTFNTELMKIKAQSGYLDATAMLESLVIKGMSFRDAHHQVGLWILEAMEKQCSLTDLLKG</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKK+LDS VNQFN+SLSFD+VLF+QDI GSQ HV+QLAKQ I+TE E Q IY ALEEIR EIK  QY F    EEDIHMFIEQLLIQK+GDLGKKLHTGRSRNDQVALDLRLYT DK   INELL +LI CLD+LT+ HQ DLMPGYTHLQQAQP+TLG YFNAYQ MF RDK+RLEDWFKR NYSPLGAGALAGS LPLDR+WVA++LGF GIIPNTLDAVSDRDFVIE CSV AM MMHLSRLCEDLILWSTQEFNF+TLDDAFATGSSLMPNKKNPDVPELIRGK+GRVYGHLM+ILTVMKGLPLAYNKDMQEDKEGLFDT+NT++ CLQ+ITPFLQSLTFNT LM+ KAQSGYLDATA+LESLV+KGM FRDAHHQVG WI EA+EKQCSL +LLKG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966440095|ref|WP_058480418.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella waltersii] &gt;gi|962294662|gb|KTD78322.1| argininosuccinate lyase [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058480418</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>669.848</Hsp_bit-score>
+      <Hsp_score>1727</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>312</Hsp_identity>
+      <Hsp_positive>363</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKSLDPLVNKFNASLHFDKVLFEQDIKGSQAHVQGLAKQNIITTEECQTIVNALEEIRHELQQGLHHFDEQCE-DIHMFIEHVLVEKIGDVGKKLHTGRSRNDQVAVDLRLFTRDRSEVISNLLQQLIDGLAELSKKHDQDWMPGYTHLQQAQPIRLGAFFGAYQSMFSRDKSRLADWHDRMNYSPLGAGALAGSSLPLDREWVAQTLGFSGIVENTLDAVSDRDFVIELCSVIAITMMHLSRLCEDLIIWSTQEFGFITLDDAFATGSSLMPNKKNPDVPELIRGKTGRVFGHLMAILTVMKGLPLAYNKDMQEDKEGLFDSLNTLSSCLEVMTPFLKSLTFNTELMQEKSQKGFLDATAVLESLVKKGIPFREAHHQVGLWVAEALEKQCSLTDITK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKKSLD  VN+FNASL FD VLF+QDI GSQ HV+ LAKQ I+T  ECQ I +ALEEIR E++QG + F+E+ E DIHMFIE +L++KIGD+GKKLHTGRSRNDQVA+DLRL+TRD+  +I+ LL +LID L +L+ KH QD MPGYTHLQQAQP+ LGA+F AYQ MFSRDKSRL DW  RMNYSPLGAGALAGS+LPLDREWVA++LGF+GI+ NTLDAVSDRDFVIELCSV A+ MMHLSRLCEDLI+WSTQEF F+TLDDAFATGSSLMPNKKNPDVPELIRGK+GRV+GHLMAILTVMKGLPLAYNKDMQEDKEGLFD++NT+  CL+++TPFL+SLTFNT LM+ K+Q G+LDATA+LESLV KG+PFR+AHHQVG W+AEA+EKQCSL ++ K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966400701|ref|WP_058444296.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella feeleii] &gt;gi|962217301|gb|KTD02044.1| argininosuccinate lyase [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444296</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>644.04</Hsp_bit-score>
+      <Hsp_score>1660</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>344</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKPLDPSVVKFNASLAFDQVLYRHDIAGSQAHASMLARQGLLSHDEAQSINKALAEIELEITKGQHALDERCE-DIHMFVEQLLIQKIGDIGKKLHTGRSRNDQVALDLRLYTREAGAQINSLLQTLKEVLQDLATRHADTKMPGYTHLQQAQPIYLGHYFAAFDAMFSRDLSRMHDWHERMNFSPLGAGALAGSNLPLDRKWVAQTLGFKGVISNTLDAVSDRDFIIEFCSIAALIMMHLSRLAEDLILWATQEFNFITLDDAFSTGSSLMPNKKNPDVLELIRGKSGRVFGHLTGILTVMKALPLAYNKDMQEDKESLFDTVNTLTACLQIISPFLQSLTFNTELMHRKATSGYLDATAILESLVLQGMPFRDAHHQVGLWVSEAVEKNCSLSELLK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKK LD SV +FNASL+FD VL+  DI GSQ H   LA+Q +L+  E Q I  AL EI  EI +GQ++ +ER E DIHMF+EQLLIQKIGD+GKKLHTGRSRNDQVALDLRLYTR+ G  IN LL  L + L DL ++H    MPGYTHLQQAQP+ LG YF A+  MFSRD SR+ DW +RMN+SPLGAGALAGS LPLDR+WVA++LGF G+I NTLDAVSDRDF+IE CS+AA+IMMHLSRL EDLILW+TQEFNF+TLDDAF+TGSSLMPNKKNPDV ELIRGKSGRV+GHL  ILTVMK LPLAYNKDMQEDKE LFDT+NT+  CLQ+I+PFLQSLTFNT LM  KA SGYLDATAILESLV++GMPFRDAHHQVG W++EA+EK CSL+ELLK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|966444192|ref|WP_058484454.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella spiritensis] &gt;gi|962278076|gb|KTD61945.1| argininosuccinate lyase [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058484454</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.706</Hsp_bit-score>
+      <Hsp_score>1615</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>529</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>405</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>337</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>406</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNE</Hsp_qseq>
+      <Hsp_hseq>MTSKTWGGRFKKTLDPLIVQFNASLPFDHVLFEHDITGSQIHAAMLGRQGLLTNEESQTIQDALEEIRQEIRQGLHPLND-DYEDIHMFIEHLLTQKLGDPGKKLHTGRSRNDQVALDLRLYARETGQHIKQLLIQLSEALNTLANRHEQDWMPGYTHLQQAQPIRLGTWFGAYHAMFNRDINRLDDWHGRMNLSPLGAGALAGSSLPLDREWAAKSLGFDGVITNTLDAVSDRDFVMEFNSVAAIIMTHLSRLCEDLILWATQEFGFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVFGHLTAILTIMKGLPLAYNKDMQEDKEGLFDTVQTLRSCLTVITPFLHSIRFNTELMHQKAHDGYLDATAVLESLVLRGVPFREAHHQVGVWVAEAMAKGCSLKE</Hsp_hseq>
+      <Hsp_midline>MT+KTWGGRFKK+LD  + QFNASL FDHVLF+ DI GSQ+H   L +Q +LT  E Q I  ALEEIR EI+QG +  N+ D EDIHMFIE LL QK+GD GKKLHTGRSRNDQVALDLRLY R+ G  I +LL +L + L+ L ++H+QD MPGYTHLQQAQP+ LG +F AY  MF+RD +RL+DW  RMN SPLGAGALAGS+LPLDREW A+SLGF G+I NTLDAVSDRDFV+E  SVAA+IM HLSRLCEDLILW+TQEF FVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRV+GHL AILT+MKGLPLAYNKDMQEDKEGLFDT+ T+  CL +ITPFL S+ FNT LM  KA  GYLDATA+LESLV++G+PFR+AHHQVG W+AEA+ K CSL E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|966475854|ref|WP_058506587.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella quinlivanii] &gt;gi|962267590|gb|KTD51620.1| argininosuccinate lyase [Legionella quinlivanii] &gt;gi|1090728898|emb|SEF60959.1| argininosuccinate lyase [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058506587</Hit_accession>
+  <Hit_len>413</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.32</Hsp_bit-score>
+      <Hsp_score>1614</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>339</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTSKVWGGRFKKSLDRRAAQFNASLSFDHILYEQDIAGSQVHARMLARQGLLNEEEAQAICNALQTIRQEIRQGIHSLTE-DHEDIHMLIEHLLIDKIGETGKKLHTGRSRNDQVALDIRLYARDAGQHIKLLLEKLIACLQGLTDKHDGDWMPGYTHLQQAQPVKLGQYFAAYQGMFERDLSRLADWRSRMNYSPLGAGALAGSSLPLDRAWTASQLGFSGVISNTLDAVSDRDFVIELGSFASILMMHLSRMSEDLILWATQEFNFVNLDDAFATGSSLMPNKKNPDIPELIRGKSGRVFGHLMGMLTVMKGLPLSYNKDMQEDKEALFDTCNTVIACLEVMTPFLESLQFNIQLMQEKAHSGFLNATAVLETLVMQGIAFREAHHQVGSWVAEAMSKNCSLADIMK</Hsp_hseq>
+      <Hsp_midline>MT+K WGGRFKKSLD    QFNASLSFDH+L++QDI GSQVH + LA+Q +L E E Q I +AL+ IR EI+QG +S  E D EDIHM IE LLI KIG+ GKKLHTGRSRNDQVALD+RLY RD G  I  LL +LI CL  LT KH  D MPGYTHLQQAQPV LG YF AYQ MF RD SRL DW  RMNYSPLGAGALAGS+LPLDR W A  LGF+G+I NTLDAVSDRDFVIEL S A+++MMHLSR+ EDLILW+TQEFNFV LDDAFATGSSLMPNKKNPD+PELIRGKSGRV+GHLM +LTVMKGLPL+YNKDMQEDKE LFDT NT+I CL+++TPFL+SL FN  LM+ KA SG+L+ATA+LE+LVM+G+ FR+AHHQVG+W+AEA+ K CSL +++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966510087|ref|WP_058526678.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella erythra] &gt;gi|962212827|gb|KTC97702.1| argininosuccinate lyase [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526678</Hit_accession>
+  <Hit_len>419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>622.083</Hsp_bit-score>
+      <Hsp_score>1603</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>341</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKQALDARVNEFNASLSFDQKLFKHDIDGSRAHAAMLTRQGLLTADEGAAIDAALVKIKAELEQGLHDIDQ-GSEDIHMFIEQLLITQLGDTGKKLHTGRSRNDQVALDLRLYCRDAGQQFKQKLDALISCLSEMANQYQENWMPGYTHLQQAQPIRLGTYFGAYQCMFQRDKSRLDDWYKRMNYSPLGAGALAGSSLPLDRAWVASTLGFDGIVDNTLDAVSDRDFVIELVHVASLIMMHLSRLCEDLILWATREFHFITLSDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMALLTVMKGLPLAYNKDMQEDKEALFDTVATVNACLSIMTPFLQSLTFNTDWMNEQAKSGYLDATRLLESLVINGMPFRDAHHQVGLWVAEAESRHCSLTELLK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFK++LD+ VN+FNASLSFD  LF  DI+GS+ H   L +Q +LT  E   I +AL +I+ E++QG +  ++   EDIHMFIEQLLI ++GD GKKLHTGRSRNDQVALDLRLY RD G    + L  LI CL ++ +++Q++ MPGYTHLQQAQP+ LG YF AYQCMF RDKSRL+DW+KRMNYSPLGAGALAGS+LPLDR WVA +LGF GI+ NTLDAVSDRDFVIEL  VA++IMMHLSRLCEDLILW+T+EF+F+TL DAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLMA+LTVMKGLPLAYNKDMQEDKE LFDT+ T+  CL ++TPFLQSLTFNT  M  +A+SGYLDAT +LESLV+ GMPFRDAHHQVG W+AEA  + CSL ELLK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|762038494|ref|WP_043874431.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella massiliensis] &gt;gi|683288858|emb|CEE13720.1| Argininosuccinate lyase [Legionella massiliensis] &gt;gi|685071363|emb|CDZ77982.1| Argininosuccinate lyase [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043874431</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>621.313</Hsp_bit-score>
+      <Hsp_score>1601</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>340</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSNKTWGGRFKKPLDPSVVKFNASLSFDHLLYAHDIAGSKAHAAMLARQGLITEEEAQAINSALTEIGLEIEQGQHSLDESCE-DIHMFIEHLLIKKIGETGKKLHTGRSRNDQVALDLRLYTRDAANKIMDYLQDLHSILQNLATEHANNLMPGYTHLQQAQPIYLGQYFTAYLAMFKRDLSRLADWQERMNYSPLGAGALAGSNLPLDRTWVAQSLSFKGVIENTLDAVSDRDFIIEFCAAASIIMVHLSRLSEDLILWATQEFSFISLDDAFATGSSLMPNKKNPDVLELIRGKSGRVFGHLMGILTIMKGLPLAYNKDMQEDKECLFDTVNTLVACLAIIGPFLQSLHFNTELMQQKAKGGYLDATAVLESLVLKGMPFRDAHHQVGLWVSQALEKNCSLAELIK</Hsp_hseq>
+      <Hsp_midline>M+NKTWGGRFKK LD SV +FNASLSFDH+L+  DI GS+ H   LA+Q ++TE E Q I SAL EI  EI+QGQ+S +E  E DIHMFIE LLI+KIG+ GKKLHTGRSRNDQVALDLRLYTRD    I + L  L   L +L ++H  +LMPGYTHLQQAQP+ LG YF AY  MF RD SRL DW +RMNYSPLGAGALAGS LPLDR WVA+SL F G+I NTLDAVSDRDF+IE C+ A++IM+HLSRL EDLILW+TQEF+F++LDDAFATGSSLMPNKKNPDV ELIRGKSGRV+GHLM ILT+MKGLPLAYNKDMQEDKE LFDT+NT++ CL +I PFLQSL FNT LM+ KA+ GYLDATA+LESLV+KGMPFRDAHHQVG W+++A+EK CSL EL+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|489732098|ref|WP_003636213.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella longbeachae] &gt;gi|269987943|gb|EEZ94198.1| argininosuccinate lyase [Legionella longbeachae D-4968] &gt;gi|288858778|emb|CBJ12683.1| Argininosuccinate lyase [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003636213</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.542</Hsp_bit-score>
+      <Hsp_score>1599</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>296</Hsp_identity>
+      <Hsp_positive>343</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHKTWGGRFKKALDPRVMHFNASLPFDKILFKHDILGSQTHAKMLARQGLITQSEADCISNALEEIGQELENKIHEFDERCE-DIHMFIEQLLIAKIGEVGKKLHTGRSRNDQVALDLRLYSRDMGMHISKLLNHLLCVLEDLEKYHAQDKMPGYTHLQQAQPIYLGQFFAAYKAMFHRDLDRLHDWHERMNYSPLGAGALAGSTLPLDRVWVAQTLGFTGIIQNTLDAVSDRDFIIEFCSVAAIIMMHLSRLSEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMGILTVMKSLPLAYNKDMQEDKECLFDTVNTLSVCLEIMIPFLQSVQFNTNVMQLKASSGYLDATALLESLVLQGVPFRDAHHQVGSWVKEAIENDCSLNEIIK</Hsp_hseq>
+      <Hsp_midline>M++KTWGGRFKK+LD  V  FNASL FD +LF  DI GSQ H K LA+Q ++T++E   I +ALEEI  E++   + F+ER E DIHMFIEQLLI KIG++GKKLHTGRSRNDQVALDLRLY+RD G  I++LL  L+  L+DL   H QD MPGYTHLQQAQP+ LG +F AY+ MF RD  RL DW +RMNYSPLGAGALAGSTLPLDR WVA++LGF GII NTLDAVSDRDF+IE CSVAA+IMMHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLM ILTVMK LPLAYNKDMQEDKE LFDT+NT+ VCL+++ PFLQS+ FNT +M+ KA SGYLDATA+LESLV++G+PFRDAHHQVG+W+ EAIE  CSLNE++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966515860|ref|WP_058532377.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella rubrilucens] &gt;gi|962261502|gb|KTD45595.1| argininosuccinate lyase [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058532377</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.157</Hsp_bit-score>
+      <Hsp_score>1598</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>337</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKQELDARVNAFNASLSFDQVLFKQDIEGSRAHAAMLTRQGLLTAEEGAAIDAALTEVCKQLEQSLPDFDN-GSEDIHMFIEQCLIEKLGDTGKKLHTGRSRNDQVALDLRLYCRDAGQQLQRELDVLITCLSEMAKQYQDNWMPGYTHLQQAQPIRLGTYFGAYQSMFERDKSRLDDWFKRMNYSPLGAGALAGSSLPLDREWVASRLGFNGVVVNTLDAVSDRDFVIELVSAATLVMMHLSRLCEDLILWATSEFHFITLSDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMGLLTMMKGLPLAYNKDMQEDKEALFDTVNTVNACLTIMTPFLKSLTFNTALMKEKAESGYLDATRVLESLVLKGVPFRDAHHQVGLWVAEAEAKQCSLSEIVK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFK+ LD+ VN FNASLSFD VLF QDI GS+ H   L +Q +LT  E   I +AL E+  +++Q    F+    EDIHMFIEQ LI+K+GD GKKLHTGRSRNDQVALDLRLY RD G  +   L  LI CL ++  ++Q + MPGYTHLQQAQP+ LG YF AYQ MF RDKSRL+DWFKRMNYSPLGAGALAGS+LPLDREWVA  LGF G++ NTLDAVSDRDFVIEL S A ++MMHLSRLCEDLILW+T EF+F+TL DAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLM +LT+MKGLPLAYNKDMQEDKE LFDT+NT+  CL ++TPFL+SLTFNT LM+ KA+SGYLDAT +LESLV+KG+PFRDAHHQVG W+AEA  KQCSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966472567|ref|WP_058503330.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella nautarum] &gt;gi|962255020|gb|KTD39175.1| argininosuccinate lyase [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503330</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>620.157</Hsp_bit-score>
+      <Hsp_score>1598</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>290</Hsp_identity>
+      <Hsp_positive>344</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHQTWGGRFKKPLDPRVLKFNASLAFDYVLYAHDIAGSKAHAQMLARQGLIEAVEALAITNALTEINDEIAQGQHPLDE-NCEDIHMFIEHLLIQKIGDVGKKLHTGRSRNDQVALDLRLYTRDASEKITSLLQELTQTLQDMSSKHTNDLMPGYTHLQQAQPVRLGQFFAAYLSMFQRDLSRLQDWQARMNFSPLGSGALAGSNLPLDREWVAKTLGFSGVIENSLDAVSDRDFIIELCSFASILMMHLSRLAEDLILWATQEFSFVTLDDAFATGSSLMPNKKNPDVLELIRGKTARVFGHLVGILTIMKALPLAYNKDMQEDKEGLFDTVNTLIGCLEVISPFLQSLQFNTALMKEKAQGGYLDATAVLESLVLQGVPFRDAHHQVGYWVSQALEKGCSLSELIK</Hsp_hseq>
+      <Hsp_midline>M+++TWGGRFKK LD  V +FNASL+FD+VL+  DI GS+ H + LA+Q ++   E   I +AL EI  EI QGQ+  +E + EDIHMFIE LLIQKIGD+GKKLHTGRSRNDQVALDLRLYTRD    I  LL  L   L D++SKH  DLMPGYTHLQQAQPV LG +F AY  MF RD SRL+DW  RMN+SPLG+GALAGS LPLDREWVA++LGF+G+I N+LDAVSDRDF+IELCS A+++MMHLSRL EDLILW+TQEF+FVTLDDAFATGSSLMPNKKNPDV ELIRGK+ RV+GHL+ ILT+MK LPLAYNKDMQEDKEGLFDT+NT+I CL++I+PFLQSL FNT LM+ KAQ GYLDATA+LESLV++G+PFRDAHHQVG W+++A+EK CSL+EL+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|966399081|ref|WP_058442725.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella brunensis] &gt;gi|962192783|gb|KTC77853.1| argininosuccinate lyase [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442725</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>617.846</Hsp_bit-score>
+      <Hsp_score>1592</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>340</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKPLAPEVVQFNASLSFDHILYQYDIAGSQVHAKMLERQGLISAEEAQMINDGLTAIATEIEQGQHALDA-NCEDIHMFIEHLLITKIGETGKKLHTGRSRNDQVALDLRLYTRDAATTVKGLLQQLIDTLLTLANKHENDKLPGYTHLQQAQPIRLSWFLNAYRSMFERDISRINDCYERMNFSPLGAGALAGSSLPLDRNWVAQSLNFKGIIENTLDAVSDRDFVIEFCSIASIIMMHLSRLCEDLILWATQEFNFLTLDDAFATGSSLMPNKKNPDVLELIRGKTGRVFGHLMGILTVMKALPLAYNKDMQEDKEGLFDTVNTLSTCLKLIIPFLQSLHFNTELMQKKADSGYLNATAILESLVLQGIPFRDAHHQVGQWVSEAIEKNCPLSEVIK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKK L   V QFNASLSFDH+L+  DI GSQVH K L +Q +++  E Q I   L  I TEI+QGQ++ +  + EDIHMFIE LLI KIG+ GKKLHTGRSRNDQVALDLRLYTRD    +  LL +LID L  L +KH+ D +PGYTHLQQAQP+ L  + NAY+ MF RD SR+ D ++RMN+SPLGAGALAGS+LPLDR WVA+SL F GII NTLDAVSDRDFVIE CS+A++IMMHLSRLCEDLILW+TQEFNF+TLDDAFATGSSLMPNKKNPDV ELIRGK+GRV+GHLM ILTVMK LPLAYNKDMQEDKEGLFDT+NT+  CL++I PFLQSL FNT LM+ KA SGYL+ATAILESLV++G+PFRDAHHQVG W++EAIEK C L+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|518062865|ref|WP_019233073.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella anisa] &gt;gi|962184853|gb|KTC70036.1| argininosuccinate lyase [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233073</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>617.846</Hsp_bit-score>
+      <Hsp_score>1592</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>337</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MAHKTWGGRFKKELDPGVMHFNASLAFDKVLYAHDIVGSQVHAKMLARQKIISEGEADLICNGLEEISHEIGKGIHEFDESCE-DIHMFVEQLLIAKIGDVGKKLHTGRSRNDQVALDLRLYARDAGGEINLLLQRLNQALEKLESHHAEDKIPGYTHLQQAQPIYLGQFFAAYLAMFQRDLGRLHDWHTRMNFSPLGAGALAGSMLPLDRAWVAETLGFNGVIENTLDAVSDRDFIIEFCSVASIILMHLSRLAEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVFGHLMGILTVMKGLPLAYNKDMQEDKECLFDTINTLTACLEIITPFLESIHFNTNVMEQKANSGYLNATAVLESLVLQGMPFRDAHHQVGLWVQEAMDKNCSLDEIIK</Hsp_hseq>
+      <Hsp_midline>M +KTWGGRFKK LD  V  FNASL+FD VL+  DI GSQVH K LA+QKI++E E   I + LEEI  EI +G + F+E  E DIHMF+EQLLI KIGD+GKKLHTGRSRNDQVALDLRLY RD G  IN LL RL   L+ L S H +D +PGYTHLQQAQP+ LG +F AY  MF RD  RL DW  RMN+SPLGAGALAGS LPLDR WVAE+LGF G+I NTLDAVSDRDF+IE CSVA++I+MHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRV+GHLM ILTVMKGLPLAYNKDMQEDKE LFDTINT+  CL++ITPFL+S+ FNT +M  KA SGYL+ATA+LESLV++GMPFRDAHHQVG W+ EA++K CSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|966463869|ref|WP_058495231.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella drozanskii] &gt;gi|962202312|gb|KTC87281.1| argininosuccinate lyase [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495231</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>616.305</Hsp_bit-score>
+      <Hsp_score>1588</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>345</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHKTWGGRFKKPLDSRVVRFNASLAFDYVLYAHDIAGSKVHAQMLARQGLIETEEAQAITSALAEISHEIAQGQHPLDETCE-DIHMFIEHLLIQKIGDVGKKLHTGRSRNDQVALDLRLYTRDASEKIASLLLELTQTLEHLASKHANDLMPGYTHLQQAQPVQLGQFFAAYLSMFQRDLSRLKDWQARMNFSPLGAGALAGSNLPLDREWVAKTLGFSGVIENTLDAVSDRDFIIELCSAASILMVHLSRLAEDLILWATQEFSFVTLDDAFATGSSLMPNKKNPDVLELIRGKTARVFGHLVGILTVMKALPLAYNKDMQEDKEGLFDTVNTLLGCLEVISPFLQSLQFNTGLMKEKAQGGYLDATAVLESLVLQGVPFRDAHHQVGSWVSQAFEKGCSLSEIMK</Hsp_hseq>
+      <Hsp_midline>M++KTWGGRFKK LDS V +FNASL+FD+VL+  DI GS+VH + LA+Q ++   E Q I SAL EI  EI QGQ+  +E  E DIHMFIE LLIQKIGD+GKKLHTGRSRNDQVALDLRLYTRD    I  LL  L   L+ L SKH  DLMPGYTHLQQAQPV LG +F AY  MF RD SRL+DW  RMN+SPLGAGALAGS LPLDREWVA++LGF+G+I NTLDAVSDRDF+IELCS A+++M+HLSRL EDLILW+TQEF+FVTLDDAFATGSSLMPNKKNPDV ELIRGK+ RV+GHL+ ILTVMK LPLAYNKDMQEDKEGLFDT+NT++ CL++I+PFLQSL FNT LM+ KAQ GYLDATA+LESLV++G+PFRDAHHQVG+W+++A EK CSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|966468230|ref|WP_058499556.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella gratiana] &gt;gi|962224562|gb|KTD09208.1| argininosuccinate lyase [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499556</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>615.15</Hsp_bit-score>
+      <Hsp_score>1585</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>291</Hsp_identity>
+      <Hsp_positive>342</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHKTWGGRFKKALDPRVMHFNASLPFDKILFKHDILGSQVHAKMLARQGLITQSEAECIYNALTEISHELENKTHAFDESCE-DIHMLIEQLLIAKIGEVGKKLHTGRSRNDQVALDLRLYSRDVGLHISQLLNHLLHVLEELATLHAEDKMPGYTHLQQAQPIYLGQFFAAYSAMFHRDLERLHDWQERMNYSPLGAGALAGSALPLDRVWVAQTLEFKGVIENTLDAVSDRDFIIEFCSVAAIIMMHLSRLSEDLILWSTQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMGILTVMKSLPLAYNKDMQEDKECLFDTVNTLSSCLEIITPFLQSVQFNTNVMQQKANSGYLEATALLESLVLQGVPFRDAHHQVGVWVKEAIDKNCSLSELIK</Hsp_hseq>
+      <Hsp_midline>M++KTWGGRFKK+LD  V  FNASL FD +LF  DI GSQVH K LA+Q ++T++E + IY+AL EI  E++   ++F+E  E DIHM IEQLLI KIG++GKKLHTGRSRNDQVALDLRLY+RD G  I++LL  L+  L++L + H +D MPGYTHLQQAQP+ LG +F AY  MF RD  RL DW +RMNYSPLGAGALAGS LPLDR WVA++L F G+I NTLDAVSDRDF+IE CSVAA+IMMHLSRL EDLILWSTQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLM ILTVMK LPLAYNKDMQEDKE LFDT+NT+  CL++ITPFLQS+ FNT +M+ KA SGYL+ATA+LESLV++G+PFRDAHHQVG W+ EAI+K CSL+EL+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|966506042|ref|WP_058522688.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella birminghamensis] &gt;gi|962190102|gb|KTC75203.1| argininosuccinate lyase [Legionella birminghamensis]</Hit_def>
+  <Hit_accession>WP_058522688</Hit_accession>
+  <Hit_len>414</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>614.379</Hsp_bit-score>
+      <Hsp_score>1583</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>338</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTSKVWGGRFKKPIDPRIARFNASIRFDQVLFEQDIIGSQAHASMLARQGLLSEEEALQICNALETIKQEIKKGLHPVDET-YEDIHMFIEHLLIEKIGDTGKKLHTGRSRNDQVALDLRMYARDAGQHIKLLLEELISCLKSLAVKHESDWMPGYTHLQQAQPVKLGQFFSAYQGMFERDQSRLANWRSRMNYSPLGAGALAGSSLPLDRAWTASHLGFDGVIGNTLDAVSDRDFVIELCSVVSILMMHLSRMCEDLILWATQEFNFVFLDDAFATGSSLMPNKKNPDVLELIRGKSGRVFGHLLAMLSVMKGLPLSYNKDMQEDKEALFDTCNTVIACLDVMNPFLKSLQFNIKLMQEKAHSGYLDATAVLETLVMQGIPFREAHHQVGIWVAEAIDRGCSLAEIIK</Hsp_hseq>
+      <Hsp_midline>MT+K WGGRFKK +D  + +FNAS+ FD VLF+QDI GSQ H   LA+Q +L+E E  +I +ALE I+ EIK+G +  +E   EDIHMFIE LLI+KIGD GKKLHTGRSRNDQVALDLR+Y RD G  I  LL  LI CL  L  KH+ D MPGYTHLQQAQPV LG +F+AYQ MF RD+SRL +W  RMNYSPLGAGALAGS+LPLDR W A  LGF G+I NTLDAVSDRDFVIELCSV +++MMHLSR+CEDLILW+TQEFNFV LDDAFATGSSLMPNKKNPDV ELIRGKSGRV+GHL+A+L+VMKGLPL+YNKDMQEDKE LFDT NT+I CL ++ PFL+SL FN  LM+ KA SGYLDATA+LE+LVM+G+PFR+AHHQVG W+AEAI++ CSL E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|653018186|ref|WP_027270147.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella sainthelensi] &gt;gi|962275916|gb|KTD59819.1| argininosuccinate lyase [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027270147</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>614.379</Hsp_bit-score>
+      <Hsp_score>1583</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>294</Hsp_identity>
+      <Hsp_positive>341</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHKTWGGRFKKALDPRVMHFNASLPFDKILFKHDILGSQTHAKMLARQGLITQSEADCICSALEEIGQELENKIHEFDETCE-DIHMLVEQLLIVKIGEVGKKLHTGRSRNDQVALDLRLYSRDMGMHISKLLNHLLCVLEDLEKYHAQDKMPGYTHLQQAQPIYLGQFFAAYKAMFHRDLDRLNDWHERMNYSPLGAGALAGSTLPLDRVWVAQTLGFTGIIQNTLDAVSDRDFIIEFCSVAAIIMMHLSRLSEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMGILTVMKSLPLAYNKDMQEDKECLFDTVNTLSVCLEIMIPFLQSLQFNTKVMQLKASSGYLDATALLESLVLQGVPFRDAHHQVGSWVKEAIEHNCSLSEIIK</Hsp_hseq>
+      <Hsp_midline>M++KTWGGRFKK+LD  V  FNASL FD +LF  DI GSQ H K LA+Q ++T++E   I SALEEI  E++   + F+E  E DIHM +EQLLI KIG++GKKLHTGRSRNDQVALDLRLY+RD G  I++LL  L+  L+DL   H QD MPGYTHLQQAQP+ LG +F AY+ MF RD  RL DW +RMNYSPLGAGALAGSTLPLDR WVA++LGF GII NTLDAVSDRDF+IE CSVAA+IMMHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLM ILTVMK LPLAYNKDMQEDKE LFDT+NT+ VCL+++ PFLQSL FNT +M+ KA SGYLDATA+LESLV++G+PFRDAHHQVG+W+ EAIE  CSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966422811|ref|WP_058466012.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella cincinnatiensis] &gt;gi|962196775|gb|KTC81821.1| argininosuccinate lyase [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058466012</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>613.609</Hsp_bit-score>
+      <Hsp_score>1581</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>291</Hsp_identity>
+      <Hsp_positive>339</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MSHKTWGGRFKKALDPRVMHFNASLPVDKILFKHDILGSQIHAKMLARQGLITQSEADCICNALTEIGHELENKTHEFDE-SCEDIHMLIEQLLIAKIGEVGKKLHTGRSRNDQVALDLRLYSRDMGLHISQLLNHLLHVLEDLEKCHAQEKMPGYTHLQQAQPIYLGQFFAAYRAMFHRDLGRLHDWHERMNYSPLGAGALAGSTLPLDRVWVAQTLGFTGIIENTLDAVSDRDFIIEFCSVAAIVMMHLSRLTEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVYGHLMGILTVMKSLPLAYNKDMQEDKEGLFDTVNTLSACLEIMIPFLQSVQFNTNLMQQKANSGYLDATALLESLVLQGMPFRDAHHQVGMWVKEAIENNCSLSEIIK</Hsp_hseq>
+      <Hsp_midline>M++KTWGGRFKK+LD  V  FNASL  D +LF  DI GSQ+H K LA+Q ++T++E   I +AL EI  E++   + F+E   EDIHM IEQLLI KIG++GKKLHTGRSRNDQVALDLRLY+RD G  I++LL  L+  L+DL   H Q+ MPGYTHLQQAQP+ LG +F AY+ MF RD  RL DW +RMNYSPLGAGALAGSTLPLDR WVA++LGF GII NTLDAVSDRDF+IE CSVAA++MMHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRVYGHLM ILTVMK LPLAYNKDMQEDKEGLFDT+NT+  CL+++ PFLQS+ FNT LM+ KA SGYLDATA+LESLV++GMPFRDAHHQVG W+ EAIE  CSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|769989098|ref|WP_045105049.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella hackeliae] &gt;gi|731150982|emb|CEK09526.1| Argininosuccinate lyase [Legionella hackeliae] &gt;gi|962230256|gb|KTD14848.1| argininosuccinate lyase [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105049</Hit_accession>
+  <Hit_len>414</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>612.838</Hsp_bit-score>
+      <Hsp_score>1579</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>288</Hsp_identity>
+      <Hsp_positive>342</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNKTWGGRFKKPLSPDVMEFNASLRFDYILYPYDIAGSKVHAQMLARQGLLSQEEVQAIEHGLSEIELELQQGKHVLDETCE-DIHMFIEQLLIAKIGETGKKLHTGRSRNDQVALDLRLYARNAGDEVSTLLQKLTCCLQELAHKHEHDKMPGYTHLQQAQPIHLSWFFNAYFNMFQRDISRLDDWYERMNFSPLGAGALAGSTLPLDRHWVAKTLHFKGIVENTLDAVSDRDFVIEFCSVASIIMMHLSRLCEDLILWATQEFNFLTLDDAYATGSSLMPNKKNPDVLELIRGKTGRIFGHLMGILTVMKALPLAYNKDMQEDKETLFDSVNTLIACLQLMTPFLNSIRFNTELMNEKAKAGYLDATYVLESLVLQGKPFREAHHQVGQWISEAMEKNCSLSELLK</Hsp_hseq>
+      <Hsp_midline>MTNKTWGGRFKK L   V +FNASL FD++L+  DI GS+VH + LA+Q +L++ E Q I   L EI  E++QG++  +E  E DIHMFIEQLLI KIG+ GKKLHTGRSRNDQVALDLRLY R+ G  ++ LL +L  CL +L  KH+ D MPGYTHLQQAQP+ L  +FNAY  MF RD SRL+DW++RMN+SPLGAGALAGSTLPLDR WVA++L F GI+ NTLDAVSDRDFVIE CSVA++IMMHLSRLCEDLILW+TQEFNF+TLDDA+ATGSSLMPNKKNPDV ELIRGK+GR++GHLM ILTVMK LPLAYNKDMQEDKE LFD++NT+I CLQ++TPFL S+ FNT LM  KA++GYLDAT +LESLV++G PFR+AHHQVG WI+EA+EK CSL+ELLK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966503851|ref|WP_058520510.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella tucsonensis] &gt;gi|962289768|gb|KTD73476.1| argininosuccinate lyase [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058520510</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>610.912</Hsp_bit-score>
+      <Hsp_score>1574</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>290</Hsp_identity>
+      <Hsp_positive>337</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MAHKTWGGRFKKELDSRVMHFNASLAFDKVLYAHDIVGSQAHAKMLARQKLISDGEADLICNGLEEVRHEIEKSIHEFDE-SYEDIHMFVEQLLIAKIGDVGKKLHTGRSRNDQVALDLRLYSRDAGLQINLLLEGLNQVLQKLEIHHAEDKIPGYTHLQQAQPIYLGQFFAAYLAMFQRDLGRLHDWHTRMNFSPLGAGALAGSTLPLDRVWVAETLGFNGVIVNTLDAVSDRDFIIELCSVASIILMHLSRLAEDLILWATQEFGFVTLDDAFATGSSLMPNKKNPDVLELIRGKSGRVFGHLMGILTVMKGLPLAYNKDMQEDKECLFDTLNTLTACLEIITPFLESVQFNTKLMEQKANSGYLNATAVLESLVLQGVPFRDAHHQVGLWVQAAIDKNCSLDKIIK</Hsp_hseq>
+      <Hsp_midline>M +KTWGGRFKK LDS V  FNASL+FD VL+  DI GSQ H K LA+QK++++ E   I + LEE+R EI++  + F+E   EDIHMF+EQLLI KIGD+GKKLHTGRSRNDQVALDLRLY+RD G  IN LL  L   L  L   H +D +PGYTHLQQAQP+ LG +F AY  MF RD  RL DW  RMN+SPLGAGALAGSTLPLDR WVAE+LGF G+I NTLDAVSDRDF+IELCSVA++I+MHLSRL EDLILW+TQEF FVTLDDAFATGSSLMPNKKNPDV ELIRGKSGRV+GHLM ILTVMKGLPLAYNKDMQEDKE LFDT+NT+  CL++ITPFL+S+ FNT LM  KA SGYL+ATA+LESLV++G+PFRDAHHQVG W+  AI+K CSL++++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|498339349|ref|WP_010653505.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Fluoribacter dumoffii] &gt;gi|962205170|gb|KTC90107.1| argininosuccinate lyase [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_010653505</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>610.142</Hsp_bit-score>
+      <Hsp_score>1572</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>124</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>288</Hsp_identity>
+      <Hsp_positive>336</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MTNIIWGGRFKKELDPRVMHFNASLAFDKVLFAHDITGSQAHAKMLARQGLISNPEADLICNGLEVIKQELEKGLLEFDE-SSEDIHMFVEQLLVSRIGDVGKKLHTGRSRNDQVALDLRLYSRDAGTDIKKLLHDFNEVLGELACVHAQDKIPGYTHLQQAQPIYLGHFFSAYQAMFHRDLGRLHDWHTRMNFSPLGAGALAGSTLPLDREWVAQTLGFNGIIENTLDAVSDRDFVIEFCSVASIIMMHLSRLAEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELVRGKSGRVFGHLMGILTVMKGLPLAYNKDMQEDKECLFDTVNTLVACLEIMTPFLRSVQFNTQLMEQKANSGYLNATAILESLVLKGVPFRDAHHQVGEWVQTAIDKNCSLDEVIK</Hsp_hseq>
+      <Hsp_midline>MTN  WGGRFKK LD  V  FNASL+FD VLF  DI GSQ H K LA+Q +++  E   I + LE I+ E+++G   F+E   EDIHMF+EQLL+ +IGD+GKKLHTGRSRNDQVALDLRLY+RD G  I +LL    + L +L   H QD +PGYTHLQQAQP+ LG +F+AYQ MF RD  RL DW  RMN+SPLGAGALAGSTLPLDREWVA++LGF GII NTLDAVSDRDFVIE CSVA++IMMHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV EL+RGKSGRV+GHLM ILTVMKGLPLAYNKDMQEDKE LFDT+NT++ CL+++TPFL+S+ FNT LM  KA SGYL+ATAILESLV+KG+PFRDAHHQVG W+  AI+K CSL+E++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966501867|ref|WP_058518540.1|</Hit_id>
+  <Hit_def>argininosuccinate lyase [Legionella parisiensis] &gt;gi|962257357|gb|KTD41494.1| argininosuccinate lyase [Legionella parisiensis] &gt;gi|1069291554|gb|OEH46937.1| Argininosuccinate lyase [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058518540</Hit_accession>
+  <Hit_len>412</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>609.372</Hsp_bit-score>
+      <Hsp_score>1570</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>532</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>286</Hsp_identity>
+      <Hsp_positive>338</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>IMTNKTWGGRFKKSLDSSVNQFNASLSFDHVLFDQDINGSQVHVKQLAKQKILTEAECQEIYSALEEIRTEIKQGQYSFNERDEEDIHMFIEQLLIQKIGDLGKKLHTGRSRNDQVALDLRLYTRDKGCLINELLTRLIDCLDDLTSKHQQDLMPGYTHLQQAQPVTLGAYFNAYQCMFSRDKSRLEDWFKRMNYSPLGAGALAGSTLPLDREWVAESLGFAGIIPNTLDAVSDRDFVIELCSVAAMIMMHLSRLCEDLILWSTQEFNFVTLDDAFATGSSLMPNKKNPDVPELIRGKSGRVYGHLMAILTVMKGLPLAYNKDMQEDKEGLFDTINTIIVCLQMITPFLQSLTFNTPLMRTKAQSGYLDATAILESLVMKGMPFRDAHHQVGAWIAEAIEKQCSLNELLK</Hsp_qseq>
+      <Hsp_hseq>MAAHKTWGGRFKKELDPGVMHFNASLAFDKVLYAHDIVGSQAHAKMLARQKLISDSEADLICNGLEEISHEIENGVHEFDE-SCEDIHMFVEQLLIAKIGDVGKKLHTGRSRNDQVALDLRLYSRDAGVQINLLLQRLNQVLEKLENHHAEDKVPGYTHLQQAQPIYLGQFFAAYLAMFQRDLGRLHDWHRRMNFSPLGAGALAGSSLPLDRAWVAETLGFNGVIANTLDAVSDRDFIIEFCSVASIILMHLSRLAEDLILWATQEFGFITLDDAFATGSSLMPNKKNPDVLELIRGKSGRVFGHLMGILTVMKGLPLAYNKDMQEDKECLFDTVNTLTACLEIIAPFLESVQFNTKLMEQKANRGYLNATAVLESLVLQGVPFRDAHHQVGLWVQEAIDKNCSLDEIIR</Hsp_hseq>
+      <Hsp_midline>+  +KTWGGRFKK LD  V  FNASL+FD VL+  DI GSQ H K LA+QK+++++E   I + LEEI  EI+ G + F+E   EDIHMF+EQLLI KIGD+GKKLHTGRSRNDQVALDLRLY+RD G  IN LL RL   L+ L + H +D +PGYTHLQQAQP+ LG +F AY  MF RD  RL DW +RMN+SPLGAGALAGS+LPLDR WVAE+LGF G+I NTLDAVSDRDF+IE CSVA++I+MHLSRL EDLILW+TQEF F+TLDDAFATGSSLMPNKKNPDV ELIRGKSGRV+GHLM ILTVMKGLPLAYNKDMQEDKE LFDT+NT+  CL++I PFL+S+ FNT LM  KA  GYL+ATA+LESLV++G+PFRDAHHQVG W+ EAI+K CSL+E+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

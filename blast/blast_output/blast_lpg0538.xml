@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_234879</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>482</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_234879</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>482</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499248708|ref|WP_010946248.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|52840745|ref|YP_094544.1| M24/M37 family peptidase [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627856|gb|AAU26597.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507257|gb|AEW50781.1| peptidase, M23/M37 family [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946248</Hit_accession>
+  <Hit_len>389</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>800.045</Hsp_bit-score>
+      <Hsp_score>2065</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>389</Hsp_identity>
+      <Hsp_positive>389</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>MVVSFWKKTMRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MVVSFWKKTMRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MVVSFWKKTMRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1119379901|ref|WP_072356035.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072356035</Hit_accession>
+  <Hit_len>389</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>793.882</Hsp_bit-score>
+      <Hsp_score>2049</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>387</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>MVVSFWKKTMRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MVVSFWKKTMRMPSLPNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MVVSFWKKTMR+PSL  SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1119426376|ref|WP_072401676.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_072401676</Hit_accession>
+  <Hit_len>389</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>785.408</Hsp_bit-score>
+      <Hsp_score>2027</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>382</Hsp_identity>
+      <Hsp_positive>384</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>MVVSFWKKTMRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MVVFFWKKTMRMPSLSNSLSGASLGLALMVILFFCNGLEVKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQSPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MVV FWKKTMR+PSLS SLSGASLGLALMVILFFCNGLE KAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ+ HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|505257706|ref|WP_015444808.1|</Hit_id>
+  <Hit_def>metallopeptidase [Legionella pneumophila] &gt;gi|469492963|gb|AGH54808.1| Membrane-bound metallopeptidase [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081165|gb|AGN13413.1| M24/M37 family peptidase [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771560|emb|CZI76778.1| Septal ring factor [Legionella pneumophila] &gt;gi|998774471|emb|CZH08965.1| Septal ring factor [Legionella pneumophila] &gt;gi|998777351|emb|CZH13268.1| Septal ring factor [Legionella pneumophila] &gt;gi|998783278|emb|CZH40266.1| Septal ring factor [Legionella pneumophila] &gt;gi|998786261|emb|CZH07363.1| Septal ring factor [Legionella pneumophila] &gt;gi|998795746|emb|CZI43541.1| Septal ring factor [Legionella pneumophila] &gt;gi|998800536|emb|CZL11114.1| Septal ring factor [Legionella pneumophila] &gt;gi|998804140|emb|CZK64616.1| Septal ring factor [Legionella pneumophila] &gt;gi|998807230|emb|CZI32112.1| Septal ring factor [Legionella pneumophila] &gt;gi|998810754|emb|CZI18652.1| Septal ring factor [Legionella pneumophila] &gt;gi|998813087|emb|CZH13060.1| Septal ring factor [Legionella pneumophila] &gt;gi|998816473|emb|CZM22620.1| Septal ring factor [Legionella pneumophila] &gt;gi|998819710|emb|CZL99930.1| Septal ring factor [Legionella pneumophila] &gt;gi|998825586|emb|CZK40369.1| Septal ring factor [Legionella pneumophila] &gt;gi|998832797|emb|CZI17643.1| Septal ring factor [Legionella pneumophila] &gt;gi|998834437|emb|CZL49436.1| Septal ring factor [Legionella pneumophila] &gt;gi|998838669|emb|CZJ29368.1| Septal ring factor [Legionella pneumophila] &gt;gi|998840540|emb|CZL85446.1| Septal ring factor [Legionella pneumophila] &gt;gi|998843120|emb|CZL09324.1| Septal ring factor [Legionella pneumophila] &gt;gi|998846351|emb|CZL10028.1| Septal ring factor [Legionella pneumophila] &gt;gi|998849198|emb|CZI98292.1| Septal ring factor [Legionella pneumophila] &gt;gi|998852464|emb|CZL89636.1| Septal ring factor [Legionella pneumophila] &gt;gi|998855921|emb|CZL52448.1| Septal ring factor [Legionella pneumophila] &gt;gi|998858586|emb|CZM28440.1| Septal ring factor [Legionella pneumophila] &gt;gi|998862284|emb|CZK40174.1| Septal ring factor [Legionella pneumophila] &gt;gi|998864734|emb|CZJ86617.1| Septal ring factor [Legionella pneumophila] &gt;gi|998867183|emb|CZJ82087.1| Septal ring factor [Legionella pneumophila] &gt;gi|998870231|emb|CZM42839.1| Septal ring factor [Legionella pneumophila] &gt;gi|998873650|emb|CZK73244.1| Septal ring factor [Legionella pneumophila] &gt;gi|998876244|emb|CZM48385.1| Septal ring factor [Legionella pneumophila] &gt;gi|998879363|emb|CZJ76023.1| Septal ring factor [Legionella pneumophila] &gt;gi|998885815|emb|CZM36922.1| Septal ring factor [Legionella pneumophila] &gt;gi|998888623|emb|CZK50818.1| Septal ring factor [Legionella pneumophila] &gt;gi|998895776|emb|CZK07902.1| Septal ring factor [Legionella pneumophila] &gt;gi|998905292|emb|CZK93979.1| Septal ring factor [Legionella pneumophila] &gt;gi|998908447|emb|CZL69213.1| Septal ring factor [Legionella pneumophila] &gt;gi|998916062|emb|CZK71221.1| Septal ring factor [Legionella pneumophila] &gt;gi|998917517|emb|CZL65147.1| Septal ring factor [Legionella pneumophila] &gt;gi|998920497|emb|CZL71526.1| Septal ring factor [Legionella pneumophila] &gt;gi|998926856|emb|CZL99608.1| Septal ring factor [Legionella pneumophila] &gt;gi|998930894|emb|CZK82127.1| Septal ring factor [Legionella pneumophila] &gt;gi|998933703|emb|CZL68710.1| Septal ring factor [Legionella pneumophila] &gt;gi|998938769|emb|CZL21590.1| Septal ring factor [Legionella pneumophila] &gt;gi|998946226|emb|CZK70368.1| Septal ring factor [Legionella pneumophila] &gt;gi|998948016|emb|CZL30191.1| Septal ring factor [Legionella pneumophila] &gt;gi|998956984|emb|CZM68237.1| Septal ring factor [Legionella pneumophila] &gt;gi|998960437|emb|CZK67556.1| Septal ring factor [Legionella pneumophila] &gt;gi|998963187|emb|CZK80769.1| Septal ring factor [Legionella pneumophila] &gt;gi|998966737|emb|CZM42805.1| Septal ring factor [Legionella pneumophila] &gt;gi|998969351|emb|CZL05296.1| Septal ring factor [Legionella pneumophila] &gt;gi|998972360|emb|CZK82020.1| Septal ring factor [Legionella pneumophila] &gt;gi|998978474|emb|CZM00703.1| Septal ring factor [Legionella pneumophila] &gt;gi|998986084|emb|CZK09132.1| Septal ring factor [Legionella pneumophila] &gt;gi|998987528|emb|CZL90361.1| Septal ring factor [Legionella pneumophila] &gt;gi|998998252|emb|CZJ96196.1| Septal ring factor [Legionella pneumophila] &gt;gi|999006450|emb|CZL24103.1| Septal ring factor [Legionella pneumophila] &gt;gi|999011915|emb|CZL85417.1| Septal ring factor [Legionella pneumophila] &gt;gi|999014956|emb|CZM79334.1| Septal ring factor [Legionella pneumophila] &gt;gi|999021197|emb|CZL93052.1| Septal ring factor [Legionella pneumophila] &gt;gi|999024072|emb|CZL21613.1| Septal ring factor [Legionella pneumophila] &gt;gi|999036207|emb|CZL84940.1| Septal ring factor [Legionella pneumophila] &gt;gi|999045263|emb|CZM31909.1| Septal ring factor [Legionella pneumophila] &gt;gi|999060261|emb|CZL79191.1| Septal ring factor [Legionella pneumophila] &gt;gi|999066459|emb|CZJ49500.1| Septal ring factor [Legionella pneumophila] &gt;gi|999075342|emb|CZH15806.1| Septal ring factor [Legionella pneumophila] &gt;gi|999078592|emb|CZK43567.1| Septal ring factor [Legionella pneumophila] &gt;gi|999083059|emb|CZK85796.1| Septal ring factor [Legionella pneumophila] &gt;gi|999087929|emb|CZL16491.1| Septal ring factor [Legionella pneumophila] &gt;gi|999090991|emb|CZL92024.1| Septal ring factor [Legionella pneumophila] &gt;gi|999093851|emb|CZH48545.1| Septal ring factor [Legionella pneumophila] &gt;gi|999096997|emb|CZH53515.1| Septal ring factor [Legionella pneumophila] &gt;gi|999101364|emb|CZL74871.1| Septal ring factor [Legionella pneumophila] &gt;gi|999110950|emb|CZL05473.1| Septal ring factor [Legionella pneumophila] &gt;gi|999114025|emb|CZL58587.1| Septal ring factor [Legionella pneumophila] &gt;gi|999115917|emb|CZK72815.1| Septal ring factor [Legionella pneumophila] &gt;gi|999124774|emb|CZL33128.1| Septal ring factor [Legionella pneumophila] &gt;gi|999132537|emb|CZL70644.1| Septal ring factor [Legionella pneumophila] &gt;gi|999133861|emb|CZL46865.1| Septal ring factor [Legionella pneumophila] &gt;gi|999137003|emb|CZK89981.1| Septal ring factor [Legionella pneumophila] &gt;gi|999140860|emb|CZL84990.1| Septal ring factor [Legionella pneumophila] &gt;gi|999144819|emb|CZK80240.1| Septal ring factor [Legionella pneumophila] &gt;gi|999146347|emb|CZM10301.1| Septal ring factor [Legionella pneumophila] &gt;gi|999155637|emb|CZI38655.1| Septal ring factor [Legionella pneumophila] &gt;gi|999174238|emb|CZL62255.1| Septal ring factor [Legionella pneumophila] &gt;gi|999189829|emb|CZI76402.1| Septal ring factor [Legionella pneumophila] &gt;gi|999192949|emb|CZJ17619.1| Septal ring factor [Legionella pneumophila] &gt;gi|999199222|emb|CZH00455.1| Septal ring factor [Legionella pneumophila] &gt;gi|999202158|emb|CZJ22494.1| Septal ring factor [Legionella pneumophila] &gt;gi|999208461|emb|CZL36330.1| Septal ring factor [Legionella pneumophila] &gt;gi|999217971|emb|CZM06485.1| Septal ring factor [Legionella pneumophila] &gt;gi|999220940|emb|CZJ09524.1| Septal ring factor [Legionella pneumophila] &gt;gi|999333380|emb|CZL31539.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002074308|emb|CZR05591.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002078840|emb|CZQ92295.1| Septal ring factor [Legionella pneumophila] &gt;gi|1003018360|emb|CZR30398.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1003021432|emb|CZR26737.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1003024528|emb|CZR30332.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1073863668|gb|AOU03619.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073866626|gb|AOU06576.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073869631|gb|AOU09580.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073872575|gb|AOU12523.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073875557|gb|AOU15504.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073878518|gb|AOU18464.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073881513|gb|AOU21458.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073884475|gb|AOU24419.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073887473|gb|AOU27416.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073890458|gb|AOU30400.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073893423|gb|AOU33364.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073896387|gb|AOU36327.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073899351|gb|AOU39290.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073902302|gb|AOU42240.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073905213|gb|AOU45150.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073908231|gb|AOU48166.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073911286|gb|AOU51218.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073914205|gb|AOU54136.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073917163|gb|AOU57093.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073920129|gb|AOU60058.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073923104|gb|AOU63031.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073926116|gb|AOU66042.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073929096|gb|AOU69005.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073932481|gb|AOU72040.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073935428|gb|AOU82427.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073945703|gb|AOU85427.1| peptidase M24 [Legionella pneumophila] &gt;gi|1073948666|gb|AOU88389.1| peptidase M24 [Legionella pneumophila] &gt;gi|1104001817|emb|SFZ36317.1| Septal ring factor [Legionella pneumophila] &gt;gi|1129967281|gb|APT97640.1| peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444808</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>779.63</Hsp_bit-score>
+      <Hsp_score>2012</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|652967234|ref|WP_027220206.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999247908|emb|CZH57393.1| Septal ring factor [Legionella pneumophila] &gt;gi|999773154|emb|CZH90623.1| Septal ring factor [Legionella pneumophila] &gt;gi|999796142|emb|CZI24730.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220206</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.622</Hsp_bit-score>
+      <Hsp_score>1999</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>376</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLSNSLSGASLGLALMVILFFCNGFEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQVASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSLS SLSGASLGLALMVILFFCNG EAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQ+ASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|653014629|ref|WP_027266659.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266659</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.237</Hsp_bit-score>
+      <Hsp_score>1998</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRIPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLGNHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIIQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MRIPSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEML NHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQI+QQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|652973689|ref|WP_027226410.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998923760|emb|CZK25742.1| Septal ring factor [Legionella pneumophila] &gt;gi|998943830|emb|CZJ50973.1| Septal ring factor [Legionella pneumophila] &gt;gi|998954367|emb|CZK62070.1| Septal ring factor [Legionella pneumophila] &gt;gi|998975538|emb|CZJ91338.1| Septal ring factor [Legionella pneumophila] &gt;gi|998992796|emb|CZJ46276.1| Septal ring factor [Legionella pneumophila] &gt;gi|999009028|emb|CZK45165.1| Septal ring factor [Legionella pneumophila] &gt;gi|999018190|emb|CZJ86288.1| Septal ring factor [Legionella pneumophila] &gt;gi|999027305|emb|CZK23725.1| Septal ring factor [Legionella pneumophila] &gt;gi|999030594|emb|CZH24945.1| Septal ring factor [Legionella pneumophila] &gt;gi|999033255|emb|CZK20059.1| Septal ring factor [Legionella pneumophila] &gt;gi|999039461|emb|CZJ94901.1| Septal ring factor [Legionella pneumophila] &gt;gi|999042473|emb|CZK05747.1| Septal ring factor [Legionella pneumophila] &gt;gi|999048494|emb|CZK01003.1| Septal ring factor [Legionella pneumophila] &gt;gi|999051603|emb|CZJ93328.1| Septal ring factor [Legionella pneumophila] &gt;gi|999054518|emb|CZK28230.1| Septal ring factor [Legionella pneumophila] &gt;gi|999063715|emb|CZK03203.1| Septal ring factor [Legionella pneumophila] &gt;gi|999070542|emb|CZJ64030.1| Septal ring factor [Legionella pneumophila] &gt;gi|999072761|emb|CZK30555.1| Septal ring factor [Legionella pneumophila] &gt;gi|999085023|emb|CZK31888.1| Septal ring factor [Legionella pneumophila] &gt;gi|999184358|emb|CZP96354.1| Septal ring factor [Legionella pneumophila] &gt;gi|999198491|emb|CZP14635.1| Septal ring factor [Legionella pneumophila] &gt;gi|999206224|emb|CZP64019.1| Septal ring factor [Legionella pneumophila] &gt;gi|999228327|emb|CZP09525.1| Septal ring factor [Legionella pneumophila] &gt;gi|999235232|emb|CZP59345.1| Septal ring factor [Legionella pneumophila] &gt;gi|999240258|emb|CZH89818.1| Septal ring factor [Legionella pneumophila] &gt;gi|999244397|emb|CZH77542.1| Septal ring factor [Legionella pneumophila] &gt;gi|999248804|emb|CZH09116.1| Septal ring factor [Legionella pneumophila] &gt;gi|999252020|emb|CZH37955.1| Septal ring factor [Legionella pneumophila] &gt;gi|999256009|emb|CZP80453.1| Septal ring factor [Legionella pneumophila] &gt;gi|999259085|emb|CZP46148.1| Septal ring factor [Legionella pneumophila] &gt;gi|999261328|emb|CZH42571.1| Septal ring factor [Legionella pneumophila] &gt;gi|999265244|emb|CZP07908.1| Septal ring factor [Legionella pneumophila] &gt;gi|999269456|emb|CZO34067.1| Septal ring factor [Legionella pneumophila] &gt;gi|999272258|emb|CZP59133.1| Septal ring factor [Legionella pneumophila] &gt;gi|999274826|emb|CZG80440.1| Septal ring factor [Legionella pneumophila] &gt;gi|999277640|emb|CZP38038.1| Septal ring factor [Legionella pneumophila] &gt;gi|999281329|emb|CZP15100.1| Septal ring factor [Legionella pneumophila] &gt;gi|999283703|emb|CZP62471.1| Septal ring factor [Legionella pneumophila] &gt;gi|999291020|emb|CZP33069.1| Septal ring factor [Legionella pneumophila] &gt;gi|999296453|emb|CZP57486.1| Septal ring factor [Legionella pneumophila] &gt;gi|999299540|emb|CZP46429.1| Septal ring factor [Legionella pneumophila] &gt;gi|999307338|emb|CZH71550.1| Septal ring factor [Legionella pneumophila] &gt;gi|999309402|emb|CZP28071.1| Septal ring factor [Legionella pneumophila] &gt;gi|999315790|emb|CZI09067.1| Septal ring factor [Legionella pneumophila] &gt;gi|999318710|emb|CZP65873.1| Septal ring factor [Legionella pneumophila] &gt;gi|999322052|emb|CZH99515.1| Septal ring factor [Legionella pneumophila] &gt;gi|999324409|emb|CZH32198.1| Septal ring factor [Legionella pneumophila] &gt;gi|999328655|emb|CZG65693.1| Septal ring factor [Legionella pneumophila] &gt;gi|999331790|emb|CZG57070.1| Septal ring factor [Legionella pneumophila] &gt;gi|999337789|emb|CZP48105.1| Septal ring factor [Legionella pneumophila] &gt;gi|999340112|emb|CZH27171.1| Septal ring factor [Legionella pneumophila] &gt;gi|999344420|emb|CZP83679.1| Septal ring factor [Legionella pneumophila] &gt;gi|999347241|emb|CZP64084.1| Septal ring factor [Legionella pneumophila] &gt;gi|999349675|emb|CZH40079.1| Septal ring factor [Legionella pneumophila] &gt;gi|999353441|emb|CZP67939.1| Septal ring factor [Legionella pneumophila] &gt;gi|999357199|emb|CZP67333.1| Septal ring factor [Legionella pneumophila] &gt;gi|999363779|emb|CZP55647.1| Septal ring factor [Legionella pneumophila] &gt;gi|999367149|emb|CZP77789.1| Septal ring factor [Legionella pneumophila] &gt;gi|999369908|emb|CZP76990.1| Septal ring factor [Legionella pneumophila] &gt;gi|999392338|emb|CZP98500.1| Septal ring factor [Legionella pneumophila] &gt;gi|999398586|emb|CZQ01286.1| Septal ring factor [Legionella pneumophila] &gt;gi|999403089|emb|CZP40098.1| Septal ring factor [Legionella pneumophila] &gt;gi|999450655|emb|CZP36599.1| Septal ring factor [Legionella pneumophila] &gt;gi|999464820|emb|CZM51392.1| Septal ring factor [Legionella pneumophila] &gt;gi|999467844|emb|CZO28661.1| Septal ring factor [Legionella pneumophila] &gt;gi|999469345|emb|CZH07889.1| Septal ring factor [Legionella pneumophila] &gt;gi|999474731|emb|CZM62830.1| Septal ring factor [Legionella pneumophila] &gt;gi|999477188|emb|CZN75743.1| Septal ring factor [Legionella pneumophila] &gt;gi|999480690|emb|CZN01268.1| Septal ring factor [Legionella pneumophila] &gt;gi|999484219|emb|CZN88363.1| Septal ring factor [Legionella pneumophila] &gt;gi|999487122|emb|CZM12340.1| Septal ring factor [Legionella pneumophila] &gt;gi|999490295|emb|CZN80090.1| Septal ring factor [Legionella pneumophila] &gt;gi|999493486|emb|CZM11777.1| Septal ring factor [Legionella pneumophila] &gt;gi|999500066|emb|CZN74298.1| Septal ring factor [Legionella pneumophila] &gt;gi|999503192|emb|CZO08925.1| Septal ring factor [Legionella pneumophila] &gt;gi|999506340|emb|CZN15243.1| Septal ring factor [Legionella pneumophila] &gt;gi|999509543|emb|CZG50370.1| Septal ring factor [Legionella pneumophila] &gt;gi|999512881|emb|CZN29413.1| Septal ring factor [Legionella pneumophila] &gt;gi|999516031|emb|CZM01209.1| Septal ring factor [Legionella pneumophila] &gt;gi|999518972|emb|CZM83534.1| Septal ring factor [Legionella pneumophila] &gt;gi|999521898|emb|CZP17353.1| Septal ring factor [Legionella pneumophila] &gt;gi|999532328|emb|CZO45286.1| Septal ring factor [Legionella pneumophila] &gt;gi|999535484|emb|CZN39518.1| Septal ring factor [Legionella pneumophila] &gt;gi|999538565|emb|CZM74853.1| Septal ring factor [Legionella pneumophila] &gt;gi|999542009|emb|CZO20128.1| Septal ring factor [Legionella pneumophila] &gt;gi|999544971|emb|CZO60331.1| Septal ring factor [Legionella pneumophila] &gt;gi|999548185|emb|CZN89981.1| Septal ring factor [Legionella pneumophila] &gt;gi|999551497|emb|CZO12049.1| Septal ring factor [Legionella pneumophila] &gt;gi|999554532|emb|CZN32148.1| Septal ring factor [Legionella pneumophila] &gt;gi|999557893|emb|CZO55118.1| Septal ring factor [Legionella pneumophila] &gt;gi|999561098|emb|CZM42761.1| Septal ring factor [Legionella pneumophila] &gt;gi|999564104|emb|CZO67737.1| Septal ring factor [Legionella pneumophila] &gt;gi|999567468|emb|CZM53362.1| Septal ring factor [Legionella pneumophila] &gt;gi|999570668|emb|CZN51344.1| Septal ring factor [Legionella pneumophila] &gt;gi|999573856|emb|CZN93615.1| Septal ring factor [Legionella pneumophila] &gt;gi|999580348|emb|CZO17510.1| Septal ring factor [Legionella pneumophila] &gt;gi|999583636|emb|CZO38806.1| Septal ring factor [Legionella pneumophila] &gt;gi|999586999|emb|CZM65724.1| Septal ring factor [Legionella pneumophila] &gt;gi|999589966|emb|CZM39748.1| Septal ring factor [Legionella pneumophila] &gt;gi|999593125|emb|CZN44646.1| Septal ring factor [Legionella pneumophila] &gt;gi|999596198|emb|CZO11199.1| Septal ring factor [Legionella pneumophila] &gt;gi|999599518|emb|CZO36817.1| Septal ring factor [Legionella pneumophila] &gt;gi|999602656|emb|CZL97759.1| Septal ring factor [Legionella pneumophila] &gt;gi|999605444|emb|CZN73704.1| Septal ring factor [Legionella pneumophila] &gt;gi|999608981|emb|CZN63904.1| Septal ring factor [Legionella pneumophila] &gt;gi|999615593|emb|CZM48239.1| Septal ring factor [Legionella pneumophila] &gt;gi|999618638|emb|CZN89862.1| Septal ring factor [Legionella pneumophila] &gt;gi|999621792|emb|CZO82776.1| Septal ring factor [Legionella pneumophila] &gt;gi|999625120|emb|CZN72124.1| Septal ring factor [Legionella pneumophila] &gt;gi|999628381|emb|CZM62287.1| Septal ring factor [Legionella pneumophila] &gt;gi|999631569|emb|CZM59832.1| Septal ring factor [Legionella pneumophila] &gt;gi|999634629|emb|CZN60097.1| Septal ring factor [Legionella pneumophila] &gt;gi|999637957|emb|CZN52248.1| Septal ring factor [Legionella pneumophila] &gt;gi|999641153|emb|CZO80249.1| Septal ring factor [Legionella pneumophila] &gt;gi|999644145|emb|CZO53892.1| Septal ring factor [Legionella pneumophila] &gt;gi|999647636|emb|CZN95377.1| Septal ring factor [Legionella pneumophila] &gt;gi|999650678|emb|CZO04685.1| Septal ring factor [Legionella pneumophila] &gt;gi|999653937|emb|CZO01511.1| Septal ring factor [Legionella pneumophila] &gt;gi|999657134|emb|CZM30307.1| Septal ring factor [Legionella pneumophila] &gt;gi|999660208|emb|CZM65619.1| Septal ring factor [Legionella pneumophila] &gt;gi|999663361|emb|CZN16800.1| Septal ring factor [Legionella pneumophila] &gt;gi|999666726|emb|CZM37297.1| Septal ring factor [Legionella pneumophila] &gt;gi|999669918|emb|CZL83892.1| Septal ring factor [Legionella pneumophila] &gt;gi|999673118|emb|CZM38307.1| Septal ring factor [Legionella pneumophila] &gt;gi|999676312|emb|CZN77206.1| Septal ring factor [Legionella pneumophila] &gt;gi|999679343|emb|CZM79953.1| Septal ring factor [Legionella pneumophila] &gt;gi|999682538|emb|CZM82766.1| Septal ring factor [Legionella pneumophila] &gt;gi|999686225|emb|CZO00845.1| Septal ring factor [Legionella pneumophila] &gt;gi|999689107|emb|CZN30170.1| Septal ring factor [Legionella pneumophila] &gt;gi|999692300|emb|CZN98721.1| Septal ring factor [Legionella pneumophila] &gt;gi|999695517|emb|CZN28621.1| Septal ring factor [Legionella pneumophila] &gt;gi|999698816|emb|CZM12781.1| Septal ring factor [Legionella pneumophila] &gt;gi|999701760|emb|CZM79220.1| Septal ring factor [Legionella pneumophila] &gt;gi|999704995|emb|CZL95438.1| Septal ring factor [Legionella pneumophila] &gt;gi|999708147|emb|CZN56507.1| Septal ring factor [Legionella pneumophila] &gt;gi|999711566|emb|CZN00447.1| Septal ring factor [Legionella pneumophila] &gt;gi|999714662|emb|CZN20927.1| Septal ring factor [Legionella pneumophila] &gt;gi|999718008|emb|CZO46525.1| Septal ring factor [Legionella pneumophila] &gt;gi|999720964|emb|CZM94253.1| Septal ring factor [Legionella pneumophila] &gt;gi|999724483|emb|CZN34925.1| Septal ring factor [Legionella pneumophila] &gt;gi|999727812|emb|CZL98726.1| Septal ring factor [Legionella pneumophila] &gt;gi|999731005|emb|CZO43949.1| Septal ring factor [Legionella pneumophila] &gt;gi|999734155|emb|CZM25209.1| Septal ring factor [Legionella pneumophila] &gt;gi|999737505|emb|CZO71154.1| Septal ring factor [Legionella pneumophila] &gt;gi|999740986|emb|CZM32160.1| Septal ring factor [Legionella pneumophila] &gt;gi|999744076|emb|CZN26315.1| Septal ring factor [Legionella pneumophila] &gt;gi|999747218|emb|CZM24490.1| Septal ring factor [Legionella pneumophila] &gt;gi|999750550|emb|CZL96923.1| Septal ring factor [Legionella pneumophila] &gt;gi|999753746|emb|CZM81705.1| Septal ring factor [Legionella pneumophila] &gt;gi|999756797|emb|CZN11132.1| Septal ring factor [Legionella pneumophila] &gt;gi|999760298|emb|CZM24991.1| Septal ring factor [Legionella pneumophila] &gt;gi|999763357|emb|CZN29714.1| Septal ring factor [Legionella pneumophila] &gt;gi|999766883|emb|CZM47594.1| Septal ring factor [Legionella pneumophila] &gt;gi|999769732|emb|CZN50062.1| Septal ring factor [Legionella pneumophila] &gt;gi|999776196|emb|CZL99515.1| Septal ring factor [Legionella pneumophila] &gt;gi|999777461|emb|CZH48929.1| Septal ring factor [Legionella pneumophila] &gt;gi|999782916|emb|CZH63034.1| Septal ring factor [Legionella pneumophila] &gt;gi|999786395|emb|CZM23946.1| Septal ring factor [Legionella pneumophila] &gt;gi|999789560|emb|CZO66445.1| Septal ring factor [Legionella pneumophila] &gt;gi|999792905|emb|CZO60190.1| Septal ring factor [Legionella pneumophila] &gt;gi|999799790|emb|CZO55148.1| Septal ring factor [Legionella pneumophila] &gt;gi|1003029213|emb|CZR19185.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1003036396|emb|CZR17113.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|1005832269|gb|AMQ26995.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431634|gb|AMV13261.1| Murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|1041014539|gb|ANN91600.1| peptidase M24 [Legionella pneumophila] &gt;gi|1103995567|emb|SFZ36607.1| Septal ring factor [Legionella pneumophila] &gt;gi|1103998698|emb|SFZ36327.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027226410</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.237</Hsp_bit-score>
+      <Hsp_score>1998</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLPNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSL  SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499526488|ref|WP_011213128.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|53750316|emb|CAH11710.1| hypothetical protein lpp0562 [Legionella pneumophila str. Paris] &gt;gi|541995579|gb|ERH41678.1| peptidase M24 [Legionella pneumophila str. Leg01/11] &gt;gi|542121161|gb|ERI47494.1| peptidase M24 [Legionella pneumophila str. Leg01/20] &gt;gi|762002519|dbj|GAN25637.1| murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|999171882|emb|CZI30404.1| Septal ring factor [Legionella pneumophila] &gt;gi|999181671|emb|CZG52342.1| Septal ring factor [Legionella pneumophila] &gt;gi|999187839|emb|CZI95978.1| Septal ring factor [Legionella pneumophila] &gt;gi|999212755|emb|CZG79220.1| Septal ring factor [Legionella pneumophila] &gt;gi|999216887|emb|CZI65088.1| Septal ring factor [Legionella pneumophila] &gt;gi|999360001|emb|CZI62594.1| Septal ring factor [Legionella pneumophila] &gt;gi|999373427|emb|CZG56332.1| Septal ring factor [Legionella pneumophila] &gt;gi|999376461|emb|CZJ17881.1| Septal ring factor [Legionella pneumophila] &gt;gi|999379782|emb|CZH70198.1| Septal ring factor [Legionella pneumophila] &gt;gi|999382677|emb|CZI58815.1| Septal ring factor [Legionella pneumophila] &gt;gi|999386254|emb|CZG63488.1| Septal ring factor [Legionella pneumophila] &gt;gi|999389127|emb|CZI57579.1| Septal ring factor [Legionella pneumophila] &gt;gi|999396875|emb|CZG08260.1| Septal ring factor [Legionella pneumophila] &gt;gi|999405891|emb|CZG70631.1| Septal ring factor [Legionella pneumophila] &gt;gi|999408922|emb|CZH92368.1| Septal ring factor [Legionella pneumophila] &gt;gi|999412770|emb|CZG33663.1| Septal ring factor [Legionella pneumophila] &gt;gi|999415403|emb|CZG87170.1| Septal ring factor [Legionella pneumophila] &gt;gi|999418743|emb|CZG63720.1| Septal ring factor [Legionella pneumophila] &gt;gi|999421938|emb|CZH72447.1| Septal ring factor [Legionella pneumophila] &gt;gi|999425252|emb|CZG74293.1| Septal ring factor [Legionella pneumophila] &gt;gi|999428394|emb|CZG73754.1| Septal ring factor [Legionella pneumophila] &gt;gi|999431616|emb|CZG72399.1| Septal ring factor [Legionella pneumophila] &gt;gi|999434974|emb|CZH99333.1| Septal ring factor [Legionella pneumophila] &gt;gi|999438158|emb|CZG61570.1| Septal ring factor [Legionella pneumophila] &gt;gi|999441154|emb|CZK28133.1| peptidase%2C M23/M37 family [Legionella pneumophila] &gt;gi|999444653|emb|CZH77974.1| Septal ring factor [Legionella pneumophila] &gt;gi|999447856|emb|CZG54107.1| Septal ring factor [Legionella pneumophila] &gt;gi|999457597|emb|CZK22835.1| Septal ring factor [Legionella pneumophila] &gt;gi|999496282|emb|CZI47650.1| Septal ring factor [Legionella pneumophila] &gt;gi|999525331|emb|CZJ06623.1| Septal ring factor [Legionella pneumophila] &gt;gi|999528044|emb|CZI73558.1| Septal ring factor [Legionella pneumophila] &gt;gi|999576055|emb|CZI42990.1| Septal ring factor [Legionella pneumophila] &gt;gi|999611311|emb|CZI63790.1| Septal ring factor [Legionella pneumophila] &gt;gi|1003032399|emb|CZR24960.1| Septal ring factor [Legionella pneumophila] &gt;gi|1041017636|gb|ANN94696.1| peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213128</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>773.852</Hsp_bit-score>
+      <Hsp_score>1997</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>377</Hsp_identity>
+      <Hsp_positive>378</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MHMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>M +PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|764926075|ref|WP_044496975.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999454037|emb|CZI20460.1| Septal ring factor [Legionella pneumophila] &gt;gi|999460501|emb|CZG99566.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_044496975</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>772.311</Hsp_bit-score>
+      <Hsp_score>1993</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLSNSLSSASLGLALMVILFFCNGFEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQVASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSLS SLS ASLGLALMVILFFCNG EAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQ+ASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1011915493|ref|WP_062728523.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062728523</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>771.926</Hsp_bit-score>
+      <Hsp_score>1992</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>376</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MHMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTAHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>M +PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQT HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|653012670|ref|WP_027264773.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998822455|emb|CZH34223.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027264773</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>770.385</Hsp_bit-score>
+      <Hsp_score>1988</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQSPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ+ HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1080123417|ref|WP_070322141.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|1080008121|gb|AOW58109.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012217|gb|AOW61708.1| peptidase M24 [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_070322141</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>769.615</Hsp_bit-score>
+      <Hsp_score>1986</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MHMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>M +PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQT HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|395126482|emb|CCD04665.1|</Hit_id>
+  <Hit_def>conserved exported protein of unknown function [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD04665</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>769.615</Hsp_bit-score>
+      <Hsp_score>1986</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>105</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>375</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>IPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MPSLPNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>+PSL  SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|742353197|ref|WP_038837501.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|998782991|emb|CZI84679.1| Septal ring factor [Legionella pneumophila] &gt;gi|998828297|emb|CZH37106.1| Septal ring factor [Legionella pneumophila] &gt;gi|998883025|emb|CZI85542.1| Septal ring factor [Legionella pneumophila] &gt;gi|998897682|emb|CZK07549.1| Septal ring factor [Legionella pneumophila] &gt;gi|998938009|emb|CZL86009.1| Septal ring factor [Legionella pneumophila] &gt;gi|998951048|emb|CZJ94615.1| Septal ring factor [Legionella pneumophila] &gt;gi|999000068|emb|CZG93770.1| Septal ring factor [Legionella pneumophila] &gt;gi|999058468|emb|CZM30633.1| Septal ring factor [Legionella pneumophila] &gt;gi|999103726|emb|CZI20401.1| Septal ring factor [Legionella pneumophila] &gt;gi|999128480|emb|CZH15091.1| Septal ring factor [Legionella pneumophila] &gt;gi|999152604|emb|CZM81790.1| Septal ring factor [Legionella pneumophila] &gt;gi|999161915|emb|CZM40079.1| Septal ring factor [Legionella pneumophila] &gt;gi|999236729|emb|CZG94424.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002085572|emb|CZQ97568.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002088278|emb|CZQ79037.1| Septal ring factor [Legionella pneumophila] &gt;gi|1104005382|emb|SFZ36268.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_038837501</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>768.844</Hsp_bit-score>
+      <Hsp_score>1984</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLSNSLSGASLGLALMVILFFCNGLEVKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQSPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSLS SLSGASLGLALMVILFFCNGLE KAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ+ HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1004334288|ref|WP_061513213.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513213</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>768.459</Hsp_bit-score>
+      <Hsp_score>1983</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLSHSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNHELGSTEKQIGEGIRKLRIIQANMSTKEKSIAELQGKINHLNKRLQSQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKKYHSTLIQSIDNDIQNNQQSLKDFQKDRDSLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLN ELGSTEKQIGEGIRKLRIIQANMS KEKSIAELQGKINHLNKRLQ+QQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNK+YHSTLIQSIDNDIQNNQQSLKDFQKDRD+LSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1006645386|ref|WP_061819314.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999225299|emb|CZG82210.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061819314</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>768.074</Hsp_bit-score>
+      <Hsp_score>1982</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MHMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQSPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>M +PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ+ HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|499533456|ref|WP_011214740.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|53753321|emb|CAH14768.1| hypothetical protein lpl0538 [Legionella pneumophila str. Lens] &gt;gi|1080006019|gb|AOW56299.1| peptidase M24 [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014726|gb|AOW63599.1| peptidase M24 [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214740</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>766.533</Hsp_bit-score>
+      <Hsp_score>1978</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>374</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MHMPSLSNSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQPPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>M +PSLS SLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ  HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|652971352|ref|WP_027224211.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|761992721|dbj|GAN16509.1| murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|761995911|dbj|GAN19615.1| murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|998791229|emb|CZG39492.1| Septal ring factor [Legionella pneumophila] &gt;gi|998793154|emb|CZI52321.1| Septal ring factor [Legionella pneumophila] &gt;gi|998892648|emb|CZJ25153.1| Septal ring factor [Legionella pneumophila] &gt;gi|998982395|emb|CZI65115.1| Septal ring factor [Legionella pneumophila] &gt;gi|999107545|emb|CZI63622.1| Septal ring factor [Legionella pneumophila] &gt;gi|999231774|emb|CZI44156.1| Septal ring factor [Legionella pneumophila] &gt;gi|999287228|emb|CZI46654.1| Septal ring factor [Legionella pneumophila] &gt;gi|999293644|emb|CZI46612.1| Septal ring factor [Legionella pneumophila] &gt;gi|999312667|emb|CZI53900.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002081583|emb|CZR00159.1| Septal ring factor [Legionella pneumophila] &gt;gi|1002092763|emb|CZQ95382.1| Septal ring factor [Legionella pneumophila] &gt;gi|1032656677|gb|ANH11948.1| peptidase M24 [Legionella pneumophila] &gt;gi|1032659644|gb|ANH14914.1| peptidase M24 [Legionella pneumophila] &gt;gi|1032662611|gb|ANH17880.1| peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027224211</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>765.377</Hsp_bit-score>
+      <Hsp_score>1975</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>374</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLPNYLSSAPLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTAHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSL   LS A LGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQT HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1004027688|ref|WP_061489598.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061489598</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>763.837</Hsp_bit-score>
+      <Hsp_score>1971</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>372</Hsp_identity>
+      <Hsp_positive>375</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMSSLSNYLSNAPLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNERLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQVASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+ SLS  LS A LGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN+RLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQ+ASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|754875878|ref|WP_042236315.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_042236315</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>762.296</Hsp_bit-score>
+      <Hsp_score>1967</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>372</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLPNYLSSAPLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNGSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTAHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSL   LS A LGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLN SKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQT HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|395129588|emb|CCD07821.1|</Hit_id>
+  <Hit_def>conserved exported protein of unknown function [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>CCD07821</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>760.755</Hsp_bit-score>
+      <Hsp_score>1963</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>105</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>371</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>IPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MPSLPNYLSSAPLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTAHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>+PSL   LS A LGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQT HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|652966181|ref|WP_027219182.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|999003161|emb|CZI82316.1| Septal ring factor [Legionella pneumophila] &gt;gi|999149951|emb|CZI48195.1| Septal ring factor [Legionella pneumophila] &gt;gi|999159301|emb|CZJ68533.1| Septal ring factor [Legionella pneumophila] &gt;gi|999168599|emb|CZI44971.1| Septal ring factor [Legionella pneumophila] &gt;gi|999178308|emb|CZJ55328.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027219182</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>759.985</Hsp_bit-score>
+      <Hsp_score>1961</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMSSLSNYLSNAPLGLALMVILFFCNGLEAKTAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNERLQTQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQVASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+ SLS  LS A LGLALMVILFFCNGLEAK APNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN+RLQ QQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQ+ASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1004017590|ref|WP_061485320.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485320</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>757.673</Hsp_bit-score>
+      <Hsp_score>1955</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>370</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMSSLSNYLSNAPLGLALMAILFFCNGLGAKTAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNERLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+ SLS  LS A LGLALM ILFFCNGL AK APNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN+RLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|500490097|ref|WP_011945656.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|148282659|gb|ABQ56747.1| Membrane-bound metallopeptidase [Legionella pneumophila str. Corby] &gt;gi|295647949|gb|ADG23796.1| peptidase, M23/M37 family [Legionella pneumophila 2300/99 Alcoy] &gt;gi|761989534|dbj|GAN22597.1| murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|761999035|dbj|GAN28948.1| murein hydrolase activator EnvC precursor [Legionella pneumophila] &gt;gi|998801858|emb|CZI09209.1| Septal ring factor [Legionella pneumophila] &gt;gi|998912139|emb|CZH22925.1| Septal ring factor [Legionella pneumophila] &gt;gi|998994558|emb|CZI21737.1| Septal ring factor [Legionella pneumophila] &gt;gi|999165662|emb|CZG82464.1| Septal ring factor [Legionella pneumophila] &gt;gi|999302861|emb|CZI38168.1| Septal ring factor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011945656</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>757.288</Hsp_bit-score>
+      <Hsp_score>1954</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>369</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMSSLSNYLSNAPLGLALMVILFFCNGLEAKTAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNERLQTQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTRRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQVASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+ SLS  LS A LGLALMVILFFCNGLEAK APNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN+RLQ QQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTT RSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQ+ASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1011913791|ref|WP_062727005.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062727005</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>742.265</Hsp_bit-score>
+      <Hsp_score>1915</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLPNYLSSTPLGLALVLILFFCNGLEAKTAPNSITQTQAKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNGRLLAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQQQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLLKSLSQQSVIQNGKPFTGMRKKLPLPVQSSHRSLRRMNQGVTFFADEGSMVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSL   LS   LGLAL++ILFFCNGLEAK APNSITQ Q KLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN RL AQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQ+QLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHL+KSLSQQSVIQ+GKPFTGMRKKLPLPVQ++HRSLRRMNQGVTFFADEGS+VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|652976182|ref|WP_027228855.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|985765960|gb|KXB27071.1| peptidase M24 [Legionella pneumophila] &gt;gi|985767730|gb|KXB28816.1| peptidase M24 [Legionella pneumophila] &gt;gi|999119277|emb|CZG76684.1| Septal ring factor [Legionella pneumophila] &gt;gi|999122515|emb|CZH12196.1| Septal ring factor [Legionella pneumophila] &gt;gi|1024341661|gb|KZX35968.1| peptidase M24 [Legionella pneumophila] &gt;gi|1108603976|gb|APF02344.1| peptidase M24 [Legionella pneumophila subsp. fraseri] &gt;gi|1108606987|gb|APF05354.1| peptidase M24 [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228855</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>741.88</Hsp_bit-score>
+      <Hsp_score>1914</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>369</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPNLPNYLSSTPLGLALVLILFFCNGLEAKTAPNSITQTQAKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNGRLLAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQQQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLLKSLSQQSVIQNGKPFTGMRKKLPLPVQSTHRSLRRMNQGVTFFADEGSMVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+P+L   LS   LGLAL++ILFFCNGLEAK APNSITQ Q KLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLN RL AQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQ+QLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHL+KSLSQQSVIQ+GKPFTGMRKKLPLPVQ+THRSLRRMNQGVTFFADEGS+VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|652970675|ref|WP_027223567.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella pneumophila] &gt;gi|1005362774|gb|AMP88643.1| peptidase M24 [Legionella pneumophila subsp. pascullei] &gt;gi|1005365775|gb|AMP91552.1| peptidase M24 [Legionella pneumophila subsp. pascullei] &gt;gi|1005368762|gb|AMP94538.1| peptidase M24 [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223567</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>736.873</Hsp_bit-score>
+      <Hsp_score>1901</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>358</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRMPSLPNCLSSTRLGLALVLILFFCNGLEAKTAPNSITQTQAKLKQLDAKINKLKQVLANAQDKRIVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKISHLNERLLAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQQQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLLKSLSQQSVIQSGRPITGMRKKLPLPIQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGHGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>MR+PSL   LS   LGLAL++ILFFCNGLEAK APNSITQ Q KLKQLDAKINKLKQVLANAQDKR VLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKI+HLN+RL AQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQ+QLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHL+KSLSQQSVIQSG+P TGMRKKLPLP+QTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHG GFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|917511206|ref|WP_052117623.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella norrlandica]</Hit_def>
+  <Hit_accession>WP_052117623</Hit_accession>
+  <Hit_len>385</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>564.688</Hsp_bit-score>
+      <Hsp_score>1454</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>385</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>324</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>367</Hsp_align-len>
+      <Hsp_qseq>SLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>SLRLGIMLSLFFCFSLEAQNSTPTIVQTRNKLKQLDIKIEKLKQTLASAQDKRAVLNQELSNTEKQIGEGINRLKIIQNNMSAKERNIAELQEKINQLNNQLDTQQTLLANHIRARYQMGEYQPLKWLLNQDDPFKINRILTYYQYLIKSRQHLIAEIDLTRKNLNKNKNKLDNEQAENKQLKYKLAQHQQQLEQSKKYHATLIQSINSEIQNSQQALHDFEKDKNNLSRLLTSLSQQSVIQNGKPFMQMRKKLPFPVQTSRRSIHRMNQGVTFFADEGSTVTAVSSGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQMVQQNEQIASVGHSGGIKQNGLYFEIRQKGKAVNPLEWLS</Hsp_hseq>
+      <Hsp_midline>SL L +M+ LFFC  LEA+ +  +I Q + KLKQLD KI KLKQ LA+AQDKR VLNQEL +TEKQIGEGI +L+IIQ NMSAKE++IAELQ KIN LN +L  QQ +LANH+RARYQMGEYQPLKWL+NQD+PFKINRILTYYQY+I+SRQ LI EI  TR+NLN +K KL NE AENKQL++KL+Q+Q+QLEQ+K+YH+TLIQSI+++IQN+QQ+L DF+KD++NLS L+ SLSQQSVIQ+GKPF  MRKKLP PVQT+ RS+ RMNQGVTFFADEGS VTAV  GKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ+VQQNEQIASVGH+GGIKQNGLYFEIRQ+GKAVNPL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|701445698|gb|KGP63070.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella norrlandica]</Hit_def>
+  <Hit_accession>KGP63070</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>564.303</Hsp_bit-score>
+      <Hsp_score>1453</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>44</Hsp_hit-from>
+      <Hsp_hit-to>410</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>279</Hsp_identity>
+      <Hsp_positive>324</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>367</Hsp_align-len>
+      <Hsp_qseq>SLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>SLRLGIMLSLFFCFSLEAQNSTPTIVQTRNKLKQLDIKIEKLKQTLASAQDKRAVLNQELSNTEKQIGEGINRLKIIQNNMSAKERNIAELQEKINQLNNQLDTQQTLLANHIRARYQMGEYQPLKWLLNQDDPFKINRILTYYQYLIKSRQHLIAEIDLTRKNLNKNKNKLDNEQAENKQLKYKLAQHQQQLEQSKKYHATLIQSINSEIQNSQQALHDFEKDKNNLSRLLTSLSQQSVIQNGKPFMQMRKKLPFPVQTSRRSIHRMNQGVTFFADEGSTVTAVSSGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQMVQQNEQIASVGHSGGIKQNGLYFEIRQKGKAVNPLEWLS</Hsp_hseq>
+      <Hsp_midline>SL L +M+ LFFC  LEA+ +  +I Q + KLKQLD KI KLKQ LA+AQDKR VLNQEL +TEKQIGEGI +L+IIQ NMSAKE++IAELQ KIN LN +L  QQ +LANH+RARYQMGEYQPLKWL+NQD+PFKINRILTYYQY+I+SRQ LI EI  TR+NLN +K KL NE AENKQL++KL+Q+Q+QLEQ+K+YH+TLIQSI+++IQN+QQ+L DF+KD++NLS L+ SLSQQSVIQ+GKPF  MRKKLP PVQT+ RS+ RMNQGVTFFADEGS VTAV  GKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ+VQQNEQIASVGH+GGIKQNGLYFEIRQ+GKAVNPL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|916583502|ref|WP_051190593.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella moravica] &gt;gi|962251438|gb|KTD35626.1| peptidase, M23/M37 family [Legionella moravica]</Hit_def>
+  <Hit_accession>WP_051190593</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>556.599</Hsp_bit-score>
+      <Hsp_score>1433</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>119</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>18</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>312</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>364</Hsp_align-len>
+      <Hsp_qseq>LALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>IALGMLIHFS--LEATPAPSPVLQTQTKLKQLDAQINNLKQTLATAHDKRGILNQELSGTEKQIGEGIHRLRSIQNDIKSKEQKIAELHAKAELLNKQLATQQQLLANHVRARYQMGEYQPLKWILTQDDPYKISRILTYYQYIIKSRQELIDKIGETRTNLSENKDKLNNELAENQKLHNQLSQHQQQLEQNKRYHTTLIESLNNDIQNKQHDLQEFEKDKANLSRLLKSLSQQSVVQSSKPFIQMRKKLPLPVQNVQRSLRRMNQGVTFFADEGAVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKHKGQTVRQNEQIASVGHSGGIKQNGLYFEIRLRGKAVPPLDWLS</Hsp_hseq>
+      <Hsp_midline>+AL +++ F   LEA  AP+ + Q QTKLKQLDA+IN LKQ LA A DKR +LNQEL  TEKQIGEGI +LR IQ ++ +KE+ IAEL  K   LNK+L  QQ++LANHVRARYQMGEYQPLKW++ QD+P+KI+RILTYYQYII+SRQ+LID+I  TR NL+++K KL NELAEN++L  +LSQ+Q+QLEQNKRYH+TLI+S++NDIQN Q  L++F+KD+ NLS L+KSLSQQSV+QS KPF  MRKKLPLPVQ   RSLRRMNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFK KGQ V+QNEQIASVGH+GGIKQNGLYFEIR RGKAV PLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966440832|ref|WP_058481155.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella waltersii] &gt;gi|962291889|gb|KTD75587.1| peptidase, M23/M37 family [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058481155</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>524.628</Hsp_bit-score>
+      <Hsp_score>1350</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>103</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>380</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>380</Hsp_align-len>
+      <Hsp_qseq>MRIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MRLPNLIDKNTLKHTALGLMIGTILPVNLEAQPNQSSVTTTQNKIKQLDTQISNLKSTLAHATDRQGVLNKELSQTEKQIGDGVRKLSTIQNNIAIKEKTISDLQSKVTDLNKVLFTHQALLANQVQARYQMGEYQPLKWIINQDDPFKISRVLTYYQYMIKSREQLIEQIQTTTNEINANKDKLHKELSETQQLKFRLVQNQQQLEQHKQYHQALIHSLDNDIQNKKHTLQEFQKNKDNLSQLLKSLSQQSAMKNSKPFNQMHKKLPLPIHSTHRSLHRMNQGVTIFADEGSVVSAVYPGKVVFSDWLNGYGLLIIIDHGQGFMTLYAHNQSLFKQKGQFVQQNEQIATVGHTGGIKQNGLYFEIRQKGKAVNPLNWLS</Hsp_hseq>
+      <Hsp_midline>MR+P+L    +     L LM+       LEA+   +S+T  Q K+KQLD +I+ LK  LA+A D++ VLN+EL  TEKQIG+G+RKL  IQ N++ KEK+I++LQ K+  LNK L   Q +LAN V+ARYQMGEYQPLKW+INQD+PFKI+R+LTYYQY+I+SR+QLI++I  T   +N +K KL  EL+E +QL+F+L QNQ+QLEQ+K+YH  LI S+DNDIQN + +L++FQK++DNLS L+KSLSQQS +++ KPF  M KKLPLP+ +THRSL RMNQGVT FADEGS+V+AVYPGKVVFSDWL GYGLL+IIDHGQGFMTLYAHNQSLFK+KGQ VQQNEQIA+VGHTGGIKQNGLYFEIRQ+GKAVNPL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1011911185|ref|WP_062725870.1|</Hit_id>
+  <Hit_def>peptidase M24, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062725870</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>521.546</Hsp_bit-score>
+      <Hsp_score>1342</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>231</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>249</Hsp_identity>
+      <Hsp_positive>250</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>252</Hsp_align-len>
+      <Hsp_qseq>RYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>RYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQSPHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVHQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_hseq>
+      <Hsp_midline>RYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQ+ HRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIV QNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|363536178|gb|EHL29624.1|</Hit_id>
+  <Hit_def>hypothetical protein LDG_8589 [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>EHL29624</Hit_accession>
+  <Hit_len>358</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.072</Hsp_bit-score>
+      <Hsp_score>1320</Hsp_score>
+      <Hsp_evalue>2.02522e-178</Hsp_evalue>
+      <Hsp_query-from>130</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>356</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>353</Hsp_align-len>
+      <Hsp_qseq>GLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>GFALYADPSAIQKTQSKLKQLDVQINHLQQTLNSAHDKRGVLNKELSATEKQIGQGVHELRTIQQNISSKSNKISALQNKVNQLNEKLTTQQQLLASHIRARYQMGEYQPLKWLLNQDDPYKVSRVLTYYQYLVKSRQQLIEQIDTTRNKLNQSKEILHNELAENQKLKSELTKNQEQLEQTKNYHTALIKSLNNEIQNKQNTLRDAKRNKDNLARLLKILAQQSIAQASKPFNQMRKKLPLPVQTQSRSLRQMNQGVTFFADEGTVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNESLFKRKGESVRQNEQIASVGHSGGIKQNGLYFEIRRRGKAIPPLAWLS</Hsp_hseq>
+      <Hsp_midline>G    A P++I + Q+KLKQLD +IN L+Q L +A DKR VLN+EL +TEKQIG+G+ +LR IQ N+S+K   I+ LQ K+N LN++L  QQ++LA+H+RARYQMGEYQPLKWL+NQD+P+K++R+LTYYQY+++SRQQLI++I  TR  LN SK  L NELAEN++L+ +L++NQ+QLEQ K YH+ LI+S++N+IQN Q +L+D ++++DNL+ L+K L+QQS+ Q+ KPF  MRKKLPLPVQT  RSLR+MNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHN+SLFKRKG+ V+QNEQIASVGH+GGIKQNGLYFEIR+RGKA+ PL WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|915466056|ref|WP_050805589.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella drancourtii]</Hit_def>
+  <Hit_accession>WP_050805589</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>512.686</Hsp_bit-score>
+      <Hsp_score>1319</Hsp_score>
+      <Hsp_evalue>4.50776e-178</Hsp_evalue>
+      <Hsp_query-from>130</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>353</Hsp_align-len>
+      <Hsp_qseq>GLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>GFALYADPSAIQKTQSKLKQLDVQINHLQQTLNSAHDKRGVLNKELSATEKQIGQGVHELRTIQQNISSKSNKISALQNKVNQLNEKLTTQQQLLASHIRARYQMGEYQPLKWLLNQDDPYKVSRVLTYYQYLVKSRQQLIEQIDTTRNKLNQSKEILHNELAENQKLKSELTKNQEQLEQTKNYHTALIKSLNNEIQNKQNTLRDAKRNKDNLARLLKILAQQSIAQASKPFNQMRKKLPLPVQTQSRSLRQMNQGVTFFADEGTVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNESLFKRKGESVRQNEQIASVGHSGGIKQNGLYFEIRRRGKAIPPLAWLS</Hsp_hseq>
+      <Hsp_midline>G    A P++I + Q+KLKQLD +IN L+Q L +A DKR VLN+EL +TEKQIG+G+ +LR IQ N+S+K   I+ LQ K+N LN++L  QQ++LA+H+RARYQMGEYQPLKWL+NQD+P+K++R+LTYYQY+++SRQQLI++I  TR  LN SK  L NELAEN++L+ +L++NQ+QLEQ K YH+ LI+S++N+IQN Q +L+D ++++DNL+ L+K L+QQS+ Q+ KPF  MRKKLPLPVQT  RSLR+MNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHN+SLFKRKG+ V+QNEQIASVGH+GGIKQNGLYFEIR+RGKA+ PL WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966432000|ref|WP_058472433.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella quateirensis] &gt;gi|962271462|gb|KTD55464.1| peptidase, M23/M37 family [Legionella quateirensis]</Hit_def>
+  <Hit_accession>WP_058472433</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>513.072</Hsp_bit-score>
+      <Hsp_score>1320</Hsp_score>
+      <Hsp_evalue>4.70101e-178</Hsp_evalue>
+      <Hsp_query-from>112</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>LSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>LSGIALG---MLIHF---GVAAKPGPSPVAQTQTKLKQLDAQINNLRQTLATAHDKRGILDKELSGTEKQIGEGIHKLRSIQYDIKSKEQKIAELHAKAEQLNQQLATQQQLLASHVRARYQMGEYQPLKWILNQDDPYKISRILTYYQYIIKSRQELIDKIGETRINLSENKDKLHNELAENQKLQNQLSQHQQQLEQNKRYHTTLIESLNNEIQNKQHDLQEFQKDKANLSRLLKELSQQSVVQSSKPFIQMRRKLPLPVQNVQRSLRRMNQGVTFFADEGAVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKHKGQTVRQNEQIASVGHSGGIKQNGLYFEIRLRGKAVPPLDWLS</Hsp_hseq>
+      <Hsp_midline>LSG +LG   M+I F   G+ AK  P+ + Q QTKLKQLDA+IN L+Q LA A DKR +L++EL  TEKQIGEGI KLR IQ ++ +KE+ IAEL  K   LN++L  QQ++LA+HVRARYQMGEYQPLKW++NQD+P+KI+RILTYYQYII+SRQ+LID+I  TR NL+++K KL NELAEN++LQ +LSQ+Q+QLEQNKRYH+TLI+S++N+IQN Q  L++FQKD+ NLS L+K LSQQSV+QS KPF  MR+KLPLPVQ   RSLRRMNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFK KGQ V+QNEQIASVGH+GGIKQNGLYFEIR RGKAV PLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|769980416|ref|WP_045096401.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella fallonii] &gt;gi|698844031|emb|CEG58000.1| Peptidase, M23/M37 family [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045096401</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.146</Hsp_bit-score>
+      <Hsp_score>1315</Hsp_score>
+      <Hsp_evalue>2.0706e-177</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>260</Hsp_identity>
+      <Hsp_positive>319</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>389</Hsp_align-len>
+      <Hsp_qseq>VSFWKKTM--RIPSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MPYWKKTMLMRIRHYE-----------IVLAMTFCIASFAHANSSSVTQTQSKLKQLDTKIDTLKHSLATANDKRGLLNQELSGTEKQIGDGVRKLRAIQNDMASKERKITELQNLANNLNGQLLTQQKLLASHIRARYQMGEYQPLKWLLNQDSPYRVSRILTYYQYVIKSRQQLITQIDDTRKKINENKNNLNDELAKNQQLQQQLTQNQQQLQQNKSYHTTLIQSLNKEIQTNQLALKEFQKDKENLSRLLKSLTQQSVVQSSKPFAQMRKKLPLPVQTDHRSIQRMNQGVTFFADEGAVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKHKGQSVHQREQIASVGHSGGIKQNGLYFEIRLRGKAVSPLDWLS</Hsp_hseq>
+      <Hsp_midline>+ +WKKTM  RI               +++ + FC    A A  +S+TQ Q+KLKQLD KI+ LK  LA A DKR +LNQEL  TEKQIG+G+RKLR IQ +M++KE+ I ELQ   N+LN +L  QQ++LA+H+RARYQMGEYQPLKWL+NQD P++++RILTYYQY+I+SRQQLI +I  TR+ +N++K  L +ELA+N+QLQ +L+QNQ+QL+QNK YH+TLIQS++ +IQ NQ +LK+FQKD++NLS L+KSL+QQSV+QS KPF  MRKKLPLPVQT HRS++RMNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFK KGQ V Q EQIASVGH+GGIKQNGLYFEIR RGKAV+PLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|517404007|ref|WP_018576820.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella shakespearei] &gt;gi|962283735|gb|KTD67507.1| peptidase, M23/M37 family [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018576820</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>508.064</Hsp_bit-score>
+      <Hsp_score>1307</Hsp_score>
+      <Hsp_evalue>1.83547e-175</Hsp_evalue>
+      <Hsp_query-from>113</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>253</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>375</Hsp_align-len>
+      <Hsp_qseq>SGASLGLALMVILFFCNGLE-AKAAP----NSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>SRSRLGLDQAILNLMAVGLSLVMAQPCQATSPVVQTQTKLKQLDAQIKNLQQTLTTANDKRGILHKELSGTEKQIGEGIRKLYGIQQDINAKEHKIAELHNKSAQLNKQLLMQQQLLASHVRARYQMGEYQPVKWILNQDDPYKISRILTYYQYIVKSRQDLINEIGETRQSLSENKERLHSELTETQKLKHQLTQHQELLQHNKSYHTTLIQSLNKEIQNKQHTLTEFQKDKDNLSRLLKSLSQQSVVQSSKPFLQMRKKLPLPVQTEHRSIRRMNQGVTFFADEGAVVTAVYPGKVVFSDWLKGYGLLVIIDHGQGFMTLYAHNQSLFKHKGQTVRQNEQIASVGHSGGIKQNGLYFEIRQRGKAVSPLNWLS</Hsp_hseq>
+      <Hsp_midline>S + LGL   ++     GL    A P    + + Q QTKLKQLDA+I  L+Q L  A DKR +L++EL  TEKQIGEGIRKL  IQ +++AKE  IAEL  K   LNK+L  QQ++LA+HVRARYQMGEYQP+KW++NQD+P+KI+RILTYYQYI++SRQ LI+EI  TRQ+L+++K +L +EL E ++L+ +L+Q+Q+ L+ NK YH+TLIQS++ +IQN Q +L +FQKD+DNLS L+KSLSQQSV+QS KPF  MRKKLPLPVQT HRS+RRMNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLL+IIDHGQGFMTLYAHNQSLFK KGQ V+QNEQIASVGH+GGIKQNGLYFEIRQRGKAV+PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966460457|ref|WP_058492886.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella worsleiensis] &gt;gi|962296526|gb|KTD80163.1| peptidase, M23/M37 family [Legionella worsleiensis]</Hit_def>
+  <Hit_accession>WP_058492886</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.827</Hsp_bit-score>
+      <Hsp_score>1296</Hsp_score>
+      <Hsp_evalue>1.95775e-174</Hsp_evalue>
+      <Hsp_query-from>106</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>379</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>PSLSKSLSGASLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>PKTQKNSCWGGIALGMLIPL----SVAAIPSPSPVIQTQTKLKQLDAQINNLKRTLATAHDTRSILNNELANTEKQIGAGIHKLQSLQHDIKSKEQKIAELHTKAELLNNELATQQQLLASHLRARYQMGEYQPLKWILNQDDPYKISRILTYYQYIVKSRQELIDKIGETQNKLKENKDKLHHELAENQKLQNQLSLNQQQLEQNKQYHTTLIQSLNNEIQNKQHDLEEFEKDKANLSRLLKSLSQQSVVQSSKPFNQMRKKLPLPVQNVQRSLRRMNQGVTFFADEGTVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKHKGQMVYQNEHIASVGHSGGIKQNGLYFEIRLRGKAVPPLDWLS</Hsp_hseq>
+      <Hsp_midline>P   K+     + L +++ L     + A  +P+ + Q QTKLKQLDA+IN LK+ LA A D R++LN EL +TEKQIG GI KL+ +Q ++ +KE+ IAEL  K   LN  L  QQ++LA+H+RARYQMGEYQPLKW++NQD+P+KI+RILTYYQYI++SRQ+LID+I  T+  L ++K KL +ELAEN++LQ +LS NQ+QLEQNK+YH+TLIQS++N+IQN Q  L++F+KD+ NLS L+KSLSQQSV+QS KPF  MRKKLPLPVQ   RSLRRMNQGVTFFADEG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFK KGQ+V QNE IASVGH+GGIKQNGLYFEIR RGKAV PLDWLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966499315|ref|WP_058516081.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058516081</Hit_accession>
+  <Hit_len>366</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>501.13</Hsp_bit-score>
+      <Hsp_score>1289</Hsp_score>
+      <Hsp_evalue>1.28731e-173</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>VLFCFNLYAESSP-AVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGECVQKLRSIQNDINSTEKKIVGLQDQVNQLNKQLITQQQLLTNHIRARYQMGEYQPLKLLLNQDDPNKVSRILTYYQYIVKSRQQLIEQIDKTRKNLNESKEKLRSELIANKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKKNKENLARLLKSLSQQSITQTSKPFSQMRKKLPLPVQTQGRSFRKMHQGVTFFAEEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQYVSQNEQIASVGHSGGIKQNGLYFEIRLKGKAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+ FC  L A+++P ++ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIGE ++KLR IQ ++++ EK I  LQ ++N LNK+L  QQ++L NH+RARYQMGEYQPLK L+NQD+P K++RILTYYQYI++SRQQLI++I +TR+NLN+SK KL +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSLSQQS+ Q+ KPF+ MRKKLPLPVQT  RS R+M+QGVTFFA+EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKA+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|962269269|gb|KTD53283.1|</Hit_id>
+  <Hit_def>peptidase, M23 family [Legionella santicrucis]</Hit_def>
+  <Hit_accession>KTD53283</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>500.745</Hsp_bit-score>
+      <Hsp_score>1288</Hsp_score>
+      <Hsp_evalue>7.76955e-173</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>VLFCFNLYAESSP-AVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGECVQKLRSIQNDINSTEKKIVGLQDQVNQLNKQLITQQQLLTNHIRARYQMGEYQPLKLLLNQDDPNKVSRILTYYQYIVKSRQQLIEQIDKTRKNLNESKEKLRSELIANKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKKNKENLARLLKSLSQQSITQTSKPFSQMRKKLPLPVQTQGRSFRKMHQGVTFFAEEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQYVSQNEQIASVGHSGGIKQNGLYFEIRLKGKAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+ FC  L A+++P ++ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIGE ++KLR IQ ++++ EK I  LQ ++N LNK+L  QQ++L NH+RARYQMGEYQPLK L+NQD+P K++RILTYYQYI++SRQQLI++I +TR+NLN+SK KL +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSLSQQS+ Q+ KPF+ MRKKLPLPVQT  RS R+M+QGVTFFA+EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKA+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|966422758|ref|WP_058465959.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058465959</Hit_accession>
+  <Hit_len>366</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.804</Hsp_bit-score>
+      <Hsp_score>1257</Hsp_score>
+      <Hsp_evalue>8.76764e-169</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>VLFCFNLYAESSP-SVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGEGVQKLRSIQNDINSTEKKIVGLQDQVNQLNKQLTTQQQLLTNHLRARYQMGEYQPLKLLLNQDDPNKISRILTYYQYIVKSRQQLIEHIDKTRKNLNKSKEELRSELLANKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKKNKENLARLLKSLSQQSITQTSKPFSQMRKKLPLPVQTQGRSFRKMHQGVTFFAKEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRQGQYVSQNEQIASVGHSGGIKQNGLYFEIRLKGRAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+ FC  L A+++P S+ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIGEG++KLR IQ ++++ EK I  LQ ++N LNK+L  QQ++L NH+RARYQMGEYQPLK L+NQD+P KI+RILTYYQYI++SRQQLI+ I +TR+NLN SK +L +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSLSQQS+ Q+ KPF+ MRKKLPLPVQT  RS R+M+QGVTFFA EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKR+GQ V QNEQIASVGH+GGIKQNGLYFEIR +G+A+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|269987490|gb|EEZ93745.1|</Hit_id>
+  <Hit_def>M23 peptidase domain protein [Legionella longbeachae D-4968]</Hit_def>
+  <Hit_accession>EEZ93745</Hit_accession>
+  <Hit_len>386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>489.574</Hsp_bit-score>
+      <Hsp_score>1259</Hsp_score>
+      <Hsp_evalue>9.07328e-169</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>361</Hsp_align-len>
+      <Hsp_qseq>MVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>LLSILFCFNLYAGSSP-AVLQTQNKLKQLDAQISSLQQMLNSAHDKRGVINKELSETEKQIGACVQKLRSIQNDINSTENKIVGLQDQVNQLNKQLTTQQQLLANHIRARYHMGEYQPLKLLINQDDPNKVSRVLTYYQYIVKSRQQLITQIDETRKNLNESKEKLRSELTANKQLKSELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKRNKENLARLLKSLSQQSITQTSRPFSQMRKKLPLPVQTQGQSFRKMHQGVTFFAEEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQYVNQNEQIASVGHSGGIKQNGLYFEIRLKGKAVPPLNWLS</Hsp_hseq>
+      <Hsp_midline>++ + FC  L A ++P ++ Q Q KLKQLDA+I+ L+Q+L +A DKR V+N+EL  TEKQIG  ++KLR IQ ++++ E  I  LQ ++N LNK+L  QQ++LANH+RARY MGEYQPLK LINQD+P K++R+LTYYQYI++SRQQLI +I  TR+NLN+SK KL +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +++++NL+ L+KSLSQQS+ Q+ +PF+ MRKKLPLPVQT  +S R+M+QGVTFFA+EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKAV PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|962206006|gb|KTC90943.1|</Hit_id>
+  <Hit_def>peptidase, M23 family [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>KTC90943</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.419</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>1.13282e-168</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>364</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>240</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>365</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGK-------PFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>MMLCFGVYAEST-SSVLQTKNKLKQLDAQINSLQQTLNTAHDKRGVLNKELSETEKQIGQGIRKLHSLQEDIKNKENKIADLQKQVSQLNKQLVTQQQLLANHVRARYQMGEYQPLKLLLNQDDPGKISRILTYYQYIIKSRQQLIEKIDNTRAKLSASKEKLRAELDANKQLKQELTQHQEQLQQNKGYHTTLIQSLNHEIQDKQNTLREVRKNKENLARLLNSLARQSIAQESKPMPQSISPFTQMRKKLPFPVQSHGRSLRKMNQGVTFFAEEGAIVTAVYPGKVVFSDWLKGYGLLIIVDHGQGFMTLYAHNQSLFKSKGQYVRQNEQIASVGHTGGIKQNGLYFEIRLRGKAVPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+  C G+ A++  +S+ Q + KLKQLDA+IN L+Q L  A DKR VLN+EL  TEKQIG+GIRKL  +Q ++  KE  IA+LQ +++ LNK+L  QQ++LANHVRARYQMGEYQPLK L+NQD+P KI+RILTYYQYII+SRQQLI++I  TR  L+ SK KL  EL  NKQL+ +L+Q+Q+QL+QNK YH+TLIQS++++IQ+ Q +L++ +K+++NL+ L+ SL++QS+ Q  K       PFT MRKKLP PVQ+  RSLR+MNQGVTFFA+EG+IVTAVYPGKVVFSDWLKGYGLL+I+DHGQGFMTLYAHNQSLFK KGQ V+QNEQIASVGHTGGIKQNGLYFEIR RGKAV PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|502744370|ref|WP_012979354.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella longbeachae] &gt;gi|288859190|emb|CBJ13122.1| putative peptidase, M23 family [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_012979354</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>489.189</Hsp_bit-score>
+      <Hsp_score>1258</Hsp_score>
+      <Hsp_evalue>2.76066e-168</Hsp_evalue>
+      <Hsp_query-from>122</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>361</Hsp_align-len>
+      <Hsp_qseq>MVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>LLSILFCFNLYAGSSP-AVLQTQNKLKQLDAQISSLQQMLNSAHDKRGVINKELSETEKQIGACVQKLRSIQNDINSTENKIVGLQDQVNQLNKQLTTQQQLLANHIRARYHMGEYQPLKLLINQDDPNKVSRVLTYYQYIVKSRQQLITQIDETRKNLNESKEKLRSELTANKQLKSELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKRNKENLARLLKSLSQQSITQTSRPFSQMRKKLPLPVQTQGQSFRKMHQGVTFFAEEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQYVNQNEQIASVGHSGGIKQNGLYFEIRLKGKAVPPLNWLS</Hsp_hseq>
+      <Hsp_midline>++ + FC  L A ++P ++ Q Q KLKQLDA+I+ L+Q+L +A DKR V+N+EL  TEKQIG  ++KLR IQ ++++ E  I  LQ ++N LNK+L  QQ++LANH+RARY MGEYQPLK LINQD+P K++R+LTYYQYI++SRQQLI +I  TR+NLN+SK KL +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +++++NL+ L+KSLSQQS+ Q+ +PF+ MRKKLPLPVQT  +S R+M+QGVTFFA+EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKAV PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|962197747|gb|KTC82786.1|</Hit_id>
+  <Hit_def>peptidase, M23 family [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>KTC82786</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.419</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>5.31344e-168</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>238</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>VLFCFNLYAESSP-SVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGEGVQKLRSIQNDINSTEKKIVGLQDQVNQLNKQLTTQQQLLTNHLRARYQMGEYQPLKLLLNQDDPNKISRILTYYQYIVKSRQQLIEHIDKTRKNLNKSKEELRSELLANKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEAKKNKENLARLLKSLSQQSITQTSKPFSQMRKKLPLPVQTQGRSFRKMHQGVTFFAKEGAVVTAVYPGKIVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRQGQYVSQNEQIASVGHSGGIKQNGLYFEIRLKGRAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+ FC  L A+++P S+ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIGEG++KLR IQ ++++ EK I  LQ ++N LNK+L  QQ++L NH+RARYQMGEYQPLK L+NQD+P KI+RILTYYQYI++SRQQLI+ I +TR+NLN SK +L +EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSLSQQS+ Q+ KPF+ MRKKLPLPVQT  RS R+M+QGVTFFA EG++VTAVYPGK+VFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKR+GQ V QNEQIASVGH+GGIKQNGLYFEIR +G+A+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|498340468|ref|WP_010654624.1|</Hit_id>
+  <Hit_def>peptidase M24 [Fluoribacter dumoffii]</Hit_def>
+  <Hit_accession>WP_010654624</Hit_accession>
+  <Hit_len>409</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>487.649</Hsp_bit-score>
+      <Hsp_score>1254</Hsp_score>
+      <Hsp_evalue>1.47304e-167</Hsp_evalue>
+      <Hsp_query-from>118</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>304</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>372</Hsp_align-len>
+      <Hsp_qseq>GLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGK-------PFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>GFTLSMML--CFGVYAEST-SSVLQTKNKLKQLDAQINSLQQTLNTAHDKRGVLNKELSETEKQIGQGIRKLHSLQEDIKNKENKIADLQKQVSQLNKQLVTQQQLLANHVRARYQMGEYQPLKLLLNQDDPGKISRILTYYQYIIKSRQQLIEKIDNTRAKLSASKEKLRAELDANKQLKQELTQHQEQLQQNKGYHTTLIQSLNHEIQDKQNTLREVRKNKENLARLLNSLARQSIAQESKPMPQSISPFTQMRKKLPFPVQSHGRSLRKMNQGVTFFAEEGAIVTAVYPGKVVFSDWLKGYGLLIIVDHGQGFMTLYAHNQSLFKSKGQYVRQNEQIASVGHTGGIKQNGLYFEIRLRGKAVPPLNWLS</Hsp_hseq>
+      <Hsp_midline>G  L ++L  C G+ A++  +S+ Q + KLKQLDA+IN L+Q L  A DKR VLN+EL  TEKQIG+GIRKL  +Q ++  KE  IA+LQ +++ LNK+L  QQ++LANHVRARYQMGEYQPLK L+NQD+P KI+RILTYYQYII+SRQQLI++I  TR  L+ SK KL  EL  NKQL+ +L+Q+Q+QL+QNK YH+TLIQS++++IQ+ Q +L++ +K+++NL+ L+ SL++QS+ Q  K       PFT MRKKLP PVQ+  RSLR+MNQGVTFFA+EG+IVTAVYPGKVVFSDWLKGYGLL+I+DHGQGFMTLYAHNQSLFK KGQ V+QNEQIASVGHTGGIKQNGLYFEIR RGKAV PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966468573|ref|WP_058499899.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella gratiana] &gt;gi|962221361|gb|KTD06021.1| peptidase, M23 family [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499899</Hit_accession>
+  <Hit_len>406</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>487.263</Hsp_bit-score>
+      <Hsp_score>1253</Hsp_score>
+      <Hsp_evalue>1.76052e-167</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>303</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>ILFCSSLYAESS-SAVLQTQKKLKQLDAQISSLQQTLNSAHDKRGVLNKELSETEKQIGECVQKLRSIQHDINSTEHKITSLQDQVNQLNNQLITQQQLLANHIRARYQMGEYQPIKLLLNQDDPNQVSRILTYYQYIIKSRQQIIEQIDKTRKSLSESKEKLRTELIADKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQDKQNTLHEIKKNKENLTRLLKSLAQQSIIQTSKPFSQMRKKLPLPVQTQDRSFHKMHQGVTFFAEEGAVVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQYVNQNEQIASVGHSGGIKQNGLYFEIRLKGKAIPPLSWLS</Hsp_hseq>
+      <Hsp_midline>+ FC+ L A+++ +++ Q Q KLKQLDA+I+ L+Q L +A DKR VLN+EL  TEKQIGE ++KLR IQ ++++ E  I  LQ ++N LN +L  QQ++LANH+RARYQMGEYQP+K L+NQD+P +++RILTYYQYII+SRQQ+I++I +TR++L++SK KL  EL  +KQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSL+QQS+IQ+ KPF+ MRKKLPLPVQT  RS  +M+QGVTFFA+EG++VTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKA+ PL WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966516711|ref|WP_058533205.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058533205</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>477.248</Hsp_bit-score>
+      <Hsp_score>1227</Hsp_score>
+      <Hsp_evalue>5.33354e-164</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>296</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>367</Hsp_align-len>
+      <Hsp_qseq>SLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>SLGMLLCLHLY--------AAPSTMQQTQSQLKQIDAQINKLQQTLTTAHDKRSVLNRELSATAKQISKSIQELRALQKTLDDKATKIATLQKQVNQLNQQLSAQQKLFATHIRARYQMGEHQPVKWLLNQDDPYKVSRILTYYQYIIKARQQLIGQIDTTRHELTQSQEILNNELAATESLKQELITNQQQLEKNKNYHSALITSLNNEIQSKQNKLLEAQKNKNNLARLLKTLAEQSVPQPSQPFNQMRKKLPFPVQTNRQTLRKMNQGVTFFADEGAVVTAVYPGKVVFSNWLKGYGLLIIVDHGQGFMTLYAHNESLFKRKGELVKQNEQIATVGHSGGIKENGLYFEIRLRGKAIPPLAWLS</Hsp_hseq>
+      <Hsp_midline>SLG+ L + L+        AAP+++ Q Q++LKQ+DA+INKL+Q L  A DKR+VLN+EL +T KQI + I++LR +Q  +  K   IA LQ ++N LN++L AQQ++ A H+RARYQMGE+QP+KWL+NQD+P+K++RILTYYQYII++RQQLI +I  TR  L  S+  L NELA  + L+ +L  NQ+QLE+NK YHS LI S++N+IQ+ Q  L + QK+++NL+ L+K+L++QSV Q  +PF  MRKKLP PVQT  ++LR+MNQGVTFFADEG++VTAVYPGKVVFS+WLKGYGLL+I+DHGQGFMTLYAHN+SLFKRKG++V+QNEQIA+VGH+GGIK+NGLYFEIR RGKA+ PL WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|653017711|ref|WP_027269675.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella sainthelensi] &gt;gi|962270953|gb|KTD54956.1| peptidase, M23 family [Legionella sainthelensi]</Hit_def>
+  <Hit_accession>WP_027269675</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.404</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>5.72674e-164</Hsp_evalue>
+      <Hsp_query-from>125</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>358</Hsp_align-len>
+      <Hsp_qseq>LFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGKPFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>ILFCFNIYAESSP-AVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGACVQKLRSIQNDINSTENKIVGLQNQVNQLNKQLTTQQQLLTNHIRARYHMGEYQPLKLLLNQDDPNKVSRILTYYQYIVKSRQQLINQIDKTRKNLTESKEKLRTELIANKQLKTELTQHQEKLNQNKGYHTALIQSLNHEIQSKQNTLHEAKKNKENLARLLKSLSQQSITQTSKPFSQMRKKLPLPVQTQGRSYRNMHQGVTFFAEEGAVVTAVYPGKIVFSDWLKGYGLLLIVDHGQGFMTLYAHNQSLFKRKGQYVNQNEQIASVGHSGGIKQNGLYFEIRLKGKAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>+ FC  + A+++P ++ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIG  ++KLR IQ ++++ E  I  LQ ++N LNK+L  QQ++L NH+RARY MGEYQPLK L+NQD+P K++RILTYYQYI++SRQQLI++I +TR+NL +SK KL  EL  NKQL+ +L+Q+Q++L QNK YH+ LIQS++++IQ+ Q +L + +K+++NL+ L+KSLSQQS+ Q+ KPF+ MRKKLPLPVQT  RS R M+QGVTFFA+EG++VTAVYPGK+VFSDWLKGYGLLLI+DHGQGFMTLYAHNQSLFKRKGQ V QNEQIASVGH+GGIKQNGLYFEIR +GKA+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|1041901158|ref|WP_065235612.1|</Hit_id>
+  <Hit_def>peptidase M24 [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_065235612</Hit_accession>
+  <Hit_len>396</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>476.478</Hsp_bit-score>
+      <Hsp_score>1225</Hsp_score>
+      <Hsp_evalue>1.8939e-163</Hsp_evalue>
+      <Hsp_query-from>116</Hsp_query-from>
+      <Hsp_query-to>482</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>396</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>SLGLALMVILFFCNGLEAKAAPNSITQAQTKLKQLDAKINKLKQVLANAQDKRTVLNQELGSTEKQIGEGIRKLRIIQANMSAKEKSIAELQGKINHLNKRLQAQQEMLANHVRARYQMGEYQPLKWLINQDEPFKINRILTYYQYIIRSRQQLIDEIARTRQNLNDSKTKLGNELAENKQLQFKLSQNQKQLEQNKRYHSTLIQSIDNDIQNNQQSLKDFQKDRDNLSHLMKSLSQQSVIQSGK-------PFTGMRKKLPLPVQTTHRSLRRMNQGVTFFADEGSIVTAVYPGKVVFSDWLKGYGLLLIIDHGQGFMTLYAHNQSLFKRKGQIVQQNEQIASVGHTGGIKQNGLYFEIRQRGKAVNPLDWLS</Hsp_qseq>
+      <Hsp_hseq>STGLILGILLCFG----AYAESSTVLQTQNKLKQLDAQINSLQQTLNSAHDKRGVLNKELSETEKQIGDGVHKLHSIQEDIKNKENKIADLQKQVNQLTQQLVTQQQLLANHVRARYQMGEYQPLKLLLNQDDPNKVSRILTYYQYIVKSRQQLIEKIDKTRESLSESKEKLRTELNANKQLKAELTQHQAQLQQNKSYHTTLIQSLNHEIQDKQNILREVRRNKENLARLLKSLAQQSITQKNKPFNQASIPFNQMRKKLPLPVQSQSRSLRKMNQGVTFFAEEGTVVTAVYPGKVVFSDWLKGYGLLIIIDHGQGFMTLYAHNQSLFKSKGQYVRQNEQIANVGHSGGIKQNGLYFEIRLRGKAIPPLNWLS</Hsp_hseq>
+      <Hsp_midline>S GL L ++L F     A A  +++ Q Q KLKQLDA+IN L+Q L +A DKR VLN+EL  TEKQIG+G+ KL  IQ ++  KE  IA+LQ ++N L ++L  QQ++LANHVRARYQMGEYQPLK L+NQD+P K++RILTYYQYI++SRQQLI++I +TR++L++SK KL  EL  NKQL+ +L+Q+Q QL+QNK YH+TLIQS++++IQ+ Q  L++ +++++NL+ L+KSL+QQS+ Q  K       PF  MRKKLPLPVQ+  RSLR+MNQGVTFFA+EG++VTAVYPGKVVFSDWLKGYGLL+IIDHGQGFMTLYAHNQSLFK KGQ V+QNEQIA+VGH+GGIKQNGLYFEIR RGKA+ PL+WLS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

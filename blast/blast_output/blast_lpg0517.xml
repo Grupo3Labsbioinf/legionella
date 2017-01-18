@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_196247</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>197</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_196247</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>197</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|505257711|ref|WP_015444813.1|</Hit_id>
+  <Hit_def>Arginine pathway regulatory protein ArgR, repressor of arg regulon [Legionella pneumophila] &gt;gi|469492974|gb|AGH54819.1| Arginine pathway regulatory protein ArgR, repressor of arg regulon [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509081155|gb|AGN13403.1| transcriptional regulator of arginine metabolism [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|998771570|emb|CZI77062.1| Arginine repressor [Legionella pneumophila] &gt;gi|998774481|emb|CZH09299.1| Arginine repressor [Legionella pneumophila] &gt;gi|998777361|emb|CZH13604.1| Arginine repressor [Legionella pneumophila] &gt;gi|998783268|emb|CZH39880.1| Arginine repressor [Legionella pneumophila] &gt;gi|998786271|emb|CZH07698.1| Arginine repressor [Legionella pneumophila] &gt;gi|998795736|emb|CZI43244.1| Arginine repressor [Legionella pneumophila] &gt;gi|998800526|emb|CZL10784.1| Arginine repressor [Legionella pneumophila] &gt;gi|998804150|emb|CZK64893.1| Arginine repressor [Legionella pneumophila] &gt;gi|998807240|emb|CZI32445.1| Arginine repressor [Legionella pneumophila] &gt;gi|998810764|emb|CZI19115.1| Arginine repressor [Legionella pneumophila] &gt;gi|998813077|emb|CZH12666.1| Arginine repressor [Legionella pneumophila] &gt;gi|998816483|emb|CZM23014.1| Arginine repressor [Legionella pneumophila] &gt;gi|998819700|emb|CZL99587.1| Arginine repressor [Legionella pneumophila] &gt;gi|998825596|emb|CZK40696.1| Arginine repressor [Legionella pneumophila] &gt;gi|998832787|emb|CZI17111.1| Arginine repressor [Legionella pneumophila] &gt;gi|998834427|emb|CZL49017.1| Arginine repressor [Legionella pneumophila] &gt;gi|998838658|emb|CZJ28861.1| Arginine repressor [Legionella pneumophila] &gt;gi|998840550|emb|CZL85872.1| Arginine repressor [Legionella pneumophila] &gt;gi|998843130|emb|CZL09790.1| Arginine repressor [Legionella pneumophila] &gt;gi|998846361|emb|CZL10374.1| Arginine repressor [Legionella pneumophila] &gt;gi|998849208|emb|CZI98651.1| Arginine repressor [Legionella pneumophila] &gt;gi|998852474|emb|CZL90152.1| Arginine repressor [Legionella pneumophila] &gt;gi|998855911|emb|CZL52118.1| Arginine repressor [Legionella pneumophila] &gt;gi|998858576|emb|CZM28034.1| Arginine repressor [Legionella pneumophila] &gt;gi|998862274|emb|CZK39843.1| Arginine repressor [Legionella pneumophila] &gt;gi|998864723|emb|CZJ86059.1| Arginine repressor [Legionella pneumophila] &gt;gi|998867173|emb|CZJ81779.1| Arginine repressor [Legionella pneumophila] &gt;gi|998870241|emb|CZM43208.1| Arginine repressor [Legionella pneumophila] &gt;gi|998873660|emb|CZK73666.1| Arginine repressor [Legionella pneumophila] &gt;gi|998876254|emb|CZM48752.1| Arginine repressor [Legionella pneumophila] &gt;gi|998879373|emb|CZJ76481.1| Arginine repressor [Legionella pneumophila] &gt;gi|998885825|emb|CZM37401.1| Arginine repressor [Legionella pneumophila] &gt;gi|998888633|emb|CZK51187.1| Arginine repressor [Legionella pneumophila] &gt;gi|998895766|emb|CZK07593.1| Arginine repressor [Legionella pneumophila] &gt;gi|998905302|emb|CZK94407.1| Arginine repressor [Legionella pneumophila] &gt;gi|998908457|emb|CZL69615.1| Arginine repressor [Legionella pneumophila] &gt;gi|998916052|emb|CZK70848.1| Arginine repressor [Legionella pneumophila] &gt;gi|998917527|emb|CZL65694.1| Arginine repressor [Legionella pneumophila] &gt;gi|998920507|emb|CZL71859.1| Arginine repressor [Legionella pneumophila] &gt;gi|998926866|emb|CZL99936.1| Arginine repressor [Legionella pneumophila] &gt;gi|998930884|emb|CZK81793.1| Arginine repressor [Legionella pneumophila] &gt;gi|998933713|emb|CZL69016.1| Arginine repressor [Legionella pneumophila] &gt;gi|998938779|emb|CZL21926.1| Arginine repressor [Legionella pneumophila] &gt;gi|998946216|emb|CZK69872.1| Arginine repressor [Legionella pneumophila] &gt;gi|998948026|emb|CZL30543.1| Arginine repressor [Legionella pneumophila] &gt;gi|998956994|emb|CZM68697.1| Arginine repressor [Legionella pneumophila] &gt;gi|998960427|emb|CZK67067.1| Arginine repressor [Legionella pneumophila] &gt;gi|998963197|emb|CZK81198.1| Arginine repressor [Legionella pneumophila] &gt;gi|998966747|emb|CZM43318.1| Arginine repressor [Legionella pneumophila] &gt;gi|998969341|emb|CZL04882.1| Arginine repressor [Legionella pneumophila] &gt;gi|998972350|emb|CZK81641.1| Arginine repressor [Legionella pneumophila] &gt;gi|998978464|emb|CZM00380.1| Arginine repressor [Legionella pneumophila] &gt;gi|998986074|emb|CZK08675.1| Arginine repressor [Legionella pneumophila] &gt;gi|998987538|emb|CZL90675.1| Arginine repressor [Legionella pneumophila] &gt;gi|998998242|emb|CZJ95862.1| Arginine repressor [Legionella pneumophila] &gt;gi|999006460|emb|CZL24614.1| Arginine repressor [Legionella pneumophila] &gt;gi|999011925|emb|CZL85759.1| Arginine repressor [Legionella pneumophila] &gt;gi|999014966|emb|CZM79819.1| Arginine repressor [Legionella pneumophila] &gt;gi|999021187|emb|CZL92605.1| Arginine repressor [Legionella pneumophila] &gt;gi|999024082|emb|CZL21956.1| Arginine repressor [Legionella pneumophila] &gt;gi|999036197|emb|CZL84564.1| Arginine repressor [Legionella pneumophila] &gt;gi|999045273|emb|CZM32205.1| Arginine repressor [Legionella pneumophila] &gt;gi|999060251|emb|CZL78698.1| Arginine repressor [Legionella pneumophila] &gt;gi|999066449|emb|CZJ49242.1| Arginine repressor [Legionella pneumophila] &gt;gi|999075332|emb|CZH15360.1| Arginine repressor [Legionella pneumophila] &gt;gi|999078582|emb|CZK43187.1| Arginine repressor [Legionella pneumophila] &gt;gi|999083049|emb|CZK85450.1| Arginine repressor [Legionella pneumophila] &gt;gi|999087939|emb|CZL16844.1| Arginine repressor [Legionella pneumophila] &gt;gi|999091001|emb|CZL92483.1| Arginine repressor [Legionella pneumophila] &gt;gi|999093841|emb|CZH48032.1| Arginine repressor [Legionella pneumophila] &gt;gi|999097007|emb|CZH53949.1| Arginine repressor [Legionella pneumophila] &gt;gi|999101354|emb|CZL74504.1| Arginine repressor [Legionella pneumophila] &gt;gi|999110960|emb|CZL05730.1| Arginine repressor [Legionella pneumophila] &gt;gi|999114015|emb|CZL58291.1| Arginine repressor [Legionella pneumophila] &gt;gi|999115907|emb|CZK72425.1| Arginine repressor [Legionella pneumophila] &gt;gi|999124784|emb|CZL33449.1| Arginine repressor [Legionella pneumophila] &gt;gi|999132547|emb|CZL70996.1| Arginine repressor [Legionella pneumophila] &gt;gi|999133851|emb|CZL46606.1| Arginine repressor [Legionella pneumophila] &gt;gi|999137013|emb|CZK90542.1| Arginine repressor [Legionella pneumophila] &gt;gi|999140850|emb|CZL84527.1| Arginine repressor [Legionella pneumophila] &gt;gi|999144809|emb|CZK79783.1| Arginine repressor [Legionella pneumophila] &gt;gi|999146337|emb|CZM09903.1| Arginine repressor [Legionella pneumophila] &gt;gi|999155647|emb|CZI38965.1| Arginine repressor [Legionella pneumophila] &gt;gi|999174248|emb|CZL62593.1| Arginine repressor [Legionella pneumophila] &gt;gi|999189839|emb|CZI76729.1| Arginine repressor [Legionella pneumophila] &gt;gi|999192959|emb|CZJ18089.1| Arginine repressor [Legionella pneumophila] &gt;gi|999199212|emb|CZH00142.1| Arginine repressor [Legionella pneumophila] &gt;gi|999202168|emb|CZJ22969.1| Arginine repressor [Legionella pneumophila] &gt;gi|999208471|emb|CZL36738.1| Arginine repressor [Legionella pneumophila] &gt;gi|999217981|emb|CZM06940.1| Arginine repressor [Legionella pneumophila] &gt;gi|999220950|emb|CZJ09969.1| Arginine repressor [Legionella pneumophila] &gt;gi|999333390|emb|CZL31900.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002074318|emb|CZR05670.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002078850|emb|CZQ92377.1| Arginine repressor [Legionella pneumophila] &gt;gi|1003021422|emb|CZR26700.1| argR arginine repressor [Legionella pneumophila] &gt;gi|1003024538|emb|CZR30373.1| argR arginine repressor [Legionella pneumophila] &gt;gi|1073863659|gb|AOU03610.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073866617|gb|AOU06567.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073869622|gb|AOU09571.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073872566|gb|AOU12514.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073875548|gb|AOU15495.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073878509|gb|AOU18455.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073881504|gb|AOU21449.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073884466|gb|AOU24410.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073887464|gb|AOU27407.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073890449|gb|AOU30391.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073893414|gb|AOU33355.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073896378|gb|AOU36318.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073899342|gb|AOU39281.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073902293|gb|AOU42231.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073905204|gb|AOU45141.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073908222|gb|AOU48157.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073911277|gb|AOU51209.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073914196|gb|AOU54127.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073917154|gb|AOU57084.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073920120|gb|AOU60049.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073923095|gb|AOU63022.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073926107|gb|AOU66033.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073929087|gb|AOU68996.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073932472|gb|AOU72031.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073935419|gb|AOU82418.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073945694|gb|AOU85418.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1073948657|gb|AOU88380.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1104001807|emb|SFZ36262.1| Arginine repressor [Legionella pneumophila] &gt;gi|1129967272|gb|APT97631.1| ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_015444813</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>216.083</Hsp_bit-score>
+      <Hsp_score>549</Hsp_score>
+      <Hsp_evalue>6.24873e-69</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|499248698|ref|WP_010946238.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|52840735|ref|YP_094534.1| arginine repressor ArgR [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52627846|gb|AAU26587.1| arginine repressor [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|364507247|gb|AEW50771.1| arginine repressor [Legionella pneumophila subsp. pneumophila ATCC 43290]</Hit_def>
+  <Hit_accession>WP_010946238</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>7.83839e-69</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|653014621|ref|WP_027266651.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027266651</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.312</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.06819e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>103</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIVKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLI+KSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|652967243|ref|WP_027220215.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|998782981|emb|CZI84344.1| Arginine repressor [Legionella pneumophila] &gt;gi|998822445|emb|CZH33862.1| Arginine repressor [Legionella pneumophila] &gt;gi|998828287|emb|CZH36696.1| Arginine repressor [Legionella pneumophila] &gt;gi|998883035|emb|CZI85978.1| Arginine repressor [Legionella pneumophila] &gt;gi|998897672|emb|CZK07093.1| Arginine repressor [Legionella pneumophila] &gt;gi|998937999|emb|CZL85537.1| Arginine repressor [Legionella pneumophila] &gt;gi|998951038|emb|CZJ94199.1| Arginine repressor [Legionella pneumophila] &gt;gi|999000058|emb|CZG93442.1| Arginine repressor [Legionella pneumophila] &gt;gi|999058478|emb|CZM31041.1| Arginine repressor [Legionella pneumophila] &gt;gi|999103736|emb|CZI20734.1| Arginine repressor [Legionella pneumophila] &gt;gi|999128470|emb|CZH14662.1| Arginine repressor [Legionella pneumophila] &gt;gi|999152594|emb|CZM81319.1| Arginine repressor [Legionella pneumophila] &gt;gi|999161925|emb|CZM40407.1| Arginine repressor [Legionella pneumophila] &gt;gi|999225289|emb|CZG81688.1| Arginine repressor [Legionella pneumophila] &gt;gi|999236739|emb|CZG94827.1| Arginine repressor [Legionella pneumophila] &gt;gi|999247918|emb|CZH57811.1| Arginine repressor [Legionella pneumophila] &gt;gi|999454027|emb|CZI19943.1| Arginine repressor [Legionella pneumophila] &gt;gi|999460491|emb|CZG98986.1| Arginine repressor [Legionella pneumophila] &gt;gi|999773164|emb|CZH91005.1| Arginine repressor [Legionella pneumophila] &gt;gi|999796152|emb|CZI25211.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002085582|emb|CZQ97645.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002088268|emb|CZQ79027.1| Arginine repressor [Legionella pneumophila] &gt;gi|1104005372|emb|SFZ36202.1| Arginine repressor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_027220215</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.312</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.16591e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>103</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|536613683|gb|ERB42055.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella pneumophila str. 121004] &gt;gi|541995651|gb|ERH41750.1| arginine repressor ArgR [Legionella pneumophila str. Leg01/11] &gt;gi|541997391|gb|ERH43437.1| arginine repressor ArgR [Legionella pneumophila str. Leg01/53] &gt;gi|542121221|gb|ERI47554.1| arginine repressor ArgR [Legionella pneumophila str. Leg01/20]</Hit_def>
+  <Hit_accession>ERB42055</Hit_accession>
+  <Hit_len>146</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>3.9251e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>146</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSSNSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDS+NSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|998793164|emb|CZI52789.1|</Hit_id>
+  <Hit_def>Arginine repressor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>CZI52789</Hit_accession>
+  <Hit_len>158</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>214.157</Hsp_bit-score>
+      <Hsp_score>544</Hsp_score>
+      <Hsp_evalue>4.01728e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>55</Hsp_hit-from>
+      <Hsp_hit-to>158</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSSNSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDS+NSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1004017610|ref|WP_061485335.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061485335</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>4.19412e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSSNSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDS+NSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|499526479|ref|WP_011213119.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella pneumophila] &gt;gi|53750306|emb|CAH11700.1| hypothetical protein lpp0552 [Legionella pneumophila str. Paris] &gt;gi|148282669|gb|ABQ56757.1| arginine repressor [Legionella pneumophila str. Corby] &gt;gi|295647939|gb|ADG23786.1| argR arginine repressor [Legionella pneumophila 2300/99 Alcoy] &gt;gi|395126472|emb|CCD04655.1| arginine repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|395129578|emb|CCD07811.1| arginine repressor [Legionella pneumophila subsp. pneumophila] &gt;gi|761989524|dbj|GAN22587.1| arginine repressor [Legionella pneumophila] &gt;gi|761992711|dbj|GAN16499.1| arginine repressor [Legionella pneumophila] &gt;gi|761995901|dbj|GAN19605.1| arginine repressor [Legionella pneumophila] &gt;gi|761999048|dbj|GAN28937.1| arginine repressor [Legionella pneumophila] &gt;gi|762002509|dbj|GAN25627.1| arginine repressor [Legionella pneumophila] &gt;gi|998791219|emb|CZG38957.1| Arginine repressor [Legionella pneumophila] &gt;gi|998801868|emb|CZI09667.1| Arginine repressor [Legionella pneumophila] &gt;gi|998892658|emb|CZJ25582.1| Arginine repressor [Legionella pneumophila] &gt;gi|998912129|emb|CZH22547.1| Arginine repressor [Legionella pneumophila] &gt;gi|998923770|emb|CZK26181.1| Arginine repressor [Legionella pneumophila] &gt;gi|998943840|emb|CZJ51290.1| Arginine repressor [Legionella pneumophila] &gt;gi|998954377|emb|CZK62532.1| Arginine repressor [Legionella pneumophila] &gt;gi|998975548|emb|CZJ91714.1| Arginine repressor [Legionella pneumophila] &gt;gi|998982405|emb|CZI65487.1| Arginine repressor [Legionella pneumophila] &gt;gi|998992786|emb|CZJ45829.1| Arginine repressor [Legionella pneumophila] &gt;gi|998994548|emb|CZI21243.1| Arginine repressor [Legionella pneumophila] &gt;gi|999003171|emb|CZI82704.1| Arginine repressor [Legionella pneumophila] &gt;gi|999009018|emb|CZK44607.1| Arginine repressor [Legionella pneumophila] &gt;gi|999018180|emb|CZJ85922.1| Arginine repressor [Legionella pneumophila] &gt;gi|999027295|emb|CZK23291.1| Arginine repressor [Legionella pneumophila] &gt;gi|999030604|emb|CZH25291.1| Arginine repressor [Legionella pneumophila] &gt;gi|999033245|emb|CZK19824.1| Arginine repressor [Legionella pneumophila] &gt;gi|999039451|emb|CZJ94594.1| Arginine repressor [Legionella pneumophila] &gt;gi|999042483|emb|CZK06105.1| Arginine repressor [Legionella pneumophila] &gt;gi|999048484|emb|CZK00671.1| Arginine repressor [Legionella pneumophila] &gt;gi|999051613|emb|CZJ93719.1| Arginine repressor [Legionella pneumophila] &gt;gi|999054508|emb|CZK27762.1| Arginine repressor [Legionella pneumophila] &gt;gi|999063725|emb|CZK03546.1| Arginine repressor [Legionella pneumophila] &gt;gi|999070532|emb|CZJ63669.1| Arginine repressor [Legionella pneumophila] &gt;gi|999072751|emb|CZK30118.1| Arginine repressor [Legionella pneumophila] &gt;gi|999085033|emb|CZK32409.1| Arginine repressor [Legionella pneumophila] &gt;gi|999107535|emb|CZI63232.1| Arginine repressor [Legionella pneumophila] &gt;gi|999149941|emb|CZI47751.1| Arginine repressor [Legionella pneumophila] &gt;gi|999159291|emb|CZJ68147.1| Arginine repressor [Legionella pneumophila] &gt;gi|999165652|emb|CZG82083.1| Arginine repressor [Legionella pneumophila] &gt;gi|999168589|emb|CZI44488.1| Arginine repressor [Legionella pneumophila] &gt;gi|999171892|emb|CZI30729.1| Arginine repressor [Legionella pneumophila] &gt;gi|999178298|emb|CZJ55033.1| Arginine repressor [Legionella pneumophila] &gt;gi|999181681|emb|CZG52650.1| Arginine repressor [Legionella pneumophila] &gt;gi|999184368|emb|CZP96497.1| Arginine repressor [Legionella pneumophila] &gt;gi|999187849|emb|CZI96207.1| Arginine repressor [Legionella pneumophila] &gt;gi|999198501|emb|CZP15092.1| Arginine repressor [Legionella pneumophila] &gt;gi|999206234|emb|CZP64306.1| Arginine repressor [Legionella pneumophila] &gt;gi|999212765|emb|CZG79780.1| Arginine repressor [Legionella pneumophila] &gt;gi|999216877|emb|CZI64647.1| Arginine repressor [Legionella pneumophila] &gt;gi|999228337|emb|CZP10086.1| Arginine repressor [Legionella pneumophila] &gt;gi|999231764|emb|CZI43714.1| Arginine repressor [Legionella pneumophila] &gt;gi|999235242|emb|CZP59708.1| Arginine repressor [Legionella pneumophila] &gt;gi|999240248|emb|CZH89431.1| Arginine repressor [Legionella pneumophila] &gt;gi|999244407|emb|CZH77958.1| Arginine repressor [Legionella pneumophila] &gt;gi|999248814|emb|CZH09466.1| Arginine repressor [Legionella pneumophila] &gt;gi|999252030|emb|CZH38355.1| Arginine repressor [Legionella pneumophila] &gt;gi|999256019|emb|CZP80774.1| Arginine repressor [Legionella pneumophila] &gt;gi|999259075|emb|CZP45843.1| Arginine repressor [Legionella pneumophila] &gt;gi|999261338|emb|CZH42921.1| Arginine repressor [Legionella pneumophila] &gt;gi|999265254|emb|CZP08199.1| Arginine repressor [Legionella pneumophila] &gt;gi|999269466|emb|CZO34386.1| Arginine repressor [Legionella pneumophila] &gt;gi|999272268|emb|CZP59521.1| Arginine repressor [Legionella pneumophila] &gt;gi|999274836|emb|CZG80981.1| Arginine repressor [Legionella pneumophila] &gt;gi|999277650|emb|CZP38478.1| Arginine repressor [Legionella pneumophila] &gt;gi|999281319|emb|CZP14651.1| Arginine repressor [Legionella pneumophila] &gt;gi|999283713|emb|CZP62738.1| Arginine repressor [Legionella pneumophila] &gt;gi|999287238|emb|CZI47232.1| Arginine repressor [Legionella pneumophila] &gt;gi|999291030|emb|CZP33387.1| Arginine repressor [Legionella pneumophila] &gt;gi|999293634|emb|CZI46307.1| Arginine repressor [Legionella pneumophila] &gt;gi|999296443|emb|CZP57214.1| Arginine repressor [Legionella pneumophila] &gt;gi|999299530|emb|CZP46033.1| Arginine repressor [Legionella pneumophila] &gt;gi|999302851|emb|CZI37841.1| Arginine repressor [Legionella pneumophila] &gt;gi|999307348|emb|CZH71818.1| Arginine repressor [Legionella pneumophila] &gt;gi|999309412|emb|CZP28472.1| Arginine repressor [Legionella pneumophila] &gt;gi|999312677|emb|CZI54345.1| Arginine repressor [Legionella pneumophila] &gt;gi|999315780|emb|CZI08669.1| Arginine repressor [Legionella pneumophila] &gt;gi|999318720|emb|CZP66088.1| Arginine repressor [Legionella pneumophila] &gt;gi|999322062|emb|CZH99860.1| Arginine repressor [Legionella pneumophila] &gt;gi|999324399|emb|CZH31879.1| Arginine repressor [Legionella pneumophila] &gt;gi|999328665|emb|CZG66166.1| Arginine repressor [Legionella pneumophila] &gt;gi|999331780|emb|CZG56795.1| Arginine repressor [Legionella pneumophila] &gt;gi|999337799|emb|CZP48400.1| Arginine repressor [Legionella pneumophila] &gt;gi|999340122|emb|CZH27450.1| Arginine repressor [Legionella pneumophila] &gt;gi|999344410|emb|CZP83458.1| Arginine repressor [Legionella pneumophila] &gt;gi|999347251|emb|CZP64295.1| Arginine repressor [Legionella pneumophila] &gt;gi|999349665|emb|CZH39683.1| Arginine repressor [Legionella pneumophila] &gt;gi|999353431|emb|CZP67567.1| Arginine repressor [Legionella pneumophila] &gt;gi|999357189|emb|CZP67067.1| Arginine repressor [Legionella pneumophila] &gt;gi|999360011|emb|CZI62958.1| Arginine repressor [Legionella pneumophila] &gt;gi|999363769|emb|CZP55344.1| Arginine repressor [Legionella pneumophila] &gt;gi|999367159|emb|CZP78121.1| Arginine repressor [Legionella pneumophila] &gt;gi|999369898|emb|CZP76761.1| Arginine repressor [Legionella pneumophila] &gt;gi|999373417|emb|CZG55985.1| Arginine repressor [Legionella pneumophila] &gt;gi|999376451|emb|CZJ17491.1| Arginine repressor [Legionella pneumophila] &gt;gi|999379792|emb|CZH70440.1| Arginine repressor [Legionella pneumophila] &gt;gi|999382687|emb|CZI59268.1| Arginine repressor [Legionella pneumophila] &gt;gi|999386244|emb|CZG63115.1| Arginine repressor [Legionella pneumophila] &gt;gi|999389137|emb|CZI58014.1| Arginine repressor [Legionella pneumophila] &gt;gi|999392348|emb|CZP98656.1| Arginine repressor [Legionella pneumophila] &gt;gi|999396865|emb|CZG07746.1| Arginine repressor [Legionella pneumophila] &gt;gi|999398596|emb|CZQ01374.1| Arginine repressor [Legionella pneumophila] &gt;gi|999403079|emb|CZP39679.1| Arginine repressor [Legionella pneumophila] &gt;gi|999405881|emb|CZG70129.1| Arginine repressor [Legionella pneumophila] &gt;gi|999408932|emb|CZH92869.1| Arginine repressor [Legionella pneumophila] &gt;gi|999412780|emb|CZG33985.1| Arginine repressor [Legionella pneumophila] &gt;gi|999415393|emb|CZG86760.1| Arginine repressor [Legionella pneumophila] &gt;gi|999418733|emb|CZG63355.1| Arginine repressor [Legionella pneumophila] &gt;gi|999421928|emb|CZH72206.1| Arginine repressor [Legionella pneumophila] &gt;gi|999425242|emb|CZG73938.1| Arginine repressor [Legionella pneumophila] &gt;gi|999428404|emb|CZG74242.1| Arginine repressor [Legionella pneumophila] &gt;gi|999431606|emb|CZG72020.1| Arginine repressor [Legionella pneumophila] &gt;gi|999434964|emb|CZH98880.1| Arginine repressor [Legionella pneumophila] &gt;gi|999438148|emb|CZG61257.1| Arginine repressor [Legionella pneumophila] &gt;gi|999441144|emb|CZK27723.1| argR arginine repressor [Legionella pneumophila] &gt;gi|999444663|emb|CZH78323.1| Arginine repressor [Legionella pneumophila] &gt;gi|999447866|emb|CZG54517.1| Arginine repressor [Legionella pneumophila] &gt;gi|999450665|emb|CZP36914.1| Arginine repressor [Legionella pneumophila] &gt;gi|999457607|emb|CZK23304.1| Arginine repressor [Legionella pneumophila] &gt;gi|999464810|emb|CZM50903.1| Arginine repressor [Legionella pneumophila] &gt;gi|999467834|emb|CZO28238.1| Arginine repressor [Legionella pneumophila] &gt;gi|999469355|emb|CZH08212.1| Arginine repressor [Legionella pneumophila] &gt;gi|999474741|emb|CZM63310.1| Arginine repressor [Legionella pneumophila] &gt;gi|999477198|emb|CZN76201.1| Arginine repressor [Legionella pneumophila] &gt;gi|999480700|emb|CZN01652.1| Arginine repressor [Legionella pneumophila] &gt;gi|999484209|emb|CZN87854.1| Arginine repressor [Legionella pneumophila] &gt;gi|999487132|emb|CZM12678.1| Arginine repressor [Legionella pneumophila] &gt;gi|999490305|emb|CZN80518.1| Arginine repressor [Legionella pneumophila] &gt;gi|999493496|emb|CZM12084.1| Arginine repressor [Legionella pneumophila] &gt;gi|999496292|emb|CZI48064.1| Arginine repressor [Legionella pneumophila] &gt;gi|999500076|emb|CZN74615.1| Arginine repressor [Legionella pneumophila] &gt;gi|999503202|emb|CZO09476.1| Arginine repressor [Legionella pneumophila] &gt;gi|999506330|emb|CZN14870.1| Arginine repressor [Legionella pneumophila] &gt;gi|999509533|emb|CZG49928.1| Arginine repressor [Legionella pneumophila] &gt;gi|999512871|emb|CZN29133.1| Arginine repressor [Legionella pneumophila] &gt;gi|999516041|emb|CZM01500.1| Arginine repressor [Legionella pneumophila] &gt;gi|999518962|emb|CZM83192.1| Arginine repressor [Legionella pneumophila] &gt;gi|999521908|emb|CZP17777.1| Arginine repressor [Legionella pneumophila] &gt;gi|999525321|emb|CZJ06176.1| Arginine repressor [Legionella pneumophila] &gt;gi|999528034|emb|CZI73117.1| Arginine repressor [Legionella pneumophila] &gt;gi|999532318|emb|CZO44851.1| Arginine repressor [Legionella pneumophila] &gt;gi|999535474|emb|CZN39149.1| Arginine repressor [Legionella pneumophila] &gt;gi|999538555|emb|CZM74403.1| Arginine repressor [Legionella pneumophila] &gt;gi|999541999|emb|CZO19795.1| Arginine repressor [Legionella pneumophila] &gt;gi|999544961|emb|CZO60043.1| Arginine repressor [Legionella pneumophila] &gt;gi|999548195|emb|CZN90294.1| Arginine repressor [Legionella pneumophila] &gt;gi|999551507|emb|CZO12490.1| Arginine repressor [Legionella pneumophila] &gt;gi|999554542|emb|CZN32531.1| Arginine repressor [Legionella pneumophila] &gt;gi|999557883|emb|CZO54797.1| Arginine repressor [Legionella pneumophila] &gt;gi|999561108|emb|CZM43279.1| Arginine repressor [Legionella pneumophila] &gt;gi|999564114|emb|CZO68186.1| Arginine repressor [Legionella pneumophila] &gt;gi|999567478|emb|CZM53718.1| Arginine repressor [Legionella pneumophila] &gt;gi|999570678|emb|CZN51640.1| Arginine repressor [Legionella pneumophila] &gt;gi|999573866|emb|CZN94022.1| Arginine repressor [Legionella pneumophila] &gt;gi|999576065|emb|CZI43309.1| Arginine repressor [Legionella pneumophila] &gt;gi|999580358|emb|CZO17947.1| Arginine repressor [Legionella pneumophila] &gt;gi|999583646|emb|CZO39230.1| Arginine repressor [Legionella pneumophila] &gt;gi|999587009|emb|CZM66162.1| Arginine repressor [Legionella pneumophila] &gt;gi|999589956|emb|CZM39381.1| Arginine repressor [Legionella pneumophila] &gt;gi|999593115|emb|CZN44341.1| Arginine repressor [Legionella pneumophila] &gt;gi|999596188|emb|CZO10803.1| Arginine repressor [Legionella pneumophila] &gt;gi|999599508|emb|CZO36487.1| Arginine repressor [Legionella pneumophila] &gt;gi|999602666|emb|CZL98281.1| Arginine repressor [Legionella pneumophila] &gt;gi|999605454|emb|CZN74149.1| Arginine repressor [Legionella pneumophila] &gt;gi|999608991|emb|CZN64196.1| Arginine repressor [Legionella pneumophila] &gt;gi|999611321|emb|CZI64203.1| Arginine repressor [Legionella pneumophila] &gt;gi|999615603|emb|CZM48760.1| Arginine repressor [Legionella pneumophila] &gt;gi|999618628|emb|CZN89412.1| Arginine repressor [Legionella pneumophila] &gt;gi|999621802|emb|CZO83137.1| Arginine repressor [Legionella pneumophila] &gt;gi|999625130|emb|CZN72479.1| Arginine repressor [Legionella pneumophila] &gt;gi|999628371|emb|CZM61931.1| Arginine repressor [Legionella pneumophila] &gt;gi|999631579|emb|CZM60180.1| Arginine repressor [Legionella pneumophila] &gt;gi|999634639|emb|CZN60531.1| Arginine repressor [Legionella pneumophila] &gt;gi|999637967|emb|CZN52723.1| Arginine repressor [Legionella pneumophila] &gt;gi|999641163|emb|CZO80733.1| Arginine repressor [Legionella pneumophila] &gt;gi|999644155|emb|CZO54348.1| Arginine repressor [Legionella pneumophila] &gt;gi|999647646|emb|CZN95668.1| Arginine repressor [Legionella pneumophila] &gt;gi|999650668|emb|CZO04348.1| Arginine repressor [Legionella pneumophila] &gt;gi|999653947|emb|CZO01744.1| Arginine repressor [Legionella pneumophila] &gt;gi|999657144|emb|CZM30747.1| Arginine repressor [Legionella pneumophila] &gt;gi|999660218|emb|CZM65933.1| Arginine repressor [Legionella pneumophila] &gt;gi|999663351|emb|CZN16339.1| Arginine repressor [Legionella pneumophila] &gt;gi|999666716|emb|CZM36807.1| Arginine repressor [Legionella pneumophila] &gt;gi|999669908|emb|CZL83508.1| Arginine repressor [Legionella pneumophila] &gt;gi|999673128|emb|CZM38616.1| Arginine repressor [Legionella pneumophila] &gt;gi|999676302|emb|CZN76819.1| Arginine repressor [Legionella pneumophila] &gt;gi|999679353|emb|CZM80415.1| Arginine repressor [Legionella pneumophila] &gt;gi|999682548|emb|CZM83075.1| Arginine repressor [Legionella pneumophila] &gt;gi|999686235|emb|CZO01323.1| Arginine repressor [Legionella pneumophila] &gt;gi|999689097|emb|CZN29870.1| Arginine repressor [Legionella pneumophila] &gt;gi|999692290|emb|CZN98236.1| Arginine repressor [Legionella pneumophila] &gt;gi|999695507|emb|CZN28154.1| Arginine repressor [Legionella pneumophila] &gt;gi|999698826|emb|CZM13128.1| Arginine repressor [Legionella pneumophila] &gt;gi|999701770|emb|CZM79709.1| Arginine repressor [Legionella pneumophila] &gt;gi|999705005|emb|CZL95923.1| Arginine repressor [Legionella pneumophila] &gt;gi|999708137|emb|CZN56210.1| Arginine repressor [Legionella pneumophila] &gt;gi|999711556|emb|CZN00012.1| Arginine repressor [Legionella pneumophila] &gt;gi|999714652|emb|CZN20492.1| Arginine repressor [Legionella pneumophila] &gt;gi|999718018|emb|CZO46948.1| Arginine repressor [Legionella pneumophila] &gt;gi|999720974|emb|CZM94724.1| Arginine repressor [Legionella pneumophila] &gt;gi|999724493|emb|CZN35331.1| Arginine repressor [Legionella pneumophila] &gt;gi|999727802|emb|CZL98423.1| Arginine repressor [Legionella pneumophila] &gt;gi|999731015|emb|CZO44257.1| Arginine repressor [Legionella pneumophila] &gt;gi|999734145|emb|CZM24937.1| Arginine repressor [Legionella pneumophila] &gt;gi|999737515|emb|CZO71515.1| Arginine repressor [Legionella pneumophila] &gt;gi|999740996|emb|CZM32502.1| Arginine repressor [Legionella pneumophila] &gt;gi|999744066|emb|CZN26022.1| Arginine repressor [Legionella pneumophila] &gt;gi|999747208|emb|CZM24271.1| Arginine repressor [Legionella pneumophila] &gt;gi|999750560|emb|CZL97320.1| Arginine repressor [Legionella pneumophila] &gt;gi|999753756|emb|CZM82048.1| Arginine repressor [Legionella pneumophila] &gt;gi|999756807|emb|CZN11602.1| Arginine repressor [Legionella pneumophila] &gt;gi|999760308|emb|CZM25445.1| Arginine repressor [Legionella pneumophila] &gt;gi|999763347|emb|CZN29382.1| Arginine repressor [Legionella pneumophila] &gt;gi|999766873|emb|CZM47150.1| Arginine repressor [Legionella pneumophila] &gt;gi|999769722|emb|CZN49610.1| Arginine repressor [Legionella pneumophila] &gt;gi|999776186|emb|CZL99169.1| Arginine repressor [Legionella pneumophila] &gt;gi|999777451|emb|CZH48417.1| Arginine repressor [Legionella pneumophila] &gt;gi|999782926|emb|CZH63230.1| Arginine repressor [Legionella pneumophila] &gt;gi|999786385|emb|CZM23532.1| Arginine repressor [Legionella pneumophila] &gt;gi|999789550|emb|CZO65968.1| Arginine repressor [Legionella pneumophila] &gt;gi|999792895|emb|CZO59864.1| Arginine repressor [Legionella pneumophila] &gt;gi|999799780|emb|CZO54650.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002081573|emb|CZR00036.1| Arginine repressor [Legionella pneumophila] &gt;gi|1002092753|emb|CZQ95272.1| Arginine repressor [Legionella pneumophila] &gt;gi|1003029223|emb|CZR19232.1| argR arginine repressor [Legionella pneumophila] &gt;gi|1003032409|emb|CZR25016.1| Arginine repressor [Legionella pneumophila] &gt;gi|1003036406|emb|CZR17184.1| argR arginine repressor [Legionella pneumophila] &gt;gi|1005832260|gb|AMQ26986.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1015431624|gb|AMV13251.1| Arginine repressor [Legionella pneumophila] &gt;gi|1032656668|gb|ANH11939.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1032659635|gb|ANH14905.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1032662602|gb|ANH17871.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1041014530|gb|ANN91591.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1041017627|gb|ANN94687.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1103995557|emb|SFZ36560.1| Arginine repressor [Legionella pneumophila] &gt;gi|1103998688|emb|SFZ36271.1| Arginine repressor [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_011213119</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>4.67906e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSSNSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDS+NSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|499533447|ref|WP_011214731.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella pneumophila] &gt;gi|53753311|emb|CAH14758.1| hypothetical protein lpl0528 [Legionella pneumophila str. Lens] &gt;gi|1080002235|gb|AOW52807.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1080006011|gb|AOW56291.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1080008129|gb|AOW58117.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1080012209|gb|AOW61700.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1080014734|gb|AOW63607.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila] &gt;gi|1080018453|gb|AOW67098.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pneumophila]</Hit_def>
+  <Hit_accession>WP_011214731</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.772</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>4.78258e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSEQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKS+QQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|646380408|ref|WP_025519304.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_025519304</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>213.386</Hsp_bit-score>
+      <Hsp_score>542</Hsp_score>
+      <Hsp_evalue>6.01795e-68</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSSNSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDS+NSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|652970665|ref|WP_027223557.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1005362765|gb|AMP88634.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pascullei] &gt;gi|1005365766|gb|AMP91543.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. pascullei]</Hit_def>
+  <Hit_accession>WP_027223557</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>209.534</Hsp_bit-score>
+      <Hsp_score>532</Hsp_score>
+      <Hsp_evalue>2.12993e-66</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>KMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKESSHSGILGTIAGDDTVLLIIKSKSDQQKVHDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline> MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIK+S++SGILGTIAGDDTVLLIIKSKSDQQKV DILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|652976192|ref|WP_027228865.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|985765968|gb|KXB27079.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|985767722|gb|KXB28808.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|999119287|emb|CZG77060.1| Arginine repressor [Legionella pneumophila] &gt;gi|999122505|emb|CZH11731.1| Arginine repressor [Legionella pneumophila] &gt;gi|1024341653|gb|KZX35960.1| ArgR family transcriptional regulator [Legionella pneumophila] &gt;gi|1108603968|gb|APF02336.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. fraseri] &gt;gi|1108606979|gb|APF05346.1| ArgR family transcriptional regulator [Legionella pneumophila subsp. fraseri]</Hit_def>
+  <Hit_accession>WP_027228865</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.608</Hsp_bit-score>
+      <Hsp_score>527</Hsp_score>
+      <Hsp_evalue>1.111e-65</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>KMKIAKVSGYYKIIDYNQPGLPLVLNIQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKESSHSGILGTIAGDDTVLLIIKSKSDQQKVHDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline> MKIAKVSGYYKIIDYNQPGLPLVLN+Q+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIK+S++SGILGTIAGDDTVLLIIKSKSDQQKV DILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1004049815|ref|WP_061504428.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061504428</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.223</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>1.4927e-65</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>KMKIAKVSGYYKIIDYNQPGLPLVLNIQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKESSHSGILGTIAGDDTVLLIIKSKSDQQKVHDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline> MKIAKVSGYYKIIDYNQPGLPLVLN+Q+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIK+S++SGILGTIAGDDTVLLIIKSKSDQQKV DILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1004334279|ref|WP_061513204.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_061513204</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>204.527</Hsp_bit-score>
+      <Hsp_score>519</Hsp_score>
+      <Hsp_evalue>1.69232e-64</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNIQSSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKESSNSGILGTIAGDDTVLLIIKSKFDQQKVHDILMKEFPYLFAS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLN+Q SDFGLIILQTHPGNANSLAYYIDRKYVSFSIK+S+NSGILGTIAGDDTVLLIIKSK DQQKV DILMKEFPYLFAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1011986491|ref|WP_062790499.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator, partial [Legionella pneumophila]</Hit_def>
+  <Hit_accession>WP_062790499</Hit_accession>
+  <Hit_len>144</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.208</Hsp_bit-score>
+      <Hsp_score>500</Hsp_score>
+      <Hsp_evalue>1.39726e-61</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>189</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>95</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>96</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMK</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQISDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMK</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYKIIDYNQPGLPLVLNVQ+SDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|517405883|ref|WP_018578544.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella shakespearei] &gt;gi|962281349|gb|KTD65162.1| arginine repressor [Legionella shakespearei DSM 23087]</Hit_def>
+  <Hit_accession>WP_018578544</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>186.808</Hsp_bit-score>
+      <Hsp_score>473</Hsp_score>
+      <Hsp_evalue>1.73914e-57</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>85</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>MKIAKVSGYYKVIDYNQPGLPLVLNIQFSDFGMVILQTHPGNANSLAYYLDRKYISFSIKETSSSGILGSIAGDDTVLLIIKSKAHQQHVHDILQSEFPYLFNS</Hsp_hseq>
+      <Hsp_midline>MKIAKVSGYYK+IDYNQPGLPLVLN+Q SDFG++ILQTHPGNANSLAYY+DRKY+SFSIK++++SGILG+IAGDDTVLLIIKSK+ QQ V DIL  EFPYLF S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|966515855|ref|WP_058532372.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella rubrilucens] &gt;gi|962261497|gb|KTD45590.1| arginine repressor [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058532372</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>175.637</Hsp_bit-score>
+      <Hsp_score>444</Hsp_score>
+      <Hsp_evalue>5.21867e-53</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>KMKIAKVAGLYKVIDYHQPGLPLVLNIQVSDFGLIVLQTHPGNASSLAYYLDRKYVSFSAQEPSDSGILGTIAGDDTVLLIAKSKAHQQKVCELLHQEFPYLLMS</Hsp_hseq>
+      <Hsp_midline> MKIAKV+G YK+IDY+QPGLPLVLN+QVSDFGLI+LQTHPGNA+SLAYY+DRKYVSFS ++ ++SGILGTIAGDDTVLLI KSK+ QQKV ++L +EFPYL  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966510092|ref|WP_058526683.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella erythra] &gt;gi|962212832|gb|KTC97707.1| arginine repressor [Legionella erythra]</Hit_def>
+  <Hit_accession>WP_058526683</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>174.481</Hsp_bit-score>
+      <Hsp_score>441</Hsp_score>
+      <Hsp_evalue>1.58888e-52</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>KMKIAKVAGLYKVIDYHQPGLPLVLNIQVSDFGLIVLQTHPGNASSLAYYLDRKYVSFSANEPAESGILGTIAGDDTVLLIVKSKAHQQQVCALLHQEFPYLLMS</Hsp_hseq>
+      <Hsp_midline> MKIAKV+G YK+IDY+QPGLPLVLN+QVSDFGLI+LQTHPGNA+SLAYY+DRKYVSFS  + A SGILGTIAGDDTVLLI+KSK+ QQ+V  +L +EFPYL  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|966440100|ref|WP_058480423.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella waltersii] &gt;gi|962294667|gb|KTD78327.1| arginine repressor [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_058480423</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.785</Hsp_bit-score>
+      <Hsp_score>434</Hsp_score>
+      <Hsp_evalue>1.52464e-51</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>KLKIIKVGGVYKIIDYNQPGLPLVLNIQVSEFGLIVLQTHPGNANSLAYYLDRKYVSFSMHEASETGILGTIAGDDTVLLILKAKPDQEKVYRMLLAEFPYL</Hsp_hseq>
+      <Hsp_midline> +KI KV G YKIIDYNQPGLPLVLN+QVS+FGLI+LQTHPGNANSLAYY+DRKYVSFS+ +++ +GILGTIAGDDTVLLI+K+K DQ+KV  +L+ EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966444188|ref|WP_058484450.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella spiritensis] &gt;gi|962278071|gb|KTD61940.1| arginine repressor [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058484450</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.696</Hsp_bit-score>
+      <Hsp_score>413</Hsp_score>
+      <Hsp_evalue>2.94703e-48</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>195</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLF</Hsp_qseq>
+      <Hsp_hseq>LKIAKVGGVYKVVDYNQPGLPLVLNIQVSDFGLIILQTHPGNASSLAYYLDRKYVAFSPQDSTHSGIMGTIAGDDTVLLIVKSRDAVAHVCQLLREEFPYLL</Hsp_hseq>
+      <Hsp_midline>+KIAKV G YK++DYNQPGLPLVLN+QVSDFGLIILQTHPGNA+SLAYY+DRKYV+FS +DS +SGI+GTIAGDDTVLLI+KS+     V  +L +EFPYL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966419067|ref|WP_058462290.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella adelaidensis] &gt;gi|962181385|gb|KTC66633.1| arginine repressor [Legionella adelaidensis]</Hit_def>
+  <Hit_accession>WP_058462290</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.229</Hsp_bit-score>
+      <Hsp_score>404</Hsp_score>
+      <Hsp_evalue>5.68102e-47</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVGGFYKVIDYNQPGLPIVLNIKISDFGLMVLQTHPGNASSLAYYIDRKYVSFSMNEPTVSGILGTIAGDDTVLLIINNRESLEKVHRLLLEDFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV G+YK+IDYNQPGLP+VLN+++SDFGL++LQTHPGNA+SLAYYIDRKYVSFS+ +   SGILGTIAGDDTVLLII ++   +KV  +L+++FPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966518445|ref|WP_058534939.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella sp. LH-SWC]</Hit_def>
+  <Hit_accession>WP_058534939</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.073</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>1.65332e-46</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGVYQVVDFNVPNLPLVLNIQVSDFGLIVLHTHPGNANSLAYYIDKKYVSFSIQGNKCSGILGTIAGDDTVLLIVKSKDKQEEVLSLLRADFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N P LPLVLN+QVSDFGLI+L THPGNANSLAYYID+KYVSFSI+ +  SGILGTIAGDDTVLLI+KSK  Q++VL +L  +FPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|966468225|ref|WP_058499551.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella gratiana] &gt;gi|962224557|gb|KTD09203.1| arginine repressor ArgR [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058499551</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>5.04556e-45</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVIDFNLPNLPLVLNMQISDYGLIILHTHPGNANSLAFYIDRKYVSFSLQNTQNSGILGTIAGDDTVLLIVKNKEQLPHVVQLLYDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y++ID+N P LPLVLN+Q+SD+GLIIL THPGNANSLA+YIDRKYVSFS++++ NSGILGTIAGDDTVLLI+K+K     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|489732088|ref|WP_003636203.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella longbeachae] &gt;gi|269987938|gb|EEZ94193.1| putative arginine repressor [Legionella longbeachae D-4968] &gt;gi|288858783|emb|CBJ12688.1| arginine repressor [Legionella longbeachae NSW150]</Hit_def>
+  <Hit_accession>WP_003636203</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.68</Hsp_bit-score>
+      <Hsp_score>387</Hsp_score>
+      <Hsp_evalue>1.76901e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVIDFNFPNLPLVLNMQISDYGLIILHTHPGNANSLAFYIDRKYVSFSLQNTQNSGILGTIAGDDTVLLIIKNKELLPTVIQLLYDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y++ID+N P LPLVLN+Q+SD+GLIIL THPGNANSLA+YIDRKYVSFS++++ NSGILGTIAGDDTVLLIIK+K     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|671590447|ref|WP_031566106.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella wadsworthii]</Hit_def>
+  <Hit_accession>WP_031566106</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>153.295</Hsp_bit-score>
+      <Hsp_score>386</Hsp_score>
+      <Hsp_evalue>3.32732e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVGGTYQVVDFNIPNLPLVLNMSVSDYGLIVLHTHPGNANSLAFFMDRKFVSFSPQNVHNSGILGTIAGDDTVLLIIKSKGQLQQVIELLHNEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV G Y+++D+N P LPLVLN+ VSD+GLI+L THPGNANSLA+++DRK+VSFS ++  NSGILGTIAGDDTVLLIIKSK   Q+V+++L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|966493924|ref|WP_058510712.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella steelei] &gt;gi|962284871|gb|KTD68637.1| arginine repressor ArgR [Legionella steelei] &gt;gi|1113352269|gb|OJW16019.1| ArgR family transcriptional regulator [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_058510712</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.91</Hsp_bit-score>
+      <Hsp_score>385</Hsp_score>
+      <Hsp_evalue>3.96075e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDYNVPNLPLVLNLQVSDYGLIVLHTHPGNANSLAFFIDRKFVSFSFQPIQNSGILGTIAGDDTVLLIVKSKEQLKHVIQLLYDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++DYN P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VSFS +   NSGILGTIAGDDTVLLI+KSK   + V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|498339344|ref|WP_010653500.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Fluoribacter dumoffii]</Hit_def>
+  <Hit_accession>WP_010653500</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.14</Hsp_bit-score>
+      <Hsp_score>383</Hsp_score>
+      <Hsp_evalue>7.44921e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQAVDFNMPNLPLVLNMQVSDFGLIVLHTHPGNANSLAFYIDRKFVSFSSQMIQNSGILGTIAGDDTVLLITKSKEQLNQVIQLLHEEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+ +D+N P LPLVLN+QVSDFGLI+L THPGNANSLA+YIDRK+VSFS +   NSGILGTIAGDDTVLLI KSK    +V+ +L +EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|518179540|ref|WP_019349748.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Fluoribacter dumoffii] &gt;gi|962205165|gb|KTC90102.1| arginine repressor ArgR [Fluoribacter dumoffii NY 23]</Hit_def>
+  <Hit_accession>WP_019349748</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.14</Hsp_bit-score>
+      <Hsp_score>383</Hsp_score>
+      <Hsp_evalue>7.61324e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQAVDFNMPNLPLVLNMQVSDFGLIVLHTHPGNANSLAFYIDRKFVSFSSQMIQNSGILGTIAGDDTVLLITKSKEQLNQVIQLLHEEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+ +D+N P LPLVLN+QVSDFGLI+L THPGNANSLA+YIDRK+VSFS +   NSGILGTIAGDDTVLLI KSK    +V+ +L +EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|966422806|ref|WP_058466007.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella cincinnatiensis] &gt;gi|962196770|gb|KTC81816.1| arginine repressor ArgR [Legionella cincinnatiensis]</Hit_def>
+  <Hit_accession>WP_058466007</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.14</Hsp_bit-score>
+      <Hsp_score>383</Hsp_score>
+      <Hsp_evalue>7.86608e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVIDFNLPNLPLVLNMQISDYGLIILHTHPGNANSLAFYIDRKYVSFSLQNIPNSGILGTIAGDDTVLLIVKNKELLPTVVQLLYDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y++ID+N P LPLVLN+Q+SD+GLIIL THPGNANSLA+YIDRKYVSFS+++  NSGILGTIAGDDTVLLI+K+K     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|966498373|ref|WP_058515139.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella santicrucis] &gt;gi|962271635|gb|KTD55633.1| arginine repressor ArgR [Legionella santicrucis]</Hit_def>
+  <Hit_accession>WP_058515139</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.754</Hsp_bit-score>
+      <Hsp_score>382</Hsp_score>
+      <Hsp_evalue>9.88733e-44</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVIDFNLPNLPLVLNMQISDYGLIILHTHPGNANSLAFYIDRKYVSFSLQNTQNPGILGTIAGDDTVLLIVKNKELLPNVVQLLYDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y++ID+N P LPLVLN+Q+SD+GLIIL THPGNANSLA+YIDRKYVSFS++++ N GILGTIAGDDTVLLI+K+K     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|966416022|ref|WP_058459307.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Fluoribacter bozemanae] &gt;gi|962189107|gb|KTC74224.1| arginine repressor ArgR [Fluoribacter bozemanae]</Hit_def>
+  <Hit_accession>WP_058459307</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.369</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>1.63165e-43</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFNMPNLPLVLNMQVSDYGLIVLHTHPGNANSLAFFIDRKFVSYSSQIAQNSGILGTIAGDDTVLLIVKSKEQLHHVIHLLQDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D+N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VS+S + + NSGILGTIAGDDTVLLI+KSK     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|966425468|ref|WP_058468006.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Fluoribacter gormanii] &gt;gi|962218829|gb|KTD03540.1| arginine repressor ArgR [Fluoribacter gormanii]</Hit_def>
+  <Hit_accession>WP_058468006</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.214</Hsp_bit-score>
+      <Hsp_score>378</Hsp_score>
+      <Hsp_evalue>4.90042e-43</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFSMPNLPLVLNMQISDYGLIVLHTHPGNANSLAFFIDRKFVSYSPQATQSSGILGTIAGDDTVLLIVKSKEQLHHVIDLLQNEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D++ P LPLVLN+Q+SD+GLI+L THPGNANSLA++IDRK+VS+S + + +SGILGTIAGDDTVLLI+KSK     V+D+L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|654931466|ref|WP_028381829.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella cherrii] &gt;gi|962194318|gb|KTC79379.1| arginine repressor ArgR [Legionella cherrii]</Hit_def>
+  <Hit_accession>WP_028381829</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>1.30544e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFNLPNLPLVLNMQVSDYGLIVLHTHPGNANSLAFFIDRKFVSFSPQALQDSGILGTIAGDDTVLLILKSKEQLNRVIQLLHDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D+N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VSFS +   +SGILGTIAGDDTVLLI+KSK    +V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|518062870|ref|WP_019233078.1|</Hit_id>
+  <Hit_def>arginine repressor ArgR [Legionella anisa] &gt;gi|962184848|gb|KTC70031.1| arginine repressor ArgR [Legionella anisa]</Hit_def>
+  <Hit_accession>WP_019233078</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>1.45557e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFNIPNLPLVLNMQVSDYGLIVLHTHPGNANSLAFFIDRKFVSYSPQTTQNSSILGTIAGDDTVLLIVKSKEQLHHVIHLLQDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D+N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VS+S + + NS ILGTIAGDDTVLLI+KSK     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|966503856|ref|WP_058520515.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella tucsonensis] &gt;gi|962289773|gb|KTD73481.1| arginine repressor ArgR [Legionella tucsonensis]</Hit_def>
+  <Hit_accession>WP_058520515</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>1.50389e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVEFNIPNLPLVLNIQVSDYGLIVLHTHPGNANSLAFFIDRKFVSYSPQIAQSSGILGTIAGDDTVLLIVKSKEQLQHVIHLLQDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++++N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VS+S + + +SGILGTIAGDDTVLLI+KSK   Q V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|966463874|ref|WP_058495236.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella drozanskii] &gt;gi|962202317|gb|KTC87286.1| arginine repressor ArgR [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058495236</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.673</Hsp_bit-score>
+      <Hsp_score>374</Hsp_score>
+      <Hsp_evalue>1.80593e-42</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>KLKIAKVAGVYRVVDFNMPSLPLVLNMQISEFGLIVLHTHPGSASSLGSFIDRKYVSFSLETAAESGILGTIAGDDTVILIIKSKQMLDEVVRIILEEFPYL</Hsp_hseq>
+      <Hsp_midline> +KIAKV+G Y+++D+N P LPLVLN+Q+S+FGLI+L THPG+A+SL  +IDRKYVSFS++ +A SGILGTIAGDDTV+LIIKSK    +V+ I+++EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|966501872|ref|WP_058518545.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella parisiensis] &gt;gi|962257362|gb|KTD41499.1| arginine repressor ArgR [Legionella parisiensis] &gt;gi|1069291549|gb|OEH46932.1| Arginine repressor [Legionella parisiensis]</Hit_def>
+  <Hit_accession>WP_058518545</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.288</Hsp_bit-score>
+      <Hsp_score>373</Hsp_score>
+      <Hsp_evalue>3.01833e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFNIPNLPLVLNMQVSDYGLIVLHTHPGNANSLAFFIDRKFVSYSSQIAQSSGILGTIAGDDTVLLIVKSKEQLHHVIHLLQDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D+N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VS+S + + +SGILGTIAGDDTVLLI+KSK     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|966435482|ref|WP_058475862.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella steigerwaltii] &gt;gi|962297420|gb|KTD81049.1| arginine repressor ArgR [Legionella steigerwaltii]</Hit_def>
+  <Hit_accession>WP_058475862</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.902</Hsp_bit-score>
+      <Hsp_score>372</Hsp_score>
+      <Hsp_evalue>4.18385e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKIGGTYQVVDFNIPNLPLVLNMQVSDYGLIVLHTHPGNANSLAFFIDRKFVSFSPQSIQSSGILGTIAGDDTVLLIVKSKEQLNDVIQLLHDEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAK+ G Y+++D+N P LPLVLN+QVSD+GLI+L THPGNANSLA++IDRK+VSFS +   +SGILGTIAGDDTVLLI+KSK     V+ +L  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|966406710|ref|WP_058450116.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella jamestowniensis] &gt;gi|962223405|gb|KTD08055.1| arginine repressor ArgR [Legionella jamestowniensis] &gt;gi|1097327235|emb|SFM05921.1| transcriptional regulator, ArgR family [Legionella jamestowniensis DSM 19215]</Hit_def>
+  <Hit_accession>WP_058450116</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.902</Hsp_bit-score>
+      <Hsp_score>372</Hsp_score>
+      <Hsp_evalue>4.4569e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGVYRVVDFNSPTLPLVLNLQVSDFGLIVLHTHPGSASSLASFLDKKYVSFSLQQENLCGILGTIAGDDTVALIIKSQPDTQKVLELLQDDFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N P LPLVLN+QVSDFGLI+L THPG+A+SLA ++D+KYVSFS++     GILGTIAGDDTV LIIKS+ D QKVL++L  +FPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|644964852|ref|WP_025385607.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella oakridgensis] &gt;gi|570284781|gb|AHE66968.1| arginine repressor [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|962255580|gb|KTD39726.1| arginine repressor ArgR [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385607</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.902</Hsp_bit-score>
+      <Hsp_score>372</Hsp_score>
+      <Hsp_evalue>5.1463e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>LKIAKVANVYKIVDFNLPNLPIVLNIQVSEFGLIVLHTHPGNANSLGYFIDQKYVALHSQSSKKTGILGTIAGDDTVLLIIESKAQLEPVLQLLQEEFPYLKSS</Hsp_hseq>
+      <Hsp_midline>+KIAKV+  YKI+D+N P LP+VLN+QVS+FGLI+L THPGNANSL Y+ID+KYV+   + S  +GILGTIAGDDTVLLII+SK+  + VL +L +EFPYL +S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|737928984|ref|WP_035893979.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella oakridgensis] &gt;gi|570702438|gb|ETO93371.1| transcriptional regulator, ArgR family [Legionella oakridgensis RV-2-2007]</Hit_def>
+  <Hit_accession>WP_035893979</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.132</Hsp_bit-score>
+      <Hsp_score>370</Hsp_score>
+      <Hsp_evalue>8.96357e-42</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>197</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYLFAS</Hsp_qseq>
+      <Hsp_hseq>LKIAKVANVYKVVDFNLPNLPIVLNIQVSEFGLIVLHTHPGNANSLGYFIDQKYVALHSQSSKKTGILGTIAGDDTVLLIIESKAQLEPVLQLLQEEFPYLKSS</Hsp_hseq>
+      <Hsp_midline>+KIAKV+  YK++D+N P LP+VLN+QVS+FGLI+L THPGNANSL Y+ID+KYV+   + S  +GILGTIAGDDTVLLII+SK+  + VL +L +EFPYL +S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1046230548|ref|WP_065621055.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella jamestowniensis] &gt;gi|1045920376|gb|OCH97336.1| ArgR family transcriptional regulator [Legionella jamestowniensis]</Hit_def>
+  <Hit_accession>WP_065621055</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>1.36718e-41</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>KLKIAKVAGVYRVVDFNSPTLPLVLNLQVSDFGLIVLHTHPGSASSLASFLDKKYVSFSLQQENLCGILGTIAGDDTVALIIKSQPDIQKVLELLQDDFPYL</Hsp_hseq>
+      <Hsp_midline> +KIAKV+G Y+++D+N P LPLVLN+QVSDFGLI+L THPG+A+SLA ++D+KYVSFS++     GILGTIAGDDTV LIIKS+ D QKVL++L  +FPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|762038489|ref|WP_043874426.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella massiliensis] &gt;gi|683288853|emb|CEE13715.1| Arginine repressor [Legionella massiliensis] &gt;gi|685071358|emb|CDZ77977.1| Arginine repressor [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_043874426</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>1.87035e-41</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGLYRVVDFNMPSLPLVLNIQVSDMGLIVLHTHPANANSLASFIDRKYVAFSSQSPNHSDILGTIAGDDTVLLIIRSKDSLSKVLELIRTEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N P LPLVLN+QVSD GLI+L THP NANSLA +IDRKYV+FS +   +S ILGTIAGDDTVLLII+SK    KVL+++  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|518047609|ref|WP_019217817.1|</Hit_id>
+  <Hit_def>hypothetical protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019217817</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>145.976</Hsp_bit-score>
+      <Hsp_score>367</Hsp_score>
+      <Hsp_evalue>2.54202e-41</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGIYRVVDFNPPNLPLVLNAQVSEYGLVVLHTQPGHANSLALFIDKKYVAFYPQQSNNSGILGTIAGDDTVLLIVKSKVDLDQVIQILQAEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N P LPLVLN QVS++GL++L T PG+ANSLA +ID+KYV+F  + S NSGILGTIAGDDTVLLI+KSK D  +V+ IL  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|951143708|ref|WP_057624638.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Coxiellaceae bacterium CC99] &gt;gi|946811663|gb|KRG18334.1| Arginine repressor [Coxiellaceae bacterium CC99]</Hit_def>
+  <Hit_accession>WP_057624638</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>144.05</Hsp_bit-score>
+      <Hsp_score>362</Hsp_score>
+      <Hsp_evalue>1.29979e-40</Hsp_evalue>
+      <Hsp_query-from>89</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>44</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>83</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>106</Hsp_align-len>
+      <Hsp_qseq>RIGINMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>RLLKKLKIAKVSGIYKVTELNMPNLPTVLNIQVSELGLIIIHTHPGNANSLAYFIDQKYVTYNPRQPKNSGILGTIAGDDSILVIIKSKDSLSAVLDIFRHEFPYL</Hsp_hseq>
+      <Hsp_midline>R+   +KIAKVSG YK+ + N P LP VLN+QVS+ GLII+ THPGNANSLAY+ID+KYV+++ +   NSGILGTIAGDD++L+IIKSK     VLDI   EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|966396031|ref|WP_058441039.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella brunensis] &gt;gi|962200152|gb|KTC85146.1| arginine repressor ArgR [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058441039</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>143.28</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>2.26873e-40</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGVYRVVDFSMPSLPFILNIQISDYGMIVLHTHPGHASSLASFLDKKYVNFSSPNANDSGILGTIAGDDTILLIVKSKQHLEAVLEILQKEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D++ P LP +LN+Q+SD+G+I+L THPG+A+SLA ++D+KYV+FS  ++ +SGILGTIAGDDT+LLI+KSK   + VL+IL KEFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|966408721|ref|WP_058452113.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella maceachernii] &gt;gi|962242752|gb|KTD27087.1| arginine repressor ArgR [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058452113</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>143.28</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>3.06216e-40</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>KLKIAKVAGIYRVVDLTMPSLPLVLNLQISDSGIIVLHTHPGSASSLGSFIDRKYVSFSPQSANNSGILGTIAGDDTVILIIRSKAESKNVLRVLQEEFPYL</Hsp_hseq>
+      <Hsp_midline> +KIAKV+G Y+++D   P LPLVLN+Q+SD G+I+L THPG+A+SL  +IDRKYVSFS + + NSGILGTIAGDDTV+LII+SK++ + VL +L +EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|966472603|ref|WP_058503366.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella nautarum] &gt;gi|962255025|gb|KTD39180.1| arginine repressor ArgR [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058503366</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>142.51</Hsp_bit-score>
+      <Hsp_score>358</Hsp_score>
+      <Hsp_evalue>5.11713e-40</Hsp_evalue>
+      <Hsp_query-from>93</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>102</Hsp_align-len>
+      <Hsp_qseq>NMKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>KLKIAKVAGVYRVVDFSMPSLPLVLNMQISEFGMIVLHTHPGSASSLGSFIDRKYVSFSPETTSGSGILGTIAGDDTVILIIQSKPMLDEVVKIMLEEFPYL</Hsp_hseq>
+      <Hsp_midline> +KIAKV+G Y+++D++ P LPLVLN+Q+S+FG+I+L THPG+A+SL  +IDRKYVSFS + ++ SGILGTIAGDDTV+LII+SK    +V+ I+++EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|769989103|ref|WP_045105054.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella hackeliae] &gt;gi|731150987|emb|CEK09531.1| putative arginine repressor [Legionella hackeliae] &gt;gi|962230251|gb|KTD14843.1| arginine repressor ArgR [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045105054</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>142.124</Hsp_bit-score>
+      <Hsp_score>357</Hsp_score>
+      <Hsp_evalue>8.62411e-40</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>85</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGIYRVVDFNSPTLPLILNLQVSDFGLIVLHTHPGSASSLASFIDKKYVSFSLQQENTSGVLGTIAGDDTVVLIIKSPPYVENVLQLIQEDFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N P LPL+LN+QVSDFGLI+L THPG+A+SLA +ID+KYVSFS++    SG+LGTIAGDDTV+LIIKS    + VL ++ ++FPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|966400690|ref|WP_058444285.1|</Hit_id>
+  <Hit_def>ArgR family transcriptional regulator [Legionella feeleii] &gt;gi|962217296|gb|KTD02039.1| arginine repressor ArgR [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058444285</Hit_accession>
+  <Hit_len>152</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.739</Hsp_bit-score>
+      <Hsp_score>356</Hsp_score>
+      <Hsp_evalue>9.82615e-40</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>MKIAKVSGYYKIIDYNQPGLPLVLNVQVSDFGLIILQTHPGNANSLAYYIDRKYVSFSIKDSANSGILGTIAGDDTVLLIIKSKSDQQKVLDILMKEFPYL</Hsp_qseq>
+      <Hsp_hseq>LKIAKVAGIYRVVDFNPSNLPLVLNAQVSEYGLVVLHTQPGHANSLALFIDKKYVAFYPQQANNSGILGTIAGDDTVLLIVKSKADLDQVIQILQAEFPYL</Hsp_hseq>
+      <Hsp_midline>+KIAKV+G Y+++D+N   LPLVLN QVS++GL++L T PG+ANSLA +ID+KYV+F  + + NSGILGTIAGDDTVLLI+KSK+D  +V+ IL  EFPYL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>112247184</Statistics_db-num>
+      <Statistics_db-len>41144814376</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>One or more O characters replaced by X for alignment score calculations at positions 1, 21, 30, 37, 43, 48, 53, 70, 75, 87</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
